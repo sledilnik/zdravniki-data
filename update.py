@@ -23,39 +23,38 @@ accepts_map = {
 }
 
 def convert_to_csv():
-    joined = []
+    doctors = []
     for group in ["zdravniki", "zobozdravniki", "ginekologi"]:
         filename = max(glob.glob(f"zzzs/*_{group}.xlsx"))
         print(f"Source: {group} - {filename}")
 
         df = pd.read_excel(io=filename, sheet_name='Podatki', skiprows=9).dropna()
-        df.columns = ['unit', 'institution', 'address', 'city', 'name', 'type', 'availability', 'load', 'accepts']
-        df['name'] = df['name'].str.strip().replace('\s+', ' ', regex=True)
+        df.columns = ['unit', 'name', 'address', 'city', 'doctor', 'type', 'availability', 'load', 'accepts']
+        df['doctor'] = df['doctor'].str.strip().replace('\s+', ' ', regex=True)
         df['type'] = df['type'].str.strip().map(type_map)
         df['accepts'] = df['accepts'].str.strip().map(accepts_map)
-        df['institution'] = df['institution'].str.strip()
+        df['name'] = df['name'].str.strip()
         df['address'] = df['address'].str.strip()
         df['city'] = df['city'].str.strip()
         df['unit'] = df['unit'].str.strip()
-        df = df.reindex(['name', 'type', 'accepts', 'availability', 'load', 'institution', 'address', 'city', 'unit'], axis='columns')
-        print (df)
-        joined.append(df)
+        df = df.reindex(['doctor', 'type', 'accepts', 'availability', 'load', 'name', 'address', 'city', 'unit'], axis='columns')
+        doctors.append(df)
 
-    joined = pd.concat(joined, ignore_index=True)
-    print (joined)
+    doctors = pd.concat(doctors, ignore_index=True)
 
-    grouped = joined.groupby(['institution','address','city', 'unit'])['name'].apply(list).reset_index()
-    grouped.drop("name", axis='columns', inplace=True)
-    grouped.index.rename('id', inplace=True)
-    print (grouped)
-    grouped.to_csv('csv/dict-institutions.csv')
+    institutions = doctors.groupby(['name','address','city', 'unit'])['doctor'].apply(list).reset_index()
+    institutions.drop("doctor", axis='columns', inplace=True)
+    institutions.index.rename('id_inst', inplace=True)
+    institutions.to_csv('csv/dict-institutions.csv')
 
-    ## TODO joined.to_csv(), but replace instititution/address/city/unit columns with simple 'id' into dict-institutions.csv
+    doctors.drop(['address', 'city', 'unit'], axis='columns', inplace=True)
+    institutions.drop(['address', 'city', 'unit'], axis='columns', inplace=True)
+    institutions = institutions.reset_index().set_index('name')
+    doctors = doctors.join(institutions, on='name')
+    doctors.drop('name', axis='columns', inplace=True)
 
-    #joined = joined.join(grouped.set_index('institution'), on='institution', rsuffix='oth')
-
-    joined.index.rename('id', inplace=True)
-    joined.to_csv('csv/doctors.csv')
+    doctors.index.rename('id', inplace=True)
+    doctors.to_csv('csv/doctors.csv')
 
 
 # Število opredeljenih pri aktivnih zobozdravnikih na dan 01.11.2020
