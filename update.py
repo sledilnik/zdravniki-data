@@ -27,20 +27,23 @@ for litag in ultag.find_all('li'):
         raise
 
     date = datetime.datetime.strptime(match.group(2), '%d.%m.%Y').date()
-
-    h=atag['href'].strip()
-    url=urllib.parse.urljoin(BaseURL,h)
-
-    r = requests.get(url, allow_redirects=True)
-    r.raise_for_status()
-    ct = r.headers.get('content-type')
-    if ct.lower() != "application/xlsx":
-        print(f"Unexpected content type '{ct}'.")
-        raise
-
-    vrsta = match.group(1).lower()
-    filename = f"{date}_{vrsta}.xlsx"
+    group = match.group(1).lower()
+    filename = f"{date}_{group}.xlsx"
     dest = os.path.join("zzzs/",filename)
-    print(f"    Saving to: {dest}")
 
-    open(dest, 'wb').write(r.content)
+    if os.path.exists(dest):
+        print(f"    Already downloaded: {dest}")
+    else:
+        h=atag['href'].strip()
+        url=urllib.parse.urljoin(BaseURL,h)
+
+        r = requests.get(url, allow_redirects=True)
+        r.raise_for_status()
+        ct = r.headers.get('content-type')
+        if ct.lower() != "application/xlsx":
+            print(f"Unexpected content type '{ct}'.")
+            raise
+
+        print(f"    Saving to: {dest}")
+
+        open(dest, 'wb').write(r.content)
