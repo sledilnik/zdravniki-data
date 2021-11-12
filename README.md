@@ -1,5 +1,7 @@
 # Podatki o razpoložljivosti zdravnikov
 
+[![Doctors update](https://github.com/sledilnik/zdravniki-data/actions/workflows/update.yaml/badge.svg)](https://github.com/sledilnik/zdravniki-data/actions/workflows/update.yaml)
+
 ## How to run scripts
 ___
 In this folder run:
