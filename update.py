@@ -51,6 +51,8 @@ def convert_to_csv():
 
     ## TODO joined.to_csv(), but replace instititution/address/city/unit columns with simple 'id' into dict-institutions.csv
 
+    joined.index.rename('id', inplace=True)
+    joined.to_csv('csv/doctors.csv')
 
 
 # Število opredeljenih pri aktivnih zobozdravnikih na dan 01.11.2020
