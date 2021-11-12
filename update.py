@@ -13,6 +13,7 @@ type_map = {
     'SPLOŠNA DEJ.-OTROŠKI IN ŠOLSKI DISPANZER': 'gp-y',
     'ZOBOZDR. DEJAVNOST-ZDRAVLJENJE ODRASLIH': 'den',
     'ZOBOZDR. DEJAVNOST-ZDRAVLJENJE MLADINE': 'den-y',
+    'ZOBOZDR. DEJAVNOST-ZDRAVLJENJE ŠTUDENTOV': 'den-s',
     'SPLOŠNA DEJAVNOST - DISPANZER ZA ŽENSKE': 'gyn'
 }
 
@@ -50,6 +51,8 @@ def convert_to_csv():
     grouped.to_csv('csv/dict-institutions.csv')
 
     ## TODO joined.to_csv(), but replace instititution/address/city/unit columns with simple 'id' into dict-institutions.csv
+
+    #joined = joined.join(grouped.set_index('institution'), on='institution', rsuffix='oth')
 
     joined.index.rename('id', inplace=True)
     joined.to_csv('csv/doctors.csv')

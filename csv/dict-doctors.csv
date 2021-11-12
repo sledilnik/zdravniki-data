@@ -1,6 +1,7 @@
 id,description-en,description-sl
 gp,General Practitioner,Zdravnik
-gp-y,General Practitioner (Youth), Zdravnik (mladina)
+gp-y,General Practitioner (youth), Zdravnik (mladina)
 den,Dentist,Zobozdravnik
-den-y,Dentist (Youth),Zobozdravnik (mladina)
+den-y,Dentist (youth),Zobozdravnik (mladina)
+den-s,Dentist (students),Zobozdravnik (študenti)
 gyn,Gynecologist,Ginekolog
