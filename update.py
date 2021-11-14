@@ -31,6 +31,7 @@ def convert_to_csv():
         df = pd.read_excel(io=filename, sheet_name='Podatki', skiprows=9).dropna()
         df.columns = ['unit', 'name', 'address', 'city', 'doctor', 'type', 'availability', 'load', 'accepts']
         df['doctor'] = df['doctor'].str.strip().replace('\s+', ' ', regex=True)
+        df['doctor'] = df['doctor'].str.title()
         df['type'] = df['type'].str.strip().map(type_map)
         df['accepts'] = df['accepts'].str.strip().map(accepts_map)
         df['name'] = df['name'].str.strip()
