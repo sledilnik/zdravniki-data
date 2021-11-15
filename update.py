@@ -62,46 +62,50 @@ def convert_to_csv():
     doctors.to_csv('csv/doctors.csv')
 
 
-# Število opredeljenih pri aktivnih zobozdravnikih na dan 01.11.2020
-# Število opredeljenih pri aktivnih zdravnikih na dan 01.11.2020
-# Število opredeljenih pri aktivnih ginekologih na dan 3.1.2021
-nameRegex= r".* (zobozdravniki|zdravniki|ginekologi).* ([0-9]{1,2}\.[0-9]{1,2}\.20[0-9]{2})"
+def download_nijz_xlsx_files():
+    # Število opredeljenih pri aktivnih zobozdravnikih na dan 01.11.2020
+    # Število opredeljenih pri aktivnih zdravnikih na dan 01.11.2020
+    # Število opredeljenih pri aktivnih ginekologih na dan 3.1.2021
+    nameRegex= r".* (zobozdravniki|zdravniki|ginekologi).* ([0-9]{1,2}\.[0-9]{1,2}\.20[0-9]{2})"
 
-BaseURL = "https://zavarovanec.zzzs.si/wps/portal/portali/azos/ioz/ioz_izvajalci"
-page = requests.get(BaseURL)
-soup = BeautifulSoup(page.content, "html.parser")
-ultag = soup.find("ul", class_="datoteke")
+    BaseURL = "https://zavarovanec.zzzs.si/wps/portal/portali/azos/ioz/ioz_izvajalci"
+    page = requests.get(BaseURL)
+    soup = BeautifulSoup(page.content, "html.parser")
+    ultag = soup.find("ul", class_="datoteke")
 
-for litag in ultag.find_all('li'):
-    atag=litag.find('a')
-    title=atag.text
-    print(title)
+    for litag in ultag.find_all('li'):
+        atag=litag.find('a')
+        title=atag.text
+        print(title)
 
-    match = re.match(nameRegex, title)
-    if match == None:
-        print(f"Unexpected title '{title}' not matching regex '{nameRegex}''.")
-        raise
-
-    date = datetime.datetime.strptime(match.group(2), '%d.%m.%Y').date()
-    group = match.group(1).lower()
-    filename = f"{date}_{group}.xlsx"
-    dest = os.path.join("zzzs/",filename)
-
-    if os.path.exists(dest):
-        print(f"    Already downloaded: {dest}")
-    else:
-        h=atag['href'].strip()
-        url=urllib.parse.urljoin(BaseURL,h)
-
-        r = requests.get(url, allow_redirects=True)
-        r.raise_for_status()
-        ct = r.headers.get('content-type')
-        if ct.lower() != "application/xlsx":
-            print(f"Unexpected content type '{ct}'.")
+        match = re.match(nameRegex, title)
+        if match == None:
+            print(f"Unexpected title '{title}' not matching regex '{nameRegex}''.")
             raise
 
-        print(f"    Saving to: {dest}")
+        date = datetime.datetime.strptime(match.group(2), '%d.%m.%Y').date()
+        group = match.group(1).lower()
+        filename = f"{date}_{group}.xlsx"
+        dest = os.path.join("zzzs/",filename)
 
-        open(dest, 'wb').write(r.content)
+        if os.path.exists(dest):
+            print(f"    Already downloaded: {dest}")
+        else:
+            h=atag['href'].strip()
+            url=urllib.parse.urljoin(BaseURL,h)
 
-convert_to_csv()
+            r = requests.get(url, allow_redirects=True)
+            r.raise_for_status()
+            ct = r.headers.get('content-type')
+            if ct.lower() != "application/xlsx":
+                print(f"Unexpected content type '{ct}'.")
+                raise
+
+            print(f"    Saving to: {dest}")
+
+            open(dest, 'wb').write(r.content)
+
+
+if __name__ == "__main__":
+    download_nijz_xlsx_files()
+    convert_to_csv()
