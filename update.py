@@ -46,20 +46,24 @@ def convert_to_csv():
     institutions = doctors.groupby(['name','address','city', 'unit'])['doctor'].apply(list).reset_index()
     institutions.drop("doctor", axis='columns', inplace=True)
 
-    dfgeo=pd.read_csv('csv/dict-geodata.csv',index_col=['cityZZZS','addressZZZS'])
-    institutions = institutions.merge(dfgeo[['lat','lon']], how = 'left', left_on = ['city','address'], right_index=True)
-
     institutions.index.rename('id_inst', inplace=True)
     institutions.to_csv('csv/dict-institutions.csv')
 
     doctors.drop(['address', 'city', 'unit'], axis='columns', inplace=True)
-    institutions.drop(['address', 'city', 'unit','lat','lon'], axis='columns', inplace=True)
+    institutions.drop(['address', 'city', 'unit'], axis='columns', inplace=True)
     institutions = institutions.reset_index().set_index('name')
     doctors = doctors.join(institutions, on='name')
     doctors.drop('name', axis='columns', inplace=True)
 
     doctors.index.rename('id', inplace=True)
     doctors.to_csv('csv/doctors.csv')
+
+
+def add_geodata():    
+    institutions = pd.read_csv('csv/dict-institutions.csv', index_col=['id_inst'])
+    dfgeo=pd.read_csv('csv/dict-geodata.csv', index_col=['cityZZZS','addressZZZS'])
+    institutions = institutions.merge(dfgeo[['lat','lon']], how = 'left', left_on = ['city','address'], right_index=True)
+    institutions.to_csv('csv/dict-institutions.csv')
 
 
 def download_nijz_xlsx_files():
@@ -109,3 +113,4 @@ def download_nijz_xlsx_files():
 if __name__ == "__main__":
     download_nijz_xlsx_files()
     convert_to_csv()
+    add_geodata()
