@@ -59,10 +59,16 @@ def convert_to_csv():
     doctors.to_csv('csv/doctors.csv')
 
 
-def add_geodata():    
+def add_geodata():
     institutions = pd.read_csv('csv/dict-institutions.csv', index_col=['id_inst'])
     dfgeo=pd.read_csv('csv/dict-geodata.csv', index_col=['cityZZZS','addressZZZS'])
-    institutions = institutions.merge(dfgeo[['lat','lon']], how = 'left', left_on = ['city','address'], right_index=True)
+    dfgeo.fillna('', inplace=True)
+    dfgeo['address'] = dfgeo.apply(lambda x: f'{x.street} {x.housenumber}{x.housenumberAppendix}', axis = 1)
+    dfgeo['post'] = dfgeo.apply(lambda x: f'{x.zipCode} {x.zipName}', axis = 1)
+
+    institutions = institutions.merge(dfgeo[['address','post','city','municipality','lat','lon']], how = 'left', left_on = ['city','address'], right_index=True, suffixes=['_zzzs', ''])
+    institutions.drop(['address_zzzs','city_zzzs'], axis='columns', inplace=True)
+
     institutions.to_csv('csv/dict-institutions.csv')
 
 
