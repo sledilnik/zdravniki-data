@@ -72,6 +72,38 @@ def add_geodata():
     institutions.to_csv('csv/dict-institutions.csv')
 
 
+def add_zzzs_api_data():
+    # keys for ZZZS API calls, add as needed, see https://www.zzzs.si/zzzs-api/izvajalci-zdravstvenih-storitev/po-dejavnosti/
+    zzzsApiKeys=[
+        'Splošna ambulanta',
+        'Otroški in šolski dispanzer',
+        'Zobozdravstvo za odrasle',
+        'Zobozdravstvo za mladino',
+        'Zobozdravstvo za študente',
+        'Dispanzer za ženske'
+    ]
+
+    apiInstitutions = []
+    for key in zzzsApiKeys:
+        print(f"Fetching from ZZZS API: {key}")
+        apiUrl = f"https://www.zzzs.si/zzzs-api/izvajalci-zdravstvenih-storitev/po-dejavnosti/?ajax=1&act=get-izvajalci&type=dejavnosti&key={key}"
+        r = requests.get(apiUrl)
+        j = r.json()
+        df = pd.DataFrame.from_dict(j).set_index('naziv')
+        apiInstitutions.append(df)
+
+    apiInstitutions = pd.concat(apiInstitutions).drop_duplicates()
+    print(apiInstitutions)
+
+    institutions = pd.read_csv('csv/dict-institutions.csv', index_col=['id_inst'])
+    institutions = institutions.merge(apiInstitutions[['tel','splStran']], how = 'left', left_on = ['name'], right_index=True, suffixes=['', '_api'])
+    institutions.index.rename('id_inst', inplace=True)
+    institutions.rename(columns={"tel": "phone", "splStran": "website"}, inplace=True)
+
+    print(institutions)
+    institutions.to_csv('csv/dict-institutions.csv')
+
+
 def download_nijz_xlsx_files():
     # Število opredeljenih pri aktivnih zobozdravnikih na dan 01.11.2020
     # Število opredeljenih pri aktivnih zdravnikih na dan 01.11.2020
@@ -120,3 +152,4 @@ if __name__ == "__main__":
     download_nijz_xlsx_files()
     convert_to_csv()
     add_geodata()
+    add_zzzs_api_data()
