@@ -102,11 +102,11 @@ $ rm csv/dict-institutions-geodata.csv
 | `lat`                 | Geografska širina naslova          | decimal | NOT NULL | GURS RPE  | 5 decimalk, cca 1m natančnost                |
 | `lon`                 | Geografska dolžina naslova         | decimal | NOT NULL | GURS RPE  | 5 decimalk, cca 1m natančnost                |
 | `street`              | Ime ulice                          | string  | NOT NULL | GURS RPE  | Vsebuje ime naselja kjer ni uličnega sistema |
-| `streetAlt`           | Ime ulice dvojezično               | string  | NULL     | GURS RPE  | Se še ne uporablja                           |
+| `streetAlt`           | Ime ulice dvojezično (IT/HU)       | string  | NULL     | GURS RPE  | Se (še?) ne uporablja                        |
 | `housenumber`         | Hišna številka                     | int     | NOT NULL | GURS RPE  |                                              |
-| `housenumberAppendix` | Dodakek                            | string  | NOT NULL | GURS RPE  |                                              |
+| `housenumberAppendix` | Dodatek k hišni številki           | string  | NOT NULL | GURS RPE  |                                              |
 | `city`                | Ime naselja                        | string  | NOT NULL | GURS RPE  |                                              |
-| `cityAlt`             | Ime naselja dvojezično             | string  | NULL     | GURS RPE  | Se še ne uporablja                           |
+| `cityAlt`             | Ime naselja dvojezično (IT/HU)     | string  | NULL     | GURS RPE  | Se (še?) ne uporablja                        |
 | `municipality`        | Ime občine                         | string  | NOT NULL | GURS RPE  |                                              |
-| `zipCode`             | Poštna številka                    | string  | NOT NULL | GURS RPE  |                                              |
+| `zipCode`             | Poštna številka                    | int     | NOT NULL | GURS RPE  |                                              |
 | `zipName`             | Naziv pošte                        | string  | NOT NULL | GURS RPE  |                                              |
