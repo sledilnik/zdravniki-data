@@ -120,9 +120,11 @@ def add_zzzs_api_data():
     print(apiInstitutions)
 
     institutions = pd.read_csv('csv/dict-institutions.csv', index_col=['id_inst'])
-    institutions = institutions.merge(apiInstitutions[['tel','splStran']], how = 'left', left_on = ['name'], right_index=True, suffixes=['', '_api'])
+    institutions = institutions.merge(apiInstitutions[['zzzsSt','tel','splStran']], how = 'left', left_on = ['name'], right_index=True, suffixes=['', '_api'])
     institutions.index.rename('id_inst', inplace=True)
     institutions.rename(columns={"tel": "phone", "splStran": "website"}, inplace=True)
+    colZzzsSt = institutions.pop("zzzsSt")
+    institutions.insert(0, colZzzsSt.name, colZzzsSt)
 
     print(institutions)
     institutions.to_csv('csv/dict-institutions.csv')

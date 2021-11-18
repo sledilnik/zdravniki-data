@@ -45,6 +45,7 @@ Struktura datoteke [dict-institutions.csv](csv/dict-institutions.csv):
 | Stolpec        | Pomen                                 | Tip     | NULL?    | Vir                 | Opomba                                      |
 |----------------|---------------------------------------|---------|----------|---------------------|---------------------------------------------|
 | `id_inst`      | ID, PK :key:                          | int     | NOT NULL | auto increment      | se ga da zamenjati z zzzsSt iz ZZZS API-ja? |
+| `zzzsSt`       | ZZZS ID                               | int     | NULL     | ZZZS API            | Nekateri vnosi ga nimajo                    |
 | `name`         | Ime inštitucije                       | string  | NOT NULL | NIJZ xlsx           |                                             |
 | `unit`         | ZZZS enota                            | string  | NOT NULL | NIJZ xlsx           | ni uporabljen, bo verjetno opuščen          |
 | `address`      | Naslov sedeža inštitucije             | string  | NOT NULL | NIJZ xlsx, GURS RPE |                                             |
