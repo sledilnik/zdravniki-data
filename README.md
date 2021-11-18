@@ -18,19 +18,19 @@ ___
 
 ### ZZZS
 
-* https://zavarovanec.zzzs.si/wps/portal/portali/azos/ioz/ioz_izvajalci
-* ZZZS API https://www.zzzs.si/zzzs-api/izvajalci-zdravstvenih-storitev/po-dejavnosti/
+* xlsx [Seznami zdravnikov, ki so lahko osebni zdravniki](https://zavarovanec.zzzs.si/wps/portal/portali/azos/ioz/ioz_izvajalci)
+* API [Izvajalci zdravstvenih storitev po dejavnosti](https://www.zzzs.si/zzzs-api/izvajalci-zdravstvenih-storitev/po-dejavnosti/)
   * [Splošna ambulanta](https://www.zzzs.si/zzzs-api/izvajalci-zdravstvenih-storitev/po-dejavnosti/?ajax=1&act=get-izvajalci&type=dejavnosti&key=Splo%C5%A1na%20ambulanta)
   * [Otroški in šolski dispanzer](https://www.zzzs.si/zzzs-api/izvajalci-zdravstvenih-storitev/po-dejavnosti/?ajax=1&act=get-izvajalci&type=dejavnosti&key=Otro%C5%A1ki%20in%20%C5%A1olski%20dispanzer)
   * [Zobozdravstvo za odrasle](https://www.zzzs.si/zzzs-api/izvajalci-zdravstvenih-storitev/po-dejavnosti/?ajax=1&act=get-izvajalci&type=dejavnosti&key=Zobozdravstvo%20za%20odrasle)
   * [Zobozdravstvo za mladino](https://www.zzzs.si/zzzs-api/izvajalci-zdravstvenih-storitev/po-dejavnosti/?ajax=1&act=get-izvajalci&type=dejavnosti&key=Zobozdravstvo%20za%20mladino)
   * [Zobozdravstvo za študente](https://www.zzzs.si/zzzs-api/izvajalci-zdravstvenih-storitev/po-dejavnosti/?ajax=1&act=get-izvajalci&type=dejavnosti&key=Zobozdravstvo%20za%20%C5%A1tudente)
   * [Dispanzer za ženske](https://www.zzzs.si/zzzs-api/izvajalci-zdravstvenih-storitev/po-dejavnosti/?ajax=1&act=get-izvajalci&type=dejavnosti&key=Dispanzer%20za%20%C5%BEenske)
-* http://api.zzzs.si/ZZZS/pao/bpi.nsf/index
+* RIZDDZ [Register izvajalcev zdravstvene dejavnosti](http://api.zzzs.si/ZZZS/pao/bpi.nsf/index)
 
 ### NIJZ
 
-* https://www.nijz.si/podatki/izvajalci-zdravstvene-dejavnosti
+* [Izvajalci zdravstvene dejavnosti](https://www.nijz.si/podatki/izvajalci-zdravstvene-dejavnosti)
 
 ### GURS
 
