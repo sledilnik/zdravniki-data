@@ -63,12 +63,12 @@ Struktura datoteke [doctors.csv](csv/doctors.csv):
 | Stolpec        | Pomen                                 | Tip     | NULL?    | Vir            | Opomba                                      |
 |----------------|---------------------------------------|---------|----------|----------------|---------------------------------------------|
 | `id`           | ID, PK :key:                          | int     | NOT NULL | auto increment |                                             |
-| `doctor`       | Ime zdravnika                         | string  | NOT NULL | NIJZ xlsx      |                                             |
-| `type`         | Vrsta zdravnika FK dict-doctors.csv   | enum    | NOT NULL | NIJZ xlsx      |                                             |
+| `doctor`       | Ime zdravnika                         | string  | NOT NULL | NIJZ xlsx      | ALL CAPS pretvorjen v `.title()` case       |
+| `type`         | Vrsta zdravnika FK `dict-doctors.csv` | enum    | NOT NULL | NIJZ xlsx      |                                             |
 | `accepts`      | Ali sprejema nove paciente (y/n)      | enum    | NOT NULL | NIJZ xlsx      |                                             |
 | `availability` |                                       | decimal | NOT NULL | NIJZ xlsx      |                                             |
 | `load`         |                                       | decimal | NOT NULL | NIJZ xlsx      |                                             |
-| `id_inst`      | ID, FK :key: na dict-institutions.csv | int     | NOT NULL |                | se ga da zamenjati z zzzsSt iz ZZZS API-ja? |
+| `id_inst`      | ID, FK na `dict-institutions.csv`     | int     | NOT NULL |                | se ga da zamenjati z zzzsSt iz ZZZS API-ja? |
 
 ### Šifranti
 
