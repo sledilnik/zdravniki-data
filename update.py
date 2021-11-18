@@ -72,7 +72,27 @@ def add_geodata():
     institutions.to_csv('csv/dict-institutions.csv')
 
 
-def add_zzzs_api_data():
+def get_zzzs_api_data_all():
+    # https://api.zzzs.si/covid-sledilnik/0 ... 1600 by pages (of 100 records)
+    apiInstitutions = []
+    idx = 0
+    maxIdx = 1
+    while idx < maxIdx:
+        print(f"Fetching page from ZZZS API at index: {idx}")
+        apiUrl = f"https://api.zzzs.si/covid-sledilnik/{idx}"
+        r = requests.get(apiUrl)
+        j = r.json()
+        df = pd.DataFrame.from_dict(j).set_index('naziv')
+        apiInstitutions.append(df)
+
+        contentRangeHeader = r.headers['Content-Range']
+        contentRangeNumbers = re.findall(r'\d+', contentRangeHeader)
+        idx = int(contentRangeNumbers[1])+1
+        maxIdx = int(contentRangeNumbers[2])
+
+    return pd.concat(apiInstitutions).drop_duplicates()
+
+def get_zzzs_api_data_by_category():
     # keys for ZZZS API calls, add as needed, see https://www.zzzs.si/zzzs-api/izvajalci-zdravstvenih-storitev/po-dejavnosti/
     zzzsApiKeys=[
         'Splošna ambulanta',
@@ -92,7 +112,11 @@ def add_zzzs_api_data():
         df = pd.DataFrame.from_dict(j).set_index('naziv')
         apiInstitutions.append(df)
 
-    apiInstitutions = pd.concat(apiInstitutions).drop_duplicates()
+    return pd.concat(apiInstitutions).drop_duplicates()
+
+def add_zzzs_api_data():
+    # apiInstitutions = get_zzzs_api_data_all()
+    apiInstitutions = get_zzzs_api_data_by_category()
     print(apiInstitutions)
 
     institutions = pd.read_csv('csv/dict-institutions.csv', index_col=['id_inst'])
