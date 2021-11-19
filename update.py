@@ -81,6 +81,7 @@ def get_zzzs_api_data_all():
         print(f"Fetching page from ZZZS API at index: {idx}")
         apiUrl = f"https://api.zzzs.si/covid-sledilnik/{idx}"
         r = requests.get(apiUrl)
+        r.raise_for_status()
         j = r.json()
         df = pd.DataFrame.from_dict(j).set_index('naziv')
         apiInstitutions.append(df)
@@ -108,6 +109,7 @@ def get_zzzs_api_data_by_category():
         print(f"Fetching from ZZZS API: {key}")
         apiUrl = f"https://www.zzzs.si/zzzs-api/izvajalci-zdravstvenih-storitev/po-dejavnosti/?ajax=1&act=get-izvajalci&type=dejavnosti&key={key}"
         r = requests.get(apiUrl)
+        r.raise_for_status()
         j = r.json()
         df = pd.DataFrame.from_dict(j).set_index('naziv')
         apiInstitutions.append(df)
@@ -138,6 +140,7 @@ def download_nijz_xlsx_files():
 
     BaseURL = "https://zavarovanec.zzzs.si/wps/portal/portali/azos/ioz/ioz_izvajalci"
     page = requests.get(BaseURL)
+    page.raise_for_status()
     soup = BeautifulSoup(page.content, "html.parser")
     ultag = soup.find("ul", class_="datoteke")
 
