@@ -83,7 +83,7 @@ def get_zzzs_api_data_all():
         r = requests.get(apiUrl)
         r.raise_for_status()
         j = r.json()
-        df = pd.DataFrame.from_dict(j).set_index('naziv')
+        df = pd.DataFrame.from_dict(j).set_index('@entryid')
         apiInstitutions.append(df)
 
         contentRangeHeader = r.headers['Content-Range']
@@ -91,7 +91,9 @@ def get_zzzs_api_data_all():
         idx = int(contentRangeNumbers[1])+1
         maxIdx = int(contentRangeNumbers[2])
 
-    return pd.concat(apiInstitutions).drop_duplicates()
+    df = pd.concat(apiInstitutions).drop_duplicates()
+    df['zzzsSt'] = df['zzzsSt'].astype(int)
+    df.to_csv('zzzs/institutions-all.csv')
 
 def get_zzzs_api_data_by_category():
     # keys for ZZZS API calls, add as needed, see https://www.zzzs.si/zzzs-api/izvajalci-zdravstvenih-storitev/po-dejavnosti/
@@ -111,14 +113,17 @@ def get_zzzs_api_data_by_category():
         r = requests.get(apiUrl)
         r.raise_for_status()
         j = r.json()
-        df = pd.DataFrame.from_dict(j).set_index('naziv')
+        df = pd.DataFrame.from_dict(j).set_index('@entryid')
         apiInstitutions.append(df)
 
-    return pd.concat(apiInstitutions).drop_duplicates()
+    df = pd.concat(apiInstitutions).drop_duplicates()
+    df['zzzsSt'] = df['zzzsSt'].astype(int)
+    df.to_csv('zzzs/institutions-by-category.csv')
 
 def add_zzzs_api_data():
-    # apiInstitutions = get_zzzs_api_data_all()
-    apiInstitutions = get_zzzs_api_data_by_category()
+    # apiInstitutions = pd.read_csv('zzzs/institutions-all.csv', index_col=['naziv'])
+    apiInstitutions = pd.read_csv('zzzs/institutions-by-category.csv', index_col=['naziv'])
+    apiInstitutions['zzzsSt'] = apiInstitutions['zzzsSt'].astype(int).astype(str)
     print(apiInstitutions)
 
     institutions = pd.read_csv('csv/dict-institutions.csv', index_col=['id_inst'])
@@ -132,7 +137,7 @@ def add_zzzs_api_data():
     institutions.to_csv('csv/dict-institutions.csv')
 
 
-def download_nijz_xlsx_files():
+def download_zzzs_xlsx_files():
     # Število opredeljenih pri aktivnih zobozdravnikih na dan 01.11.2020
     # Število opredeljenih pri aktivnih zdravnikih na dan 01.11.2020
     # Število opredeljenih pri aktivnih ginekologih na dan 3.1.2021
@@ -178,7 +183,9 @@ def download_nijz_xlsx_files():
 
 
 if __name__ == "__main__":
-    download_nijz_xlsx_files()
+    download_zzzs_xlsx_files()
+    get_zzzs_api_data_by_category()
+    get_zzzs_api_data_all()
     convert_to_csv()
     add_gurs_geodata()
     add_zzzs_api_data()
