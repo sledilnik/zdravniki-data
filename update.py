@@ -59,9 +59,9 @@ def convert_to_csv():
     doctors.to_csv('csv/doctors.csv')
 
 
-def add_geodata():
+def add_gurs_geodata():
     institutions = pd.read_csv('csv/dict-institutions.csv', index_col=['id_inst'])
-    dfgeo=pd.read_csv('csv/dict-geodata.csv', index_col=['cityZZZS','addressZZZS'])
+    dfgeo=pd.read_csv('gurs/addresses.csv', index_col=['cityZZZS','addressZZZS'])
     dfgeo.fillna('', inplace=True)
     dfgeo['address'] = dfgeo.apply(lambda x: f'{x.street} {x.housenumber}{x.housenumberAppendix}', axis = 1)
     dfgeo['post'] = dfgeo.apply(lambda x: f'{x.zipCode} {x.zipName}', axis = 1)
@@ -180,5 +180,5 @@ def download_nijz_xlsx_files():
 if __name__ == "__main__":
     download_nijz_xlsx_files()
     convert_to_csv()
-    add_geodata()
+    add_gurs_geodata()
     add_zzzs_api_data()

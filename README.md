@@ -81,7 +81,7 @@ Struktura datoteke [dict-doctors.csv](csv/dict-doctors.csv):
 | `description`    | Opis vrste zdravnika (EN)    | string | NOT NULL |     |        |
 | `description-sl` | Opis vrste zdravnika (SL)    | string | NOT NULL |     |        |
 
-Struktura datoteke [dict-geodata.csv](csv/dict-geodata.csv):
+Struktura datoteke [addresses.csv](gurs/addresses.csv):
 
 Temporary, generated using:
 
@@ -92,7 +92,7 @@ $ mlr --csv cut -f cityZZZS,addressZZZS,lat,lon,street,streetAlt,housenumber,hou
    then reorder -f cityZZZS,addressZZZS,lat,lon,street,streetAlt,housenumber,housenumberAppendix,city,cityAlt,municipality,zipCode,zipName \
       then uniq -f cityZZZS,addressZZZS,lat,lon,street,streetAlt,housenumber,housenumberAppendix,city,cityAlt,municipality,zipCode,zipName \
       then sort -f cityZZZS,addressZZZS,lat,lon,street,streetAlt,housenumber,housenumberAppendix,city,cityAlt,municipality,zipCode,zipName \
-   csv/dict-institutions-geodata.csv > csv/dict-geodata.csv
+   csv/dict-institutions-geodata.csv > gurs/addresses.csv
 $ rm csv/dict-institutions-geodata.csv
 ```
 
