@@ -83,7 +83,7 @@ def get_zzzs_api_data_all():
         r = requests.get(apiUrl)
         r.raise_for_status()
         j = r.json()
-        df = pd.DataFrame.from_dict(j, dtype=str)
+        df = pd.DataFrame.from_dict(j)
 
         # Drop the variable index from @entryid field and just keep the (permanent?) GUID part
         df[['temp_to_remove', 'GUID']] = df['@entryid'].str.split('-', 1, expand=True)
@@ -119,7 +119,7 @@ def get_zzzs_api_data_by_category():
         r = requests.get(apiUrl)
         r.raise_for_status()
         j = r.json()
-        df = pd.DataFrame.from_dict(j, dtype=str)
+        df = pd.DataFrame.from_dict(j)
 
         # Drop the variable index from @entryid field and just keep the (permanent?) GUID part
         df[['temp_to_remove', 'GUID']] = df['@entryid'].str.split('-', 1, expand=True)
