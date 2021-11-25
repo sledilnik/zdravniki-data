@@ -98,6 +98,7 @@ def get_zzzs_api_data_all():
         maxIdx = int(contentRangeNumbers[2])
 
     df = pd.concat(apiInstitutions).drop_duplicates()
+    df.sort_values(by=[*df], inplace=True) # sort by all columns
     df.to_csv('zzzs/institutions-all.csv')
 
 def get_zzzs_api_data_by_category():
@@ -128,6 +129,7 @@ def get_zzzs_api_data_by_category():
         apiInstitutions.append(df)
 
     df = pd.concat(apiInstitutions).drop_duplicates()
+    df.sort_values(by=[*df], inplace=True) # sort by all columns
     df.to_csv('zzzs/institutions-by-category.csv')
 
 def add_zzzs_api_data():
