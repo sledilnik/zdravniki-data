@@ -83,7 +83,7 @@ def get_zzzs_api_data_all():
         r = requests.get(apiUrl)
         r.raise_for_status()
         j = r.json()
-        df = pd.DataFrame.from_dict(j).set_index('@entryid')
+        df = pd.DataFrame.from_dict(j, dtype=str).set_index('@entryid')
         apiInstitutions.append(df)
 
         contentRangeHeader = r.headers['Content-Range']
@@ -92,7 +92,6 @@ def get_zzzs_api_data_all():
         maxIdx = int(contentRangeNumbers[2])
 
     df = pd.concat(apiInstitutions).drop_duplicates()
-    df['zzzsSt'] = df['zzzsSt'].astype(int)
     df.to_csv('zzzs/institutions-all.csv')
 
 def get_zzzs_api_data_by_category():
@@ -113,11 +112,10 @@ def get_zzzs_api_data_by_category():
         r = requests.get(apiUrl)
         r.raise_for_status()
         j = r.json()
-        df = pd.DataFrame.from_dict(j).set_index('@entryid')
+        df = pd.DataFrame.from_dict(j, dtype=str).set_index('@entryid')
         apiInstitutions.append(df)
 
     df = pd.concat(apiInstitutions).drop_duplicates()
-    df['zzzsSt'] = df['zzzsSt'].astype(int)
     df.to_csv('zzzs/institutions-by-category.csv')
 
 def add_zzzs_api_data():
