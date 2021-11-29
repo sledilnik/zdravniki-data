@@ -26,6 +26,9 @@ ___
   * [Zobozdravstvo za mladino](https://www.zzzs.si/zzzs-api/izvajalci-zdravstvenih-storitev/po-dejavnosti/?ajax=1&act=get-izvajalci&type=dejavnosti&key=Zobozdravstvo%20za%20mladino)
   * [Zobozdravstvo za študente](https://www.zzzs.si/zzzs-api/izvajalci-zdravstvenih-storitev/po-dejavnosti/?ajax=1&act=get-izvajalci&type=dejavnosti&key=Zobozdravstvo%20za%20%C5%A1tudente)
   * [Dispanzer za ženske](https://www.zzzs.si/zzzs-api/izvajalci-zdravstvenih-storitev/po-dejavnosti/?ajax=1&act=get-izvajalci&type=dejavnosti&key=Dispanzer%20za%20%C5%BEenske)
+  * Saved to [zzzs/institutions-by-category.csv](zzzs/institutions-by-category.csv)
+* :white_check_mark: API [Izvajalci zdravstvenih storitev](https://api.zzzs.si/covid-sledilnik)
+  * Saved to [zzzs/institutions-all.csv](zzzs/institutions-all.csv)
 * :question: Potencialno: RIZDDZ [Register izvajalcev zdravstvene dejavnosti](http://api.zzzs.si/ZZZS/pao/bpi.nsf/index)
 
 ### NIJZ
@@ -35,6 +38,8 @@ ___
 ### GURS
 
 * :white_check_mark: [Register Prostorskih Enot (RPE)](https://podatki.gov.si/dataset/register-prostorskih-enot)
+  * Extract saved to [gurs/addresses.csv](gurs/addresses.csv)
+  * Description [gurs/README.md](gurs/README.md)
 
 ## Podatki
 
@@ -80,34 +85,3 @@ Struktura datoteke [dict-doctors.csv](csv/dict-doctors.csv):
 | `id`             | ID vrste zdravnika, PK :key: | string | NOT NULL |     |        |
 | `description`    | Opis vrste zdravnika (EN)    | string | NOT NULL |     |        |
 | `description-sl` | Opis vrste zdravnika (SL)    | string | NOT NULL |     |        |
-
-Struktura datoteke [addresses.csv](gurs/addresses.csv):
-
-Temporary, generated using:
-
-```bash
-$ geocodecsv -in csv/dict-institutions.csv -out csv/dict-institutions-geodata.csv -addressCol 3 -zipCol 4 -appendAll
-$ #make the columns in csv/dict-institutions-geodata.csv unique
-$ mlr --csv cut -f cityZZZS,addressZZZS,lat,lon,street,streetAlt,housenumber,housenumberAppendix,city,cityAlt,municipality,zipCode,zipName \
-   then reorder -f cityZZZS,addressZZZS,lat,lon,street,streetAlt,housenumber,housenumberAppendix,city,cityAlt,municipality,zipCode,zipName \
-      then uniq -f cityZZZS,addressZZZS,lat,lon,street,streetAlt,housenumber,housenumberAppendix,city,cityAlt,municipality,zipCode,zipName \
-      then sort -f cityZZZS,addressZZZS,lat,lon,street,streetAlt,housenumber,housenumberAppendix,city,cityAlt,municipality,zipCode,zipName \
-   csv/dict-institutions-geodata.csv > gurs/addresses.csv
-$ rm csv/dict-institutions-geodata.csv
-```
-
-| Stolpec               | Pomen                              | Tip     | NULL?    | Vir       | Opomba                                       |
-|-----------------------|------------------------------------|---------|----------|-----------|----------------------------------------------|
-| `cityZZZS`            | Poštna številka in naziv, PK :key: | string  | NOT NULL | NIJZ xlsx |                                              |
-| `addressZZZS`         | Ulica in hišna številka PK :key:   | string  | NOT NULL | NIJZ xlsx |                                              |
-| `lat`                 | Geografska širina naslova          | decimal | NOT NULL | GURS RPE  | 5 decimalk, cca 1m natančnost                |
-| `lon`                 | Geografska dolžina naslova         | decimal | NOT NULL | GURS RPE  | 5 decimalk, cca 1m natančnost                |
-| `street`              | Ime ulice                          | string  | NOT NULL | GURS RPE  | Vsebuje ime naselja kjer ni uličnega sistema |
-| `streetAlt`           | Ime ulice dvojezično (IT/HU)       | string  | NULL     | GURS RPE  | Se (še?) ne uporablja                        |
-| `housenumber`         | Hišna številka                     | int     | NOT NULL | GURS RPE  |                                              |
-| `housenumberAppendix` | Dodatek k hišni številki           | string  | NOT NULL | GURS RPE  |                                              |
-| `city`                | Ime naselja                        | string  | NOT NULL | GURS RPE  |                                              |
-| `cityAlt`             | Ime naselja dvojezično (IT/HU)     | string  | NULL     | GURS RPE  | Se (še?) ne uporablja                        |
-| `municipality`        | Ime občine                         | string  | NOT NULL | GURS RPE  |                                              |
-| `zipCode`             | Poštna številka                    | int     | NOT NULL | GURS RPE  |                                              |
-| `zipName`             | Naziv pošte                        | string  | NOT NULL | GURS RPE  |                                              |
