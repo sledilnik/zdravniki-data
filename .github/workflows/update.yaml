@@ -74,6 +74,6 @@ jobs:
         push-branch: 'main'
         commit-message: "ZZZS doctors' availability data update 🤖"
         rebase: 'true' # pull and rebase before commit
-        files: zzzs/* csv/*
+        files: zzzs/* csv/* gurs/*
         name: Sledilnik data scrape bot 🤖
         email: info@sledilnik.org

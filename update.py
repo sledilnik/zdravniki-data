@@ -69,16 +69,13 @@ def geocode_addresses():
     xlsxAddresses = pd.read_csv('csv/dict-institutions.csv', usecols=['city','address']).rename(columns={'city':'cityZZZS','address':'addressZZZS'})
     apiAddresses = pd.read_csv('zzzs/institutions-all.csv', usecols=['posta','naslov']).rename(columns={'posta':'cityZZZS','naslov':'addressZZZS'})
     addresses = pd.concat([xlsxAddresses, apiAddresses], ignore_index=True)
-    # addresses = pd.concat([xlsxAddresses], ignore_index=True)
 
-    print(addresses)
     addresses['cityZZZS'] = addresses['cityZZZS'].str.upper()
     addresses['addressZZZS'] = addresses['addressZZZS'].str.upper()
-    print(addresses)
     addresses.sort_values(by=['cityZZZS','addressZZZS'], inplace=True)
     addresses.drop_duplicates(inplace=True)
     addresses.set_index(['cityZZZS','addressZZZS'], inplace=True) 
-    print(addresses)
+
     addresses.to_csv('gurs/addresses-zzzs.csv')
 
     try:
