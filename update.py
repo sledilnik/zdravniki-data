@@ -7,6 +7,7 @@ import re
 import os
 import glob
 import pandas as pd
+import subprocess
 
 type_map = {
     'SPLOŠNA DEJAVNOST - SPLOŠNA AMBULANTA': 'gp',
@@ -64,10 +65,31 @@ def convert_to_csv():
 
     doctors.to_csv('csv/doctors.csv')
 
+def geocode_addresses():
+    xlsxAddresses = pd.read_csv('csv/dict-institutions.csv', usecols=['city','address']).rename(columns={'city':'cityZZZS','address':'addressZZZS'})
+    apiAddresses = pd.read_csv('zzzs/institutions-all.csv', usecols=['posta','naslov']).rename(columns={'posta':'cityZZZS','naslov':'addressZZZS'})
+    addresses = pd.concat([xlsxAddresses, apiAddresses], ignore_index=True)
+    # addresses = pd.concat([xlsxAddresses], ignore_index=True)
+
+    print(addresses)
+    addresses['cityZZZS'] = addresses['cityZZZS'].str.upper()
+    addresses['addressZZZS'] = addresses['addressZZZS'].str.upper()
+    print(addresses)
+    addresses.sort_values(by=['cityZZZS','addressZZZS'], inplace=True)
+    addresses.drop_duplicates(inplace=True)
+    addresses.set_index(['cityZZZS','addressZZZS'], inplace=True) 
+    print(addresses)
+    addresses.to_csv('gurs/addresses-zzzs.csv')
+
+    try:
+        subprocess.run(["geocodecsv", "-in", "gurs/addresses-zzzs.csv", "-out", "gurs/addresses.csv", "-zipCol", "1", "-addressCol", "2", "-appendAll"])
+    except FileNotFoundError:
+        print("geocodecsv not found, skipping.")
+
 
 def add_gurs_geodata():
     institutions = pd.read_csv('csv/dict-institutions.csv', index_col=['id_inst'])
-    dfgeo=pd.read_csv('gurs/addresses.csv', index_col=['cityZZZS','addressZZZS'])
+    dfgeo=pd.read_csv('gurs/addresses.csv', index_col=['cityZZZS','addressZZZS'], dtype=str)
     dfgeo.fillna('', inplace=True)
     dfgeo['address'] = dfgeo.apply(lambda x: f'{x.street} {x.housenumber}{x.housenumberAppendix}', axis = 1)
     dfgeo['post'] = dfgeo.apply(lambda x: f'{x.zipCode} {x.zipName}', axis = 1)
@@ -205,5 +227,6 @@ if __name__ == "__main__":
     get_zzzs_api_data_by_category()
     get_zzzs_api_data_all()
     convert_to_csv()
+    geocode_addresses()
     add_gurs_geodata()
     add_zzzs_api_data()
