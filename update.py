@@ -110,10 +110,8 @@ def get_zzzs_api_data_all():
         j = r.json()
         df = pd.DataFrame.from_dict(j)
 
-        # Drop the variable index from @entryid field and just keep the (permanent?) GUID part
-        df[['temp_to_remove', 'GUID']] = df['@entryid'].str.split('-', 1, expand=True)
-        df.set_index('GUID', inplace=True)
-        df.drop(['temp_to_remove','@entryid'], axis='columns', inplace=True)
+        df.drop(['@entryid'], axis='columns', inplace=True)
+        df.set_index('zzzsSt', inplace=True)
 
         apiInstitutions.append(df)
 
@@ -146,10 +144,8 @@ def get_zzzs_api_data_by_category():
         j = r.json()
         df = pd.DataFrame.from_dict(j)
 
-        # Drop the variable index from @entryid field and just keep the (permanent?) GUID part
-        df[['temp_to_remove', 'GUID']] = df['@entryid'].str.split('-', 1, expand=True)
-        df.set_index('GUID', inplace=True)
-        df.drop(['temp_to_remove','@entryid'], axis='columns', inplace=True)
+        df.drop(['@entryid'], axis='columns', inplace=True)
+        df.set_index('zzzsSt', inplace=True)
 
         apiInstitutions.append(df)
 
