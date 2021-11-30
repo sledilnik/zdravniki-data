@@ -2,7 +2,7 @@
 
 [Register Prostorskih Enot (RPE)](https://podatki.gov.si/dataset/register-prostorskih-enot)
 
-Struktura datoteke [addresses.csv](gurs/addresses.csv):
+Struktura datoteke [addresses.csv](addresses.csv):
 
 | Stolpec               | Pomen                              | Tip     | NULL?    | Vir       | Opomba                                       |
 |-----------------------|------------------------------------|---------|----------|-----------|----------------------------------------------|
