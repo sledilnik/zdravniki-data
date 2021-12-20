@@ -91,7 +91,7 @@ def add_gurs_geodata():
     dfgeo['address'] = dfgeo.apply(lambda x: f'{x.street} {x.housenumber}{x.housenumberAppendix}', axis = 1)
     dfgeo['post'] = dfgeo.apply(lambda x: f'{x.zipCode} {x.zipName}', axis = 1)
 
-    institutions = institutions.merge(dfgeo[['address','post','city','municipality','lat','lon']], how = 'left', left_on = ['city','address'], right_index=True, suffixes=['_zzzs', ''])
+    institutions = institutions.merge(dfgeo[['address','post','city','municipalityPart','municipality','lat','lon']], how = 'left', left_on = ['city','address'], right_index=True, suffixes=['_zzzs', ''])
     institutions.drop(['address_zzzs','city_zzzs'], axis='columns', inplace=True)
 
     institutions.to_csv('csv/dict-institutions.csv')
