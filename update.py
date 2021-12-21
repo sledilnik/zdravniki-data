@@ -59,9 +59,7 @@ def convert_to_csv():
     doctors.sort_values(by=[*doctors], inplace=True) # sort by all columns
 
     # reindex:
-    doctors = doctors.apply(list).reset_index()
-    doctors.drop('index', axis='columns', inplace=True)
-    doctors.index.rename('id', inplace=True)
+    doctors.set_index(['doctor','type','id_inst'], inplace=True)
 
     doctors.to_csv('csv/doctors.csv')
 
