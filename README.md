@@ -47,34 +47,34 @@ ___
 
 Struktura datoteke [dict-institutions.csv](csv/dict-institutions.csv):
 
-| Stolpec        | Pomen                                 | Tip     | NULL?    | Vir                 | Opomba                                      |
-|----------------|---------------------------------------|---------|----------|---------------------|---------------------------------------------|
-| `id_inst`      | ID, PK :key:                          | int     | NOT NULL | auto increment      | se ga da zamenjati z zzzsSt iz ZZZS API-ja? |
-| `zzzsSt`       | ZZZS ID                               | int     | NULL     | ZZZS API            | Nekateri vnosi ga nimajo                    |
-| `name`         | Ime inštitucije                       | string  | NOT NULL | NIJZ xlsx           |                                             |
-| `unit`         | ZZZS enota                            | string  | NOT NULL | NIJZ xlsx           | ni uporabljen, bo verjetno opuščen          |
-| `address`      | Naslov sedeža inštitucije             | string  | NOT NULL | NIJZ xlsx, GURS RPE |                                             |
-| `post`         | Pošta sedeža inštitucije              | string  | NOT NULL | NIJZ xlsx, GURS RPE | Poštna številka in naziv poštnega okoliše   |
-| `city`         | Naselje sedeža inštitucije            | string  | NOT NULL | GURS RPE            |                                             |
-| `municipality` | Občina sedeža inštitucije             | string  | NOT NULL | GURS RPE            | Bi šlo lahko v šifrant                      |
-| `lat`          | Geografska širina sedeža inštitucije  | decimal | NOT NULL | GURS RPE            | 5 decimalk, cca 1m natančnost               |
-| `lon`          | Geografska dolžina sedeža inštitucije | decimal | NOT NULL | GURS RPE            | 5 decimalk, cca 1m natančnost               |
-| `phone`        | Telefon sedeža inštitucije            | string  | NULL     | ZZZS API            | Lahko jih je več, ločenih z vejicami        |
-| `website`      | Spletno mesto sedeža inštitucije      | string  | NULL     | ZZZS API            | Lahko jih je več, ločenih z vejicami        |
+| Stolpec            | Pomen                                 | Tip     | NULL?    | Vir                 | Opomba                                      |
+|--------------------|---------------------------------------|---------|----------|---------------------|---------------------------------------------|
+| `id_inst`          | :key:ID, PK                           | int     | NOT NULL | auto increment      | se ga da zamenjati z zzzsSt iz ZZZS API-ja? |
+| `zzzsSt`           | ZZZS ID                               | int     | NULL     | ZZZS API            | Nekateri vnosi ga še nimajo                 |
+| `name`             | Ime inštitucije                       | string  | NOT NULL | NIJZ xlsx           |                                             |
+| `unit`             | ZZZS enota                            | string  | NOT NULL | NIJZ xlsx           | ni uporabljen, bo verjetno opuščen          |
+| `address`          | Naslov sedeža inštitucije             | string  | NOT NULL | NIJZ xlsx, GURS RPE |                                             |
+| `post`             | Pošta sedeža inštitucije              | string  | NOT NULL | NIJZ xlsx, GURS RPE | Poštna številka in naziv poštnega okoliše   |
+| `city`             | Naselje sedeža inštitucije            | string  | NOT NULL | GURS RPE            |                                             |
+| `municipalityPart` | Del občine sedeža inštitucije         | string  | NOT NULL | GURS RPE            | Ožji del občine                             |
+| `municipality`     | Občina sedeža inštitucije             | string  | NOT NULL | GURS RPE            | Bi šlo lahko v šifrant                      |
+| `lat`              | Geografska širina sedeža inštitucije  | decimal | NOT NULL | GURS RPE            | 5 decimalk, cca 1m natančnost               |
+| `lon`              | Geografska dolžina sedeža inštitucije | decimal | NOT NULL | GURS RPE            | 5 decimalk, cca 1m natančnost               |
+| `phone`            | Telefon sedeža inštitucije            | string  | NULL     | ZZZS API            | Lahko jih je več, ločenih z vejicami        |
+| `website`          | Spletno mesto sedeža inštitucije      | string  | NULL     | ZZZS API            | Lahko jih je več, ločenih z vejicami        |
 
 ### Zdravniki
 
 Struktura datoteke [doctors.csv](csv/doctors.csv):
 
-| Stolpec        | Pomen                                 | Tip     | NULL?    | Vir            | Opomba                                      |
-|----------------|---------------------------------------|---------|----------|----------------|---------------------------------------------|
-| `id`           | ID, PK :key:                          | int     | NOT NULL | auto increment |                                             |
-| `doctor`       | Ime zdravnika                         | string  | NOT NULL | NIJZ xlsx      | ALL CAPS pretvorjen v `.title()` case       |
-| `type`         | Vrsta zdravnika FK `dict-doctors.csv` | enum    | NOT NULL | NIJZ xlsx      |                                             |
-| `accepts`      | Ali sprejema nove paciente (y/n)      | enum    | NOT NULL | NIJZ xlsx      |                                             |
-| `availability` |                                       | decimal | NOT NULL | NIJZ xlsx      |                                             |
-| `load`         |                                       | decimal | NOT NULL | NIJZ xlsx      |                                             |
-| `id_inst`      | ID, FK na `dict-institutions.csv`     | int     | NOT NULL |                | se ga da zamenjati z zzzsSt iz ZZZS API-ja? |
+| Stolpec        | Pomen                                      | Tip     | NULL?    | Vir       | Opomba                                      |
+|----------------|--------------------------------------------|---------|----------|-----------|---------------------------------------------|
+| `doctor`       | :key:Ime zdravnika                         | string  | NOT NULL | NIJZ xlsx | ALL CAPS pretvorjen v `.title()` case       |
+| `type`         | :key:Vrsta zdravnika FK `dict-doctors.csv` | enum    | NOT NULL | NIJZ xlsx |                                             |
+| `id_inst`      | :key:ID, FK na `dict-institutions.csv`     | int     | NOT NULL |           | se ga da zamenjati z zzzsSt iz ZZZS API-ja? |
+| `accepts`      | Ali sprejema nove paciente (y/n)           | enum    | NOT NULL | NIJZ xlsx |                                             |
+| `availability` |                                            | decimal | NOT NULL | NIJZ xlsx |                                             |
+| `load`         |                                            | decimal | NOT NULL | NIJZ xlsx |                                             |
 
 ### Šifranti
 
