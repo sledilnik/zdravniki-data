@@ -16,7 +16,7 @@ Struktura datoteke [addresses.csv](addresses.csv):
 | `housenumberAppendix` | Dodatek k hišni številki           | string  | NOT NULL | GURS RPE  |                                              |
 | `city`                | Ime naselja                        | string  | NOT NULL | GURS RPE  |                                              |
 | `cityAlt`             | Ime naselja dvojezično (IT/HU)     | string  | NULL     | GURS RPE  | Se (še?) ne uporablja                        |
-| `municipalityPart`    | Del občine sedeža inštitucije      | string  | NOT NULL | GURS RPE  | Ožji del občine                              |
+| `municipalityPart`    | Del občine sedeža inštitucije      | string  | NULL     | GURS RPE  | Ožji del občine                              |
 | `municipality`        | Ime občine                         | string  | NOT NULL | GURS RPE  |                                              |
 | `zipCode`             | Poštna številka                    | int     | NOT NULL | GURS RPE  |                                              |
 | `zipName`             | Naziv pošte                        | string  | NOT NULL | GURS RPE  |                                              |
