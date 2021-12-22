@@ -37,6 +37,17 @@ def get_overrides():
         print("Failed to import {}".format(filename))
         raise e
 
+def append_overrides():
+    doctors = pd.read_csv('csv/doctors.csv', index_col=['doctor','type'])
+    overrides = pd.read_csv('csv/overrides.csv', index_col=['doctor','type'])
+
+    print(doctors)
+    print(overrides)
+
+    doctors.join(overrides, rsuffix='_override')
+
+    print(doctors)
+    doctors.to_csv('csv/doctors-overrides.csv')
 
 def convert_to_csv():
     doctors = []
@@ -230,6 +241,7 @@ def download_zzzs_xlsx_files():
 
 if __name__ == "__main__":
     get_overrides()
+    append_overrides()
     download_zzzs_xlsx_files()
     get_zzzs_api_data_by_category()
     get_zzzs_api_data_all()
