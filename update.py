@@ -8,6 +8,11 @@ import os
 import glob
 import pandas as pd
 import subprocess
+import sheet2csv
+
+GOOGLE_API_KEY = os.environ["GOOGLE_API_KEY"]
+SHEET_OVERRIDES = "1gsIkUsvO-2_atHTsU9UcH2q69Js9PuvskTbtuY3eEWQ"
+RANGE_OVERRIDES = "Overrides!A1:AA"
 
 type_map = {
     'SPLOŠNA DEJAVNOST - SPLOŠNA AMBULANTA': 'gp',
@@ -22,6 +27,16 @@ accepts_map = {
     'DA': 'y',
     'NE': 'n'
 }
+
+def get_overrides():
+    filename = "csv/overrides.csv"
+    print(f"Get overrides from GSheet to {filename}")
+    try:
+        sheet2csv.sheet2csv(id=SHEET_OVERRIDES, range=RANGE_OVERRIDES, api_key=GOOGLE_API_KEY, filename=filename)
+    except Exception as e:
+        print("Failed to import {}".format(filename))
+        raise e
+
 
 def convert_to_csv():
     doctors = []
@@ -214,6 +229,7 @@ def download_zzzs_xlsx_files():
 
 
 if __name__ == "__main__":
+    get_overrides()
     download_zzzs_xlsx_files()
     get_zzzs_api_data_by_category()
     get_zzzs_api_data_all()
