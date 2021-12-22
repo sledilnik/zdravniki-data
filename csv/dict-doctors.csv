@@ -1,6 +1,6 @@
 id,description,description-sl
 gp,General Practitioner,Zdravnik
-gp-y,General Practitioner (youth), Zdravnik (mladina)
+ped,Pediatrician,Pediater
 den,Dentist,Zobozdravnik
 den-y,Dentist (youth),Zobozdravnik (mladina)
 den-s,Dentist (students),Zobozdravnik (študenti)
