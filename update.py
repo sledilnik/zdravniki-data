@@ -38,13 +38,15 @@ def get_overrides():
         raise e
 
 def append_overrides():
+    get_overrides()
+
     doctors = pd.read_csv('csv/doctors.csv', index_col=['doctor','type'])
-    overrides = pd.read_csv('csv/overrides.csv', index_col=['doctor','type'])
+    overrides = pd.read_csv('csv/overrides.csv', index_col=['doctor','type']).add_prefix('override_')
 
     print(doctors)
     print(overrides)
 
-    doctors.join(overrides, rsuffix='_override')
+    doctors = doctors.join(overrides)
 
     print(doctors)
     doctors.to_csv('csv/doctors-overrides.csv')
@@ -240,12 +242,11 @@ def download_zzzs_xlsx_files():
 
 
 if __name__ == "__main__":
-    get_overrides()
-    append_overrides()
     download_zzzs_xlsx_files()
     get_zzzs_api_data_by_category()
     get_zzzs_api_data_all()
     convert_to_csv()
+    append_overrides()
     geocode_addresses()
     add_gurs_geodata()
     add_zzzs_api_data()
