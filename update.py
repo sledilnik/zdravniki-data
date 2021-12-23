@@ -28,7 +28,7 @@ accepts_map = {
     'NE': 'n'
 }
 
-def get_overrides():
+def append_overrides():
     filename = "csv/overrides.csv"
     print(f"Get overrides from GSheet to {filename}")
     try:
@@ -37,19 +37,14 @@ def get_overrides():
         print("Failed to import {}".format(filename))
         raise e
 
-def append_overrides():
-    get_overrides()
-
     doctors = pd.read_csv('csv/doctors.csv', index_col=['doctor','type'])
     overrides = pd.read_csv('csv/overrides.csv', index_col=['doctor','type']).add_prefix('override_')
-
-    print(doctors)
-    print(overrides)
 
     doctors = doctors.join(overrides)
 
     print(doctors)
     doctors.to_csv('csv/doctors-overrides.csv')
+
 
 def convert_to_csv():
     doctors = []
