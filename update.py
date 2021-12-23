@@ -42,8 +42,10 @@ def append_overrides():
 
     doctors = doctors.join(overrides)
 
-    print(doctors)
     doctors.to_csv('csv/doctors-overrides.csv')
+
+    addresses = overrides[['override_address', 'override_post']].reset_index(drop=True).dropna()
+    addresses.to_csv('gurs/addresses-overrides.csv')
 
 
 def convert_to_csv():
