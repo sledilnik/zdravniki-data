@@ -23,7 +23,7 @@ accepts_map = {
     'NE': 'n'
 }
 
-def convert_to_csv():
+def convert_to_csv(zzzsid_map):
     doctors = []
     for group in ["zdravniki", "zobozdravniki", "ginekologi"]:
         filename = max(glob.glob(f"zzzs/*_{group}.xlsx"))
@@ -39,28 +39,28 @@ def convert_to_csv():
         df['address'] = df['address'].str.strip()
         df['city'] = df['city'].str.strip()
         df['unit'] = df['unit'].str.strip()
-        df = df.reindex(['doctor', 'type', 'accepts', 'availability', 'load', 'name', 'address', 'city', 'unit'], axis='columns')
+        df['zzzsid'] = df['name'].map(zzzsid_map)
+        df = df.reindex(['doctor', 'type', 'accepts', 'availability', 'load', 'name', 'address', 'city', 'unit', 'zzzsid'], axis='columns')
         doctors.append(df)
 
     doctors = pd.concat(doctors, ignore_index=True)
 
-    institutions = doctors.groupby(['name','address','city', 'unit'])['doctor'].apply(list).reset_index()
+    institutions = doctors.groupby(['zzzsid', 'name','address','city', 'unit'])['doctor'].apply(list).reset_index()
     institutions.drop("doctor", axis='columns', inplace=True)
 
+    institutions.set_index('zzzsid', inplace=True)
     institutions.index.rename('id_inst', inplace=True)
+    institutions.sort_values(by=['name'], inplace=True)
     institutions.to_csv('csv/dict-institutions.csv')
 
-    doctors.drop(['address', 'city', 'unit'], axis='columns', inplace=True)
-    institutions.drop(['address', 'city', 'unit'], axis='columns', inplace=True)
-    institutions = institutions.reset_index().set_index('name')
-    doctors = doctors.join(institutions, on='name')
-    doctors.drop('name', axis='columns', inplace=True)
-
+    doctors.drop(['name', 'address', 'city', 'unit'], axis='columns', inplace=True)
+    doctors.rename(columns={'zzzsid': 'id_inst'}, inplace=True)
     doctors.sort_values(by=[*doctors], inplace=True) # sort by all columns
 
     # reindex:
     doctors.set_index(['doctor','type','id_inst'], inplace=True)
 
+    print(doctors)
     doctors.to_csv('csv/doctors.csv')
 
 def geocode_addresses():
@@ -151,6 +151,31 @@ def get_zzzs_api_data_by_category():
     df.sort_values(by=[*df], inplace=True) # sort by all columns
     df.to_csv('zzzs/institutions-by-category.csv')
 
+    # create lookup dictionary for ZZZS ID
+    zzzsid_map = df.reset_index()[['zzzsSt', 'naziv']].set_index('naziv').to_dict()['zzzsSt']
+
+    missing_zzzsid = {
+        'MDENT, ZOBOZDRAVSTVENE STORITVE, MIHAJLO FRANGOV S.P.': "mdent",
+        'OSNOVNO ZDRAVSTVO GORENJSKE, OE ZDRAVSTVENI DOM BLED, ZDRAVSTVENI DOM BOHINJ': 'ozgbb',
+        'OSNOVNO ZDRAVSTVO GORENJSKE, OE ZDRAVSTVENI DOM JESENICE': 'ozgje',
+        'OSNOVNO ZDRAVSTVO GORENJSKE, OE ZDRAVSTVENI DOM KRANJ': 'ozgkr',
+        'OSNOVNO ZDRAVSTVO GORENJSKE, OE ZDRAVSTVENI DOM RADOVLJICA': 'ozgra',
+        'OSNOVNO ZDRAVSTVO GORENJSKE, OE ZDRAVSTVENI DOM TRŽIČ': 'ozgtr',
+        'OSNOVNO ZDRAVSTVO GORENJSKE, OE ZDRAVSTVENI DOM ŠKOFJA LOKA': 'ozgsl',
+        'ZD LJUBLJANA - BEŽIGRAD': 'zdlbe',
+        'ZD LJUBLJANA - CENTER': 'zdlce',
+        'ZD LJUBLJANA - MOSTE - POLJE': 'zdlmp',
+        'ZD LJUBLJANA - VIČ - RUDNIK': 'zdlvr',
+        'ZD LJUBLJANA - ŠENTVID': 'zdlse',
+        'ZD LJUBLJANA - ŠIŠKA': 'zdlsi',
+    }
+    for key, value in dict(missing_zzzsid).items():
+        if not key in zzzsid_map:
+            zzzsid_map[key] = value
+
+    return zzzsid_map
+
+
 def add_zzzs_api_data():
     # apiInstitutions = pd.read_csv('zzzs/institutions-all.csv', index_col=['naziv'])
     apiInstitutions = pd.read_csv('zzzs/institutions-by-category.csv', index_col=['naziv'])
@@ -215,9 +240,9 @@ def download_zzzs_xlsx_files():
 
 if __name__ == "__main__":
     download_zzzs_xlsx_files()
-    get_zzzs_api_data_by_category()
+    zzzsid_map = get_zzzs_api_data_by_category()
     get_zzzs_api_data_all()
-    convert_to_csv()
+    convert_to_csv(zzzsid_map)
     geocode_addresses()
     add_gurs_geodata()
     add_zzzs_api_data()
