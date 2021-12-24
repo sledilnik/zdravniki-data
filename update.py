@@ -44,8 +44,16 @@ def append_overrides():
 
     doctors.to_csv('csv/doctors-overrides.csv')
 
-    addresses = overrides[['override_address', 'override_post']].reset_index(drop=True).dropna()
+    addresses = overrides[['override_post', 'override_address']].reset_index(drop=True).dropna()
+    addresses.sort_values(by=['override_post', 'override_address'], inplace=True)
+    addresses.drop_duplicates(inplace=True)
+    addresses.set_index(['override_post', 'override_address'], inplace=True)
     addresses.to_csv('gurs/addresses-overrides.csv')
+
+    try:
+        subprocess.run(["geocodecsv", "-in", "gurs/addresses-overrides.csv", "-out", "gurs/addresses-overrides-geocoded.csv", "-zipCol", "1", "-addressCol", "2", "-appendAll"])
+    except FileNotFoundError:
+        print("geocodecsv not found, skipping.")
 
 
 def convert_to_csv():
