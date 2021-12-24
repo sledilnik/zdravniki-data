@@ -38,16 +38,16 @@ def append_overrides():
         raise e
 
     doctors = pd.read_csv('csv/doctors.csv', index_col=['doctor','type'])
-    overrides = pd.read_csv('csv/overrides.csv', index_col=['doctor','type']).add_prefix('override_')
+    overrides = pd.read_csv('csv/overrides.csv', index_col=['doctor','type'])
 
     doctors = doctors.join(overrides)
 
     doctors.to_csv('csv/doctors-overrides.csv')
 
-    addresses = overrides[['override_post', 'override_address']].reset_index(drop=True).dropna()
-    addresses.sort_values(by=['override_post', 'override_address'], inplace=True)
+    addresses = overrides[['post', 'address']].reset_index(drop=True).dropna()
+    addresses.sort_values(by=['post', 'address'], inplace=True)
     addresses.drop_duplicates(inplace=True)
-    addresses.set_index(['override_post', 'override_address'], inplace=True)
+    addresses.set_index(['post', 'address'], inplace=True)
     addresses.to_csv('gurs/addresses-overrides.csv')
 
     try:

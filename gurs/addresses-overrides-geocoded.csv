@@ -1,4 +1,4 @@
-override_post,override_address,lat,lon,street,streetAlt,housenumber,housenumberAppendix,city,cityAlt,municipalityPart,municipality,zipCode,zipName,statisticalRegion
+post,address,lat,lon,street,streetAlt,housenumber,housenumberAppendix,city,cityAlt,municipalityPart,municipality,zipCode,zipName,statisticalRegion
 1000 Ljubljana,Rakovniška ulica 4,46.03660,14.52361,Rakovniška ulica,,4,,Ljubljana,,Četrtna skupnost Rudnik,Ljubljana,1000,Ljubljana,Osrednjeslovenska
 1000 Ljubljana,Čufarjeva ulica 11,46.05516,14.51021,Čufarjeva ulica,,11,,Ljubljana,,Četrtna skupnost Center,Ljubljana,1000,Ljubljana,Osrednjeslovenska
 1218 Komenda,Glavarjeva cesta 61a,46.20453,14.53935,Glavarjeva cesta,,61,A,Komenda,,,Komenda,1218,Komenda,Osrednjeslovenska
