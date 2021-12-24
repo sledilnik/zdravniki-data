@@ -28,24 +28,6 @@ accepts_map = {
     'NE': 'n'
 }
 
-def append_overrides():
-    filename = "csv/overrides.csv"
-    print(f"Get overrides from GSheet to {filename}")
-    try:
-        sheet2csv.sheet2csv(id=SHEET_OVERRIDES, range=RANGE_OVERRIDES, api_key=GOOGLE_API_KEY, filename=filename)
-    except Exception as e:
-        print("Failed to import {}".format(filename))
-        raise e
-
-    doctors = pd.read_csv('csv/doctors.csv', index_col=['doctor','type','id_inst'])
-    overrides = pd.read_csv('csv/overrides.csv', index_col=['doctor','type','id_inst'])
-
-    doctors = doctors.join(overrides)
-
-    doctors.to_csv('csv/doctors-overrides.csv')
-
-
-
 def convert_to_csv(zzzsid_map):
     doctors = []
     for group in ["zdravniki", "zobozdravniki", "ginekologi"]:
@@ -83,6 +65,23 @@ def convert_to_csv(zzzsid_map):
     # reindex:
     doctors.set_index(['doctor','type','id_inst'], inplace=True)
     doctors.to_csv('csv/doctors.csv')
+
+
+def append_overrides():
+    filename = "csv/overrides.csv"
+    print(f"Get overrides from GSheet to {filename}")
+    try:
+        sheet2csv.sheet2csv(id=SHEET_OVERRIDES, range=RANGE_OVERRIDES, api_key=GOOGLE_API_KEY, filename=filename)
+    except Exception as e:
+        print("Failed to import {}".format(filename))
+        raise e
+
+    doctors = pd.read_csv('csv/doctors.csv', index_col=['doctor','type','id_inst'])
+    overrides = pd.read_csv('csv/overrides.csv', index_col=['doctor','type','id_inst'])
+
+    doctors = doctors.join(overrides)
+
+    doctors.to_csv('csv/doctors-overrides.csv')
 
 
 def geocode_addresses():
@@ -163,6 +162,7 @@ def get_zzzs_api_data_all():
     df = pd.concat(apiInstitutions).drop_duplicates()
     df.sort_values(by=[*df], inplace=True) # sort by all columns
     df.to_csv('zzzs/institutions-all.csv')
+
 
 def get_zzzs_api_data_by_category():
     # keys for ZZZS API calls, add as needed, see https://www.zzzs.si/zzzs-api/izvajalci-zdravstvenih-storitev/po-dejavnosti/
@@ -282,8 +282,8 @@ def download_zzzs_xlsx_files():
 
 if __name__ == "__main__":
     download_zzzs_xlsx_files()
-    zzzsid_map = get_zzzs_api_data_by_category()
     get_zzzs_api_data_all()
+    zzzsid_map = get_zzzs_api_data_by_category()
     convert_to_csv(zzzsid_map)
     append_overrides()
     geocode_addresses()
