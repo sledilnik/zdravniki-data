@@ -44,16 +44,6 @@ def append_overrides():
 
     doctors.to_csv('csv/doctors-overrides.csv')
 
-    addresses = overrides[['post', 'address']].reset_index(drop=True).dropna()
-    addresses.sort_values(by=['post', 'address'], inplace=True)
-    addresses.drop_duplicates(inplace=True)
-    addresses.set_index(['post', 'address'], inplace=True)
-    addresses.to_csv('gurs/addresses-overrides.csv')
-
-    try:
-        subprocess.run(["geocodecsv", "-in", "gurs/addresses-overrides.csv", "-out", "gurs/addresses-overrides-geocoded.csv", "-zipCol", "1", "-addressCol", "2", "-appendAll"])
-    except FileNotFoundError:
-        print("geocodecsv not found, skipping.")
 
 
 def convert_to_csv(zzzsid_map):
@@ -73,7 +63,7 @@ def convert_to_csv(zzzsid_map):
         df['city'] = df['city'].str.strip()
         df['unit'] = df['unit'].str.strip()
         df['zzzsid'] = df['name'].map(zzzsid_map)
-        df = df.reindex(['doctor', 'type', 'accepts', 'availability', 'load', 'name', 'address', 'city', 'unit', 'zzzsid'], axis='columns')
+        df = df.reindex(['doctor', 'type', 'zzzsid', 'accepts', 'availability', 'load', 'name', 'address', 'city', 'unit'], axis='columns')
         doctors.append(df)
 
     doctors = pd.concat(doctors, ignore_index=True)
@@ -92,9 +82,8 @@ def convert_to_csv(zzzsid_map):
 
     # reindex:
     doctors.set_index(['doctor','type','id_inst'], inplace=True)
-
-    print(doctors)
     doctors.to_csv('csv/doctors.csv')
+
 
 def geocode_addresses():
     xlsxAddresses = pd.read_csv('csv/dict-institutions.csv', usecols=['city','address']).rename(columns={'city':'cityZZZS','address':'addressZZZS'})
@@ -111,6 +100,17 @@ def geocode_addresses():
 
     try:
         subprocess.run(["geocodecsv", "-in", "gurs/addresses-zzzs.csv", "-out", "gurs/addresses.csv", "-zipCol", "1", "-addressCol", "2", "-appendAll"])
+    except FileNotFoundError:
+        print("geocodecsv not found, skipping.")
+
+    addresses = pd.read_csv('csv/doctors-overrides.csv', usecols=['post', 'address']).dropna()
+    addresses.sort_values(by=['post', 'address'], inplace=True)
+    addresses.drop_duplicates(inplace=True)
+    addresses.set_index(['post', 'address'], inplace=True)
+    addresses.to_csv('gurs/addresses-overrides.csv')
+
+    try:
+        subprocess.run(["geocodecsv", "-in", "gurs/addresses-overrides.csv", "-out", "gurs/addresses-overrides-geocoded.csv", "-zipCol", "1", "-addressCol", "2", "-appendAll"])
     except FileNotFoundError:
         print("geocodecsv not found, skipping.")
 
