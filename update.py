@@ -8,6 +8,11 @@ import os
 import glob
 import pandas as pd
 import subprocess
+import sheet2csv
+
+GOOGLE_API_KEY = os.environ["GOOGLE_API_KEY"]
+SHEET_OVERRIDES = "1gsIkUsvO-2_atHTsU9UcH2q69Js9PuvskTbtuY3eEWQ"
+RANGE_OVERRIDES = "Overrides!A1:AA"
 
 type_map = {
     'SPLOŠNA DEJAVNOST - SPLOŠNA AMBULANTA': 'gp',
@@ -40,7 +45,7 @@ def convert_to_csv(zzzsid_map):
         df['city'] = df['city'].str.strip()
         df['unit'] = df['unit'].str.strip()
         df['zzzsid'] = df['name'].map(zzzsid_map)
-        df = df.reindex(['doctor', 'type', 'accepts', 'availability', 'load', 'name', 'address', 'city', 'unit', 'zzzsid'], axis='columns')
+        df = df.reindex(['doctor', 'type', 'zzzsid', 'accepts', 'availability', 'load', 'name', 'address', 'city', 'unit'], axis='columns')
         doctors.append(df)
 
     doctors = pd.concat(doctors, ignore_index=True)
@@ -59,9 +64,25 @@ def convert_to_csv(zzzsid_map):
 
     # reindex:
     doctors.set_index(['doctor','type','id_inst'], inplace=True)
-
-    print(doctors)
     doctors.to_csv('csv/doctors.csv')
+
+
+def append_overrides():
+    filename = "csv/overrides.csv"
+    print(f"Get overrides from GSheet to {filename}")
+    try:
+        sheet2csv.sheet2csv(id=SHEET_OVERRIDES, range=RANGE_OVERRIDES, api_key=GOOGLE_API_KEY, filename=filename)
+    except Exception as e:
+        print("Failed to import {}".format(filename))
+        raise e
+
+    doctors = pd.read_csv('csv/doctors.csv', index_col=['doctor','type','id_inst'])
+    overrides = pd.read_csv('csv/overrides.csv', index_col=['doctor','type','id_inst'])
+
+    doctors = doctors.join(overrides)
+
+    doctors.to_csv('csv/doctors-overrides.csv')
+
 
 def geocode_addresses():
     xlsxAddresses = pd.read_csv('csv/dict-institutions.csv', usecols=['city','address']).rename(columns={'city':'cityZZZS','address':'addressZZZS'})
@@ -72,12 +93,23 @@ def geocode_addresses():
     addresses['addressZZZS'] = addresses['addressZZZS'].str.upper()
     addresses.sort_values(by=['cityZZZS','addressZZZS'], inplace=True)
     addresses.drop_duplicates(inplace=True)
-    addresses.set_index(['cityZZZS','addressZZZS'], inplace=True) 
+    addresses.set_index(['cityZZZS','addressZZZS'], inplace=True)
 
     addresses.to_csv('gurs/addresses-zzzs.csv')
 
     try:
         subprocess.run(["geocodecsv", "-in", "gurs/addresses-zzzs.csv", "-out", "gurs/addresses.csv", "-zipCol", "1", "-addressCol", "2", "-appendAll"])
+    except FileNotFoundError:
+        print("geocodecsv not found, skipping.")
+
+    addresses = pd.read_csv('csv/doctors-overrides.csv', usecols=['post', 'address']).rename(columns={'post':'postOver','address':'addressOver'}).dropna()
+    addresses.sort_values(by=['postOver', 'addressOver'], inplace=True)
+    addresses.drop_duplicates(inplace=True)
+    addresses.set_index(['postOver', 'addressOver'], inplace=True)
+    addresses.to_csv('gurs/addresses-overrides.csv')
+
+    try:
+        subprocess.run(["geocodecsv", "-in", "gurs/addresses-overrides.csv", "-out", "gurs/addresses-overrides-geocoded.csv", "-zipCol", "1", "-addressCol", "2", "-appendAll"])
     except FileNotFoundError:
         print("geocodecsv not found, skipping.")
 
@@ -91,8 +123,17 @@ def add_gurs_geodata():
 
     institutions = institutions.merge(dfgeo[['address','post','city','municipalityPart','municipality','lat','lon']], how = 'left', left_on = ['city','address'], right_index=True, suffixes=['_zzzs', ''])
     institutions.drop(['address_zzzs','city_zzzs'], axis='columns', inplace=True)
-
     institutions.to_csv('csv/dict-institutions.csv')
+
+    doctors = pd.read_csv('csv/doctors-overrides.csv', index_col=['doctor', 'type', 'id_inst'])
+    dfgeo=pd.read_csv('gurs/addresses-overrides-geocoded.csv', index_col=['postOver','addressOver'], dtype=str)
+    dfgeo.fillna('', inplace=True)
+    dfgeo['address'] = dfgeo.apply(lambda x: f'{x.street} {x.housenumber}{x.housenumberAppendix}', axis = 1)
+    dfgeo['post'] = dfgeo.apply(lambda x: f'{x.zipCode} {x.zipName}', axis = 1)
+
+    doctors = doctors.merge(dfgeo[['address','post','city','municipalityPart','municipality','lat','lon']], how = 'left', left_on = ['post','address'], right_index=True, suffixes=['Over', ''])
+    doctors.drop(['addressOver','postOver'], axis='columns', inplace=True)
+    doctors.to_csv('csv/doctors-overrides.csv')
 
 
 def get_zzzs_api_data_all():
@@ -121,6 +162,7 @@ def get_zzzs_api_data_all():
     df = pd.concat(apiInstitutions).drop_duplicates()
     df.sort_values(by=[*df], inplace=True) # sort by all columns
     df.to_csv('zzzs/institutions-all.csv')
+
 
 def get_zzzs_api_data_by_category():
     # keys for ZZZS API calls, add as needed, see https://www.zzzs.si/zzzs-api/izvajalci-zdravstvenih-storitev/po-dejavnosti/
@@ -240,9 +282,10 @@ def download_zzzs_xlsx_files():
 
 if __name__ == "__main__":
     download_zzzs_xlsx_files()
-    zzzsid_map = get_zzzs_api_data_by_category()
     get_zzzs_api_data_all()
+    zzzsid_map = get_zzzs_api_data_by_category()
     convert_to_csv(zzzsid_map)
+    append_overrides()
     geocode_addresses()
     add_gurs_geodata()
     add_zzzs_api_data()

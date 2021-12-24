@@ -54,6 +54,8 @@ jobs:
       run: pip install -U -r requirements.txt
 
     - name: "Run update.py"
+      env:
+        GOOGLE_API_KEY: ${{ secrets.GOOGLE_API_KEY }}
       run: |
         python update.py 
 
