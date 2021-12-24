@@ -37,8 +37,8 @@ def append_overrides():
         print("Failed to import {}".format(filename))
         raise e
 
-    doctors = pd.read_csv('csv/doctors.csv', index_col=['doctor','type'])
-    overrides = pd.read_csv('csv/overrides.csv', index_col=['doctor','type'])
+    doctors = pd.read_csv('csv/doctors.csv', index_col=['doctor','type','id_inst'])
+    overrides = pd.read_csv('csv/overrides.csv', index_col=['doctor','type','id_inst'])
 
     doctors = doctors.join(overrides)
 
