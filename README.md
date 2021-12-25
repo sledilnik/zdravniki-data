@@ -45,11 +45,11 @@ ___
 
 ### Inštitucije
 
-Struktura datoteke [dict-institutions.csv](csv/dict-institutions.csv):
+Struktura datoteke [institutions.csv](csv/institutions.csv):
 
 | Stolpec            | Pomen                                 | Tip     | NULL?    | Vir                 | Opomba                                      |
 |--------------------|---------------------------------------|---------|----------|---------------------|---------------------------------------------|
-| `id_inst`          | :key:ID, PK                           | int     | NOT NULL | auto increment      | se ga da zamenjati z zzzsSt iz ZZZS API-ja? |
+| `id_inst`          | :key:ID, PK                           | int     | NOT NULL | ZZZS API            | zzzsSt iz ZZZS API-ja (ali nadomestek)      |
 | `zzzsSt`           | ZZZS ID                               | int     | NULL     | ZZZS API            | Nekateri vnosi ga še nimajo                 |
 | `name`             | Ime inštitucije                       | string  | NOT NULL | NIJZ xlsx           |                                             |
 | `unit`             | ZZZS enota                            | string  | NOT NULL | NIJZ xlsx           | ni uporabljen, bo verjetno opuščen          |
@@ -67,14 +67,30 @@ Struktura datoteke [dict-institutions.csv](csv/dict-institutions.csv):
 
 Struktura datoteke [doctors.csv](csv/doctors.csv):
 
-| Stolpec        | Pomen                                      | Tip     | NULL?    | Vir       | Opomba                                      |
-|----------------|--------------------------------------------|---------|----------|-----------|---------------------------------------------|
-| `doctor`       | :key:Ime zdravnika                         | string  | NOT NULL | NIJZ xlsx | ALL CAPS pretvorjen v `.title()` case       |
-| `type`         | :key:Vrsta zdravnika FK `dict-doctors.csv` | enum    | NOT NULL | NIJZ xlsx |                                             |
-| `id_inst`      | :key:ID, FK na `dict-institutions.csv`     | int     | NOT NULL |           | se ga da zamenjati z zzzsSt iz ZZZS API-ja? |
-| `accepts`      | Ali sprejema nove paciente (y/n)           | enum    | NOT NULL | NIJZ xlsx |                                             |
-| `availability` |                                            | decimal | NOT NULL | NIJZ xlsx |                                             |
-| `load`         |                                            | decimal | NOT NULL | NIJZ xlsx |                                             |
+| Stolpec                 | Pomen                                      | Tip     | NULL?    | Vir       | Opomba                                      |
+|-------------------------|--------------------------------------------|---------|----------|-----------|---------------------------------------------|
+| `doctor`                | :key:Ime zdravnika                         | string  | NOT NULL | ZZZS xlsx | ALL CAPS pretvorjen v `.title()` case       |
+| `type`                  | :key:Vrsta zdravnika FK `dict-doctors.csv` | enum    | NOT NULL | ZZZS xlsx |                                             |
+| `id_inst`               | :key:ID, FK na `institutions.csv`          | int     | NOT NULL |           | zzsSt iz ZZZS API-ja                        |
+| `accepts`               | Ali sprejema nove paciente (y/n)           | enum    | NOT NULL | ZZZS xlsx |                                             |
+| `availability`          | Obseg zaposlitve (delež v tej ambulanti)   | decimal | NOT NULL | ZZZS xlsx |                                             |
+| `load`                  | Glavarinski količnik                       | decimal | NOT NULL | ZZZS xlsx |                                             |
+| `date_override`         | Datum popravka preko Sporoči napako        | date    | NULL     | ReportErr |                                             |
+| `note_override`         | Opomba popravka za prikaz                  | string  | NULL     | ReportErr |                                             |
+| `accepts_override`      | Popravek: sprejema paciente                | enum    | NULL     | ReportErr |                                             |
+| `availability_override` | Popravek: obseg zaposlitve/delež v amb.    | decimal | NULL     | ReportErr |                                             |
+| `phone`                 | Telefon ambulante                          | string  | NULL     | ReportErr | Lahko jih je več, ločenih z vejicami        |
+| `website`               | Spletno mesto ambulante/inštitucije        | string  | NULL     | ReportErr | Lahko jih je več, ločenih z vejicami        |
+| `email`                 | E-pošta ambulante                          | string  | NULL     | ReportErr |                                             |
+| `orderform`             | Spletni naslov za naročanje                | string  | NULL     | ReportErr |                                             |
+| `address`               | Naslov ambulante                           | string  | NULL     | ReportErr |                                             |
+| `post`                  | Pošta ambulante                            | string  | NULL     | ReportErr |                                             |
+| `city`                  | Naselje ambulante                          | string  | NULL     | GURS RPE  |                                             |
+| `municipalityPart`      | Del občine ambulante                       | string  | NULL     | GURS RPE  | Ožji del občine                             |
+| `municipality`          | Občina ambulante                           | string  | NULL     | GURS RPE  | Bi šlo lahko v šifrant                      |
+| `lat`                   | Geografska širina ambulante                | decimal | NULL     | GURS RPE  | 5 decimalk, cca 1m natančnost               |
+| `lon`                   | Geografska dolžina ambulante               | decimal | NULL     | GURS RPE  | 5 decimalk, cca 1m natančnost               |
+
 
 ### Šifranti
 
