@@ -56,7 +56,7 @@ def convert_to_csv(zzzsid_map):
     institutions.set_index('zzzsid', inplace=True)
     institutions.index.rename('id_inst', inplace=True)
     institutions.sort_values(by=['name'], inplace=True)
-    institutions.to_csv('csv/dict-institutions.csv')
+    institutions.to_csv('csv/institutions.csv')
 
     doctors.drop(['name', 'address', 'city', 'unit'], axis='columns', inplace=True)
     doctors.rename(columns={'zzzsid': 'id_inst'}, inplace=True)
@@ -81,11 +81,11 @@ def append_overrides():
 
     doctors = doctors.join(overrides)
 
-    doctors.to_csv('csv/doctors-overrides.csv')
+    doctors.to_csv('csv/doctors.csv')
 
 
 def geocode_addresses():
-    xlsxAddresses = pd.read_csv('csv/dict-institutions.csv', usecols=['city','address']).rename(columns={'city':'cityZZZS','address':'addressZZZS'})
+    xlsxAddresses = pd.read_csv('csv/institutions.csv', usecols=['city','address']).rename(columns={'city':'cityZZZS','address':'addressZZZS'})
     apiAddresses = pd.read_csv('zzzs/institutions-all.csv', usecols=['posta','naslov']).rename(columns={'posta':'cityZZZS','naslov':'addressZZZS'})
     addresses = pd.concat([xlsxAddresses, apiAddresses], ignore_index=True)
 
@@ -102,7 +102,7 @@ def geocode_addresses():
     except FileNotFoundError:
         print("geocodecsv not found, skipping.")
 
-    addresses = pd.read_csv('csv/doctors-overrides.csv', usecols=['post', 'address']).rename(columns={'post':'postOver','address':'addressOver'}).dropna()
+    addresses = pd.read_csv('csv/doctors.csv', usecols=['post', 'address']).rename(columns={'post':'postOver','address':'addressOver'}).dropna()
     addresses.sort_values(by=['postOver', 'addressOver'], inplace=True)
     addresses.drop_duplicates(inplace=True)
     addresses.set_index(['postOver', 'addressOver'], inplace=True)
@@ -115,7 +115,7 @@ def geocode_addresses():
 
 
 def add_gurs_geodata():
-    institutions = pd.read_csv('csv/dict-institutions.csv', index_col=['id_inst'])
+    institutions = pd.read_csv('csv/institutions.csv', index_col=['id_inst'])
     dfgeo=pd.read_csv('gurs/addresses.csv', index_col=['cityZZZS','addressZZZS'], dtype=str)
     dfgeo.fillna('', inplace=True)
     dfgeo['address'] = dfgeo.apply(lambda x: f'{x.street} {x.housenumber}{x.housenumberAppendix}', axis = 1)
@@ -123,9 +123,9 @@ def add_gurs_geodata():
 
     institutions = institutions.merge(dfgeo[['address','post','city','municipalityPart','municipality','lat','lon']], how = 'left', left_on = ['city','address'], right_index=True, suffixes=['_zzzs', ''])
     institutions.drop(['address_zzzs','city_zzzs'], axis='columns', inplace=True)
-    institutions.to_csv('csv/dict-institutions.csv')
+    institutions.to_csv('csv/institutions.csv')
 
-    doctors = pd.read_csv('csv/doctors-overrides.csv', index_col=['doctor', 'type', 'id_inst'])
+    doctors = pd.read_csv('csv/doctors.csv', index_col=['doctor', 'type', 'id_inst'])
     dfgeo=pd.read_csv('gurs/addresses-overrides-geocoded.csv', index_col=['postOver','addressOver'], dtype=str)
     dfgeo.fillna('', inplace=True)
     dfgeo['address'] = dfgeo.apply(lambda x: f'{x.street} {x.housenumber}{x.housenumberAppendix}', axis = 1)
@@ -133,7 +133,7 @@ def add_gurs_geodata():
 
     doctors = doctors.merge(dfgeo[['address','post','city','municipalityPart','municipality','lat','lon']], how = 'left', left_on = ['post','address'], right_index=True, suffixes=['Over', ''])
     doctors.drop(['addressOver','postOver'], axis='columns', inplace=True)
-    doctors.to_csv('csv/doctors-overrides.csv')
+    doctors.to_csv('csv/doctors.csv')
 
 
 def get_zzzs_api_data_all():
@@ -224,7 +224,7 @@ def add_zzzs_api_data():
     apiInstitutions['zzzsSt'] = apiInstitutions['zzzsSt'].astype(int).astype(str)
     print(apiInstitutions)
 
-    institutions = pd.read_csv('csv/dict-institutions.csv', index_col=['id_inst'])
+    institutions = pd.read_csv('csv/institutions.csv', index_col=['id_inst'])
     institutions = institutions.merge(apiInstitutions[['zzzsSt','tel','splStran']], how = 'left', left_on = ['name'], right_index=True, suffixes=['', '_api'])
     institutions.index.rename('id_inst', inplace=True)
     institutions.rename(columns={"tel": "phone", "splStran": "website"}, inplace=True)
@@ -232,7 +232,7 @@ def add_zzzs_api_data():
     institutions.insert(0, colZzzsSt.name, colZzzsSt)
 
     print(institutions)
-    institutions.to_csv('csv/dict-institutions.csv')
+    institutions.to_csv('csv/institutions.csv')
 
 
 def download_zzzs_xlsx_files():
