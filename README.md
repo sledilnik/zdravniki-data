@@ -91,7 +91,9 @@ Struktura datoteke [doctors.csv](csv/doctors.csv):
 | `lat`                   | Geografska širina ambulante                | decimal | NULL     | GURS RPE  | 5 decimalk, cca 1m natančnost               |
 | `lon`                   | Geografska dolžina ambulante               | decimal | NULL     | GURS RPE  | 5 decimalk, cca 1m natančnost               |
 
+Popravki preko ReportErr se uvozijo iz [overrides.csv](csv/overrides.csv).
 
+ 
 ### Šifranti
 
 Struktura datoteke [dict-doctors.csv](csv/dict-doctors.csv):
