@@ -9,6 +9,7 @@ import glob
 import pandas as pd
 import subprocess
 import sheet2csv
+import hashlib,time
 
 GOOGLE_API_KEY = os.environ["GOOGLE_API_KEY"]
 SHEET_OVERRIDES = "1gsIkUsvO-2_atHTsU9UcH2q69Js9PuvskTbtuY3eEWQ"
@@ -27,6 +28,22 @@ accepts_map = {
     'DA': 'y',
     'NE': 'n'
 }
+
+def sha1sum(fname):
+    h = hashlib.sha1()
+    try:
+        with open(fname, 'rb') as f:
+            for chunk in iter(lambda: f.read(4096), b''):
+                h.update(chunk)
+        return h.hexdigest()
+    except FileNotFoundError:
+        return None
+
+def write_timestamp_file(filename: str, old_hash: str):
+    if old_hash != sha1sum(filename):
+        with open(f'{filename}.timestamp', 'w', newline='') as f:
+            f.write(f'{int(time.time())}\n')
+
 
 def convert_to_csv(zzzsid_map):
     doctors = []
@@ -281,6 +298,11 @@ def download_zzzs_xlsx_files():
 
 
 if __name__ == "__main__":
+    fname_inst = 'csv/institutions.csv'
+    old_hash_inst = sha1sum(fname_inst)
+    fname_doctors = 'csv/doctors.csv'
+    old_hash_doctors = sha1sum(fname_doctors)
+
     download_zzzs_xlsx_files()
     get_zzzs_api_data_all()
     zzzsid_map = get_zzzs_api_data_by_category()
@@ -289,3 +311,6 @@ if __name__ == "__main__":
     geocode_addresses()
     add_gurs_geodata()
     add_zzzs_api_data()
+
+    write_timestamp_file(fname_inst, old_hash_inst)
+    write_timestamp_file(fname_doctors, old_hash_doctors)
