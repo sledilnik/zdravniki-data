@@ -197,7 +197,7 @@ def get_zzzs_api_data_by_category():
     zzzsid_map = df.reset_index()[['zzzsSt', 'naziv']].set_index('naziv').to_dict()['zzzsSt']
 
     missing_zzzsid = {
-        'MDENT, ZOBOZDRAVSTVENE STORITVE, MIHAJLO FRANGOV S.P.': "mdent",
+        'MDENT, ZOBOZDRAVSTVENE STORITVE, MIHAJLO FRANGOV S.P.': "7155880",
         'OSNOVNO ZDRAVSTVO GORENJSKE, OE ZDRAVSTVENI DOM BLED, ZDRAVSTVENI DOM BOHINJ': 'ozgbb',
         'OSNOVNO ZDRAVSTVO GORENJSKE, OE ZDRAVSTVENI DOM JESENICE': 'ozgje',
         'OSNOVNO ZDRAVSTVO GORENJSKE, OE ZDRAVSTVENI DOM KRANJ': 'ozgkr',
