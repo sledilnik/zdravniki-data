@@ -9,6 +9,7 @@ postOver,addressOver,lat,lon,street,streetAlt,housenumber,housenumberAppendix,ci
 1354 Horjul,Slovenska cesta 17,46.02461,14.29536,Slovenska cesta,,17,,Horjul,,,Horjul,1354,Horjul,Osrednjeslovenska
 1360 Vrhnika,Stara cesta 4a,45.96590,14.29733,Stara cesta,,4,A,Vrhnika,,Vrhnika Center,Vrhnika,1360,Vrhnika,Osrednjeslovenska
 2000 Maribor,Kalohova ulica 18,46.55507,15.61747,Kalohova ulica,,18,,Maribor,,Studenci,Maribor,2000,Maribor,Podravska
+2351 Kamnica,Vrbanska cesta 97,46.57321,15.61582,Vrbanska cesta,,97,,Kamnica,,Kamnica,Maribor,2351,Kamnica,Podravska
 2370 Dravograd,Trg 4. julija 9,46.58921,15.02233,Trg 4. julija,,9,,Dravograd,,Dravograd,Dravograd,2370,Dravograd,Koroška
 3000 Celje,Gregorčičeva ulica 5,46.23224,15.26227,Gregorčičeva ulica,,5,,Celje,,Dolgo polje,Celje,3000,Celje,Savinjska
 3272 Rimske Toplice,Aškerčeva cesta 4,46.12412,15.19462,Aškerčeva cesta,,4,,Rimske Toplice,,Rimske Toplice,Laško,3272,Rimske Toplice,Savinjska
@@ -16,9 +17,11 @@ postOver,addressOver,lat,lon,street,streetAlt,housenumber,housenumberAppendix,ci
 4000 Kranj,Ljubljanska cesta 24A,46.22457,14.35459,Ljubljanska cesta,,24,A,Kranj,,Stražišče,Kranj,4000,Kranj,Gorenjska
 4000 Kranj,Škofjeloška cesta 6,46.22819,14.35325,Škofjeloška cesta,,6,,Kranj,,Stražišče,Kranj,4000,Kranj,Gorenjska
 4000 Kranj,Žanova ulica 3,46.24570,14.36350,Žanova ulica,,3,,Kranj,,Primskovo,Kranj,4000,Kranj,Gorenjska
+4206 Zgornje Jezersko,Zgornje Jezersko 82,46.39357,14.49840,Zgornje Jezersko,,82,,Zgornje Jezersko,,,Jezersko,4206,Zgornje Jezersko,Gorenjska
 4220 Škofja Loka,Stara cesta 10,46.16618,14.31281,Stara cesta,,10,,Škofja Loka,,Kamnitnik,Škofja Loka,4220,Škofja Loka,Gorenjska
 4224 Gorenja vas,Trata 7,46.10233,14.14218,Trata,,7,,Gorenja vas,,Gorenja vas,Gorenja vas-Poljane,4224,Gorenja vas,Gorenjska
 4226 Žiri,Trg svobode 9,46.04754,14.11159,Trg svobode,,9,,Žiri,,,Žiri,4226,Žiri,Gorenjska
 4228 Železniki,Racovnik 29,46.22219,14.15786,Racovnik,,29,,Železniki,,Železniki,Železniki,4228,Železniki,Gorenjska
 5292 Šempeter pri Gorici,Cesta prekomorskih brigad 25,45.93053,13.63792,Cesta Prekomorskih brigad,,25,,Šempeter pri Gorici,,,Šempeter-Vrtojba,5290,Šempeter pri Gorici,Goriška
 6230 Postojna,Kolodvorska cesta 25,45.77308,14.22128,Kolodvorska cesta,,25,,Postojna,,Postojna,Postojna,6230,Postojna,Primorsko-notranjska
+8270 Krško,Cesta krških žrtev 132C,45.94307,15.48349,Cesta krških žrtev,,132,C,Krško,,Krško,Krško,8270,Krško,Posavska
