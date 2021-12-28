@@ -9,6 +9,7 @@ postOver,addressOver,lat,lon,street,streetAlt,housenumber,housenumberAppendix,ci
 1354 Horjul,Slovenska cesta 17,46.02461,14.29536,Slovenska cesta,,17,,Horjul,,,Horjul,1354,Horjul,Osrednjeslovenska
 1360 Vrhnika,Stara cesta 4a,45.96590,14.29733,Stara cesta,,4,A,Vrhnika,,Vrhnika Center,Vrhnika,1360,Vrhnika,Osrednjeslovenska
 2000 Maribor,Kalohova ulica 18,46.55507,15.61747,Kalohova ulica,,18,,Maribor,,Studenci,Maribor,2000,Maribor,Podravska
+2283 Zavrč,Goričak 7,46.37799,16.05617,Goričak,,7,,Goričak,,,Zavrč,2283,Zavrč,Podravska
 2351 Kamnica,Vrbanska cesta 97,46.57321,15.61582,Vrbanska cesta,,97,,Kamnica,,Kamnica,Maribor,2351,Kamnica,Podravska
 2370 Dravograd,Trg 4. julija 9,46.58921,15.02233,Trg 4. julija,,9,,Dravograd,,Dravograd,Dravograd,2370,Dravograd,Koroška
 3000 Celje,Gregorčičeva ulica 5,46.23224,15.26227,Gregorčičeva ulica,,5,,Celje,,Dolgo polje,Celje,3000,Celje,Savinjska
@@ -28,4 +29,5 @@ postOver,addressOver,lat,lon,street,streetAlt,housenumber,housenumberAppendix,ci
 6230 Postojna,Kolodvorska cesta 25,45.77308,14.22128,Kolodvorska cesta,,25,,Postojna,,Postojna,Postojna,6230,Postojna,Primorsko-notranjska
 6240 Kozina,Reška cesta 18,45.60640,13.94415,Reška cesta,,18,,Hrpelje,,Hrpelje,Hrpelje-Kozina,6240,Kozina,Obalno-kraška
 6333 Sečovlje,Sečovlje 44,45.47541,13.61973,Sečovlje,Sicciole,44,,Sečovlje,Sicciole,Sečovlje,Piran,6333,Sečovlje - Sicciole,Obalno-kraška
+8000 Novo mesto,Šmarješka cesta 44,45.82141,15.18482,Šmarješka cesta,,44,,Novo mesto,,Krajevna skupnost Ločna-Mačkovec,Novo mesto,8000,Novo mesto,Jugovzhodna Slovenija
 8270 Krško,Cesta krških žrtev 132C,45.94307,15.48349,Cesta krških žrtev,,132,C,Krško,,Krško,Krško,8270,Krško,Posavska
