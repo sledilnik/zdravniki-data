@@ -6,12 +6,13 @@ postOver,addressOver
 1292 Ig pri Ljubljani,Banija 4
 1311 Turjak,Laporje 30
 1312 Videm - Dobrepolje,Videm 37 a
+1315 Velike Lašče,Javorškova ulica 9
 1354 Horjul,Slovenska cesta 17
 1360 Vrhnika,Stara cesta 4a
 2000 Maribor,Kalohova ulica 18
 2231 Pernica,Pernica 8
 2283 Zavrč,Goričak 7
-2322  Majšperk,Breg 6A
+2322 Majšperk,Breg 6A
 2351 Kamnica,Vrbanska cesta 97
 2370 Dravograd,Trg 4. julija 9
 3000 Celje,Gregorčičeva ulica 5
@@ -25,6 +26,7 @@ postOver,addressOver
 4207 Cerklje na Gorenjskem,Slovenska cesta 28
 4220 Škofja Loka,Stara cesta 10
 4224 Gorenja vas,Trata 7
+4224 Gorenja vas,Trata 7a
 4226 Žiri,Trg svobode 9
 4228 Železniki,Racovnik 29
 4264 Bohinjska Bistrica,Triglavska cesta 15
@@ -34,3 +36,4 @@ postOver,addressOver
 6333 Sečovlje,Sečovlje 44
 8000 Novo mesto,Šmarješka cesta 44
 8270 Krško,Cesta krških žrtev 132C
+9220 Lendava,Mlinska ulica 6e
