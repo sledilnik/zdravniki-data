@@ -21,7 +21,7 @@ Puklavec Ferjančič Maja,den-s,410972,2021-12-23,Sprejema nove paciente.,y,,,,0
 Kokalj Kokot Mateja,gp,2817672,2021-12-23,,,,,,01/781-84-34,,,
 Rus Ida,ped,6997488,2021-12-23,,,,Trg svobode 9,4226 Žiri,04 620 88 88,,,
 Kalan Gorazd,ped,6997488,2021-12-23,,,,Trata 7,4224 Gorenja vas,04 620 88 70,,,
-Vujović Vladimir,den-y,6183191,2021-12-23,Sprejema nove paciente.,y,,,,,,,
+Vujović Vladimir,den-y,6183191,2021-12-23,Sprejema nove paciente.,y,,Žanova ulica 3,4000 Kranj,064/261-477,,,
 Habjanič Merc Brigita,ped,3200135,2021-12-23,,,,,,(02) 748 1320,,,
 Novak Medič Milena,gp,4234273,2021-12-23,,,,Stara cesta 10,4220 Škofja Loka,,,,
 Sporiš Novak Mojca,gp,4234273,2021-12-23,,,,Stara cesta 10,4220 Škofja Loka,,,,
@@ -54,19 +54,15 @@ Tričković Vladan,den,664356,2021-12-23,Sprejema nove paciente.,y,,,,,,,
 Golčer Jožef,den,3939793,2021-12-23,,,,,,(02) 2524081,,,
 Milanović Dragana,den,3939793,2021-12-23,,,,,,(02) 252 56 90,,,
 Karlin Sambolec Mateja,den,3137763,2021-12-23,Sprejema nove paciente.,y,,,,,,,
-Kozar Ida,ped,90255,2021-12-23,Zdravnica v pokoju,n,,,,,,,
-Prodanovič Anka,ped,90255,2021-12-23,Zdravnica v pokoju,n,,,,,,,
-Skačej Alenka,ped,90255,2021-12-23,Zdravnica v pokoju,n,,,,,,,
-Melink Alenka,ped,90255,2021-12-23,Zdravnica v pokoju,n,,,,,,,
 Rosič Dušan,gyn,5649502,2021-12-23,Ne sprejema novih pacientov (v fazi upokojevanja).,n,,,,,,,
-Hristić Ana,den-s,680829,2021-12-23,Sprejema nove paciente.,y,,,,,,,
+Hristić Ana,den-s,680829,2021-12-23,Sprejema nove paciente.,y,,,,,,ambulanta.hristic@zdstudenti.si,https://www.zdstudenti.si/navodila-za-paciente/navodila-za-narocanje/
 Terlević Dabić Diana,den,5699657,2021-12-23,Sprejema nove paciente.,y,,,,,,,
 Perdih Ana,gp,zdlvr,2021-12-23,,,,Rakovniška ulica 4,1000 Ljubljana,,,,
 Vidrih Aleksandra,den,4253787,2021-12-23,Sprejema nove paciente.,y,,Ljubljanska cesta 24A,4000 Kranj,04-2072862,,,
 Devetak Andrej,den,2929663,2021-12-23,,,,,,,https://www.informacija.net/podjetja/prosti-cas-in-zdravje/zdravje/zobna-ordinacija-devetak-andrej-dr-dent-med,,
 Karčnik Marjana,den-y,199109,2021-12-23,Sprejema nove paciente.,y,,,,,,,
 Pišljar Mehle Mateja,gp,205445,2021-12-23,Ne sprejema novih pacientov.,n,0.62,,,,,,
-Terzić Bojan,den-s,680829,2021-12-23,Sprejema nove paciente.,y,,,,,,,
+Terzić Bojan,den-s,680829,2021-12-23,Sprejema nove paciente.,y,,,,,,ambulanta.terzic@zdstudenti.si,https://www.zdstudenti.si/navodila-za-paciente/navodila-za-narocanje/
 Čibej Tomaž,den-s,4321693,2021-12-23,Sprejema nove paciente.,y,,,,,,,
 Vidmar Simona,den-s,3410781,2021-12-23,Sprejema nove paciente.,y,,,,,,,
 Božič Sara,den-y,zdlvr,2021-12-23,,,,Rakovniška ulica 4,1000 Ljubljana,014202402,https://www.zd-lj.si/zdlj/index.php?option=com_zdravniki&SIFRAD=20275&ID_STRM=5775&view=zdravnik&Itemid=823&lang=sl,,
@@ -78,7 +74,6 @@ Bogataj Branka,gp,478988,2021-12-23,,,,Glavarjeva cesta 61a,1218 Komenda,051 400
 Rant Hafner Sava,gyn,5651459,2021-12-23,,,,Škofjeloška cesta 6,4000 Kranj,,,,
 Bračko Monika,den-y,90255,2021-12-23,Sprejema nove paciente.,y,,,,,,,
 Potočnik Virnik Nuša,gp,ozgra,2021-12-27,Zdravnica ne dela do preklica.,n,,,,,,,
-Vujović Vladimir,den-y,6183191,2021-12-27,,,,Žanova ulica 3,4000 Kranj,064/261-477,,,
 Stušek Andreja,gp,656012,2021-12-27,Zdravnik ne dela več pri tem izvajalcu.,n,,,,,,,
 Hladnik Žiga,gp,656012,2021-12-27,Ne sprejema novih pacientov.,n,,,,,,,
 Bartolac Mario,gp,656012,2021-12-27,Ne sprejema novih pacientov.,n,,,,,,,
@@ -146,9 +141,7 @@ Vurcer Nuša,den,4535557,2021-12-28,Ne sprejema novih pacientov.,n,,,,,,,
 Vehar Magdalena,den-s,680829,2021-12-28,,,,,,+386 1 200 74 41,,ambulanta.vehar@zdstudenti.si,https://www.zdstudenti.si/navodila-za-paciente/navodila-za-narocanje/
 Lang Premru Andreja,den-s,680829,2021-12-28,,,,,,,,ambulanta.langpremru@zdstudenti.si,https://www.zdstudenti.si/navodila-za-paciente/navodila-za-narocanje/
 Rant Alja,den-s,680829,2021-12-28,,,,,,,,ambulanta.rant@zdstudenti.si,https://www.zdstudenti.si/navodila-za-paciente/navodila-za-narocanje/
-Hristić Ana,den-s,680829,2021-12-28,,,,,,,,ambulanta.hristic@zdstudenti.si,https://www.zdstudenti.si/navodila-za-paciente/navodila-za-narocanje/
 Vovnik Dolhar Maja,den-s,680829,2021-12-28,,,,,,,,ambulanta.vovnikdolhar@zdstudenti.si,https://www.zdstudenti.si/navodila-za-paciente/navodila-za-narocanje/
-Terzić Bojan,den-s,680829,2021-12-28,,,,,,,,ambulanta.terzic@zdstudenti.si,https://www.zdstudenti.si/navodila-za-paciente/navodila-za-narocanje/
 Ogrin Marija,den-y,3137209,2021-12-28,,,,,,+386 1 750 24 92,https://zobozdravstvo-ogrin.si,,https://zobozdravstvo-ogrin.si/narocanje
 Starman Tina,den-y,90255,2021-12-28,,,,,,023331820,https://www.zd-mb.si/Storitve/Zdravniki?id=13066#doctorAnchor,sza.tina.starman@zd-mb.si,
 Dražetić Nives,gp,205431,2021-12-28,,,,Javorškova ulica 9,1315 Velike Lašče,01/788-99-74,https://www.zdribnica.si/velike-lasce/,splosna.drazetic@zdribnica.si,
