@@ -210,6 +210,9 @@ def get_zzzs_api_data_by_category():
     df.sort_values(by=[*df], inplace=True) # sort by all columns
     df.to_csv('zzzs/institutions-by-category.csv')
 
+def get_zzzs_id_map():
+    df = pd.read_csv('zzzs/institutions-by-category.csv', index_col=['naziv'])
+
     # create lookup dictionary for ZZZS ID
     zzzsid_map = df.reset_index()[['zzzsSt', 'naziv']].set_index('naziv').to_dict()['zzzsSt']
 
@@ -304,8 +307,9 @@ if __name__ == "__main__":
     old_hash_doctors = sha1sum(fname_doctors)
 
     download_zzzs_xlsx_files()
-    get_zzzs_api_data_all()
-    zzzsid_map = get_zzzs_api_data_by_category()
+    # get_zzzs_api_data_all()
+    # get_zzzs_api_data_by_category()
+    zzzsid_map = get_zzzs_id_map()
     convert_to_csv(zzzsid_map)
     append_overrides()
     geocode_addresses()
