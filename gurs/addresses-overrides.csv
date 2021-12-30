@@ -1,6 +1,7 @@
 postOver,addressOver
 1000 Ljubljana,Rakovniška ulica 4
 1000 Ljubljana,Savska cesta 10
+1000 Ljubljana,Zemljemerska ulica 5
 1000 Ljubljana,Čufarjeva ulica 11
 1218 Komenda,Glavarjeva cesta 61a
 1231 Ljubljana-Črnuče,Primožičeva ulica 2
@@ -20,6 +21,8 @@ postOver,addressOver
 2370 Dravograd,Trg 4. julija 9
 3000 Celje,Gregorčičeva ulica 5
 3272 Rimske Toplice,Aškerčeva cesta 4
+3301 Petrovče,Petrovče 33
+3305 Vransko,Vransko 130d
 3325 Šoštanj,Trg Jožeta Lampreta 1
 3333 Ljubno ob Savinji,Foršt 28
 4000 Kranj,Ljubljanska cesta 24A
@@ -33,7 +36,10 @@ postOver,addressOver
 4226 Žiri,Trg svobode 9
 4228 Železniki,Racovnik 29
 4264 Bohinjska Bistrica,Triglavska cesta 15
+5230 Bovec,Kot 85
 5231 Kanal,Morsko 1
+5291 Miren,Miren 137
+5292 Renče,Trg 25
 5292 Šempeter pri Gorici,Cesta prekomorskih brigad 25
 6215 Divača,Ulica 1. maja 1
 6230 Postojna,Kolodvorska cesta 25
