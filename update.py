@@ -102,6 +102,8 @@ def append_overrides():
 
     print ('Overrides by day:')
     print (overrides.groupby(['date_override']).count())
+    print ('Overrides by note:')
+    print (overrides.groupby(['note_override', 'accepts_override'])['accepts_override'].count())
     print ('Overrides Total:')
     print (overrides.count())
 
