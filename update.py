@@ -100,6 +100,11 @@ def append_overrides():
 
     doctors.to_csv('csv/doctors.csv')
 
+    print ('Overrides by day:')
+    print (overrides.groupby(['date_override']).count())
+    print ('Overrides Total:')
+    print (overrides.count())
+
 
 def geocode_addresses():
     xlsxAddresses = pd.read_csv('csv/institutions.csv', usecols=['city','address']).rename(columns={'city':'cityZZZS','address':'addressZZZS'})
@@ -242,7 +247,6 @@ def add_zzzs_api_data():
     # apiInstitutions = pd.read_csv('zzzs/institutions-all.csv', index_col=['naziv'])
     apiInstitutions = pd.read_csv('zzzs/institutions-by-category.csv', index_col=['naziv'])
     apiInstitutions['zzzsSt'] = apiInstitutions['zzzsSt'].astype(int).astype(str)
-    print(apiInstitutions)
 
     institutions = pd.read_csv('csv/institutions.csv', index_col=['id_inst'])
     institutions = institutions.merge(apiInstitutions[['zzzsSt','tel','splStran']], how = 'left', left_on = ['name'], right_index=True, suffixes=['', '_api'])
@@ -251,7 +255,6 @@ def add_zzzs_api_data():
     colZzzsSt = institutions.pop("zzzsSt")
     institutions.insert(0, colZzzsSt.name, colZzzsSt)
 
-    print(institutions)
     institutions.to_csv('csv/institutions.csv')
 
 
