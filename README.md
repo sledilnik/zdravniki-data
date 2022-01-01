@@ -35,6 +35,12 @@ ___
 
 * :question: Potencialno: [Izvajalci zdravstvene dejavnosti](https://www.nijz.si/podatki/izvajalci-zdravstvene-dejavnosti)
 
+### ZZS (Zdravniška zbornica Slovenije)
+
+* :question: Potencialno: [Javni iskalnik zdravnikov in zobozdravnikov](https://www.zdravniskazbornica.si/informacije-publikacije-in-analize/javni-iskalnik-zdravnikov-in-zobozdravnikov)
+* :question: Potencialno: Register zdravnikov ([metapodatki](https://www.zdravniskazbornica.si/docs/default-source/default-document-library/register-zdravnikov.pdf))
+* :question: Potencialno: Ostale [informacije javnega značaja](https://www.zdravniskazbornica.si/informacije-publikacije-in-analize/informacije-javnega-znacaja)
+
 ### GURS
 
 * :white_check_mark: [Register Prostorskih Enot (RPE)](https://podatki.gov.si/dataset/register-prostorskih-enot)
