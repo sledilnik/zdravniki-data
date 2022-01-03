@@ -313,7 +313,7 @@ if __name__ == "__main__":
 
     download_zzzs_xlsx_files()
     get_zzzs_api_data_all()
-    # get_zzzs_api_data_by_category()
+    get_zzzs_api_data_by_category()
     zzzsid_map = get_zzzs_id_map()
     convert_to_csv(zzzsid_map)
     append_overrides()
