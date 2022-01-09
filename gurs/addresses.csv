@@ -466,29 +466,29 @@ cityZZZS,addressZZZS,lat,lon,street,streetAlt,housenumber,housenumberAppendix,ci
 2241 SPODNJI DUPLEK,KORENSKA CESTA 31,46.50402,15.75597,Korenska cesta,,31,,Spodnji Duplek,,Spodnji Duplek,Duplek,2241,Spodnji Duplek,Podravska
 2241 SPODNJI DUPLEK,ZGORNJI DUPLEK 103 A,46.51524,15.72835,Zgornji Duplek,,103,A,Zgornji Duplek,,Zgornji Duplek,Duplek,2241,Spodnji Duplek,Podravska
 2242 ZGORNJA KORENA,ŽIKARCE 1 A,46.52291,15.78266,Žikarce,,1,A,Žikarce,,Korena,Duplek,2242,Zgornja Korena,Podravska
-2250 PTUJ,LANGUSOVA ULICA 8,46.43101,15.88301,Langusova ulica,,8,,Ptuj,,"Četrt Ljudski vrt, Rimska ploščad 24",Ptuj,2250,Ptuj,Podravska
-2250 PTUJ,NA TRATAH 4,46.41683,15.87719,Na tratah,,4,,Ptuj,,"Četrt Jezero, Belšakova ulica 20a",Ptuj,2250,Ptuj,Podravska
-2250 PTUJ,OSOJNIKOVA CESTA 9,46.42061,15.87558,Osojnikova cesta,,9,,Ptuj,,"Četrt Center,Jadranska ulica 6",Ptuj,2250,Ptuj,Podravska
-2250 PTUJ,PANONSKA ULICA 5,46.42388,15.87348,Panonska ulica,,5,,Ptuj,,"Četrt Center,Jadranska ulica 6",Ptuj,2250,Ptuj,Podravska
-2250 PTUJ,POT V TOPLICE 9,46.42154,15.85575,Pot v toplice,,9,,Ptuj,,"Četrt Breg-Turnišče,Mestni trg 1",Ptuj,2250,Ptuj,Podravska
-2250 PTUJ,POTRČEVA CESTA 15,46.42472,15.87653,Potrčeva cesta,,15,,Ptuj,,"Četrt Center,Jadranska ulica 6",Ptuj,2250,Ptuj,Podravska
-2250 PTUJ,POTRČEVA CESTA 17,46.42485,15.87672,Potrčeva cesta,,17,,Ptuj,,"Četrt Center,Jadranska ulica 6",Ptuj,2250,Ptuj,Podravska
-2250 PTUJ,POTRČEVA CESTA 19 A,46.42513,15.87566,Potrčeva cesta,,19,A,Ptuj,,"Četrt Center,Jadranska ulica 6",Ptuj,2250,Ptuj,Podravska
-2250 PTUJ,POTRČEVA CESTA 23,46.42609,15.87709,Potrčeva cesta,,23,,Ptuj,,"Četrt Center,Jadranska ulica 6",Ptuj,2250,Ptuj,Podravska
-2250 PTUJ,POTRČEVA CESTA 33,46.42660,15.87898,Potrčeva cesta,,33,,Ptuj,,"Četrt Ljudski vrt, Rimska ploščad 24",Ptuj,2250,Ptuj,Podravska
-2250 PTUJ,POTRČEVA CESTA 4 A,46.42174,15.87383,Potrčeva cesta,,4,A,Ptuj,,"Četrt Center,Jadranska ulica 6",Ptuj,2250,Ptuj,Podravska
-2250 PTUJ,POTRČEVA CESTA 49,46.42764,15.88104,Potrčeva cesta,,49,,Ptuj,,"Četrt Ljudski vrt, Rimska ploščad 24",Ptuj,2250,Ptuj,Podravska
-2250 PTUJ,PUHOVA ULICA 9 A,46.41829,15.88530,Puhova ulica,,9,A,Ptuj,,"Četrt Jezero, Belšakova ulica 20a",Ptuj,2250,Ptuj,Podravska
-2250 PTUJ,RAJŠPOVA ULICA 16,46.41951,15.88151,Rajšpova ulica,,16,,Ptuj,,"Četrt Jezero, Belšakova ulica 20a",Ptuj,2250,Ptuj,Podravska
-2250 PTUJ,RAJŠPOVA ULICA 20,46.42031,15.88207,Rajšpova ulica,,20,,Ptuj,,"Četrt Jezero, Belšakova ulica 20a",Ptuj,2250,Ptuj,Podravska
-2250 PTUJ,ROGOZNIŠKA CESTA 32,46.42610,15.88611,Rogozniška cesta,,32,,Ptuj,,"Četrt Jezero, Belšakova ulica 20a",Ptuj,2250,Ptuj,Podravska
-2250 PTUJ,ROGOZNIŠKA CESTA 32 A,46.42600,15.88643,Rogozniška cesta,,32,A,Ptuj,,"Četrt Jezero, Belšakova ulica 20a",Ptuj,2250,Ptuj,Podravska
-2250 PTUJ,SLOVENSKOGORIŠKA CESTA 39,46.43302,15.88830,Slovenskogoriška cesta,,39,,Ptuj,,"Četrt Rogoznica,Slovenskogoriška cesta 18",Ptuj,2250,Ptuj,Podravska
-2250 PTUJ,TRSTENJAKOVA ULICA 5,46.42110,15.87385,Trstenjakova ulica,,5,,Ptuj,,"Četrt Center,Jadranska ulica 6",Ptuj,2250,Ptuj,Podravska
-2250 PTUJ,TRSTENJAKOVA ULICA 9,46.42049,15.87424,Trstenjakova ulica,,9,,Ptuj,,"Četrt Center,Jadranska ulica 6",Ptuj,2250,Ptuj,Podravska
-2250 PTUJ,VOLKMERJEVA CESTA 10,46.42436,15.87378,Volkmerjeva cesta,,10,,Ptuj,,"Četrt Center,Jadranska ulica 6",Ptuj,2250,Ptuj,Podravska
-2250 PTUJ,VOLKMERJEVA CESTA 63,46.43203,15.86728,Volkmerjeva cesta,,63,,Ptuj,,"Četrt Ljudski vrt, Rimska ploščad 24",Ptuj,2250,Ptuj,Podravska
-2250 PTUJ,ŠPINDLERJEVA ULICA 1,46.42695,15.89034,Špindlerjeva ulica,,1,,Ptuj,,"Četrt Jezero, Belšakova ulica 20a",Ptuj,2250,Ptuj,Podravska
+2250 PTUJ,LANGUSOVA ULICA 8,46.43101,15.88301,Langusova ulica,,8,,Ptuj,,Četrt Ljudski vrt,Ptuj,2250,Ptuj,Podravska
+2250 PTUJ,NA TRATAH 4,46.41683,15.87719,Na tratah,,4,,Ptuj,,Četrt Jezero,Ptuj,2250,Ptuj,Podravska
+2250 PTUJ,OSOJNIKOVA CESTA 9,46.42061,15.87558,Osojnikova cesta,,9,,Ptuj,,Četrt Center,Ptuj,2250,Ptuj,Podravska
+2250 PTUJ,PANONSKA ULICA 5,46.42388,15.87348,Panonska ulica,,5,,Ptuj,,Četrt Center,Ptuj,2250,Ptuj,Podravska
+2250 PTUJ,POT V TOPLICE 9,46.42154,15.85575,Pot v toplice,,9,,Ptuj,,Četrt Breg-Turnišče,Ptuj,2250,Ptuj,Podravska
+2250 PTUJ,POTRČEVA CESTA 15,46.42472,15.87653,Potrčeva cesta,,15,,Ptuj,,Četrt Center,Ptuj,2250,Ptuj,Podravska
+2250 PTUJ,POTRČEVA CESTA 17,46.42485,15.87672,Potrčeva cesta,,17,,Ptuj,,Četrt Center,Ptuj,2250,Ptuj,Podravska
+2250 PTUJ,POTRČEVA CESTA 19 A,46.42513,15.87566,Potrčeva cesta,,19,A,Ptuj,,Četrt Center,Ptuj,2250,Ptuj,Podravska
+2250 PTUJ,POTRČEVA CESTA 23,46.42609,15.87709,Potrčeva cesta,,23,,Ptuj,,Četrt Center,Ptuj,2250,Ptuj,Podravska
+2250 PTUJ,POTRČEVA CESTA 33,46.42660,15.87898,Potrčeva cesta,,33,,Ptuj,,Četrt Ljudski vrt,Ptuj,2250,Ptuj,Podravska
+2250 PTUJ,POTRČEVA CESTA 4 A,46.42174,15.87383,Potrčeva cesta,,4,A,Ptuj,,Četrt Center,Ptuj,2250,Ptuj,Podravska
+2250 PTUJ,POTRČEVA CESTA 49,46.42764,15.88104,Potrčeva cesta,,49,,Ptuj,,Četrt Ljudski vrt,Ptuj,2250,Ptuj,Podravska
+2250 PTUJ,PUHOVA ULICA 9 A,46.41829,15.88530,Puhova ulica,,9,A,Ptuj,,Četrt Jezero,Ptuj,2250,Ptuj,Podravska
+2250 PTUJ,RAJŠPOVA ULICA 16,46.41951,15.88151,Rajšpova ulica,,16,,Ptuj,,Četrt Jezero,Ptuj,2250,Ptuj,Podravska
+2250 PTUJ,RAJŠPOVA ULICA 20,46.42031,15.88207,Rajšpova ulica,,20,,Ptuj,,Četrt Jezero,Ptuj,2250,Ptuj,Podravska
+2250 PTUJ,ROGOZNIŠKA CESTA 32,46.42610,15.88611,Rogozniška cesta,,32,,Ptuj,,Četrt Jezero,Ptuj,2250,Ptuj,Podravska
+2250 PTUJ,ROGOZNIŠKA CESTA 32 A,46.42600,15.88643,Rogozniška cesta,,32,A,Ptuj,,Četrt Jezero,Ptuj,2250,Ptuj,Podravska
+2250 PTUJ,SLOVENSKOGORIŠKA CESTA 39,46.43302,15.88830,Slovenskogoriška cesta,,39,,Ptuj,,Četrt Rogoznica,Ptuj,2250,Ptuj,Podravska
+2250 PTUJ,TRSTENJAKOVA ULICA 5,46.42110,15.87385,Trstenjakova ulica,,5,,Ptuj,,Četrt Center,Ptuj,2250,Ptuj,Podravska
+2250 PTUJ,TRSTENJAKOVA ULICA 9,46.42049,15.87424,Trstenjakova ulica,,9,,Ptuj,,Četrt Center,Ptuj,2250,Ptuj,Podravska
+2250 PTUJ,VOLKMERJEVA CESTA 10,46.42436,15.87378,Volkmerjeva cesta,,10,,Ptuj,,Četrt Center,Ptuj,2250,Ptuj,Podravska
+2250 PTUJ,VOLKMERJEVA CESTA 63,46.43203,15.86728,Volkmerjeva cesta,,63,,Ptuj,,Četrt Ljudski vrt,Ptuj,2250,Ptuj,Podravska
+2250 PTUJ,ŠPINDLERJEVA ULICA 1,46.42695,15.89034,Špindlerjeva ulica,,1,,Ptuj,,Četrt Jezero,Ptuj,2250,Ptuj,Podravska
 2252 DORNAVA,DORNAVA 128,46.43170,15.94637,Dornava,,128,,Dornava,,,Dornava,2252,Dornava,Podravska
 2252 DORNAVA,DORNAVA 135 A,46.43405,15.95139,Dornava,,135,A,Dornava,,,Dornava,2252,Dornava,Podravska
 2253 DESTRNIK,DESTRNIK 9,46.49296,15.87572,Destrnik,,9,,Destrnik,,,Destrnik,2253,Destrnik,Podravska
