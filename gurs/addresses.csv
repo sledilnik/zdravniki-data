@@ -162,6 +162,7 @@ cityZZZS,addressZZZS,lat,lon,street,streetAlt,housenumber,housenumberAppendix,ci
 1000 LJUBLJANA,VILHARJEV PODHOD 1,46.06032,14.51507,Vilharjev podhod,,1,,Ljubljana,,Četrtna skupnost Bežigrad,Ljubljana,1000,Ljubljana,Osrednjeslovenska
 1000 LJUBLJANA,VILHARJEV PODHOD 18,46.06015,14.51605,Vilharjev podhod,,18,,Ljubljana,,Četrtna skupnost Bežigrad,Ljubljana,1000,Ljubljana,Osrednjeslovenska
 1000 LJUBLJANA,VILHARJEV PODHOD 7,46.06035,14.51578,Vilharjev podhod,,7,,Ljubljana,,Četrtna skupnost Bežigrad,Ljubljana,1000,Ljubljana,Osrednjeslovenska
+1000 LJUBLJANA,VILHARJEVA CESTA 25,46.06020,14.51486,Vilharjeva cesta,,25,,Ljubljana,,Četrtna skupnost Bežigrad,Ljubljana,1000,Ljubljana,Osrednjeslovenska
 1000 LJUBLJANA,VILHARJEVA CESTA 27,46.06020,14.51545,Vilharjeva cesta,,27,,Ljubljana,,Četrtna skupnost Bežigrad,Ljubljana,1000,Ljubljana,Osrednjeslovenska
 1000 LJUBLJANA,VODNIKOVA CESTA 187,46.07405,14.47528,Vodnikova cesta,,187,,Ljubljana,,Četrtna skupnost Šiška,Ljubljana,1000,Ljubljana,Osrednjeslovenska
 1000 LJUBLJANA,VODNIKOVA CESTA 56,46.06700,14.48819,Vodnikova cesta,,56,,Ljubljana,,Četrtna skupnost Šiška,Ljubljana,1000,Ljubljana,Osrednjeslovenska
@@ -732,7 +733,6 @@ cityZZZS,addressZZZS,lat,lon,street,streetAlt,housenumber,housenumberAppendix,ci
 4000 KRANJ,BLEIWEISOVA CESTA 6,46.24613,14.35528,Bleiweisova cesta,,6,,Kranj,,Vodovodni stolp,Kranj,4000,Kranj,Gorenjska
 4000 KRANJ,CESTA 1. MAJA 59,46.23449,14.36147,Cesta 1. maja,,59,,Kranj,,Planina,Kranj,4000,Kranj,Gorenjska
 4000 KRANJ,CESTA JAKA PLATIŠE 21,46.24110,14.37191,Cesta Jaka Platiše,,21,,Kranj,,Primskovo,Kranj,4000,Kranj,Gorenjska
-4000 KRANJ,CESTA NA KLANEC 8 D,46.24201,14.36416,Cesta na Klanec,,8,D,Kranj,,Primskovo,Kranj,4000,Kranj,Gorenjska
 4000 KRANJ,GLAVNI TRG 21,46.23936,14.35532,Glavni trg,,21,,Kranj,,Center,Kranj,4000,Kranj,Gorenjska
 4000 KRANJ,GOLNIŠKA CESTA 105,46.27324,14.35145,Golniška cesta,,105,,Mlaka pri Kranju,,Kokrica,Kranj,4000,Kranj,Gorenjska
 4000 KRANJ,GOSPOSVETSKA ULICA 10,46.24890,14.35325,Gosposvetska ulica,,10,,Kranj,,Zlato polje,Kranj,4000,Kranj,Gorenjska
@@ -971,7 +971,6 @@ cityZZZS,addressZZZS,lat,lon,street,streetAlt,housenumber,housenumberAppendix,ci
 6310 IZOLA - ISOLA,POLJE 40,45.54442,13.68709,Polje,Polje,40,,Izola,Isola,Livade,Izola,6310,Izola - Isola,Obalno-kraška
 6310 IZOLA - ISOLA,PREŠERNOVA CESTA 53,45.53019,13.65195,Prešernova cesta,Strada France Prešeren,53,,Izola,Isola,Livade,Izola,6310,Izola - Isola,Obalno-kraška
 6310 IZOLA - ISOLA,ULICA OKTOBRSKE REVOLUCIJE 11,45.53464,13.66078,Ulica oktobrske revolucije,Via Rivoluzione d'Ottobre,11,,Izola,Isola,Haliaetum,Izola,6310,Izola - Isola,Obalno-kraška
-6310 IZOLA - ISOLA,ULICA ZVONIMIRA MILOŠA 25,45.53070,13.66413,Ulica Zvonimira Miloša,Via Zvonimir Miloš,25,,Izola,Isola,Livade,Izola,6310,Izola - Isola,Obalno-kraška
 6310 IZOLA - ISOLA,ŠARED 51,45.51187,13.65781,Šared,,51,,Šared,,Korte,Izola,6310,Izola - Isola,Obalno-kraška
 6320 PORTOROŽ - PORTOROSE,BELOKRIŠKA CESTA 44 C,45.51793,13.58636,Belokriška cesta,Strada di Croce Bianca,44,C,Portorož,Portorose,Portorož,Piran,6320,Portorož - Portorose,Obalno-kraška
 6320 PORTOROŽ - PORTOROSE,CESTA SOLINARJEV 1,45.50452,13.60205,Cesta solinarjev,Strada dei Salinari,1,,Lucija,Lucia,Lucija,Piran,6320,Portorož - Portorose,Obalno-kraška
