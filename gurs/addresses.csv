@@ -2,7 +2,6 @@ cityZZZS,addressZZZS,lat,lon,street,streetAlt,housenumber,housenumberAppendix,ci
 1000 LJUBLJANA,ALJAŽEVA ULICA 30,46.06839,14.49548,Aljaževa ulica,,30,,Ljubljana,,Četrtna skupnost Šiška,Ljubljana,1000,Ljubljana,Osrednjeslovenska
 1000 LJUBLJANA,AMERIŠKA ULICA 13,46.06609,14.54281,Ameriška ulica,,13,,Ljubljana,,Četrtna skupnost Jarše,Ljubljana,1000,Ljubljana,Osrednjeslovenska
 1000 LJUBLJANA,AŠKERČEVA CESTA 4,46.04687,14.49913,Aškerčeva cesta,,4,,Ljubljana,,Četrtna skupnost Center,Ljubljana,1000,Ljubljana,Osrednjeslovenska
-1000 LJUBLJANA,AŽBETOVA ULICA 4,46.05092,14.49045,Ažbetova ulica,,4,,Ljubljana,,Četrtna skupnost Rožnik,Ljubljana,1000,Ljubljana,Osrednjeslovenska
 1000 LJUBLJANA,BEETHOVNOVA ULICA 6,46.05163,14.50200,Beethovnova ulica,,6,,Ljubljana,,Četrtna skupnost Center,Ljubljana,1000,Ljubljana,Osrednjeslovenska
 1000 LJUBLJANA,BOHORIČEVA ULICA 5,46.05543,14.52005,Bohoričeva ulica,,5,,Ljubljana,,Četrtna skupnost Center,Ljubljana,1000,Ljubljana,Osrednjeslovenska
 1000 LJUBLJANA,BRAJNIKOVA ULICA 20,46.07204,14.46614,Brajnikova ulica,,20,,Ljubljana,,Četrtna skupnost Šiška,Ljubljana,1000,Ljubljana,Osrednjeslovenska
@@ -153,7 +152,6 @@ cityZZZS,addressZZZS,lat,lon,street,streetAlt,housenumber,housenumberAppendix,ci
 1000 LJUBLJANA,UKMARJEVA ULICA 4,46.02086,14.53912,Ukmarjeva ulica,,4,,Ljubljana,,Četrtna skupnost Rudnik,Ljubljana,1000,Ljubljana,Osrednjeslovenska
 1000 LJUBLJANA,ULICA ALME SODNIK 6,46.07385,14.49536,Ulica Alme Sodnik,,6,,Ljubljana,,Četrtna skupnost Šiška,Ljubljana,1000,Ljubljana,Osrednjeslovenska
 1000 LJUBLJANA,ULICA BRATOV BABNIK 10,46.07645,14.46600,Ulica bratov Babnik,,10,,Ljubljana,,Četrtna skupnost Dravlje,Ljubljana,1000,Ljubljana,Osrednjeslovenska
-1000 LJUBLJANA,ULICA BRATOV BEZLAJEV 11,46.06929,14.46817,Ulica bratov Bezlajev,,11,,Ljubljana,,Četrtna skupnost Šiška,Ljubljana,1000,Ljubljana,Osrednjeslovenska
 1000 LJUBLJANA,ULICA BRATOV UČAKAR 58,46.07236,14.47342,Ulica bratov Učakar,,58,,Ljubljana,,Četrtna skupnost Šiška,Ljubljana,1000,Ljubljana,Osrednjeslovenska
 1000 LJUBLJANA,ULICA BRATOV UČAKAR 64,46.07216,14.47257,Ulica bratov Učakar,,64,,Ljubljana,,Četrtna skupnost Šiška,Ljubljana,1000,Ljubljana,Osrednjeslovenska
 1000 LJUBLJANA,ULICA LOJZETA SPACALA 10,46.06747,14.47210,Ulica Lojzeta Spacala,,10,,Ljubljana,,Četrtna skupnost Šiška,Ljubljana,1000,Ljubljana,Osrednjeslovenska
@@ -232,7 +230,6 @@ cityZZZS,addressZZZS,lat,lon,street,streetAlt,housenumber,housenumberAppendix,ci
 1234 MENGEŠ,ZORANINA ULICA 3,46.16207,14.57100,Zoranina ulica,,3,,Mengeš,,,Mengeš,1234,Mengeš,Osrednjeslovenska
 1235 RADOMLJE,KAMNIŠKA CESTA 24,46.16800,14.59490,Kamniška cesta,,24,,Preserje pri Radomljah,,Preserje,Domžale,1235,Radomlje,Osrednjeslovenska
 1235 RADOMLJE,PELECHOVA CESTA 18,46.16801,14.59744,Pelechova cesta,,18,,Preserje pri Radomljah,,Preserje,Domžale,1235,Radomlje,Osrednjeslovenska
-1241 KAMNIK,GLAVNI TRG 25,46.22615,14.61199,Glavni trg,,25,,Kamnik,,Kamnik-Center,Kamnik,1241,Kamnik,Osrednjeslovenska
 1241 KAMNIK,LJUBLJANSKA CESTA 4 J,46.21694,14.60311,Ljubljanska cesta,,4,J,Kamnik,,Perovo,Kamnik,1241,Kamnik,Osrednjeslovenska
 1241 KAMNIK,NA JASI 6,46.20853,14.61180,Na jasi,,6,,Kamnik,,Novi trg,Kamnik,1241,Kamnik,Osrednjeslovenska
 1241 KAMNIK,NEVELJSKA POT 26,46.22911,14.61814,Neveljska pot,,26,,Mekinje,,Mekinje,Kamnik,1241,Kamnik,Osrednjeslovenska
@@ -281,7 +278,6 @@ cityZZZS,addressZZZS,lat,lon,street,streetAlt,housenumber,housenumberAppendix,ci
 1314 ROB,SEKIRIŠČE 3,45.86360,14.53704,Sekirišče,,3,,Sekirišče,,,Velike Lašče,1314,Rob,Osrednjeslovenska
 1315 VELIKE LAŠČE,JAVORŠKOVA ULICA 9,45.83502,14.63767,Javorškova ulica,,9,,Velike Lašče,,,Velike Lašče,1315,Velike Lašče,Osrednjeslovenska
 1330 KOČEVJE,KEKČEVA ULICA 3,45.64144,14.85424,Kekčeva ulica,,3,,Kočevje,,Kočevje-mesto,Kočevje,1330,Kočevje,Jugovzhodna Slovenija
-1330 KOČEVJE,LJUBLJANSKA CESTA 1 A,45.63986,14.85913,Ljubljanska cesta,,1,A,Kočevje,,Kočevje-mesto,Kočevje,1330,Kočevje,Jugovzhodna Slovenija
 1330 KOČEVJE,LJUBLJANSKA CESTA 19,45.64149,14.85688,Ljubljanska cesta,,19,,Kočevje,,Kočevje-mesto,Kočevje,1330,Kočevje,Jugovzhodna Slovenija
 1330 KOČEVJE,ROŠKA CESTA 16,45.63880,14.86553,Roška cesta,,16,,Kočevje,,Kočevje-mesto,Kočevje,1330,Kočevje,Jugovzhodna Slovenija
 1330 KOČEVJE,ROŠKA CESTA 17,45.63932,14.86400,Roška cesta,,17,,Kočevje,,Kočevje-mesto,Kočevje,1330,Kočevje,Jugovzhodna Slovenija
@@ -430,7 +426,6 @@ cityZZZS,addressZZZS,lat,lon,street,streetAlt,housenumber,housenumberAppendix,ci
 2000 MARIBOR,VEZNA POT 1,46.57373,15.64297,Vezna pot,,1,,Ribniško selo,,Center,Maribor,2000,Maribor,Podravska
 2000 MARIBOR,VINARSKA ULICA 6,46.56527,15.64339,Vinarska ulica,,6,,Maribor,,Koroška vrata,Maribor,2000,Maribor,Podravska
 2000 MARIBOR,VOLODJEVA ULICA 17,46.53031,15.66820,Volodjeva ulica,,17,,Maribor,,Tezno,Maribor,2000,Maribor,Podravska
-2000 MARIBOR,VOŠNJAKOVA ULICA 20,46.55765,15.65252,Vošnjakova ulica,,20,,Maribor,,Center,Maribor,2000,Maribor,Podravska
 2000 MARIBOR,VRBANSKA CESTA 35,46.56527,15.63387,Vrbanska cesta,,35,,Maribor,,Koroška vrata,Maribor,2000,Maribor,Podravska
 2000 MARIBOR,ZRKOVSKA CESTA 188 D,46.54943,15.68951,Zrkovska cesta,,188,D,Maribor,,Pobrežje,Maribor,2000,Maribor,Podravska
 2000 MARIBOR,ZRKOVSKA CESTA 67,46.55598,15.67174,Zrkovska cesta,,67,,Maribor,,Pobrežje,Maribor,2000,Maribor,Podravska
@@ -714,7 +709,6 @@ cityZZZS,addressZZZS,lat,lon,street,streetAlt,housenumber,housenumberAppendix,ci
 3320 VELENJE,PIREŠICA 11 A,46.34618,15.15981,Pirešica,,11,A,Pirešica,,Vinska Gora,Velenje,3320,Velenje,Savinjska
 3320 VELENJE,PREŠERNOVA CESTA 9 A,46.35935,15.10963,Prešernova cesta,,9,A,Velenje,,Velenje - levi breg - zahod,Velenje,3320,Velenje,Savinjska
 3320 VELENJE,SONČNI GRIČ 7,46.35393,15.12586,Sončni grič,,7,,Velenje,,Gorica,Velenje,3320,Velenje,Savinjska
-3320 VELENJE,STANETOVA CESTA 27,46.36631,15.11286,Stanetova cesta,,27,,Velenje,,Velenje - desni breg,Velenje,3320,Velenje,Savinjska
 3320 VELENJE,SUBOTIŠKA CESTA 12,46.36625,15.10260,Subotiška cesta,,12,,Velenje,,Stara vas,Velenje,3320,Velenje,Savinjska
 3320 VELENJE,VODNIKOVA CESTA 1,46.36151,15.11636,Vodnikova cesta,,1,,Velenje,,Velenje - desni breg,Velenje,3320,Velenje,Savinjska
 3325 ŠOŠTANJ,FLORJAN 165 C,46.38507,15.02767,Florjan,,165,C,Florjan,,Skorno - Florjan,Šoštanj,3325,Šoštanj,Savinjska
@@ -975,7 +969,6 @@ cityZZZS,addressZZZS,lat,lon,street,streetAlt,housenumber,housenumberAppendix,ci
 6320 PORTOROŽ - PORTOROSE,BELOKRIŠKA CESTA 44 C,45.51793,13.58636,Belokriška cesta,Strada di Croce Bianca,44,C,Portorož,Portorose,Portorož,Piran,6320,Portorož - Portorose,Obalno-kraška
 6320 PORTOROŽ - PORTOROSE,CESTA SOLINARJEV 1,45.50452,13.60205,Cesta solinarjev,Strada dei Salinari,1,,Lucija,Lucia,Lucija,Piran,6320,Portorož - Portorose,Obalno-kraška
 6320 PORTOROŽ - PORTOROSE,FAZAN 1,45.50642,13.60720,Fazan,Fasano,1,,Lucija,Lucia,Lucija,Piran,6320,Portorož - Portorose,Obalno-kraška
-6320 PORTOROŽ - PORTOROSE,LIMINJAN 27 A,45.51319,13.62552,Liminjan,Limignano,27,A,Lucija,Lucia,Lucija,Piran,6320,Portorož - Portorose,Obalno-kraška
 6320 PORTOROŽ - PORTOROSE,OBALA 105,45.50549,13.60232,Obala,Lungomare,105,,Lucija,Lucia,Lucija,Piran,6320,Portorož - Portorose,Obalno-kraška
 6320 PORTOROŽ - PORTOROSE,OBALA 112,45.50425,13.60289,Obala,Lungomare,112,,Lucija,Lucia,Lucija,Piran,6320,Portorož - Portorose,Obalno-kraška
 6320 PORTOROŽ - PORTOROSE,OBALA 114,45.50349,13.60337,Obala,Lungomare,114,,Lucija,Lucia,Lucija,Piran,6320,Portorož - Portorose,Obalno-kraška
