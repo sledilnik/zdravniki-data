@@ -106,12 +106,9 @@ def append_overrides():
 
     doctors.to_csv('csv/doctors.csv')
 
-    print ('Overrides by day:')
-    print (overrides.groupby(['date_override']).count())
-    print ('Overrides by note:')
-    print (overrides.groupby(['note_override', 'accepts_override'])['accepts_override'].count().sort_values(ascending=False))
-    print ('Overrides Total:')
-    print (overrides.count())
+    overrides.count().to_csv('csv/stats-overrides.csv')
+    overrides.groupby(['date_override']).count().to_csv('csv/stats-overrides-by-day.csv')
+    overrides.groupby(['note_override','accepts_override'])['accepts_override'].count().to_csv('csv/stats-overrides-accepts.csv')
 
 
 def geocode_addresses():
