@@ -96,6 +96,12 @@ def append_overrides():
     doctors = pd.read_csv('csv/doctors.csv', index_col=['doctor','type','id_inst'])
     overrides = pd.read_csv('csv/overrides.csv', index_col=['doctor','type','id_inst'])
 
+    if not overrides.index.is_unique:
+        print ("============= DUPLICATES ============")
+        duplicates = overrides[overrides.index.duplicated(keep=False)]
+        print (duplicates)
+        exit(1)
+
     doctors = doctors.join(overrides)
 
     doctors.to_csv('csv/doctors.csv')
