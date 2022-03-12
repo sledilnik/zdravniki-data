@@ -64,7 +64,7 @@ id_inst,zzzsSt,name,unit,address,post,city,municipalityPart,municipality,lat,lon
 4574404,4574404,"ATELJE D, ZOBOZDRAVSTVO, STORITVE IN SVETOVANJE, D.O.O.",OE MARIBOR,Koroška cesta 113C,2000 Maribor,Maribor,Koroška vrata,Maribor,46.56093,15.62844,(02) 252 75 74,https://www.cakalnedobe.si/ambulante/atelje-d-zobozdravstvo-storitve-in-svetovanje-d-o-o
 617685,617685,BABIT ZOBOZDRAVSTVENI CENTER D.O.O.,OE LJUBLJANA,Kolezijska ulica 25,1000 Ljubljana,Ljubljana,Četrtna skupnost Trnovo,Ljubljana,46.04145,14.4975,(01) 283 61 70,https://www.babit.si/
 3454818,3454818,BAKLAN BRIGITA - ZASEBNA AMBULANTA SPLOŠNE MEDICINE,IZPOSTAVA PTUJ,Markovci 43,2281 Markovci,Markovci,,Markovci,46.3943,15.93041,(02) 788 82 10,https://www.zdravniki-zobozdravniki.net/clan/Brigita-BAKLAN-692/
-3096695,3096695,BAN-FRIŠČIČ GORDANA - DOKTOR STOMATOLOGIJE,IZPOSTAVA IDRIJA,Ulica Otona Župančiča 3,5280 Idrija,Idrija,Idrija,Idrija,46.0022,14.03036,,
+3096695,3096695,BAN-FRIŠČIČ GORDANA - DOKTOR STOMATOLOGIJE,IZPOSTAVA IDRIJA,Ulica Otona Župančiča 3,5280 Idrija,Idrija,Idrija,Idrija,46.00239,14.03016,,
 3122986,3122986,BANKO MILAN - ZASEBNA SPLOŠNA AMBULANTA,IZPOSTAVA DOMŽALE,Mestni trg 2,1230 Domžale,Domžale,Domžale - Slavka Šlandra,Domžale,46.13975,14.59617,01 724 52 34,https://ezdravnik.si/zdravnik/milan-banko/
 579548,579548,"BARSOS-MC, ZDRAVSTVENE STORITVE D.O.O.",OE LJUBLJANA,Gregorčičeva ulica 11,1000 Ljubljana,Ljubljana,Četrtna skupnost Center,Ljubljana,46.04822,14.50041,,https://barsos.si/
 3438973,3438973,BARTOLIĆ-MARTINEZ ŽELJKA - ZASEBNA ZOBNA AMBULANTA,IZPOSTAVA PTUJ,Cirkulane 28,2282 Cirkulane,Cirkulane,,Cirkulane,46.34593,15.99901,(02) 761 04 73,https://www.cakalnedobe.si/ambulante/bartolic-martinez-zeljka-zasebna-zobna-ambulanta
@@ -699,7 +699,7 @@ zdlsi,,ZD LJUBLJANA - ŠIŠKA,OE LJUBLJANA,Derčeva ulica 5,1000 Ljubljana,Ljubl
 821132,821132,ZDRAVSTVENI DOM GORNJA RADGONA,IZPOSTAVA GORNJA RADGONA,Partizanska cesta 40,9250 Gornja Radgona,Gornja Radgona,KS GORNJA RADGONA,Gornja Radgona,46.6734,15.99302,,https://www.zd-gr.si/
 2817672,2817672,ZDRAVSTVENI DOM GROSUPLJE,IZPOSTAVA GROSUPLJE,Pod gozdom cesta I 14,1290 Grosuplje,Grosuplje,Grosuplje,Grosuplje,45.95943,14.65315,,http://sl.zd-grosuplje.si/
 102182,102182,ZDRAVSTVENI DOM HRASTNIK,IZPOSTAVA HRASTNIK,Novi dom 11,1430 Hrastnik,Hrastnik,Rudnik,Hrastnik,46.1403,15.08513,(03) 565 44 50,http://zd-hrastnik.si/
-199109,199109,ZDRAVSTVENI DOM IDRIJA,IZPOSTAVA IDRIJA,Ulica Otona Župančiča 3,5280 Idrija,Idrija,Idrija,Idrija,46.0022,14.03036,,http://www.zd-idrija.si
+199109,199109,ZDRAVSTVENI DOM IDRIJA,IZPOSTAVA IDRIJA,Ulica Otona Župančiča 3,5280 Idrija,Idrija,Idrija,Idrija,46.00239,14.03016,,http://www.zd-idrija.si
 751640,751640,ZDRAVSTVENI DOM ILIRSKA BISTRICA,IZPOSTAVA ILIRSKA BISTRICA,Gregorčičeva cesta 8,6250 Ilirska Bistrica,Ilirska Bistrica,Ilirska Bistrica,Ilirska Bistrica,45.56848,14.24324,05 711 21 00,http://www.zdib.si
 2817701,2817701,ZDRAVSTVENI DOM IVANČNA GORICA,IZPOSTAVA GROSUPLJE,Cesta 2. grupe odredov 16,1295 Ivančna Gorica,Ivančna Gorica,Ivančna Gorica,Ivančna Gorica,45.93759,14.80558,01 781 90 00,http://sl.zd-ivg.si/
 724180,724180,ZDRAVSTVENI DOM IZOLA,IZPOSTAVA IZOLA,Ulica oktobrske revolucije 11,6310 Izola - Isola,Izola,Haliaetum,Izola,45.53464,13.66078,05 663 50 50,https://www.zd-izola.si/
