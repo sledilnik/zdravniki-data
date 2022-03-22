@@ -97,7 +97,6 @@ cityZZZS,addressZZZS,lat,lon,street,streetAlt,housenumber,housenumberAppendix,ci
 1000 LJUBLJANA,OB ZELENI JAMI 3,46.05956,14.52509,Ob zeleni jami,,3,,Ljubljana,,Četrtna skupnost Jarše,Ljubljana,1000,Ljubljana,Osrednjeslovenska
 1000 LJUBLJANA,OPEKARSKA CESTA 11,46.03951,14.50753,Opekarska cesta,,11,,Ljubljana,,Četrtna skupnost Trnovo,Ljubljana,1000,Ljubljana,Osrednjeslovenska
 1000 LJUBLJANA,OPEKARSKA CESTA 30,46.03750,14.50466,Opekarska cesta,,30,,Ljubljana,,Četrtna skupnost Trnovo,Ljubljana,1000,Ljubljana,Osrednjeslovenska
-1000 LJUBLJANA,PALMEJEVA ULICA 14,46.08197,14.51459,Palmejeva ulica,,14,,Ljubljana,,Četrtna skupnost Bežigrad,Ljubljana,1000,Ljubljana,Osrednjeslovenska
 1000 LJUBLJANA,PARMOVA ULICA 51,46.06408,14.50270,Parmova ulica,,51,,Ljubljana,,Četrtna skupnost Bežigrad,Ljubljana,1000,Ljubljana,Osrednjeslovenska
 1000 LJUBLJANA,PARMOVA ULICA 51 B,46.06450,14.50257,Parmova ulica,,51,B,Ljubljana,,Četrtna skupnost Bežigrad,Ljubljana,1000,Ljubljana,Osrednjeslovenska
 1000 LJUBLJANA,PERIČEVA ULICA 25,46.06616,14.51125,Peričeva ulica,,25,,Ljubljana,,Četrtna skupnost Bežigrad,Ljubljana,1000,Ljubljana,Osrednjeslovenska
@@ -163,7 +162,6 @@ cityZZZS,addressZZZS,lat,lon,street,streetAlt,housenumber,housenumberAppendix,ci
 1000 LJUBLJANA,VILHARJEVA CESTA 27,46.06020,14.51545,Vilharjeva cesta,,27,,Ljubljana,,Četrtna skupnost Bežigrad,Ljubljana,1000,Ljubljana,Osrednjeslovenska
 1000 LJUBLJANA,VODNIKOVA CESTA 187,46.07405,14.47528,Vodnikova cesta,,187,,Ljubljana,,Četrtna skupnost Šiška,Ljubljana,1000,Ljubljana,Osrednjeslovenska
 1000 LJUBLJANA,VODNIKOVA CESTA 56,46.06700,14.48819,Vodnikova cesta,,56,,Ljubljana,,Četrtna skupnost Šiška,Ljubljana,1000,Ljubljana,Osrednjeslovenska
-1000 LJUBLJANA,VODNIKOVA CESTA 6,46.06378,14.49368,Vodnikova cesta,,6,,Ljubljana,,Četrtna skupnost Šiška,Ljubljana,1000,Ljubljana,Osrednjeslovenska
 1000 LJUBLJANA,VODOVODNA CESTA 100,46.07860,14.50306,Vodovodna cesta,,100,,Ljubljana,,Četrtna skupnost Šiška,Ljubljana,1000,Ljubljana,Osrednjeslovenska
 1000 LJUBLJANA,VODOVODNA CESTA 109,46.07871,14.50194,Vodovodna cesta,,109,,Ljubljana,,Četrtna skupnost Šiška,Ljubljana,1000,Ljubljana,Osrednjeslovenska
 1000 LJUBLJANA,VODOVODNA CESTA 99 A,46.07764,14.50248,Vodovodna cesta,,99,A,Ljubljana,,Četrtna skupnost Šiška,Ljubljana,1000,Ljubljana,Osrednjeslovenska
@@ -424,7 +422,6 @@ cityZZZS,addressZZZS,lat,lon,street,streetAlt,housenumber,housenumberAppendix,ci
 2000 MARIBOR,VALVASORJEVA ULICA 38,46.55444,15.63680,Valvasorjeva ulica,,38,,Maribor,,Magdalena,Maribor,2000,Maribor,Podravska
 2000 MARIBOR,VEZNA POT 1,46.57373,15.64297,Vezna pot,,1,,Ribniško selo,,Center,Maribor,2000,Maribor,Podravska
 2000 MARIBOR,VINARSKA ULICA 6,46.56527,15.64339,Vinarska ulica,,6,,Maribor,,Koroška vrata,Maribor,2000,Maribor,Podravska
-2000 MARIBOR,VOLODJEVA ULICA 17,46.53031,15.66820,Volodjeva ulica,,17,,Maribor,,Tezno,Maribor,2000,Maribor,Podravska
 2000 MARIBOR,VRBANSKA CESTA 35,46.56527,15.63387,Vrbanska cesta,,35,,Maribor,,Koroška vrata,Maribor,2000,Maribor,Podravska
 2000 MARIBOR,ZRKOVSKA CESTA 188 D,46.54943,15.68951,Zrkovska cesta,,188,D,Maribor,,Pobrežje,Maribor,2000,Maribor,Podravska
 2000 MARIBOR,ZRKOVSKA CESTA 67,46.55598,15.67174,Zrkovska cesta,,67,,Maribor,,Pobrežje,Maribor,2000,Maribor,Podravska
@@ -596,7 +593,6 @@ cityZZZS,addressZZZS,lat,lon,street,streetAlt,housenumber,housenumberAppendix,ci
 3000 CELJE,AŠKERČEVA ULICA 1,46.23003,15.26747,Aškerčeva ulica,,1,,Celje,,Center,Celje,3000,Celje,Savinjska
 3000 CELJE,AŠKERČEVA ULICA 14,46.23059,15.26804,Aškerčeva ulica,,14,,Celje,,Center,Celje,3000,Celje,Savinjska
 3000 CELJE,CANKARJEVA ULICA 6,46.22964,15.26602,Cankarjeva ulica,,6,,Celje,,Center,Celje,3000,Celje,Savinjska
-3000 CELJE,CESTA NA DOBROVO 114,46.25016,15.26509,Cesta na Dobrovo,,114,,Celje,,Nova vas,Celje,3000,Celje,Savinjska
 3000 CELJE,CESTA V ZADOBROVO 12,46.25725,15.29632,Cesta v Zadobrovo,,12,,Trnovlje pri Celju,,Trnovlje,Celje,3000,Celje,Savinjska
 3000 CELJE,GAJI 28,46.24473,15.28996,Gaji,,28,,Trnovlje pri Celju,,Trnovlje,Celje,3000,Celje,Savinjska
 3000 CELJE,GLEDALIŠKA ULICA 4,46.23047,15.26256,Gledališka ulica,,4,,Celje,,Center,Celje,3000,Celje,Savinjska
@@ -897,7 +893,6 @@ cityZZZS,addressZZZS,lat,lon,street,streetAlt,housenumber,housenumberAppendix,ci
 6000 KOPER - CAPODISTRIA,MUZEJSKI TRG 7,45.54854,13.72826,Muzejski trg,Piazzale del Museo,7,,Koper,Capodistria,Koper - Center,Koper,6000,Koper - Capodistria,Obalno-kraška
 6000 KOPER - CAPODISTRIA,OBRTNIŠKA ULICA 30,45.53069,13.73563,Obrtniška ulica,Via degli Artigiani,30,,Koper,Capodistria,Škocjan,Koper,6000,Koper - Capodistria,Obalno-kraška
 6000 KOPER - CAPODISTRIA,POT V GAJ 2,45.54423,13.71155,Pot v gaj,Vicolo al boschetto,2,,Koper,Capodistria,Žusterna,Koper,6000,Koper - Capodistria,Obalno-kraška
-6000 KOPER - CAPODISTRIA,PRISOJE 7,45.53429,13.72632,Prisoje,Prisoje,7,,Koper,Capodistria,Olmo-Prisoje,Koper,6000,Koper - Capodistria,Obalno-kraška
 6000 KOPER - CAPODISTRIA,PRISOJNA POT 10,45.54649,13.70532,Prisojna pot,Vicolo Assolato,10,,Koper,Capodistria,Žusterna,Koper,6000,Koper - Capodistria,Obalno-kraška
 6000 KOPER - CAPODISTRIA,ROZMANOVA ULICA 13,45.53894,13.72060,Rozmanova ulica,Via Stane Rozman,13,,Koper,Capodistria,Semedela,Koper,6000,Koper - Capodistria,Obalno-kraška
 6000 KOPER - CAPODISTRIA,STANIČEV TRG 1,45.54603,13.72777,Staničev trg,Piazzetta Valentin Stanič,1,,Koper,Capodistria,Koper - Center,Koper,6000,Koper - Capodistria,Obalno-kraška
@@ -1128,7 +1123,6 @@ cityZZZS,addressZZZS,lat,lon,street,streetAlt,housenumber,housenumberAppendix,ci
 9242 KRIŽEVCI PRI LJUTOMERU,KRIŽEVCI PRI LJUTOMERU 34 A,46.56666,16.13705,Križevci pri Ljutomeru,,34,A,Križevci pri Ljutomeru,,,Križevci,9242,Križevci pri Ljutomeru,Pomurska
 9242 KRIŽEVCI PRI LJUTOMERU,LUKAVCI 64,46.53721,16.14581,Lukavci,,64,,Lukavci,,,Križevci,9242,Križevci pri Ljutomeru,Pomurska
 9242 KRIŽEVCI PRI LJUTOMERU,LUKAVCI 9,46.54260,16.15051,Lukavci,,9,,Lukavci,,,Križevci,9242,Križevci pri Ljutomeru,Pomurska
-9243 MALA NEDELJA,MORAVCI V SLOV. GORICAH 34 B,46.51465,16.05219,Moravci v Slov. goricah,,34,B,Moravci v Slov. goricah,,Mala Nedelja,Ljutomer,9243,Mala Nedelja,Pomurska
 9246 RAZKRIŽJE,ŠAFARSKO 24 D,46.52012,16.28685,Šafarsko,,24,D,Šafarsko,,,Razkrižje,9246,Razkrižje,Pomurska
 9250 GORNJA RADGONA,CANKARJEVA CESTA 2,46.67295,15.99299,Cankarjeva cesta,,2,,Gornja Radgona,,KS GORNJA RADGONA,Gornja Radgona,9250,Gornja Radgona,Pomurska
 9250 GORNJA RADGONA,PARTIZANSKA CESTA 40,46.67340,15.99302,Partizanska cesta,,40,,Gornja Radgona,,KS GORNJA RADGONA,Gornja Radgona,9250,Gornja Radgona,Pomurska
