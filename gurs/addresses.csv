@@ -178,6 +178,7 @@ cityZZZS,addressZZZS,lat,lon,street,streetAlt,housenumber,housenumberAppendix,ci
 1000 LJUBLJANA,ZDRAVSTVENA POT 1,46.04729,14.51594,Zdravstvena pot,,1,,Ljubljana,,Četrtna skupnost Center,Ljubljana,1000,Ljubljana,Osrednjeslovenska
 1000 LJUBLJANA,ZIHERLOVA ULICA 38,46.04095,14.50414,Ziherlova ulica,,38,,Ljubljana,,Četrtna skupnost Trnovo,Ljubljana,1000,Ljubljana,Osrednjeslovenska
 1000 LJUBLJANA,ČUČKOVA ULICA 17,46.03501,14.45303,Čučkova ulica,,17,,Ljubljana,,Četrtna skupnost Vič,Ljubljana,1000,Ljubljana,Osrednjeslovenska
+1000 LJUBLJANA,ŠARHOVA ULICA 20,46.07926,14.51017,Šarhova ulica,,20,,Ljubljana,,Četrtna skupnost Bežigrad,Ljubljana,1000,Ljubljana,Osrednjeslovenska
 1000 LJUBLJANA,ŠESTOVA ULICA 10,46.04631,14.48719,Šestova ulica,,10,,Ljubljana,,Četrtna skupnost Vič,Ljubljana,1000,Ljubljana,Osrednjeslovenska
 1000 LJUBLJANA,ŠIŠENSKA CESTA 44,46.07131,14.48026,Šišenska cesta,,44,,Ljubljana,,Četrtna skupnost Šiška,Ljubljana,1000,Ljubljana,Osrednjeslovenska
 1000 LJUBLJANA,ŠLAJMERJEVA ULICA 6,46.05426,14.52502,Šlajmerjeva ulica,,6,,Ljubljana,,Četrtna skupnost Center,Ljubljana,1000,Ljubljana,Osrednjeslovenska
@@ -228,6 +229,7 @@ cityZZZS,addressZZZS,lat,lon,street,streetAlt,housenumber,housenumberAppendix,ci
 1235 RADOMLJE,KAMNIŠKA CESTA 24,46.16800,14.59490,Kamniška cesta,,24,,Preserje pri Radomljah,,Preserje,Domžale,1235,Radomlje,Osrednjeslovenska
 1235 RADOMLJE,PELECHOVA CESTA 18,46.16801,14.59744,Pelechova cesta,,18,,Preserje pri Radomljah,,Preserje,Domžale,1235,Radomlje,Osrednjeslovenska
 1241 KAMNIK,LJUBLJANSKA CESTA 4 J,46.21694,14.60311,Ljubljanska cesta,,4,J,Kamnik,,Perovo,Kamnik,1241,Kamnik,Osrednjeslovenska
+1241 KAMNIK,NA BREGU 24,46.21033,14.61271,Na bregu,,24,,Kamnik,,Novi trg,Kamnik,1241,Kamnik,Osrednjeslovenska
 1241 KAMNIK,NA JASI 6,46.20853,14.61180,Na jasi,,6,,Kamnik,,Novi trg,Kamnik,1241,Kamnik,Osrednjeslovenska
 1241 KAMNIK,NEVELJSKA POT 26,46.22911,14.61814,Neveljska pot,,26,,Mekinje,,Mekinje,Kamnik,1241,Kamnik,Osrednjeslovenska
 1241 KAMNIK,NOVI TRG 26,46.22139,14.61328,Novi trg,,26,,Kamnik,,Novi trg,Kamnik,1241,Kamnik,Osrednjeslovenska
@@ -492,7 +494,6 @@ cityZZZS,addressZZZS,lat,lon,street,streetAlt,housenumber,housenumberAppendix,ci
 2270 ORMOŽ,ULICA DR. HROVATA 10 A,46.40632,16.14308,Ulica dr. Hrovata,,10,A,Ormož,,Ormož,Ormož,2270,Ormož,Podravska
 2270 ORMOŽ,ULICA DR. HROVATA 4,46.40724,16.14333,Ulica dr. Hrovata,,4,,Ormož,,Ormož,Ormož,2270,Ormož,Podravska
 2272 GORIŠNICA,GORIŠNICA 65,46.41047,16.01167,Gorišnica,,65,,Gorišnica,,,Gorišnica,2272,Gorišnica,Podravska
-2272 GORIŠNICA,MALA VAS 32 B,46.39088,16.00524,Mala vas,,32,B,Mala vas,,,Gorišnica,2272,Gorišnica,Podravska
 2273 PODGORCI,PODGORCI 48,46.42049,16.04944,Podgorci,,48,,Podgorci,,Podgorci,Ormož,2273,Podgorci,Podravska
 2274 VELIKA NEDELJA,VIČANCI 16,46.44350,16.07500,Vičanci,,16,,Vičanci,,Velika Nedelja,Ormož,2274,Velika Nedelja,Podravska
 2281 MARKOVCI,MARKOVCI 43,46.39430,15.93041,Markovci,,43,,Markovci,,,Markovci,2281,Markovci,Podravska
@@ -893,6 +894,7 @@ cityZZZS,addressZZZS,lat,lon,street,streetAlt,housenumber,housenumberAppendix,ci
 6000 KOPER - CAPODISTRIA,MUZEJSKI TRG 7,45.54854,13.72826,Muzejski trg,Piazzale del Museo,7,,Koper,Capodistria,Koper - Center,Koper,6000,Koper - Capodistria,Obalno-kraška
 6000 KOPER - CAPODISTRIA,OBRTNIŠKA ULICA 30,45.53069,13.73563,Obrtniška ulica,Via degli Artigiani,30,,Koper,Capodistria,Škocjan,Koper,6000,Koper - Capodistria,Obalno-kraška
 6000 KOPER - CAPODISTRIA,POT V GAJ 2,45.54423,13.71155,Pot v gaj,Vicolo al boschetto,2,,Koper,Capodistria,Žusterna,Koper,6000,Koper - Capodistria,Obalno-kraška
+6000 KOPER - CAPODISTRIA,PRISOJE 7,45.53429,13.72632,Prisoje,Prisoje,7,,Koper,Capodistria,Olmo-Prisoje,Koper,6000,Koper - Capodistria,Obalno-kraška
 6000 KOPER - CAPODISTRIA,PRISOJNA POT 10,45.54649,13.70532,Prisojna pot,Vicolo Assolato,10,,Koper,Capodistria,Žusterna,Koper,6000,Koper - Capodistria,Obalno-kraška
 6000 KOPER - CAPODISTRIA,ROZMANOVA ULICA 13,45.53894,13.72060,Rozmanova ulica,Via Stane Rozman,13,,Koper,Capodistria,Semedela,Koper,6000,Koper - Capodistria,Obalno-kraška
 6000 KOPER - CAPODISTRIA,STANIČEV TRG 1,45.54603,13.72777,Staničev trg,Piazzetta Valentin Stanič,1,,Koper,Capodistria,Koper - Center,Koper,6000,Koper - Capodistria,Obalno-kraška
@@ -922,6 +924,7 @@ cityZZZS,addressZZZS,lat,lon,street,streetAlt,housenumber,housenumberAppendix,ci
 6221 DUTOVLJE,DUTOVLJE 128,45.76451,13.82894,Dutovlje,,128,,Dutovlje,,Dutovlje,Sežana,6221,Dutovlje,Obalno-kraška
 6230 POSTOJNA,CANKARJEVA ULICA 6,45.77464,14.21517,Cankarjeva ulica,,6,,Postojna,,Postojna,Postojna,6230,Postojna,Primorsko-notranjska
 6230 POSTOJNA,GREGORČIČEV DREVORED 11,45.77434,14.21615,Gregorčičev drevored,,11,,Postojna,,Postojna,Postojna,6230,Postojna,Primorsko-notranjska
+6230 POSTOJNA,HRAŠČE 134 A,45.77691,14.15158,Hrašče,,134,A,Hrašče,,Hrašče,Postojna,6230,Postojna,Primorsko-notranjska
 6230 POSTOJNA,JAMSKA CESTA 23,45.77731,14.20921,Jamska cesta,,23,,Postojna,,Postojna,Postojna,6230,Postojna,Primorsko-notranjska
 6230 POSTOJNA,LJUBLJANSKA CESTA 28,45.77710,14.21606,Ljubljanska cesta,,28,,Postojna,,Postojna,Postojna,6230,Postojna,Primorsko-notranjska
 6230 POSTOJNA,POT K PIVKI 2 B,45.77518,14.20715,Pot k Pivki,,2,B,Postojna,,Postojna,Postojna,6230,Postojna,Primorsko-notranjska
