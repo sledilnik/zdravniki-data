@@ -101,7 +101,7 @@ id_inst,zzzsSt,name,unit,address,post,city,municipalityPart,municipality,lat,lon
 3858762,3858762,DEJAN EBENŠPANGER - ZOBNA ORDINACIJA,OE MURSKA SOBOTA,Lendavska ulica 18,9000 Murska Sobota,Murska Sobota,Center,Murska Sobota,46.6641,16.16828,02 532 15 98,http://www.zobozdravniki-pomurja.si
 7477715,7477715,"DEJAN STOJANOV, DR.DENT.MED. ZASEBNI ZOBOZDRAVNIK",OE LJUBLJANA,Jezero 1,1352 Preserje,Jezero,Preserje,Brezovica,45.97634,14.41959,(01) 363 30 70,https://zobar.eu/
 4223760,4223760,DENIS AČKO JARKOVIČ DR.DENT.MED. ZOBNA AMBULANTA,OE KOPER,Dellavallejeva ulica 3,6000 Koper - Capodistria,Koper,Koper - Center,Koper,45.5487,13.73094,05 664 72 31,https://www.zdravniki-zobozdravniki.net/clan/Denis-ACKO-JARKOVIC-964/
-6884304,6884304,"DENIS DŽANKOVIĆ, DR.DENT.MED., ZASEBNA ZOBOZDRAVSTVENA ORDINACIJA",OE NOVO MESTO,Pod Cvingerjem 33,8350 Dolenjske Toplice,Dolenjske Toplice,,Dolenjske Toplice,45.75434,15.05436,07 393 75 00,http://www.d-dent.si
+6884304,6884304,"DENIS DŽANKOVIĆ, DR.DENT.MED., ZASEBNA ZOBOZDRAVSTVENA ORDINACIJA",OE NOVO MESTO,Keltska ulica 9,8350 Dolenjske Toplice,Dolenjske Toplice,,Dolenjske Toplice,45.75288,15.05415,07 393 75 00,http://www.d-dent.si
 4343942,4343942,DENS BARLIČ ZOBOZDRAVSTVO D.O.O.,IZPOSTAVA BREŽICE,Pleteršnikova ulica 1,8250 Brežice,Brežice,Brežice,Brežice,45.90908,15.59631,(07) 499 22 08,https://www.dens-barlic.si/
 8455936,8455936,"DENT MEDICO TERAN, ZOBOZDRAVSTVENE STORITVE, D.O.O.",OE KRANJ,Zgornje Duplje 101A,4203 Duplje,Zgornje Duplje,Duplje,Naklo,46.30397,14.29648,,
 3715291,3715291,"DENTA B, ZOBOZDRAVSTVENA DEJAVNOST IN OSTALE STORITVE, D.O.O.",IZPOSTAVA ŠKOFJA LOKA,Podlubnik 341,4220 Škofja Loka,Škofja Loka,Stara Loka - Podlubnik,Škofja Loka,46.17432,14.29072,,http://ordinacija-denta-b.com
@@ -403,6 +403,7 @@ ozgsl,,"OSNOVNO ZDRAVSTVO GORENJSKE, OE ZDRAVSTVENI DOM ŠKOFJA LOKA",IZPOSTAVA 
 3007142,3007142,PRAPROTNIK IGOR - DOKTOR STOMATOLOGIJE,IZPOSTAVA DOMŽALE,Kamniška cesta 24,1235 Radomlje,Preserje pri Radomljah,Preserje,Domžale,46.168,14.5949,031 744 447,https://zobozdravstvopraprotnik.si/koncesija/
 3097170,3097170,PRAZNIK IGOR - ZASEBNA ZDRAVNIŠKA ORDINACIJA,OE CELJE,Celjska cesta 24B,3212 Vojnik,Vojnik,Vojnik,Vojnik,46.29098,15.30088,(03) 577 35 04,https://www.zdravniki-zobozdravniki.net/clan/Igor-PRAZNIK-502/
 4530165,4530165,"PRELOG-DENTAL, DRUŽBA ZA STORITVE IN SVETOVANJE, D.O.O.",OE MARIBOR,Lackova cesta 269,2341 Limbuš,Limbuš,Limbuš,Maribor,46.55387,15.58161,(05) 992 89 18,https://www.zdravniki-zobozdravniki.net/clan/Zvonko-PRELOG-1035/
+4318036,4318036,"PREMEDIKO, ZDRAVSTVENE, TRGOVSKE IN DRUGE STORITVE, D.O.O.",OE MARIBOR,Ljubljanska ulica 9,2000 Maribor,Maribor,Magdalena,Maribor,46.55337,15.64665,(02) 332 33 99,https://premediko.si/
 4384485,4384485,"PRENADENT, ZOBOZDRAVSTVENE STORITVE D.O.O.",OE KRANJ,Draga 1,1292 Ig,Draga,,Ig,45.94726,14.54796,,http://www.prenadent.si
 3454821,3454821,PRIBOŽIČ DARJA - ZASEBNA AMBULANTA SPLOŠNE MEDICINE,IZPOSTAVA PTUJ,Gorišnica 65,2272 Gorišnica,Gorišnica,,Gorišnica,46.41047,16.01167,(02)743 02 60,https://pribozic.si/
 3125050,3125050,"PRIVATNA ZOBNA ORDINACIJA RENATA AMBROŽIČ ČOP, DR. DENT. MED.",IZPOSTAVA RADOVLJICA,Prešernova cesta 52,4260 Bled,Bled,Bled,Bled,46.37308,14.1042,04 576 74 00,http://www.zobozdravnik-bled.com
@@ -491,10 +492,10 @@ ozgsl,,"OSNOVNO ZDRAVSTVO GORENJSKE, OE ZDRAVSTVENI DOM ŠKOFJA LOKA",IZPOSTAVA 
 4519100,4519100,"STUDIO ORALNEGA ZDRAVJA, DRUŽBA ZA STORITVE IN SVETOVANJE, D.O.O.",OE MARIBOR,Lavričeva ulica 1,2000 Maribor,Maribor,Koroška vrata,Maribor,46.55817,15.636,(02) 250 15 93,https://www.zdravniki-zobozdravniki.net/clan/Stasa-KOBLAR-PUKLAVEC-465/
 478988,478988,"STUDIO R, SPECIALISTIČNA ZDRAVSTVENA DEJAVNOST SPLOŠNE MEDICINE, D.O.O.",IZPOSTAVA VRHNIKA,Na klancu 22,1360 Vrhnika,Vrhnika,Vrhnika Vas,Vrhnika,45.96633,14.2934,051 400 080,https://dzdravje.si/studio-r/
 3202321,3202321,SVATINA - CIMAN ZORKA - DEJAVNOST MLADINSKEGA ZOBOZDRAVSTVA,OE NOVA GORICA,Ulica Gradnikove brigade 7,5000 Nova Gorica,Nova Gorica,Krajevna skupnost Nova Gorica,Nova Gorica,45.95843,13.64623,,https://www.zdravniki-zobozdravniki.net/clan/Zorka-SVATINA-CIMAN-723/
-179839,179839,SŽ - ŽELEZNIŠKI ZDRAVSTVENI DOM LJUBLJANA,IZPOSTAVA POSTOJNA,Celovška cesta 4,1000 Ljubljana,Ljubljana,Četrtna skupnost Center,Ljubljana,46.0573,14.50122,(01) 33 05 101,http://www.zzd.si/
 179839,179839,SŽ - ŽELEZNIŠKI ZDRAVSTVENI DOM LJUBLJANA,OE LJUBLJANA,Celovška cesta 4,1000 Ljubljana,Ljubljana,Četrtna skupnost Center,Ljubljana,46.0573,14.50122,(01) 33 05 101,http://www.zzd.si/
-179839,179839,SŽ - ŽELEZNIŠKI ZDRAVSTVENI DOM LJUBLJANA,IZPOSTAVA LAŠKO,Celovška cesta 4,1000 Ljubljana,Ljubljana,Četrtna skupnost Center,Ljubljana,46.0573,14.50122,(01) 33 05 101,http://www.zzd.si/
+179839,179839,SŽ - ŽELEZNIŠKI ZDRAVSTVENI DOM LJUBLJANA,IZPOSTAVA POSTOJNA,Celovška cesta 4,1000 Ljubljana,Ljubljana,Četrtna skupnost Center,Ljubljana,46.0573,14.50122,(01) 33 05 101,http://www.zzd.si/
 179839,179839,SŽ - ŽELEZNIŠKI ZDRAVSTVENI DOM LJUBLJANA,OE NOVA GORICA,Celovška cesta 4,1000 Ljubljana,Ljubljana,Četrtna skupnost Center,Ljubljana,46.0573,14.50122,(01) 33 05 101,http://www.zzd.si/
+179839,179839,SŽ - ŽELEZNIŠKI ZDRAVSTVENI DOM LJUBLJANA,IZPOSTAVA LAŠKO,Celovška cesta 4,1000 Ljubljana,Ljubljana,Četrtna skupnost Center,Ljubljana,46.0573,14.50122,(01) 33 05 101,http://www.zzd.si/
 6501933,6501933,"T DENT, ZOBNA ORDINACIJA, D.O.O.",IZPOSTAVA KAMNIK,Glavarjeva cesta 61A,1218 Komenda,Komenda,,Komenda,46.20453,14.53935,040 802 532,http://www.tdent.si
 4975443,4975443,"TADEJA ŠTRUMBELJ, DR.MED., ZASEBNI ZDRAVSTVENI ZAVOD ŠTRUMBELJ",OE LJUBLJANA,Na Palcah 2,1211 Ljubljana - Šmartno,Ljubljana,Četrtna skupnost Šmarna gora,Ljubljana,46.12111,14.47331,(01) 565 40 69,https://www.zzz-strumbelj.si/
 6162114,6162114,"TAJA DULAR POTOČAR, DR. DENT. MED., ZASEBNA ZOBOZDRAVSTVENA ORDINACIJA",IZPOSTAVA DOMŽALE,Aljaževa ulica 9,1234 Mengeš,Mengeš,,Mengeš,46.1699,14.57643,,http://dulardent.si/
@@ -533,8 +534,8 @@ ozgsl,,"OSNOVNO ZDRAVSTVO GORENJSKE, OE ZDRAVSTVENI DOM ŠKOFJA LOKA",IZPOSTAVA 
 4746766,4746766,"URBANČIČ POLONCA, DR. DENT. MED. ZOBOZDRAVSTVO",OE LJUBLJANA,Vodovodna cesta 109,1000 Ljubljana,Ljubljana,Četrtna skupnost Šiška,Ljubljana,46.07871,14.50194,031/609 400,http://www.urbancicstudiodent.com/
 5512710,5512710,"V&V DENT, ZOBOZDRAVSTVENE STORITVE, D.O.O.",IZPOSTAVA ŠKOFJA LOKA,Stara cesta 10,4220 Škofja Loka,Škofja Loka,Kamnitnik,Škofja Loka,46.16618,14.31281,,https://vvdent.si/
 2905823,2905823,VALENTIČ ZVONIMIR - ZOBOZDRAVNIK,IZPOSTAVA KOČEVJE,Roška cesta 18,1330 Kočevje,Kočevje,Kočevje-mesto,Kočevje,45.63938,14.86562,(01) 895 56 67,
-4431237,4431237,VAŠI ZOBJE DENTALNI STUDIO D.O.O.,IZPOSTAVA RADLJE OB DRAVI,Glavni trg 47,2366 Muta,Muta,,Muta,46.61055,15.16488,05 995 180 002 876 19 15,http://www.vasi-zobje.si/
 4431237,4431237,VAŠI ZOBJE DENTALNI STUDIO D.O.O.,OE RAVNE NA KOROŠKEM,Trg 4. julija 9,2370 Dravograd,Dravograd,Dravograd,Dravograd,46.58921,15.02233,05 995 180 002 876 19 15,http://www.vasi-zobje.si/
+4431237,4431237,VAŠI ZOBJE DENTALNI STUDIO D.O.O.,IZPOSTAVA RADLJE OB DRAVI,Glavni trg 47,2366 Muta,Muta,,Muta,46.61055,15.16488,05 995 180 002 876 19 15,http://www.vasi-zobje.si/
 6031706,6031706,"VESNA DOBRAVC, DR.DENT.MED., AMBULANTA ZA ŠOLSKO IN MLADINSKO ZOBOZDRAVSTVO",IZPOSTAVA PIRAN,Prečna pot 4D,6320 Portorož - Portorose,Portorož,Portorož,Piran,45.51588,13.5873,05 673 11 56,http://www.smar-team-org.si/DobravcVesna/dobravcdomov.html
 4106307,4106307,"VESNA JERNEJČIČ, DR. DENT. MED. ZASEBNA ZOBNA ORDINACIJA",IZPOSTAVA CERKNICA,Cesta 4. maja 17,1380 Cerknica,Cerknica,Cerknica,Cerknica,45.79122,14.36578,,http://www.slovenski-zobozdravniki.si/vesna-jernejcicdrdentmed
 4106429,4106429,"VESNA ŠEGA - NOVAK, DR. DENT. MED., ZASEBNA ZOBNA ORDINACIJA",IZPOSTAVA CERKNICA,Cesta Notranjskega odreda 36,1386 Stari trg pri Ložu,Stari trg pri Ložu,,Loška dolina,45.71325,14.47221,01 709 60 97,http://slovenski-zobozdravniki.si/vesna-sega-novak-drdentmed
