@@ -10,6 +10,7 @@ cityZZZS,addressZZZS,lat,lon,street,streetAlt,housenumber,housenumberAppendix,ci
 1000 LJUBLJANA,CELOVŠKA CESTA 142,46.07296,14.48725,Celovška cesta,,142,,Ljubljana,,Četrtna skupnost Šiška,Ljubljana,1000,Ljubljana,Osrednjeslovenska
 1000 LJUBLJANA,CELOVŠKA CESTA 280,46.08748,14.47448,Celovška cesta,,280,,Ljubljana,,Četrtna skupnost Dravlje,Ljubljana,1000,Ljubljana,Osrednjeslovenska
 1000 LJUBLJANA,CELOVŠKA CESTA 4,46.05730,14.50122,Celovška cesta,,4,,Ljubljana,,Četrtna skupnost Center,Ljubljana,1000,Ljubljana,Osrednjeslovenska
+1000 LJUBLJANA,CELOVŠKA CESTA 42,46.06210,14.49618,Celovška cesta,,42,,Ljubljana,,Četrtna skupnost Šiška,Ljubljana,1000,Ljubljana,Osrednjeslovenska
 1000 LJUBLJANA,CESTA LJUBLJANSKE BRIGADE 23,46.08665,14.47871,Cesta Ljubljanske brigade,,23,,Ljubljana,,Četrtna skupnost Dravlje,Ljubljana,1000,Ljubljana,Osrednjeslovenska
 1000 LJUBLJANA,CESTA LJUBLJANSKE BRIGADE 33,46.08830,14.47718,Cesta Ljubljanske brigade,,33,,Ljubljana,,Četrtna skupnost Dravlje,Ljubljana,1000,Ljubljana,Osrednjeslovenska
 1000 LJUBLJANA,CESTA NA BOKALCE 51,46.05096,14.44808,Cesta na Bokalce,,51,,Ljubljana,,Četrtna skupnost Rožnik,Ljubljana,1000,Ljubljana,Osrednjeslovenska
@@ -949,6 +950,7 @@ cityZZZS,addressZZZS,lat,lon,street,streetAlt,housenumber,housenumberAppendix,ci
 6280 ANKARAN - ANCARANO,FRENKOVA ULICA 7,45.58296,13.73466,Frenkova ulica,Via Franc Planinc-Frenk,7,,Ankaran,Ancarano,,Ankaran,6280,Ankaran - Ancarano,Obalno-kraška
 6280 ANKARAN - ANCARANO,JADRANSKA CESTA 31,45.58116,13.72755,Jadranska cesta,Strada dell'Adriatico,31,,Ankaran,Ancarano,,Ankaran,6280,Ankaran - Ancarano,Obalno-kraška
 6280 ANKARAN - ANCARANO,KOLOMBAN 38 F,45.58875,13.74737,Kolomban,Colombano,38,F,Kolomban,Colombano,Hrvatini,Koper,6280,Ankaran - Ancarano,Obalno-kraška
+6280 ANKARAN - ANCARANO,KOLOMBAN 54 A,45.59191,13.74653,Kolomban,Colombano,54,A,Kolomban,Colombano,Hrvatini,Koper,6280,Ankaran - Ancarano,Obalno-kraška
 6281 ŠKOFIJE,SPODNJE ŠKOFIJE 174 A,45.57104,13.79217,Spodnje Škofije,,174,A,Spodnje Škofije,,Škofije,Koper,6281,Škofije,Obalno-kraška
 6310 IZOLA - ISOLA,BRKINSKA ULICA 3,45.53690,13.66234,Brkinska ulica,Via dei Brkini,3,,Izola,Isola,Haliaetum,Izola,6310,Izola - Isola,Obalno-kraška
 6310 IZOLA - ISOLA,CANKARJEV DREVORED 16,45.53713,13.66242,Cankarjev drevored,Viale Ivan Cankar,16,,Izola,Isola,Haliaetum,Izola,6310,Izola - Isola,Obalno-kraška
