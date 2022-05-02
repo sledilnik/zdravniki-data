@@ -282,8 +282,9 @@ def download_zzzs_xlsx_files():
 
         match = re.match(nameRegex, title)
         if match == None:
-            print(f"Unexpected title '{title}' not matching regex '{nameRegex}''.")
-            raise
+            print(f"Unexpected title '{title}' not matching regex '{nameRegex}'', skipping.")
+            # raise
+            continue
 
         date = datetime.datetime.strptime(match.group(2), '%d.%m.%Y').date()
         group = match.group(1).lower()
