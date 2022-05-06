@@ -227,6 +227,7 @@ def get_zzzs_id_map():
     zzzsid_map = df.reset_index()[['zzzsSt', 'naziv']].set_index('naziv').to_dict()['zzzsSt']
 
     missing_zzzsid = {
+        'ZDRAVSTVENI DOM TRBOVLJE TRBOVLJE, RUDARSKA CESTA 12': "102320", # was renamed
         'MDENT, ZOBOZDRAVSTVENE STORITVE, MIHAJLO FRANGOV S.P.': "7155880",
         'OSNOVNO ZDRAVSTVO GORENJSKE, OE ZDRAVSTVENI DOM BLED, ZDRAVSTVENI DOM BOHINJ': 'ozgbb',
         'OSNOVNO ZDRAVSTVO GORENJSKE, OE ZDRAVSTVENI DOM JESENICE': 'ozgje',
