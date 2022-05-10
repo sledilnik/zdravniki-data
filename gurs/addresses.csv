@@ -455,7 +455,6 @@ cityZZZS,addressZZZS,lat,lon,street,streetAlt,housenumber,housenumberAppendix,ci
 2230 LENART V SLOV. GORICAH,MAISTROVA ULICA 22,46.57734,15.82896,Maistrova ulica,,22,,Lenart v Slov. goricah,,Lenart,Lenart,2230,Lenart v Slov. goricah,Podravska
 2230 LENART V SLOV. GORICAH,RADEHOVA 5 C,46.56767,15.84591,Radehova,,5,C,Radehova,,Lenart,Lenart,2230,Lenart v Slov. goricah,Podravska
 2233 SV. ANA V SLOV. GORICAH,KREMBERK 36 A,46.64786,15.84250,Kremberk,,36,A,Kremberk,,,Sveta Ana,2233,Sv. Ana v Slov. goricah,Podravska
-2235 SV. TROJICA V SLOV. GORICAH,CANKARJEVA ULICA 3,46.57553,15.87751,Cankarjeva ulica,,3,,Sv. Trojica v Slov. goricah,,,Sveta Trojica v Slovenskih goricah,2235,Sv. Trojica v Slov. goricah,Podravska
 2241 SPODNJI DUPLEK,CESTA 4. JULIJA 65,46.50187,15.75064,Cesta 4. julija,,65,,Spodnji Duplek,,Spodnji Duplek,Duplek,2241,Spodnji Duplek,Podravska
 2241 SPODNJI DUPLEK,CESTA K DRAVI 8,46.50113,15.74875,Cesta k Dravi,,8,,Spodnji Duplek,,Spodnji Duplek,Duplek,2241,Spodnji Duplek,Podravska
 2241 SPODNJI DUPLEK,KORENSKA CESTA 31,46.50402,15.75597,Korenska cesta,,31,,Spodnji Duplek,,Spodnji Duplek,Duplek,2241,Spodnji Duplek,Podravska
@@ -518,6 +517,7 @@ cityZZZS,addressZZZS,lat,lon,street,streetAlt,housenumber,housenumberAppendix,ci
 2310 SLOVENSKA BISTRICA,ŠOLSKA ULICA 16,46.39170,15.56173,Šolska ulica,,16,,Slovenska Bistrica,,Pohorski odred,Slovenska Bistrica,2310,Slovenska Bistrica,Podravska
 2311 HOČE,GLASERJEV TRG 1,46.49941,15.64910,Glaserjev trg,,1,,Spodnje Hoče,,Hoče,Hoče-Slivnica,2311,Hoče,Podravska
 2312 OREHOVA VAS,OREHOVA CESTA 26,46.47242,15.66588,Orehova cesta,,26,,Orehova vas,,Orehova-Hotinja vas,Hoče-Slivnica,2312,Orehova vas,Podravska
+2312 OREHOVA VAS,POLANSKA CESTA 7,46.47807,15.64895,Polanska cesta,,7,,Slivnica pri Mariboru,,Slivnica,Hoče-Slivnica,2312,Orehova vas,Podravska
 2312 OREHOVA VAS,VILENSKA CESTA 76,46.46908,15.64691,Vilenska cesta,,76,,Radizel,,Slivnica,Hoče-Slivnica,2312,Orehova vas,Podravska
 2313 FRAM,CAFOVA ULICA 1,46.45644,15.62696,Cafova ulica,,1,,Fram,,Fram,Rače-Fram,2313,Fram,Podravska
 2314 ZGORNJA POLSKAVA,MLADINSKA ULICA 12,46.42702,15.61079,Mladinska ulica,,12,,Zgornja Polskava,,Zgornja Polskava,Slovenska Bistrica,2314,Zgornja Polskava,Podravska
