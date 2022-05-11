@@ -198,6 +198,7 @@ id_inst,zzzsSt,name,unit,address,post,city,municipalityPart,municipality,lat,lon
 2936416,2936416,GRUJIĆ SPOMENKA - ZASEBNA ZOBOZDRAVSTVENA AMBULANTA OTROK IN MLADINE,IZPOSTAVA POSTOJNA,Prečna ulica 2,6230 Postojna,Postojna,Postojna,Postojna,45.77205,14.21042,"(05) 720 20 00, 041 567 012",https://www.zd-po.si/zasebna-zobna-ambulanta-otrok-in-mladine-spomenka-grujic-dr-dent-med/
 3221804,3221804,GRUJIČIĆ DRAGAN - AMBULANTA SPLOŠNE MEDICINE,OE LJUBLJANA,Kopitarjev trg 1,1217 Vodice,Vodice,,Vodice,46.18729,14.49116,(01) 832 40 88,https://www.zdravniki-zobozdravniki.net/clan/Dragan-GRUJICIC-384/
 3125110,3125110,GRČAR MATEJA - ZOBOZDRAVSTVO,IZPOSTAVA RADOVLJICA,Kopališka cesta 7,4240 Radovljica,Radovljica,Radovljica,Radovljica,46.34702,14.17201,,https://www.zdravniki-zobozdravniki.net/clan/Mateja-GRCAR-1159/
+8507565,8507565,"GS - DENS, ZOBOZDRAVSTVO, D.O.O.",OE LJUBLJANA,Cesta Ljubljanske brigade 23,1000 Ljubljana,Ljubljana,Četrtna skupnost Dravlje,Ljubljana,46.08665,14.47871,01/330 73 78,
 3095732,3095732,GUNA JERNEJ - ZASEBNA ZOBNA ORDINACIJA,IZPOSTAVA HRASTNIK,Novi dom 11,1430 Hrastnik,Hrastnik,Rudnik,Hrastnik,46.1403,15.08513,03 565 44 59,https://zobozdravnik-guna.si/
 3200135,3200135,HABJANIČ-MERC BRIGITA - ZASEBNA ORDINACIJA ZA PREDŠOLSKE OTROKE IN DRUŽINSKO MEDICINO,IZPOSTAVA PTUJ,Rogozniška cesta 32,2250 Ptuj,Ptuj,Četrt Jezero,Ptuj,46.4261,15.88611,(02) 748 12 20,https://ordinacija-habjanic.si/
 6321460,6321460,HEPI-DENT ZOBOZDRAVSTVENA ORDINACIJA D.O.O.,IZPOSTAVA CERKNICA,Cesta Notranjskega odreda 36,1386 Stari trg pri Ložu,Stari trg pri Ložu,,Loška dolina,45.71325,14.47221,(01) 709 53 05,http://hepi-dent.si/
@@ -728,7 +729,7 @@ zdlsi,,ZD LJUBLJANA - ŠIŠKA,OE LJUBLJANA,Derčeva ulica 5,1000 Ljubljana,Ljubl
 146418,146418,ZDRAVSTVENI DOM SLOVENSKA BISTRICA,IZPOSTAVA SLOVENSKA BISTRICA,Partizanska ulica 30,2310 Slovenska Bistrica,Slovenska Bistrica,Pohorski odred,Slovenska Bistrica,46.39552,15.56233,(02) 843 27 00,http://www.zd-sb.si
 616450,616450,ZDRAVSTVENI DOM SLOVENSKE KONJICE,IZPOSTAVA SLOVENSKE KONJICE,Mestni trg 17,3210 Slovenske Konjice,Slovenske Konjice,Slovenske Konjice,Slovenske Konjice,46.33998,15.42862,03 758 17 00,http://www.zd-slovenskekonjice.si
 141900,141900,ZDRAVSTVENI DOM TOLMIN,IZPOSTAVA TOLMIN,Prešernova ulica 6A,5220 Tolmin,Tolmin,Tolmin,Tolmin,46.18376,13.73472,,https://www.zd-tolmin.si
-102320,,"ZDRAVSTVENI DOM TRBOVLJE TRBOVLJE, RUDARSKA CESTA 12",IZPOSTAVA TRBOVLJE,Rudarska cesta 12,1420 Trbovlje,Trbovlje,Trbovlje - center,Trbovlje,46.1551,15.04796,,
+102320,102320,ZDRAVSTVENI DOM TRBOVLJE,IZPOSTAVA TRBOVLJE,Rudarska cesta 12,1420 Trbovlje,Trbovlje,Trbovlje - center,Trbovlje,46.1551,15.04796,(03) 562 41 00,https://www.zd-trbovlje.si/
 91784,91784,ZDRAVSTVENI DOM TREBNJE,IZPOSTAVA TREBNJE,Goliev trg 3,8210 Trebnje,Trebnje,Trebnje,Trebnje,45.9083,15.00666,073 481 740,http://www.zd-tr.si
 789398,789398,ZDRAVSTVENI DOM VELENJE,IZPOSTAVA VELENJE,Vodnikova cesta 1,3320 Velenje,Velenje,Velenje - desni breg,Velenje,46.36151,15.11636,03 899 54 00,http://www.zd-velenje.si
 199021,199021,ZDRAVSTVENI DOM VRHNIKA,IZPOSTAVA VRHNIKA,Cesta 6. maja 11,1360 Vrhnika,Vrhnika,Vrhnika Center,Vrhnika,45.96278,14.29358,,http://www.zd-vrhnika.si
