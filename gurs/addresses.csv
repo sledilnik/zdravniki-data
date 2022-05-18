@@ -128,7 +128,6 @@ cityZZZS,addressZZZS,lat,lon,street,streetAlt,housenumber,housenumberAppendix,ci
 1000 LJUBLJANA,SLOMŠKOVA ULICA 17,46.05559,14.51270,Slomškova ulica,,17,,Ljubljana,,Četrtna skupnost Center,Ljubljana,1000,Ljubljana,Osrednjeslovenska
 1000 LJUBLJANA,SLOMŠKOVA ULICA 35,46.05529,14.51468,Slomškova ulica,,35,,Ljubljana,,Četrtna skupnost Center,Ljubljana,1000,Ljubljana,Osrednjeslovenska
 1000 LJUBLJANA,SLOVENSKA CESTA 54,46.05614,14.50576,Slovenska cesta,,54,,Ljubljana,,Četrtna skupnost Center,Ljubljana,1000,Ljubljana,Osrednjeslovenska
-1000 LJUBLJANA,STEGNE 21 C,46.08599,14.48223,Stegne,,21,C,Ljubljana,,Četrtna skupnost Dravlje,Ljubljana,1000,Ljubljana,Osrednjeslovenska
 1000 LJUBLJANA,STOŽICE 7,46.08458,14.52202,Stožice,,7,,Ljubljana,,Četrtna skupnost Posavje,Ljubljana,1000,Ljubljana,Osrednjeslovenska
 1000 LJUBLJANA,TABOR 10,46.05420,14.51467,Tabor,,10,,Ljubljana,,Četrtna skupnost Center,Ljubljana,1000,Ljubljana,Osrednjeslovenska
 1000 LJUBLJANA,TABOR 14,46.05442,14.51666,Tabor,,14,,Ljubljana,,Četrtna skupnost Center,Ljubljana,1000,Ljubljana,Osrednjeslovenska
@@ -578,6 +577,7 @@ cityZZZS,addressZZZS,lat,lon,street,streetAlt,housenumber,housenumberAppendix,ci
 2381 PODGORJE PRI SLOVENJ GRADCU,PODGORJE 64 A,46.48078,15.07995,Podgorje,,64,A,Podgorje,,Podgorje,Slovenj Gradec,2381,Podgorje pri Slovenj Gradcu,Koroška
 2382 MISLINJA,ŠOLSKA CESTA 55,46.44475,15.19541,Šolska cesta,,55,,Mislinja,,,Mislinja,2382,Mislinja,Koroška
 2390 RAVNE NA KOROŠKEM,GAČNIKOVA POT 3,46.54417,14.96289,Gačnikova pot,,3,,Ravne na Koroškem,,TRG,Ravne na Koroškem,2390,Ravne na Koroškem,Koroška
+2390 RAVNE NA KOROŠKEM,JAVORNIK 21,46.54480,14.97000,Javornik,,21,,Ravne na Koroškem,,JAVORNIK - ŠANCE,Ravne na Koroškem,2390,Ravne na Koroškem,Koroška
 2390 RAVNE NA KOROŠKEM,OB SUHI 11,46.54286,14.96765,Ob Suhi,,11,,Ravne na Koroškem,,TRG,Ravne na Koroškem,2390,Ravne na Koroškem,Koroška
 2390 RAVNE NA KOROŠKEM,OB SUHI 11 A,46.54267,14.96782,Ob Suhi,,11,A,Ravne na Koroškem,,TRG,Ravne na Koroškem,2390,Ravne na Koroškem,Koroška
 2390 RAVNE NA KOROŠKEM,OB SUHI 5,46.54372,14.96774,Ob Suhi,,5,,Ravne na Koroškem,,TRG,Ravne na Koroškem,2390,Ravne na Koroškem,Koroška
@@ -647,6 +647,7 @@ cityZZZS,addressZZZS,lat,lon,street,streetAlt,housenumber,housenumberAppendix,ci
 3214 ZREČE,DOBROVELJSKA CESTA 1,46.36625,15.39544,Dobroveljska cesta,,1,,Zreče,,Zreče,Zreče,3214,Zreče,Savinjska
 3214 ZREČE,KOVAŠKA CESTA 22,46.37959,15.38343,Kovaška cesta,,22,,Zreče,,Zreče,Zreče,3214,Zreče,Savinjska
 3214 ZREČE,KOVAŠKA CESTA 25 B,46.37116,15.39114,Kovaška cesta,,25,B,Zreče,,Zreče,Zreče,3214,Zreče,Savinjska
+3220 ŠTORE,CESTA KOZJANSKEGA ODREDA 3,46.22148,15.31202,Cesta Kozjanskega odreda,,3,,Štore,,,Štore,3220,Štore,Savinjska
 3230 ŠENTJUR,CESTA LEONA DOBROTINŠKA 3 B,46.21453,15.39378,Cesta Leona Dobrotinška,,3,B,Šentjur,,Šentjur-mesto,Šentjur,3230,Šentjur,Savinjska
 3230 ŠENTJUR,CESTA LEONA DOBROTINŠKA 5,46.21421,15.39394,Cesta Leona Dobrotinška,,5,,Šentjur,,Šentjur-mesto,Šentjur,3230,Šentjur,Savinjska
 3230 ŠENTJUR,CESTA LEONA DOBROTINŠKA 6 A,46.21416,15.39336,Cesta Leona Dobrotinška,,6,A,Šentjur,,Šentjur-mesto,Šentjur,3230,Šentjur,Savinjska
