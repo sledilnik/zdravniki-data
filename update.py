@@ -83,6 +83,7 @@ def convert_to_csv(zzzsid_map):
     doctors.set_index(['doctor','type','id_inst'], inplace=True)
     doctors.to_csv('csv/doctors.csv')
 
+    doctors.query('id_inst != id_inst').to_csv('csv/doctors-without-institution.csv')
 
 def append_overrides():
     filename = "csv/overrides.csv"
