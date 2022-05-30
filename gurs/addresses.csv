@@ -271,7 +271,7 @@ cityZZZS,addressZZZS,lat,lon,street,streetAlt,housenumber,housenumberAppendix,ci
 1310 RIBNICA,MAJNIKOVA ULICA 1,45.74238,14.72596,Majnikova ulica,,1,,Ribnica,,Ribnica,Ribnica,1310,Ribnica,Jugovzhodna Slovenija
 1311 TURJAK,LAPORJE 30,45.87088,14.61679,Laporje,,30,,Laporje,,,Velike Lašče,1311,Turjak,Osrednjeslovenska
 1311 TURJAK,VELIKI LOČNIK 35,45.90266,14.59821,Veliki Ločnik,,35,,Veliki Ločnik,,,Velike Lašče,1311,Turjak,Osrednjeslovenska
-1312 VIDEM - DOBREPOLJE,PONIKVE 76,45.85686,14.64574,Ponikve,,76,,Ponikve,,Ponikve,Dobrepolje,1312,Videm - Dobrepolje,Osrednjeslovenska
+1312 VIDEM - DOBREPOLJE,PONIKVE 76,45.85607,14.64595,Ponikve,,76,,Ponikve,,Ponikve,Dobrepolje,1312,Videm - Dobrepolje,Osrednjeslovenska
 1312 VIDEM - DOBREPOLJE,VIDEM 33 A,45.84861,14.69242,Videm,,33,A,Videm,,Videm,Dobrepolje,1312,Videm - Dobrepolje,Osrednjeslovenska
 1312 VIDEM - DOBREPOLJE,VIDEM 37 A,45.84819,14.69546,Videm,,37,A,Videm,,Videm,Dobrepolje,1312,Videm - Dobrepolje,Osrednjeslovenska
 1314 ROB,SEKIRIŠČE 8,45.86282,14.53744,Sekirišče,,8,,Sekirišče,,,Velike Lašče,1314,Rob,Osrednjeslovenska
@@ -1056,8 +1056,8 @@ cityZZZS,addressZZZS,lat,lon,street,streetAlt,housenumber,housenumberAppendix,ci
 8296 KRMELJ,KRMELJ 53,45.98651,15.18517,Krmelj,,53,,Krmelj,,Krmelj,Sevnica,8296,Krmelj,Posavska
 8310 ŠENTJERNEJ,PRVOMAJSKA CESTA 5,45.84414,15.33949,Prvomajska cesta,,5,,Šentjernej,,Šentjernej,Šentjernej,8310,Šentjernej,Jugovzhodna Slovenija
 8310 ŠENTJERNEJ,TRUBARJEVA CESTA 5,45.84409,15.33708,Trubarjeva cesta,,5,,Šentjernej,,Šentjernej,Šentjernej,8310,Šentjernej,Jugovzhodna Slovenija
-8311 KOSTANJEVICA NA KRKI,LJUBLJANSKA CESTA 16,45.84460,15.41834,Ljubljanska cesta,,16,,Kostanjevica na Krki,,Kostanjevica na Krki,Kostanjevica na Krki,8311,Kostanjevica na Krki,Posavska
-8311 KOSTANJEVICA NA KRKI,ČRNEČA VAS 6,45.82842,15.45766,Črneča vas,,6,,Črneča vas,,Kostanjevica na Krki,Kostanjevica na Krki,8311,Kostanjevica na Krki,Posavska
+8311 KOSTANJEVICA NA KRKI,LJUBLJANSKA CESTA 16,45.84460,15.41834,Ljubljanska cesta,,16,,Kostanjevica na Krki,,,Kostanjevica na Krki,8311,Kostanjevica na Krki,Posavska
+8311 KOSTANJEVICA NA KRKI,ČRNEČA VAS 6,45.82842,15.45766,Črneča vas,,6,,Črneča vas,,,Kostanjevica na Krki,8311,Kostanjevica na Krki,Posavska
 8330 METLIKA,CESTA BRATSTVA IN ENOTNOSTI 71,45.64848,15.31814,Cesta bratstva in enotnosti,,71,,Metlika,,Mestna skupnost Metlika,Metlika,8330,Metlika,Jugovzhodna Slovenija
 8330 METLIKA,MESTNI TRG 16,45.64980,15.31825,Mestni trg,,16,,Metlika,,Mestna skupnost Metlika,Metlika,8330,Metlika,Jugovzhodna Slovenija
 8340 ČRNOMELJ,BEVKOVA ULICA 2,45.56242,15.19991,Bevkova ulica,,2,,Črnomelj,,Črnomelj,Črnomelj,8340,Črnomelj,Jugovzhodna Slovenija
