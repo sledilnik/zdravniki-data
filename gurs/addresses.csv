@@ -203,6 +203,7 @@ cityZZZS,addressZZZS,lat,lon,street,streetAlt,housenumber,housenumberAppendix,ci
 1218 KOMENDA,ZADRUŽNA ULICA 9,46.20483,14.53649,Zadružna ulica,,9,,Komenda,,,Komenda,1218,Komenda,Osrednjeslovenska
 1219 LAZE V TUHINJU,LAZE V TUHINJU 29,46.21946,14.75656,Laze v Tuhinju,,29,,Laze v Tuhinju,,Tuhinj,Kamnik,1219,Laze v Tuhinju,Osrednjeslovenska
 1225 LUKOVICA,TROJANSKA CESTA 13,46.17023,14.69393,Trojanska cesta,,13,,Lukovica pri Domžalah,,Lukovica,Lukovica,1225,Lukovica,Osrednjeslovenska
+1230 DOMŽALE,BREZNIKOVA ULICA 26,46.14685,14.59714,Breznikova ulica,,26,,Domžale,,Domžale - Slavka Šlandra,Domžale,1230,Domžale,Osrednjeslovenska
 1230 DOMŽALE,CESTA TALCEV 10,46.13789,14.60258,Cesta talcev,,10,,Domžale,,Domžale - Slavka Šlandra,Domžale,1230,Domžale,Osrednjeslovenska
 1230 DOMŽALE,DEPALA VAS 14 A,46.13366,14.57014,Depala vas,,14,A,Depala vas,,Domžale - Venclja Perka,Domžale,1230,Domžale,Osrednjeslovenska
 1230 DOMŽALE,JELOVŠKOVA ULICA 7,46.15214,14.59054,Jelovškova ulica,,7,,Spodnje Jarše,,Jarše - Rodica,Domžale,1230,Domžale,Osrednjeslovenska
@@ -285,6 +286,7 @@ cityZZZS,addressZZZS,lat,lon,street,streetAlt,housenumber,housenumberAppendix,ci
 1351 BREZOVICA PRI LJUBLJANI,NOVA POT 5,46.00970,14.41547,Nova pot,,5,,Vnanje Gorice,,Vnanje Gorice,Brezovica,1351,Brezovica pri Ljubljani,Osrednjeslovenska
 1351 BREZOVICA PRI LJUBLJANI,PODPEŠKA CESTA 14,46.02162,14.41607,Podpeška cesta,,14,,Brezovica pri Ljubljani,,Brezovica,Brezovica,1351,Brezovica pri Ljubljani,Osrednjeslovenska
 1351 BREZOVICA PRI LJUBLJANI,PODPEŠKA CESTA 208,46.00242,14.41325,Podpeška cesta,,208,,Vnanje Gorice,,Vnanje Gorice,Brezovica,1351,Brezovica pri Ljubljani,Osrednjeslovenska
+1351 BREZOVICA PRI LJUBLJANI,POŽARNICE 90,46.00371,14.42125,Požarnice,,90,,Vnanje Gorice,,Vnanje Gorice,Brezovica,1351,Brezovica pri Ljubljani,Osrednjeslovenska
 1352 PRESERJE,DOLENJA BREZOVICA 11,45.94773,14.42655,Dolenja Brezovica,,11,,Dolenja Brezovica,,Preserje,Brezovica,1352,Preserje,Osrednjeslovenska
 1352 PRESERJE,JEZERO 1,45.97634,14.41959,Jezero,,1,,Jezero,,Preserje,Brezovica,1352,Preserje,Osrednjeslovenska
 1352 PRESERJE,RAKITNA 96,45.89044,14.44624,Rakitna,,96,,Rakitna,,Rakitna,Brezovica,1352,Preserje,Osrednjeslovenska
@@ -297,7 +299,6 @@ cityZZZS,addressZZZS,lat,lon,street,streetAlt,housenumber,housenumberAppendix,ci
 1355 POLHOV GRADEC,PRAPROČE 3,46.05929,14.29500,Praproče,,3,,Praproče,,Polhov Gradec,Dobrova-Polhov Gradec,1355,Polhov Gradec,Osrednjeslovenska
 1356 DOBROVA,BREZJE PRI DOBROVI 11,46.02784,14.34540,Brezje pri Dobrovi,,11,,Brezje pri Dobrovi,,Dobrova,Dobrova-Polhov Gradec,1356,Dobrova,Osrednjeslovenska
 1356 DOBROVA,POLHOGRAJSKA CESTA 37,46.05477,14.41679,Polhograjska cesta,,37,,Dobrova,,Dobrova,Dobrova-Polhov Gradec,1356,Dobrova,Osrednjeslovenska
-1356 DOBROVA,STRANSKA VAS 15,46.06359,14.42249,Stranska vas,,15,,Stranska vas,,Dobrova,Dobrova-Polhov Gradec,1356,Dobrova,Osrednjeslovenska
 1356 DOBROVA,ULICA VLADIMIRJA DOLNIČARJA 11,46.05355,14.41726,Ulica Vladimirja Dolničarja,,11,,Dobrova,,Dobrova,Dobrova-Polhov Gradec,1356,Dobrova,Osrednjeslovenska
 1357 NOTRANJE GORICE,GMAJNA 7,45.99556,14.40795,Gmajna,,7,,Notranje Gorice,,Notranje Gorice,Brezovica,1357,Notranje Gorice,Osrednjeslovenska
 1357 NOTRANJE GORICE,PODPEŠKA CESTA 380,45.98948,14.40273,Podpeška cesta,,380,,Notranje Gorice,,Notranje Gorice,Brezovica,1357,Notranje Gorice,Osrednjeslovenska
