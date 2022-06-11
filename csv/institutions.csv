@@ -316,6 +316,7 @@ id_inst,zzzsSt,name,unit,address,post,city,municipalityPart,municipality,lat,lon
 4108629,4108629,"MEDICINSKI CENTER ŽELJKO HALAPIJA AMBULANTA MEDICINE DELA, PROMETA IN ŠPORTA IN SPLOŠNA AMBULANTA D.O.O. SEVNICA",IZPOSTAVA SEVNICA,Trg svobode 14,8290 Sevnica,Sevnica,Sevnica,Sevnica,46.0106,15.30248,07 81 61 529,https://www.zd-sevnica.si/druzinska-medicina/zeljko-halapija-dr-med
 787045,787045,"MEDICO - DENTES, ZOBOZDRAVSTVENA DEJAVNOST, D.O.O.",OE LJUBLJANA,Vodovodna cesta 109,1000 Ljubljana,Ljubljana,Četrtna skupnost Šiška,Ljubljana,46.07871,14.50194,,
 4208691,4208691,"MEDICODENT, ZOBOZDRAVSTVENE STORITVE D.O.O.",OE RAVNE NA KOROŠKEM,Mariborska cesta 38,2370 Dravograd,Dravograd,Dravograd,Dravograd,46.59024,15.02867,(02) 871 04 60,http://www.medicodent.si
+5105114,5105114,"MEDICOINTERNA, MEDICINSKE STORITVE IN SVETOVANJE, D.O.O.",IZPOSTAVA KOČEVJE,Roška cesta 17,1330 Kočevje,Kočevje,Kočevje-mesto,Kočevje,45.63932,14.864,,
 657070,657070,MEDICUS PARTNER ZDRAVSTVENE STORITVE D.O.O.,IZPOSTAVA TOLMIN,Gregorčičeva ulica 6,5220 Tolmin,Tolmin,Tolmin,Tolmin,46.18371,13.73296,,http://www.medicuspartner.si
 4221648,4221648,"MEDIKMIKO, STORITVE IN SVETOVANJE D.O.O.",OE CELJE,Zadobrova 49B,3211 Škofja vas,Zadobrova,Škofja vas,Celje,46.25981,15.29581,03 543 42 31,http://www.medikmiko.si
 5089080,5089080,"MEDIKUS, ZDRAVSTVENA DEJAVNOST, D.O.O.",OE MARIBOR,Cesta k Dravi 8,2241 Spodnji Duplek,Spodnji Duplek,Spodnji Duplek,Duplek,46.50113,15.74875,02 620 24 80,https://medikus.si/
@@ -357,7 +358,6 @@ id_inst,zzzsSt,name,unit,address,post,city,municipalityPart,municipality,lat,lon
 4223530,4223530,OBLAK - ZDOLŠEK JANJA DR.DENT.MED. ZOBOZDRAVSTENA ORDINACIJA,OE LJUBLJANA,Vilharjeva cesta 27,1000 Ljubljana,Ljubljana,Četrtna skupnost Bežigrad,Ljubljana,46.0602,14.51545,,https://www.zdravniki-zobozdravniki.net/clan/Janja-OBLAK--ZDOLSEK-1603/
 4544865,4544865,OBRADOVIĆ ZDRAVSTVO ZDRAVSTVENE IN DRUGE STORITVE D.O.O.,OE KRŠKO,Cankarjeva ulica 3A,8270 Krško,Krško,Krško,Krško,45.95739,15.49688,074 880 227,https://www.obradovic.si/
 2660347,2660347,ODORČIĆ LIDIJA - ORDINACIJA SPLOŠNE MEDICINE,IZPOSTAVA KOČEVJE,Kekčeva ulica 3,1330 Kočevje,Kočevje,Kočevje-mesto,Kočevje,45.64144,14.85424,01 893 11 30,http://www.ordinacija-odorcic.com/
-1565807,1565807,ODORČIĆ TIHOMIR - ORDINACIJA SPLOŠNE MEDICINE,IZPOSTAVA KOČEVJE,Kekčeva ulica 3,1330 Kočevje,Kočevje,Kočevje-mesto,Kočevje,45.64144,14.85424,01 8931130,http://www.ordinacija-odorcic.com/
 3137209,3137209,OGRIN MARIJA - STOMATOLOGINJA,IZPOSTAVA VRHNIKA,Pod Hruševco 33,1360 Vrhnika,Vrhnika,Vrhnika Breg,Vrhnika,45.97336,14.29506,,
 4352562,4352562,"ORDINACIJA DRUŽINSKE MEDICINE DANICA SIMONČIČ, DR. MED., SPEC. SPL. MED.",OE NOVO MESTO,Prvomajska cesta 5,8310 Šentjernej,Šentjernej,Šentjernej,Šentjernej,45.84414,15.33949,073 082 411,http://www.zdravniki-zobozdravniki.net/clan/Danica-SIMONCIC-1043/
 6985310,6985310,"ORDINACIJA GAŠPERLIN DOVNIK, GINEKOLOGIJA IN DENZITOMETRIJA D.O.O.",OE CELJE,Jenkova ulica 20,3000 Celje,Celje,Dolgo polje,Celje,46.23594,15.26216,03 543 44 34,http://nuhalna-svetlina.com
@@ -384,7 +384,7 @@ ozgsl,,"OSNOVNO ZDRAVSTVO GORENJSKE, OE ZDRAVSTVENI DOM ŠKOFJA LOKA",IZPOSTAVA 
 4519019,4519019,"PEDIATRIJA, DRUŽBA ZA PREVENTIVO IN ZDRAVLJENJE OTROK, D.O.O.",OE MARIBOR,Kalohova ulica 18,2000 Maribor,Maribor,Studenci,Maribor,46.55507,15.61747,02 420 18 87,http://pediatrijakrebs.si/
 5088847,5088847,"PEDIATRINJA SUZANA ŠKORJANC ANTOLIČ, ZDRAVSTVENA DEJAVNOST, D.O.O.",OE MARIBOR,Hrenova ulica 6,2000 Maribor,Maribor,Studenci,Maribor,46.55432,15.62367,(02) 429 09 11,https://pediatrinjasuzana.si/
 5755570,5755570,"PEDIATRIČNA ORDINACIJA BARBARA DIETNER MERKAN, ZDRAVSTVENE STORITVE IN SVETOVANJE, D.O.O.",OE MARIBOR,Pobreška cesta 6,2000 Maribor,Maribor,Magdalena,Maribor,46.55441,15.64665,082 057 530,http://www.pediatrija-tezno.si
-3097258,3097258,PEREZA IVAN - ZASEBNA ZOBNA AMBULANTA,IZPOSTAVA GORNJA RADGONA,Radgonska cesta 2,9252 Radenci,Radenci,KS RADENCI,Radenci,46.64125,16.04391,,http://www.zobozdravniki-pomurja.si
+8606095,8606095,PERMADENT ZOBOZDRAVSTVENA DEJAVNOST D.O.O.,IZPOSTAVA GORNJA RADGONA,Radgonska cesta 2,9252 Radenci,Radenci,KS RADENCI,Radenci,46.64125,16.04391,,http://www.zobozdravniki-pomurja.si
 6961668,6961668,"PERUN MED, ZDRAVSTVENE STORITVE IN SVETOVANJE, D.O.O.",IZPOSTAVA POSTOJNA,Levstikova ulica 2,6210 Sežana,Sežana,Sežana,Sežana,45.7087,13.87106,05 75 73 199,http://www.ordinacija-dukic-pivka.net
 3434877,3434877,PERŠIČ OJSTERŠEK ALENKA - ORDINACIJA SPLOŠNE MEDICINE,OE LJUBLJANA,Cesta v Mestni log 55,1000 Ljubljana,Ljubljana,Četrtna skupnost Trnovo,Ljubljana,46.0362,14.48957,(01)521 13 51,https://www.zdravniki-zobozdravniki.net/clan/Alenka-PERSIC-OJSTERSEK-737/
 8016542,8016542,PETRINA KRAJNC REPA - ZASEBNA ZOBNA ORDINACIJA,OE MARIBOR,Korenska cesta 31,2241 Spodnji Duplek,Spodnji Duplek,Spodnji Duplek,Duplek,46.50402,15.75597,040/ 427-988,https://zasebna-zobna-ordinacija-petrina-krajnc-repa.business.site/
@@ -430,6 +430,7 @@ ozgsl,,"OSNOVNO ZDRAVSTVO GORENJSKE, OE ZDRAVSTVENI DOM ŠKOFJA LOKA",IZPOSTAVA 
 3118263,3118263,RUS SERGEJ - SPECIALIST SPLOŠNE MEDICINE,IZPOSTAVA VELENJE,Vodnikova cesta 1,3320 Velenje,Velenje,Velenje - desni breg,Velenje,46.36151,15.11636,(03) 897 02 00,http://www.sergejrus.si
 3209958,3209958,RUS SIMONKA - STOMATOLOŠKA ORDINACIJA,OE LJUBLJANA,Vodnikova cesta 187,1000 Ljubljana,Ljubljana,Četrtna skupnost Šiška,Ljubljana,46.07405,14.47528,,
 3194293,3194293,RUS VALERIJA - ORDINACIJA SPLOŠNE MEDICINE,OE LJUBLJANA,Dolsko 55,1262 Dol pri Ljubljani,Dolsko,Dolsko,Dol pri Ljubljani,46.09385,14.67776,01 564 71 56,https://www.zdravniki-zobozdravniki.net/clan/Valerija-RUS-1191/#ordinacija
+5088574,5088574,"S-MEDICUS, DRUŽBA ZA ZDRAVSTVENO, SVETOVALNO IN STORITVENO DEJAVNOST, D.O.O.",IZPOSTAVA TRŽIČ,Blejska cesta 10,4290 Tržič,Tržič,Tržič - mesto,Tržič,46.36361,14.30654,04 592 51 31,
 6212353,6212353,"SAFTIĆ, ZDRAVSTVENA DEJAVNOST, D.O.O.",IZPOSTAVA PTUJ,Cirkulane 28,2282 Cirkulane,Cirkulane,,Cirkulane,46.34593,15.99901,(02) 761 80 01,https://saftic.si/
 3201235,3201235,"SALVUS, MEDICINSKE STORITVE D.O.O.",IZPOSTAVA LENDAVA,Trimlini 56A,9220 Lendava - Lendva,Trimlini,Lendava,Lendava,46.54414,16.46532,,http://www.salvus.si
 7152775,7152775,SAMOSTOJNA ORDINACIJA DRUŽINSKE MEDICINE SUZANA MILENKOVIĆ DR. MED.,IZPOSTAVA ČRNOMELJ,Zadružna cesta 33,8340 Črnomelj,Črnomelj,Črnomelj,Črnomelj,45.57914,15.19513,07 305 39 30,http://www.ordinacija-milenkovic.si
@@ -535,8 +536,8 @@ ozgsl,,"OSNOVNO ZDRAVSTVO GORENJSKE, OE ZDRAVSTVENI DOM ŠKOFJA LOKA",IZPOSTAVA 
 4746766,4746766,"URBANČIČ POLONCA, DR. DENT. MED. ZOBOZDRAVSTVO",OE LJUBLJANA,Vodovodna cesta 109,1000 Ljubljana,Ljubljana,Četrtna skupnost Šiška,Ljubljana,46.07871,14.50194,031/609 400,http://www.urbancicstudiodent.com/
 5512710,5512710,"V&V DENT, ZOBOZDRAVSTVENE STORITVE, D.O.O.",IZPOSTAVA ŠKOFJA LOKA,Stara cesta 10,4220 Škofja Loka,Škofja Loka,Kamnitnik,Škofja Loka,46.16618,14.31281,,https://vvdent.si/
 2905823,2905823,VALENTIČ ZVONIMIR - ZOBOZDRAVNIK,IZPOSTAVA KOČEVJE,Roška cesta 18,1330 Kočevje,Kočevje,Kočevje-mesto,Kočevje,45.63938,14.86562,(01) 895 56 67,
-4431237,4431237,VAŠI ZOBJE DENTALNI STUDIO D.O.O.,OE RAVNE NA KOROŠKEM,Trg 4. julija 9,2370 Dravograd,Dravograd,Dravograd,Dravograd,46.58921,15.02233,05 995 180 002 876 19 15,http://www.vasi-zobje.si/
 4431237,4431237,VAŠI ZOBJE DENTALNI STUDIO D.O.O.,IZPOSTAVA RADLJE OB DRAVI,Glavni trg 47,2366 Muta,Muta,,Muta,46.61055,15.16488,05 995 180 002 876 19 15,http://www.vasi-zobje.si/
+4431237,4431237,VAŠI ZOBJE DENTALNI STUDIO D.O.O.,OE RAVNE NA KOROŠKEM,Trg 4. julija 9,2370 Dravograd,Dravograd,Dravograd,Dravograd,46.58921,15.02233,05 995 180 002 876 19 15,http://www.vasi-zobje.si/
 6031706,6031706,"VESNA DOBRAVC, DR.DENT.MED., AMBULANTA ZA ŠOLSKO IN MLADINSKO ZOBOZDRAVSTVO",IZPOSTAVA PIRAN,Prečna pot 4D,6320 Portorož - Portorose,Portorož,Portorož,Piran,45.51588,13.5873,05 673 11 56,http://www.smar-team-org.si/DobravcVesna/dobravcdomov.html
 4106307,4106307,"VESNA JERNEJČIČ, DR. DENT. MED. ZASEBNA ZOBNA ORDINACIJA",IZPOSTAVA CERKNICA,Cesta 4. maja 17,1380 Cerknica,Cerknica,Cerknica,Cerknica,45.79122,14.36578,,http://www.slovenski-zobozdravniki.si/vesna-jernejcicdrdentmed
 4106429,4106429,"VESNA ŠEGA - NOVAK, DR. DENT. MED., ZASEBNA ZOBNA ORDINACIJA",IZPOSTAVA CERKNICA,Cesta Notranjskega odreda 36,1386 Stari trg pri Ložu,Stari trg pri Ložu,,Loška dolina,45.71325,14.47221,01 709 60 97,http://slovenski-zobozdravniki.si/vesna-sega-novak-drdentmed
