@@ -384,7 +384,6 @@ cityZZZS,addressZZZS,lat,lon,street,streetAlt,housenumber,housenumberAppendix,ci
 2000 MARIBOR,MELJSKI DOL 36,46.57005,15.66523,Meljski dol,,36,,Maribor,,Center,Maribor,2000,Maribor,Podravska
 2000 MARIBOR,METELKOVA ULICA 48,46.54221,15.64158,Metelkova ulica,,48,,Maribor,,Tabor,Maribor,2000,Maribor,Podravska
 2000 MARIBOR,MINAŘIKOVA ULICA 6,46.53211,15.66589,Minařikova ulica,,6,,Maribor,,Tezno,Maribor,2000,Maribor,Podravska
-2000 MARIBOR,MLADINSKA ULICA 54,46.56505,15.63517,Mladinska ulica,,54,,Maribor,,Koroška vrata,Maribor,2000,Maribor,Podravska
 2000 MARIBOR,NA SOSESKI 14,46.53872,15.63408,Na soseski,,14,,Maribor,,Nova vas,Maribor,2000,Maribor,Podravska
 2000 MARIBOR,NA TRATI 2,46.53586,15.68739,Na trati,,2,,Maribor,,Brezje-Dogoše-Zrkovci,Maribor,2000,Maribor,Podravska
 2000 MARIBOR,OB GOZDU 21,46.54720,15.65998,Ob gozdu,,21,,Maribor,,Pobrežje,Maribor,2000,Maribor,Podravska
@@ -554,6 +553,7 @@ cityZZZS,addressZZZS,lat,lon,street,streetAlt,housenumber,housenumberAppendix,ci
 2351 KAMNICA,VRBANSKA CESTA 97,46.57321,15.61582,Vrbanska cesta,,97,,Kamnica,,Kamnica,Maribor,2351,Kamnica,Podravska
 2352 SELNICA OB DRAVI,GASILSKA ULICA 3,46.55124,15.49124,Gasilska ulica,,3,,Selnica ob Dravi,,,Selnica ob Dravi,2352,Selnica ob Dravi,Podravska
 2352 SELNICA OB DRAVI,SLOVENSKI TRG 4,46.55150,15.49303,Slovenski trg,,4,,Selnica ob Dravi,,,Selnica ob Dravi,2352,Selnica ob Dravi,Podravska
+2352 SELNICA OB DRAVI,SLOVENSKI TRG 4 A,46.55157,15.49335,Slovenski trg,,4,A,Selnica ob Dravi,,,Selnica ob Dravi,2352,Selnica ob Dravi,Podravska
 2352 SELNICA OB DRAVI,SPODNJI SLEMEN 11,46.56018,15.52055,Spodnji Slemen,,11,,Spodnji Slemen,,,Selnica ob Dravi,2352,Selnica ob Dravi,Podravska
 2352 SELNICA OB DRAVI,SPODNJI SLEMEN 13,46.55702,15.51711,Spodnji Slemen,,13,,Spodnji Slemen,,,Selnica ob Dravi,2352,Selnica ob Dravi,Podravska
 2354 BRESTERNICA,CESTA NA ŽAVCERJA 15,46.56716,15.57100,Cesta na Žavcerja,,15,,Jelovec,,Bresternica-Gaj,Maribor,2354,Bresternica,Podravska
