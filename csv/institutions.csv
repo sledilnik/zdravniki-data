@@ -406,7 +406,6 @@ ozgsl,,"OSNOVNO ZDRAVSTVO GORENJSKE, OE ZDRAVSTVENI DOM ŠKOFJA LOKA",IZPOSTAVA 
 4318036,4318036,"PREMEDIKO, ZDRAVSTVENE, TRGOVSKE IN DRUGE STORITVE, D.O.O.",OE MARIBOR,Ljubljanska ulica 9,2000 Maribor,Maribor,Magdalena,Maribor,46.55337,15.64665,(02) 332 33 99,https://premediko.si/
 4384485,4384485,"PRENADENT, ZOBOZDRAVSTVENE STORITVE D.O.O.",OE KRANJ,Draga 1,1292 Ig,Draga,,Ig,45.94726,14.54796,,http://www.prenadent.si
 3454821,3454821,PRIBOŽIČ DARJA - ZASEBNA AMBULANTA SPLOŠNE MEDICINE,IZPOSTAVA PTUJ,Gorišnica 65,2272 Gorišnica,Gorišnica,,Gorišnica,46.41047,16.01167,(02)743 02 60,https://pribozic.si/
-3125050,3125050,"PRIVATNA ZOBNA ORDINACIJA RENATA AMBROŽIČ ČOP, DR. DENT. MED.",IZPOSTAVA RADOVLJICA,Prešernova cesta 52,4260 Bled,Bled,Bled,Bled,46.37308,14.1042,04 576 74 00,http://www.zobozdravnik-bled.com
 3089391,3089391,PRIVŠEK IZTOK - ZOBOZDRAVSTVO,OE LJUBLJANA,Opekarska cesta 11,1000 Ljubljana,Ljubljana,Četrtna skupnost Trnovo,Ljubljana,46.03951,14.50753,(01) 283 92 38,https://www.mojzobar.si/iztok-privsek-zobozdravstvo/
 6083150,6083150,PROMEDICO PLUS ZAVOD ZA ZDRAVSTVENE IN DRUGE STORITVE,OE LJUBLJANA,Sneberska cesta 128B,1260 Ljubljana - Polje,Ljubljana,Četrtna skupnost Polje,Ljubljana,46.07327,14.58924,(01) 759 13 06,http://www.promedico.si
 4567864,4567864,PUKLAVEC GROZNIK JANJA DR.DENT.MED. - ZASEBNA ZOBOZDRAVNICA,OE LJUBLJANA,Savska cesta 10,1000 Ljubljana,Ljubljana,Četrtna skupnost Jarše,Ljubljana,46.06433,14.52589,(01) 280 32 59,
@@ -493,10 +492,10 @@ ozgsl,,"OSNOVNO ZDRAVSTVO GORENJSKE, OE ZDRAVSTVENI DOM ŠKOFJA LOKA",IZPOSTAVA 
 4519100,4519100,"STUDIO ORALNEGA ZDRAVJA, DRUŽBA ZA STORITVE IN SVETOVANJE, D.O.O.",OE MARIBOR,Lavričeva ulica 1,2000 Maribor,Maribor,Koroška vrata,Maribor,46.55817,15.636,(02) 250 15 93,https://www.zdravniki-zobozdravniki.net/clan/Stasa-KOBLAR-PUKLAVEC-465/
 478988,478988,"STUDIO R, SPECIALISTIČNA ZDRAVSTVENA DEJAVNOST SPLOŠNE MEDICINE, D.O.O.",IZPOSTAVA VRHNIKA,Na klancu 22,1360 Vrhnika,Vrhnika,Vrhnika Vas,Vrhnika,45.96633,14.2934,051 400 080,https://dzdravje.si/studio-r/
 3202321,3202321,SVATINA - CIMAN ZORKA - DEJAVNOST MLADINSKEGA ZOBOZDRAVSTVA,OE NOVA GORICA,Ulica Gradnikove brigade 7,5000 Nova Gorica,Nova Gorica,Krajevna skupnost Nova Gorica,Nova Gorica,45.95843,13.64623,,https://www.zdravniki-zobozdravniki.net/clan/Zorka-SVATINA-CIMAN-723/
-179839,179839,SŽ - ŽELEZNIŠKI ZDRAVSTVENI DOM LJUBLJANA,OE NOVA GORICA,Celovška cesta 4,1000 Ljubljana,Ljubljana,Četrtna skupnost Center,Ljubljana,46.0573,14.50122,(01) 33 05 101,http://www.zzd.si/
-179839,179839,SŽ - ŽELEZNIŠKI ZDRAVSTVENI DOM LJUBLJANA,OE LJUBLJANA,Celovška cesta 4,1000 Ljubljana,Ljubljana,Četrtna skupnost Center,Ljubljana,46.0573,14.50122,(01) 33 05 101,http://www.zzd.si/
-179839,179839,SŽ - ŽELEZNIŠKI ZDRAVSTVENI DOM LJUBLJANA,IZPOSTAVA POSTOJNA,Celovška cesta 4,1000 Ljubljana,Ljubljana,Četrtna skupnost Center,Ljubljana,46.0573,14.50122,(01) 33 05 101,http://www.zzd.si/
 179839,179839,SŽ - ŽELEZNIŠKI ZDRAVSTVENI DOM LJUBLJANA,IZPOSTAVA LAŠKO,Celovška cesta 4,1000 Ljubljana,Ljubljana,Četrtna skupnost Center,Ljubljana,46.0573,14.50122,(01) 33 05 101,http://www.zzd.si/
+179839,179839,SŽ - ŽELEZNIŠKI ZDRAVSTVENI DOM LJUBLJANA,IZPOSTAVA POSTOJNA,Celovška cesta 4,1000 Ljubljana,Ljubljana,Četrtna skupnost Center,Ljubljana,46.0573,14.50122,(01) 33 05 101,http://www.zzd.si/
+179839,179839,SŽ - ŽELEZNIŠKI ZDRAVSTVENI DOM LJUBLJANA,OE LJUBLJANA,Celovška cesta 4,1000 Ljubljana,Ljubljana,Četrtna skupnost Center,Ljubljana,46.0573,14.50122,(01) 33 05 101,http://www.zzd.si/
+179839,179839,SŽ - ŽELEZNIŠKI ZDRAVSTVENI DOM LJUBLJANA,OE NOVA GORICA,Celovška cesta 4,1000 Ljubljana,Ljubljana,Četrtna skupnost Center,Ljubljana,46.0573,14.50122,(01) 33 05 101,http://www.zzd.si/
 6501933,6501933,"T DENT, ZOBNA ORDINACIJA, D.O.O.",IZPOSTAVA KAMNIK,Glavarjeva cesta 61A,1218 Komenda,Komenda,,Komenda,46.20453,14.53935,040 802 532,http://www.tdent.si
 4975443,4975443,"TADEJA ŠTRUMBELJ, DR.MED., ZASEBNI ZDRAVSTVENI ZAVOD ŠTRUMBELJ",OE LJUBLJANA,Na Palcah 2,1211 Ljubljana - Šmartno,Ljubljana,Četrtna skupnost Šmarna gora,Ljubljana,46.12111,14.47331,(01) 565 40 69,https://www.zzz-strumbelj.si/
 6162114,6162114,"TAJA DULAR POTOČAR, DR. DENT. MED., ZASEBNA ZOBOZDRAVSTVENA ORDINACIJA",IZPOSTAVA DOMŽALE,Aljaževa ulica 9,1234 Mengeš,Mengeš,,Mengeš,46.1699,14.57643,,http://dulardent.si/
