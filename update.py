@@ -72,7 +72,7 @@ def convert_to_csv(zzzsid_map):
 
     institutions.set_index('zzzsid', inplace=True)
     institutions.index.rename('id_inst', inplace=True)
-    institutions.sort_values(by=['name'], inplace=True)
+    institutions.sort_values(by=['name','unit'], inplace=True)
     institutions.to_csv('csv/institutions.csv')
 
     doctors.drop(['name', 'address', 'city', 'unit'], axis='columns', inplace=True)
