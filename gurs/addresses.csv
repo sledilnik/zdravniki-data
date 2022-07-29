@@ -308,7 +308,6 @@ cityZZZS,addressZZZS,lat,lon,street,streetAlt,housenumber,housenumberAppendix,ci
 1360 VRHNIKA,CESTA 6. MAJA 11,45.96278,14.29358,Cesta 6. maja,,11,,Vrhnika,,Vrhnika Center,Vrhnika,1360,Vrhnika,Osrednjeslovenska
 1360 VRHNIKA,IDRIJSKA CESTA 13,45.96364,14.28875,Idrijska cesta,,13,,Vrhnika,,Vrhnika Vas,Vrhnika,1360,Vrhnika,Osrednjeslovenska
 1360 VRHNIKA,MED VRTOVI 8,45.96540,14.28766,Med vrtovi,,8,,Vrhnika,,Vrhnika Vas,Vrhnika,1360,Vrhnika,Osrednjeslovenska
-1360 VRHNIKA,NA KLANCU 22,45.96633,14.29340,Na klancu,,22,,Vrhnika,,Vrhnika Vas,Vrhnika,1360,Vrhnika,Osrednjeslovenska
 1360 VRHNIKA,POD HRUŠEVCO 33,45.97336,14.29506,Pod Hruševco,,33,,Vrhnika,,Vrhnika Breg,Vrhnika,1360,Vrhnika,Osrednjeslovenska
 1360 VRHNIKA,ROBOVA CESTA 6,45.96751,14.29722,Robova cesta,,6,,Vrhnika,,Vrhnika Breg,Vrhnika,1360,Vrhnika,Osrednjeslovenska
 1360 VRHNIKA,SINJA GORICA 7,45.97963,14.31058,Sinja Gorica,,7,,Sinja Gorica,,Sinja Gorica,Vrhnika,1360,Vrhnika,Osrednjeslovenska
@@ -817,7 +816,6 @@ cityZZZS,addressZZZS,lat,lon,street,streetAlt,housenumber,housenumberAppendix,ci
 4270 JESENICE,ULICA STANETA BOKALA 4,46.44290,14.03977,Ulica Staneta Bokala,,4,,Jesenice,,Plavž,Jesenice,4270,Jesenice,Gorenjska
 4274 ŽIROVNICA,SELO PRI ŽIROVNICI 8 A,46.40034,14.14153,Selo pri Žirovnici,,8,A,Selo pri Žirovnici,,,Žirovnica,4274,Žirovnica,Gorenjska
 4275 BEGUNJE NA GORENJSKEM,BEGUNJE NA GORENJSKEM 55,46.37696,14.20130,Begunje na Gorenjskem,,55,,Begunje na Gorenjskem,,Begunje na Gorenjskem,Radovljica,4275,Begunje na Gorenjskem,Gorenjska
-4275 BEGUNJE NA GORENJSKEM,ZAPUŽE 29 A,46.36287,14.19397,Zapuže,,29,A,Zapuže,,Begunje na Gorenjskem,Radovljica,4275,Begunje na Gorenjskem,Gorenjska
 4280 KRANJSKA GORA,KOROŠKA ULICA 2,46.48538,13.78242,Koroška ulica,,2,,Kranjska Gora,,Kranjska Gora,Kranjska Gora,4280,Kranjska Gora,Gorenjska
 4290 TRŽIČ,BEGUNJSKA CESTA 2,46.35659,14.29278,Begunjska cesta,,2,,Bistrica pri Tržiču,,Bistrica pri Tržiču,Tržič,4290,Tržič,Gorenjska
 4290 TRŽIČ,BLEJSKA CESTA 10,46.36361,14.30654,Blejska cesta,,10,,Tržič,,Tržič - mesto,Tržič,4290,Tržič,Gorenjska
