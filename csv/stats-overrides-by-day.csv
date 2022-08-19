@@ -1,6 +1,6 @@
 date_override,note_override,accepts_override,availability_override,address,post,phone,website,email,orderform
 2021-12-23,25,25,1,24,24,33,10,5,5
-2021-12-27,31,31,0,21,21,14,9,8,0
+2021-12-27,31,31,0,20,20,13,9,7,0
 2021-12-28,14,14,0,17,17,27,18,15,7
 2021-12-29,11,11,0,7,7,10,0,2,0
 2021-12-30,4,3,0,24,24,21,4,21,0
@@ -87,3 +87,4 @@ date_override,note_override,accepts_override,availability_override,address,post,
 2022-08-05,2,2,0,0,0,0,0,0,0
 2022-08-12,2,2,0,0,0,0,0,0,0
 2022-08-16,1,1,0,0,0,0,0,0,0
+2022-08-18,1,1,0,1,1,1,0,1,0
