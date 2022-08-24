@@ -8,7 +8,7 @@ id_inst,zzzsSt,name,unit,address,post,city,municipalityPart,municipality,lat,lon
 5660079,5660079,A-DENS ZOBOZDRAVSTVENE STORITVE D.O.O.,OE NOVO MESTO,Trg 27,8216 Mirna Peč,Mirna Peč,,Mirna Peč,45.85842,15.08385,07 307 85 19,http://www.zobna-ambulanta.com
 3269561,3269561,"A. MLINAR, ZOBOZDRAVSTVO, PROJEKTIRANJE IN DRUGE STORITVE D.O.O.",OE KOPER,Frenkova ulica 7,6280 Ankaran - Ancarano,Ankaran,,Ankaran,45.58296,13.73466,040 827 521,http://www.dcmlinar.si
 3079961,3079961,"A.S. LINEA, TRGOVINA, STORITVE, D.O.O.",IZPOSTAVA RADOVLJICA,Pot na Lisice 4,4260 Bled,Bled,Bled,Bled,46.36823,14.1308,,http://zobozdravstvo-bled.si
-2831490,2831490,"AERODENT, ZOBOZDRAVSTVO, D.O.O.",IZPOSTAVA VRHNIKA,Brigadirska cesta 16,1360 Vrhnika,Verd,Verd,Vrhnika,45.96273,14.30258,,
+2831490,2831490,"AERODENT, ZOBOZDRAVSTVO, D.O.O.",IZPOSTAVA VRHNIKA,Brigadirska cesta 16,1360 Vrhnika,Verd,Verd,Vrhnika,45.96273,14.30258,(01) 755 73 10,
 3275353,3275353,AHLIN DRAGOTIN - SPLOŠNA AMBULANTA,IZPOSTAVA KAMNIK,Novi trg 26A,1241 Kamnik,Kamnik,Novi trg,Kamnik,46.22082,14.61321,01 839 15 98,https://www.zdravniki-zobozdravniki.net/clan/Dragotin-AHLIN-96/
 3122512,3122512,AL MAHDAWI FUAD - SPECIALIST SPLOŠNE MEDICINE,IZPOSTAVA ŠMARJE PRI JELŠAH,Celjska cesta 7,3250 Rogaška Slatina,Rogaška Slatina,Rogaška Slatina,Rogaška Slatina,46.23915,15.63321,(03) 819 21 80,https://www.zdravniki-zobozdravniki.net/clan/Fuad-AL-MAHDAWI-1265/
 4729449,4729449,ALENKA IVANČIČ DR. DENT. MED. ZASEBNA ZOBNA ORDINACIJA,OE LJUBLJANA,Komenskega ulica 19,1000 Ljubljana,Ljubljana,Četrtna skupnost Center,Ljubljana,46.05341,14.51253,01/434 49 04,http://www.ivancici.si/
@@ -480,7 +480,7 @@ ozgsl,,"OSNOVNO ZDRAVSTVO GORENJSKE, OE ZDRAVSTVENI DOM ŠKOFJA LOKA",IZPOSTAVA 
 120872,120872,"SREDNJA ŠOLA ZA FARMACIJO, KOZMETIKO IN ZDRAVSTVO",OE LJUBLJANA,Zdravstvena pot 1,1000 Ljubljana,Ljubljana,Četrtna skupnost Center,Ljubljana,46.04729,14.51594,01 300 72 40,http://www.ssfkz.si/
 3123535,3123535,STARBEK MARIJA - AMBULANTA SPLOŠNE MEDICINE,IZPOSTAVA DOMŽALE,Ljubljanska cesta 104,1230 Domžale,Domžale,Domžale - Slavka Šlandra,Domžale,46.14268,14.59561,01 724 27 86,
 3578840,3578840,"STARDENT, ZOBOZDRAVSTVENE STORITVE, TRGOVINA IN POSREDNIŠTVO D.O.O.",IZPOSTAVA ŠKOFJA LOKA,Trg svobode 9,4226 Žiri,Žiri,,Žiri,46.04754,14.11159,,
-5880304,5880304,"STEINER, ZASEBNE AMBULANTE SPLOŠNE MEDICINE, D.O.O.",IZPOSTAVA MOZIRJE,Šmihelska cesta 7,3330 Mozirje,Mozirje,Mozirje,Mozirje,46.34067,14.96434,(03) 839 08 04,https://www.zdravniki-zobozdravniki.net/clan/Ksenija-MIJIN-STEINER-1013/
+5880304,5880304,"STEINER, ZASEBNE AMBULANTE SPLOŠNE MEDICINE, D.O.O.",IZPOSTAVA MOZIRJE,Šmihelska cesta 7,3330 Mozirje,Mozirje,Mozirje,Mozirje,46.34067,14.96434,(03) 839 08 04,https://ezdravnik.si/zdravnik/mijin-steiner/
 4130044,4130044,"STIPES, PROIZVODNJA, TRGOVINA, FINANCE, NEPREMIČNINE, ZOBOZDRAVSTVENE IN DRUGE STORITVE, D.O.O.",IZPOSTAVA SLOVENSKA BISTRICA,Ulica Borisa Winterja 10,2310 Slovenska Bistrica,Slovenska Bistrica,Dr. Jagodiča,Slovenska Bistrica,46.38857,15.5734,(02) 843 31 32,https://www.cakalnedobe.si/ambulante/stipes
 4530009,4530009,"STOMATOLOGICA, ZOBOZDRAVSTVENE STORITVE, D.O.O.",OE MARIBOR,Pesnica pri Mariboru 42C,2211 Pesnica pri Mariboru,Pesnica pri Mariboru,Pesnica pri Mariboru,Pesnica,46.60846,15.67654,02 653 76 01,https://www.stomatologica.si/
 3137928,3137928,"STOMATOLOŠKA ORDINACIJA JANKO E. ŠTEFANČIČ, DR. DENT. MED.",OE LJUBLJANA,Aljaževa ulica 30,1000 Ljubljana,Ljubljana,Četrtna skupnost Šiška,Ljubljana,46.06839,14.49548,,
