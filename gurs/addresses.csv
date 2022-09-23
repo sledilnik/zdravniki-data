@@ -325,7 +325,6 @@ cityZZZS,addressZZZS,lat,lon,street,streetAlt,housenumber,housenumberAppendix,ci
 1410 ZAGORJE OB SAVI,CESTA 9. AVGUSTA 59 C,46.13569,15.00237,Cesta 9. avgusta,,59,C,Zagorje ob Savi,,Franc Farčnik,Zagorje ob Savi,1410,Zagorje ob Savi,Zasavska
 1410 ZAGORJE OB SAVI,CESTA 9. AVGUSTA 8 B,46.13429,14.99599,Cesta 9. avgusta,,8,B,Zagorje ob Savi,,Jože Marn,Zagorje ob Savi,1410,Zagorje ob Savi,Zasavska
 1410 ZAGORJE OB SAVI,CESTA ZMAGE 1,46.13384,14.99570,Cesta zmage,,1,,Zagorje ob Savi,,Jože Marn,Zagorje ob Savi,1410,Zagorje ob Savi,Zasavska
-1410 ZAGORJE OB SAVI,MARNOVA ULICA 31 A,46.12735,14.99425,Marnova ulica,,31,A,Zagorje ob Savi,,Jože Marn,Zagorje ob Savi,1410,Zagorje ob Savi,Zasavska
 1411 IZLAKE,IZLAKE 13,46.15540,14.92923,Izlake,,13,,Izlake,,Izlake,Zagorje ob Savi,1411,Izlake,Zasavska
 1411 IZLAKE,PODLIPOVICA 43,46.16391,14.90922,Podlipovica,,43,,Podlipovica,,Izlake,Zagorje ob Savi,1411,Izlake,Zasavska
 1420 TRBOVLJE,KOLONIJA 1. MAJA 21,46.15019,15.05220,Kolonija 1. maja,,21,,Trbovlje,,Fric Keršič,Trbovlje,1420,Trbovlje,Zasavska
@@ -1062,13 +1061,13 @@ cityZZZS,addressZZZS,lat,lon,street,streetAlt,housenumber,housenumberAppendix,ci
 8311 KOSTANJEVICA NA KRKI,ČRNEČA VAS 6,45.82842,15.45766,Črneča vas,,6,,Črneča vas,,,Kostanjevica na Krki,8311,Kostanjevica na Krki,Posavska
 8330 METLIKA,CESTA BRATSTVA IN ENOTNOSTI 71,45.64848,15.31814,Cesta bratstva in enotnosti,,71,,Metlika,,Mestna skupnost Metlika,Metlika,8330,Metlika,Jugovzhodna Slovenija
 8330 METLIKA,MESTNI TRG 16,45.64980,15.31825,Mestni trg,,16,,Metlika,,Mestna skupnost Metlika,Metlika,8330,Metlika,Jugovzhodna Slovenija
-8340 ČRNOMELJ,BEVKOVA ULICA 2,45.56242,15.19991,Bevkova ulica,,2,,Črnomelj,,Črnomelj,Črnomelj,8340,Črnomelj,Jugovzhodna Slovenija
-8340 ČRNOMELJ,DELAVSKA POT 4,45.57549,15.18753,Delavska pot,,4,,Črnomelj,,Črnomelj,Črnomelj,8340,Črnomelj,Jugovzhodna Slovenija
-8340 ČRNOMELJ,MAJER 7,45.56976,15.19458,Majer,,7,,Črnomelj,,Črnomelj,Črnomelj,8340,Črnomelj,Jugovzhodna Slovenija
-8340 ČRNOMELJ,ULICA 21. OKTOBRA 19 C,45.57986,15.18525,Ulica 21. oktobra,,19,C,Črnomelj,,Črnomelj,Črnomelj,8340,Črnomelj,Jugovzhodna Slovenija
-8340 ČRNOMELJ,ULICA NA PRISTAVAH 1,45.57823,15.19245,Ulica na Pristavah,,1,,Črnomelj,,Črnomelj,Črnomelj,8340,Črnomelj,Jugovzhodna Slovenija
-8340 ČRNOMELJ,ULICA OTONA ŽUPANČIČA 3,45.57421,15.19108,Ulica Otona Župančiča,,3,,Črnomelj,,Črnomelj,Črnomelj,8340,Črnomelj,Jugovzhodna Slovenija
-8340 ČRNOMELJ,ZADRUŽNA CESTA 33,45.57914,15.19513,Zadružna cesta,,33,,Črnomelj,,Črnomelj,Črnomelj,8340,Črnomelj,Jugovzhodna Slovenija
+8340 ČRNOMELJ,BEVKOVA ULICA 2,45.56242,15.19991,Bevkova ulica,,2,,Črnomelj,,KS Črnomelj,Črnomelj,8340,Črnomelj,Jugovzhodna Slovenija
+8340 ČRNOMELJ,DELAVSKA POT 4,45.57549,15.18753,Delavska pot,,4,,Črnomelj,,KS Črnomelj,Črnomelj,8340,Črnomelj,Jugovzhodna Slovenija
+8340 ČRNOMELJ,MAJER 7,45.56976,15.19458,Majer,,7,,Črnomelj,,KS Črnomelj,Črnomelj,8340,Črnomelj,Jugovzhodna Slovenija
+8340 ČRNOMELJ,ULICA 21. OKTOBRA 19 C,45.57986,15.18525,Ulica 21. oktobra,,19,C,Črnomelj,,KS Črnomelj,Črnomelj,8340,Črnomelj,Jugovzhodna Slovenija
+8340 ČRNOMELJ,ULICA NA PRISTAVAH 1,45.57823,15.19245,Ulica na Pristavah,,1,,Črnomelj,,KS Črnomelj,Črnomelj,8340,Črnomelj,Jugovzhodna Slovenija
+8340 ČRNOMELJ,ULICA OTONA ŽUPANČIČA 3,45.57421,15.19108,Ulica Otona Župančiča,,3,,Črnomelj,,KS Črnomelj,Črnomelj,8340,Črnomelj,Jugovzhodna Slovenija
+8340 ČRNOMELJ,ZADRUŽNA CESTA 33,45.57914,15.19513,Zadružna cesta,,33,,Črnomelj,,KS Črnomelj,Črnomelj,8340,Črnomelj,Jugovzhodna Slovenija
 8350 DOLENJSKE TOPLICE,KELTSKA ULICA 9,45.75288,15.05415,Keltska ulica,,9,,Dolenjske Toplice,,,Dolenjske Toplice,8350,Dolenjske Toplice,Jugovzhodna Slovenija
 8350 DOLENJSKE TOPLICE,ULICA MAKSA HENIGMANA 57,45.75493,15.06221,Ulica Maksa Henigmana,,57,,Dolenjske Toplice,,,Dolenjske Toplice,8350,Dolenjske Toplice,Jugovzhodna Slovenija
 8351 STRAŽA PRI NOVEM MESTU,HRUŠEVEC 55,45.78935,15.09697,Hruševec,,55,,Straža,,,Straža,8351,Straža pri Novem mestu,Jugovzhodna Slovenija
@@ -1144,6 +1143,6 @@ cityZZZS,addressZZZS,lat,lon,street,streetAlt,housenumber,housenumberAppendix,ci
 9261 CANKOVA,CANKOVA 65 A,46.71884,16.01822,Cankova,,65,A,Cankova,,,Cankova,9261,Cankova,Pomurska
 9261 CANKOVA,CANKOVA 65 B,46.71858,16.01850,Cankova,,65,B,Cankova,,,Cankova,9261,Cankova,Pomurska
 9262 ROGAŠOVCI,ROGAŠOVCI 14 A,46.80513,16.03630,Rogašovci,,14,A,Rogašovci,,Rogašovci,Rogašovci,9262,Rogašovci,Pomurska
-9263 KUZMA,KUZMA 60 L,46.83599,16.07729,Kuzma,,60,L,Kuzma,,Kuzma,Kuzma,9263,Kuzma,Pomurska
+9263 KUZMA,KUZMA 60 L,46.83599,16.07729,Kuzma,,60,L,Kuzma,,,Kuzma,9263,Kuzma,Pomurska
 9264 GRAD,GRAD 172 A,46.80244,16.09112,Grad,,172,A,Grad,,,Grad,9264,Grad,Pomurska
 9264 GRAD,GRAD 187,46.80149,16.09203,Grad,,187,,Grad,,,Grad,9264,Grad,Pomurska
