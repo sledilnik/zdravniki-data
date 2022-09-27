@@ -258,9 +258,9 @@ cityZZZS,addressZZZS,lat,lon,street,streetAlt,housenumber,housenumberAppendix,ci
 1290 GROSUPLJE,ADAMIČEVA CESTA 41 B,45.95673,14.66126,Adamičeva cesta,,41,B,Grosuplje,,Grosuplje,Grosuplje,1290,Grosuplje,Osrednjeslovenska
 1290 GROSUPLJE,OB GROSUPELJŠČICI 28,45.96309,14.66212,Ob Grosupeljščici,,28,,Grosuplje,,Grosuplje,Grosuplje,1290,Grosuplje,Osrednjeslovenska
 1290 GROSUPLJE,POD GOZDOM CESTA I 14,45.95943,14.65315,Pod gozdom cesta I,,14,,Grosuplje,,Grosuplje,Grosuplje,1290,Grosuplje,Osrednjeslovenska
-1291 ŠKOFLJICA,DOLENJSKA CESTA 324 A,46.00139,14.55416,Dolenjska cesta,,324,A,Lavrica,,Lavrica,Škofljica,1291,Škofljica,Osrednjeslovenska
-1291 ŠKOFLJICA,HRIBI 4,45.98755,14.57140,Hribi,,4,,Škofljica,,Škofljica,Škofljica,1291,Škofljica,Osrednjeslovenska
-1291 ŠKOFLJICA,KOČEVSKA CESTA 25,45.98069,14.57676,Kočevska cesta,,25,,Škofljica,,Škofljica,Škofljica,1291,Škofljica,Osrednjeslovenska
+1291 ŠKOFLJICA,DOLENJSKA CESTA 324 A,46.00139,14.55416,Dolenjska cesta,,324,A,Lavrica,,,Škofljica,1291,Škofljica,Osrednjeslovenska
+1291 ŠKOFLJICA,HRIBI 4,45.98755,14.57140,Hribi,,4,,Škofljica,,,Škofljica,1291,Škofljica,Osrednjeslovenska
+1291 ŠKOFLJICA,KOČEVSKA CESTA 25,45.98069,14.57676,Kočevska cesta,,25,,Škofljica,,,Škofljica,1291,Škofljica,Osrednjeslovenska
 1292 IG,BANIJA 4,45.95897,14.52720,Banija,,4,,Ig,,,Ig,1292,Ig,Osrednjeslovenska
 1292 IG,DRAGA 1,45.94726,14.54796,Draga,,1,,Draga,,,Ig,1292,Ig,Osrednjeslovenska
 1292 IG,PODGOZD 60,45.93073,14.53700,Podgozd,,60,,Podgozd,,,Ig,1292,Ig,Osrednjeslovenska
