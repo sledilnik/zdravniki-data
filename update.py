@@ -126,9 +126,9 @@ def geocode_addresses():
     addresses.to_csv('gurs/addresses-zzzs.csv')
 
     try:
-        subprocess.run(["geocodecsv", "-in", "gurs/addresses-zzzs.csv", "-out", "gurs/addresses.csv", "-zipCol", "1", "-addressCol", "2", "-appendAll"])
+        subprocess.run(["geocode", "-in", "gurs/addresses-zzzs.csv", "-out", "gurs/addresses.csv", "-zipCol", "1", "-addressCol", "2", "-appendAll"])
     except FileNotFoundError:
-        print("geocodecsv not found, skipping.")
+        print("geocode not found, skipping.")
 
     addresses = pd.read_csv('csv/doctors.csv', usecols=['post', 'address']).rename(columns={'post':'postOver','address':'addressOver'}).dropna()
     addresses.sort_values(by=['postOver', 'addressOver'], inplace=True)
@@ -137,9 +137,9 @@ def geocode_addresses():
     addresses.to_csv('gurs/addresses-overrides.csv')
 
     try:
-        subprocess.run(["geocodecsv", "-in", "gurs/addresses-overrides.csv", "-out", "gurs/addresses-overrides-geocoded.csv", "-zipCol", "1", "-addressCol", "2", "-appendAll"])
+        subprocess.run(["geocode", "-in", "gurs/addresses-overrides.csv", "-out", "gurs/addresses-overrides-geocoded.csv", "-zipCol", "1", "-addressCol", "2", "-appendAll"])
     except FileNotFoundError:
-        print("geocodecsv not found, skipping.")
+        print("geocode not found, skipping.")
 
 
 def add_gurs_geodata():
