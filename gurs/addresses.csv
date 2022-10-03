@@ -225,6 +225,7 @@ cityZZZS,addressZZZS,lat,lon,street,streetAlt,housenumber,housenumberAppendix,ci
 1231 LJUBLJANA - ČRNUČE,DUNAJSKA CESTA 405,46.10448,14.53545,Dunajska cesta,,405,,Ljubljana,,Četrtna skupnost Črnuče,Ljubljana,1231,Ljubljana - Črnuče,Osrednjeslovenska
 1231 LJUBLJANA - ČRNUČE,PETKOVA ULICA 16,46.09907,14.52792,Petkova ulica,,16,,Ljubljana,,Četrtna skupnost Črnuče,Ljubljana,1231,Ljubljana - Črnuče,Osrednjeslovenska
 1231 LJUBLJANA - ČRNUČE,ZASAVSKA CESTA 95,46.09189,14.57495,Zasavska cesta,,95,,Ljubljana,,Četrtna skupnost Črnuče,Ljubljana,1231,Ljubljana - Črnuče,Osrednjeslovenska
+1233 DOB,PREŠERNOVA ULICA 11,46.15085,14.62615,Prešernova ulica,,11,,Dob,,Dob,Domžale,1233,Dob,Osrednjeslovenska
 1234 MENGEŠ,ALJAŽEVA ULICA 9,46.16990,14.57643,Aljaževa ulica,,9,,Mengeš,,,Mengeš,1234,Mengeš,Osrednjeslovenska
 1234 MENGEŠ,GLAVNI TRG 13,46.16820,14.57322,Glavni trg,,13,,Mengeš,,,Mengeš,1234,Mengeš,Osrednjeslovenska
 1234 MENGEŠ,ROPRETOVA CESTA 23,46.15862,14.56291,Ropretova cesta,,23,,Mengeš,,,Mengeš,1234,Mengeš,Osrednjeslovenska
@@ -538,6 +539,7 @@ cityZZZS,addressZZZS,lat,lon,street,streetAlt,housenumber,housenumberAppendix,ci
 2327 RAČE,LJUBLJANSKA CESTA 14 A,46.45367,15.67455,Ljubljanska cesta,,14,A,Rače,,Rače,Rače-Fram,2327,Rače,Podravska
 2327 RAČE,NOVA ULICA 5,46.45384,15.67405,Nova ulica,,5,,Rače,,Rače,Rače-Fram,2327,Rače,Podravska
 2331 PRAGERSKO,KOLODVORSKA ULICA 3,46.39521,15.66135,Kolodvorska ulica,,3,,Pragersko,,Pragersko,Slovenska Bistrica,2331,Pragersko,Podravska
+2341 LIMBUŠ,HRASTJE 56 B,46.54745,15.58404,Hrastje,,56,B,Hrastje,,Pekre,Maribor,2341,Limbuš,Podravska
 2341 LIMBUŠ,LACKOVA CESTA 135,46.54667,15.59819,Lackova cesta,,135,,Pekre,,Pekre,Maribor,2341,Limbuš,Podravska
 2341 LIMBUŠ,LACKOVA CESTA 242,46.55204,15.58536,Lackova cesta,,242,,Limbuš,,Limbuš,Maribor,2341,Limbuš,Podravska
 2341 LIMBUŠ,LACKOVA CESTA 269,46.55387,15.58161,Lackova cesta,,269,,Limbuš,,Limbuš,Maribor,2341,Limbuš,Podravska
@@ -666,6 +668,7 @@ cityZZZS,addressZZZS,lat,lon,street,streetAlt,housenumber,housenumberAppendix,ci
 3250 ROGAŠKA SLATINA,OB PROGI 3,46.24403,15.62204,Ob progi,,3,,Rogaška Slatina,,Rogaška Slatina,Rogaška Slatina,3250,Rogaška Slatina,Savinjska
 3250 ROGAŠKA SLATINA,PARTIZANSKA CESTA 10,46.24323,15.64276,Partizanska cesta,,10,,Rogaška Slatina,,Rogaška Slatina,Rogaška Slatina,3250,Rogaška Slatina,Savinjska
 3250 ROGAŠKA SLATINA,SPODNJE NEGONJE 16 C,46.25074,15.62346,Spodnje Negonje,,16,C,Spodnje Negonje,,Rogaška Slatina,Rogaška Slatina,3250,Rogaška Slatina,Savinjska
+3250 ROGAŠKA SLATINA,STRITARJEVA ULICA 4,46.24244,15.64020,Stritarjeva ulica,,4,,Rogaška Slatina,,Rogaška Slatina,Rogaška Slatina,3250,Rogaška Slatina,Savinjska
 3250 ROGAŠKA SLATINA,ZDRAVILIŠKI TRG 9,46.23861,15.64079,Zdraviliški trg,,9,,Rogaška Slatina,,Rogaška Slatina,Rogaška Slatina,3250,Rogaška Slatina,Savinjska
 3254 PODČETRTEK,TRŠKA CESTA 67,46.15679,15.59639,Trška cesta,,67,,Podčetrtek,,Podčetrtek,Podčetrtek,3254,Podčetrtek,Savinjska
 3254 PODČETRTEK,ZDRAVILIŠKA CESTA 24,46.15826,15.60687,Zdraviliška cesta,,24,,Podčetrtek,,Podčetrtek,Podčetrtek,3254,Podčetrtek,Savinjska
