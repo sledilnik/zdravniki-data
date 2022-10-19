@@ -1,6 +1,6 @@
 doctor,type,id_inst,accepts,availability,load,date_override,note_override,accepts_override,availability_override,phone,website,email,orderform,address,post,city,municipalityPart,municipality,lat,lon
 Abramič Ivana,den,142070,n,1.0,116.9,,,,,,,,,,,,,,,
-Abramič Tanja,gp,zdlbe,n,0.1,3904.0,2022-10-18,Sprejema nove paciente.,y,,,,,,,,,,,,
+Abramič Tanja,gp,zdlbe,n,0.1,3904.0,2022-10-19,Sprejema nove paciente.,n,,,,,,,,,,,,
 Adamlje Ester,den,102699,n,1.0,118.79,,,,,,,,,,,,,,,
 Ahačič Natalija,den-y,zdlsi,n,1.0,115.7,,,,,,,,,,,,,,,
 Ahačič Srednik Nika,gp,141819,n,1.0,2606.52,,,,,,,,,,,,,,,
