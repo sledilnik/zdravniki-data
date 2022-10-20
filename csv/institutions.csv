@@ -285,7 +285,7 @@ id_inst,zzzsSt,name,unit,address,post,city,municipalityPart,municipality,lat,lon
 6119110,6119110,MAEDENTIS NEVENA JOSIPOVIĆ DR.DENT.MED.,OE MARIBOR,Dvořakova ulica 10,2000 Maribor,Maribor,Magdalena,Maribor,46.55362,15.64424,031 240 782,http://www.mae-dentis.si; www.slovenski-zobozdravniki.si/nevena-josipovic
 4617825,4617825,"MAG. VOJIN RAŠIĆ, DDM ZASEBNA ZOBNA ORDINACIJA",IZPOSTAVA ZAGORJE,Cesta zmage 1,1410 Zagorje ob Savi,Zagorje ob Savi,Jože Marn,Zagorje ob Savi,46.13384,14.9957,,
 3137980,3137980,MAJC MARTINA - ZOBOZDRAVSTVENA ORDINACIJA,OE KRANJ,Gosposvetska ulica 10A,4000 Kranj,Kranj,Zlato polje,Kranj,46.24862,14.35322,,http://www.slovenski-zobozdravniki.si/martina-majc
-5918513,5918513,"MAJOMA, ZOBOZDRAVSTVENE STORITVE, D.O.O.",OE MARIBOR,Betettova ulica 11,2000 Maribor,Maribor,Nova vas,Maribor,46.54059,15.63068,(02) 331 11 73,https://www.zdravniki-zobozdravniki.net/clan/Marija-MARKOLI-JOVANOVIC-758/
+5918513,5918513,"MAJOMA, ZOBOZDRAVSTVENE STORITVE, D.O.O.",OE MARIBOR,Betettova ulica 11,2000 Maribor,Maribor,Nova vas,Maribor,46.54059,15.63068,(02) 331 11 73,https://majoma.si/
 3759150,3759150,MALINGER MARTIN LUKA DR.STOM. - STOMATOLOŠKA ORDINACIJA,OE CELJE,Lava 7,3000 Celje,Celje,Medlog,Celje,46.24025,15.25318,040 559 959,http://www.slovenski-zobozdravniki.si/martin-luka-malinger
 5759719,5759719,"MAMELON, ZOBOZDRAVSTVENA OSKRBA IN STORITVE D.O.O.",OE MURSKA SOBOTA,Plese 2,9000 Murska Sobota,Murska Sobota,Ledava,Murska Sobota,46.65833,16.1761,,http://www.zobozdravniki-pomurja.si/profil/6/opis.html
 5104781,5104781,"MARDENS ZDRAVSTVO, TRGOVINA, GOSTINSTVO, STORITVE D.O.O.",IZPOSTAVA LENART,Ilaunigova ulica 15,2230 Lenart v Slov. goricah,Lenart v Slov. goricah,Lenart,Lenart,46.57697,15.82809,(02) 729 29 55,https://www.zdravniki-zobozdravniki.net/clan/Sabina-MARKOLI-756/
@@ -325,7 +325,7 @@ id_inst,zzzsSt,name,unit,address,post,city,municipalityPart,municipality,lat,lon
 4350285,4350285,MEL DENT ZASEBNE ZOBOZDRAVSTVENE IN DRUGE STORITVE D.O.O.,OE KRANJ,Ulica Juleta Gabrovška 19,4000 Kranj,Kranj,Bratov Smuk,Kranj,46.23974,14.36458,,http://www.slovenski-zobozdravniki.si/melita-franko
 6098929,6098929,MELADENS STORITVE IN SVETOVANJE D.O.O.,IZPOSTAVA ŽALEC,Vransko 130D,3305 Vransko,Vransko,,Vransko,46.24591,14.95101,(03) 705 50 00,https://www.meladens.com/
 6273647,6273647,"MELANIJA NIKIĆ GAČEŠA - ZASEBNA ZDRAVNICA, AMBULANTA DRUŽINSKE MEDICINE",OE LJUBLJANA,Zoranina ulica 3,1234 Mengeš,Mengeš,,Mengeš,46.16207,14.571,01 724 39 90,http://www.ambulantagacesa.si
-8195821,8195821,"MENS MEDICA, ZDRAVSTVENE IN DRUGE STORITVE, D.O.O.",OE MARIBOR,Žolgarjeva ulica 14,2000 Maribor,Maribor,Magdalena,Maribor,46.54949,15.6417,(02) 614 02 96,
+8195821,8195821,"MENS MEDICA, ZDRAVSTVENE IN DRUGE STORITVE, D.O.O.",OE MARIBOR,Žolgarjeva ulica 14,2000 Maribor,Maribor,Magdalena,Maribor,46.54949,15.6417,02 614 02 96,https://www.zdravniki-zobozdravniki.net/clan/Marija-MILOVIC-MIHAJLOVIC-1617/
 4487384,4487384,"MERIDIUS TOP, ZDRAVSTVENE IN ZOBOZDRAVSTVENE STORITVE, D.O.O.",OE MARIBOR,Cesta na Žavcerja 15,2354 Bresternica,Jelovec,Bresternica-Gaj,Maribor,46.56716,15.571,031 296 188,http://aidadental.si/
 2988942,2988942,METLIČAR ANTON - DOKTOR STOMATOLOGIJE,OE NOVA GORICA,Ulica tolminskih puntarjev 4,5000 Nova Gorica,Nova Gorica,Krajevna skupnost Nova Gorica,Nova Gorica,45.95594,13.64904,,https://www.mojzobozdravnik.net/item/stomatoloska-ambulanta-anton-metlicar-dr-stom/
 4494860,4494860,"MEVITA - ZASEBNA AMBULANTA SPLOŠNE MEDICINE META ČAMPA, DR. MED., SPEC. SPL. MED.",OE NOVO MESTO,Ulica Maksa Henigmana 57,8350 Dolenjske Toplice,Dolenjske Toplice,,Dolenjske Toplice,45.75493,15.06221,07 306 68 70,http://www.zdravniki-zobozdravniki.net/clan/Meta-CAMPA-1215/
@@ -757,7 +757,7 @@ zdlsi,,ZD LJUBLJANA - ŠIŠKA,OE LJUBLJANA,Derčeva ulica 5,1000 Ljubljana,Ljubl
 5479130,5479130,ZDRAVSTVENI ZAVOD ODONTO HRPELJE,IZPOSTAVA SEŽANA,Borova ulica 2,6240 Kozina,Hrpelje,Hrpelje,Hrpelje-Kozina,45.60732,13.94328,031 349 373,http://www.odonto.eu
 4972021,4972021,ZDRAVSTVENI ZAVOD RADI&RADI KOPER,OE KOPER,Beblerjeva ulica 7,6000 Koper - Capodistria,Koper,Žusterna,Koper,45.54048,13.70814,05 628 53 55,https://andrej-radi.si/
 476788,476788,ZDRAVSTVENI ZAVOD REVITA,OE LJUBLJANA,Peričeva ulica 31,1000 Ljubljana,Ljubljana,Četrtna skupnost Bežigrad,Ljubljana,46.06686,14.51147,01/ 234-02-22,https://www.zzrevita.si/
-5968776,5968776,ZDRAVSTVENI ZAVOD SAMSTAL KOPER,IZPOSTAVA PIRAN,Rozmanova ulica 13,6000 Koper - Capodistria,Koper,Semedela,Koper,45.53894,13.7206,(05) 933 80 00,https://zorofab2.com/
+5968776,5968776,ZDRAVSTVENI ZAVOD SAMSTAL KOPER,IZPOSTAVA PIRAN,Rozmanova ulica 13,6000 Koper - Capodistria,Koper,Semedela,Koper,45.53894,13.7206,(05) 933 80 00,https://samstal.si/
 4980118,4980118,ZDRAVSTVENI ZAVOD V. DENS IZOLA,OE KOPER,Južna cesta 4B,6310 Izola - Isola,Izola,Livade,Izola,45.53109,13.66517,05 66 647 246,http://www.vdens.com
 4258295,4258295,ZDRAVSTVENI ZAVOD VARIX KOPER,OE KOPER,Glagoljaška ulica 1C,6000 Koper - Capodistria,Koper,Koper - Center,Koper,45.54925,13.72716,05 664 72 33,https://www.zdravniki-zobozdravniki.net/clan/Zlata-GASPARINI-1039/
 6471151,6471151,"ZDRAVSTVENI ZAVOD ZARJA, ZGORNJA KUNGOTA",OE MARIBOR,Plintovec 7B,2201 Zgornja Kungota,Plintovec,Zgornja Kungota,Kungota,46.63896,15.61566,(02) 655 08 98,https://www.zz-zarja.si/
