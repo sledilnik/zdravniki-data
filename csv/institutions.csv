@@ -1,6 +1,6 @@
 id_inst,zzzsSt,name,unit,address,post,city,municipalityPart,municipality,lat,lon,phone,website
 4254688,4254688,"0.4, ZOBOZDRAVSTVENE STORITVE D.O.O.",OE LJUBLJANA,Polhov Gradec 13,1355 Polhov Gradec,Polhov Gradec,Polhov Gradec,Dobrova-Polhov Gradec,46.06521,14.31457,,
-6387872,6387872,1A-DENT ZOBJE ZOBOZDRAVSTVENA DEJAVNOST D.O.O.,IZPOSTAVA RADLJE OB DRAVI,Podgorje 64A,2381 Podgorje pri Slovenj Gradcu,Podgorje,Podgorje,Slovenj Gradec,46.48078,15.07995,(02) 876 48 64,https://www.zdravniki-zobozdravniki.net/clan/Mateja-GORJUP-MEH-1539/
+6387872,6387872,1A-DENT ZOBJE ZOBOZDRAVSTVENA DEJAVNOST D.O.O.,IZPOSTAVA RADLJE OB DRAVI,Podgorje 73D,2381 Podgorje pri Slovenj Gradcu,Podgorje,Podgorje,Slovenj Gradec,46.4755,15.0818,(02) 876 48 64,https://www.zdravniki-zobozdravniki.net/clan/Mateja-GORJUP-MEH-1539/
 4483473,4483473,2LEVA DENTALNA MEDICINA IN MEDIJI D.O.O.,OE KRANJ,Vrečkova ulica 3,4000 Kranj,Kranj,Planina,Kranj,46.23503,14.36105,,http://www.ordinacija-belehar.si
 2780239,2780239,32 D.O.O. ZDRAVSTVO IN ZOBOZDRAVSTVO,IZPOSTAVA GROSUPLJE,Ulica bratov Babnik 10,1000 Ljubljana,Ljubljana,Četrtna skupnost Dravlje,Ljubljana,46.07645,14.466,,
 4290312,4290312,"32BISEROV, D.O.O., ZOBNA AMBULANTA ALENKA GRAHEK MIHOVEC, DR. DENT. MED.",OE LJUBLJANA,Gorenja vas - Reteče 58B,1215 Medvode,Gorenja vas - Reteče,Reteče - Gorenja vas,Škofja Loka,46.15128,14.38319,059 059 001,
@@ -597,7 +597,6 @@ ozgsl,,"OSNOVNO ZDRAVSTVO GORENJSKE, OE ZDRAVSTVENI DOM ŠKOFJA LOKA",IZPOSTAVA 
 4347260,4347260,"ZASEBNA SPLOŠNA AMBULANTA IRENA MAJCEN, DR. MED., SPECIALISTKA DRUŽINSKE MEDICINE",IZPOSTAVA ŽALEC,Graščinska cesta 11,3312 Prebold,Prebold,,Prebold,46.23604,15.09094,(03) 705 32 25,https://www.zdravniki-zobozdravniki.net/clan/Irena-MAJCEN-1519/
 8040552,8040552,"ZASEBNA SPLOŠNA AMBULANTA NOVAK, JASNA NOVAK, DR.MED.",OE KOPER,Obrtniška ulica 30,6000 Koper - Capodistria,Koper,Škocjan,Koper,45.53069,13.73563,05 625 00 72,https://www.ambulantanovak.si/
 4109777,4109777,"ZASEBNA SPLOŠNA AMBULANTA SILVANA POPOV, DR. MED., SPEC. SPL. MED.",IZPOSTAVA SLOVENSKA BISTRICA,Makole 28,2321 Makole,Makole,Vaška skupnost Makole,Makole,46.31735,15.66729,(02) 803 05 70,http://www.silvana-popov.si/
-3287469,3287469,"ZASEBNA SPLOŠNA ORDINACIJA - BOJAN RIBIČ, DR.MED., SPECIALIST SPLOŠNE MEDICINE",IZPOSTAVA SLOVENSKE KONJICE,Na vasi 11,3205 Vitanje,Vitanje,Trška skupnost Vitanje,Vitanje,46.38261,15.29604,03 752 50 16,https://www.zdravniki-zobozdravniki.net/clan/Bojan-RIBIC-679/
 4345346,4345346,"ZASEBNA SPLOŠNA ORDINACIJA MARJAN BERGINC, DR. MED.",IZPOSTAVA SLOVENSKE KONJICE,Mestni trg 17,3210 Slovenske Konjice,Slovenske Konjice,Slovenske Konjice,Slovenske Konjice,46.33998,15.42862,(03) 759 32 90,https://www.marjanberginc.si/ambulante/
 3200806,3200806,"ZASEBNA SPLOŠNA PRAKSA LEONARDA PIRMANŠEK, DR. MED.",IZPOSTAVA SLOVENJ GRADEC,Šolska cesta 55,2382 Mislinja,Mislinja,,Mislinja,46.44475,15.19541,"(02) 885 73 30, (064) 131 470",https://dr-pirmansek.si/
 4108478,4108478,"ZASEBNA ZDRAVNIŠKA ORDINACIJA ANDREJ KRAVOS, DR.MED., SPECIALIST SPLOŠNE MEDICINE",IZPOSTAVA ŽALEC,Prešernova ulica 6,3310 Žalec,Žalec,Mestna skupnost Žalec,Žalec,46.25093,15.16216,03 713 43 26,https://dzdravje.si/ordinacija-kravos/
@@ -681,6 +680,7 @@ zdlsi,,ZD LJUBLJANA - ŠIŠKA,OE LJUBLJANA,Derčeva ulica 5,1000 Ljubljana,Ljubl
 5236255,5236255,"ZDRAVSTVENA ORDINACIJA ""DR. ŠOLMAN"", ZDRAVSTVENE STORITVE, D.O.O.",IZPOSTAVA PTUJ,Rogozniška cesta 32A,2250 Ptuj,Ptuj,Četrt Jezero,Ptuj,46.426,15.88643,(02) 787 80 40,https://solman.si/index.php
 3668582,3668582,ZDRAVSTVENI CENTER DRAVLJE D.O.O.,OE LJUBLJANA,Cesta na Poljane 24,1210 Ljubljana - Šentvid,Ljubljana,Četrtna skupnost Šentvid,Ljubljana,46.09337,14.47463,051 336 847,"http://www.noseca.com , www.neplodnost.com"
 2663479,2663479,ZDRAVSTVENI CENTER LORENA D.O.O,OE LJUBLJANA,Dunajska cesta 405,1231 Ljubljana - Črnuče,Ljubljana,Četrtna skupnost Črnuče,Ljubljana,46.10448,14.53545,,http://www.lorena.si
+8664533,8664533,"ZDRAVSTVENI CENTER VITANJE, ZDRAVSTVENA DEJAVNOST IN STORITVE, D.O.O.",IZPOSTAVA SLOVENSKE KONJICE,Na vasi 11,3205 Vitanje,Vitanje,Trška skupnost Vitanje,Vitanje,46.38261,15.29604,,
 141992,141992,ZDRAVSTVENI DOM AJDOVŠČINA,IZPOSTAVA AJDOVŠČINA,Tovarniška cesta 3,5270 Ajdovščina,Ajdovščina,Krajevna skupnost Ajdovščina,Ajdovščina,45.88598,13.90542,,https://www.zd-ajdovscina.si/
 95801,95801,ZDRAVSTVENI DOM BREŽICE,IZPOSTAVA BREŽICE,Černelčeva cesta 8,8250 Brežice,Brežice,Brežice,Brežice,45.90811,15.59415,074 991 400,https://www.zd-brezice.si/
 604816,604816,ZDRAVSTVENI DOM CELJE,OE CELJE,Gregorčičeva ulica 5,3000 Celje,Celje,Dolgo polje,Celje,46.23224,15.26227,(03) 543 40 00,http://www.zd-celje.si
