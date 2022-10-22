@@ -1,4 +1,4 @@
-# GURS - extract of Register of Spatial Units (Registeer Prostorskih Enot)
+# GURS - extract of Register of Spatial Units (Register Prostorskih Enot)
 
 [Register Prostorskih Enot (RPE)](https://podatki.gov.si/dataset/register-prostorskih-enot)
 
@@ -24,8 +24,8 @@ Struktura datoteke [addresses.csv](addresses.csv):
 
 It is generated from the list of ZZZS addresses in [addresses-zzzs.csv](addresses-zzzs.csv) using:
 
-```bash
-$ geocodecsv -in addresses-zzzs.csv -out addresses.csv -zipCol 1 -addressCol 2 -appendAll
+```
+$ geocode -in addresses-zzzs.csv -out addresses.csv -zipCol 1 -addressCol 2 -appendAll
 Loading RPE data by GURS, dated 2021-11-26 (4 days old)...done in 925ms
 Preparing data for forward geocoding...done in 211ms
 2021/11/29 20:25:01 Geocoding error: no street or city "NOVI TRG" with number 999 in postal area 8000
