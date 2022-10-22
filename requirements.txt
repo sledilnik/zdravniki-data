@@ -1,7 +1,6 @@
 numpy==1.22.*
-pandas==1.4.*
+pandas==1.5.*
 openpyxl==3.0.*
 requests==2.28.*
 bs4==0.0.1
 sheet2csv==1.0.6
-
