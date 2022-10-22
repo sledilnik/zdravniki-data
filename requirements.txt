@@ -4,4 +4,3 @@ openpyxl==3.0.*
 requests==2.27.*
 bs4==0.0.1
 sheet2csv==1.0.6
-
