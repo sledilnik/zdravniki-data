@@ -10,7 +10,9 @@ import pandas as pd
 import subprocess
 import sheet2csv
 import hashlib,time
+from dotenv import load_dotenv
 
+load_dotenv()
 GOOGLE_API_KEY = os.environ["GOOGLE_API_KEY"]
 SHEET_OVERRIDES = "1gsIkUsvO-2_atHTsU9UcH2q69Js9PuvskTbtuY3eEWQ"
 RANGE_OVERRIDES = "Overrides!A1:AA"
