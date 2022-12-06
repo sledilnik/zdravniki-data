@@ -1,6 +1,6 @@
 note_override,accepts_override,accepts_override
 Dela primarno ambulanto 1 dan v mesecu.,n,1
-Ne dela več pri tem izvajalcu.,n,37
+Ne dela več pri tem izvajalcu.,n,36
 Ne sprejema novih pacientov (ambulanta do nadaljnega zaprta).,n,1
 Ne sprejema novih pacientov (daljša odsotnost).,n,8
 Ne sprejema novih pacientov (le od dr. Oserbanove).,n,1
@@ -10,7 +10,7 @@ Ne sprejema novih pacientov (v fazi upokojevanja).,n,2
 Ne sprejema novih pacientov (zdravnik medicine dela).,n,3
 Ne sprejema novih pacientov (zdravnik urgentne medicine).,n,3
 Ne sprejema novih pacientov.,n,171
-Sprejema nove paciente.,y,44
+Sprejema nove paciente.,y,45
 Sprejema samo družinske člane že opredeljenih pacientov.,n,2
 Sprejema samo v DSO.,n,1
 Sprejema v čakalno vrsto.,n,2
