@@ -362,6 +362,7 @@ cityZZZS,addressZZZS,lat,lon,street,streetAlt,housenumber,housenumberAppendix,ci
 2000 MARIBOR,JEZDARSKA ULICA 7,46.55122,15.64209,Jezdarska ulica,,7,,Maribor,,Magdalena,Maribor,2000,Maribor,Podravska
 2000 MARIBOR,KALOHOVA ULICA 18,46.55507,15.61747,Kalohova ulica,,18,,Maribor,,Studenci,Maribor,2000,Maribor,Podravska
 2000 MARIBOR,KARDELJEVA CESTA 76,46.54170,15.63274,Kardeljeva cesta,,76,,Maribor,,Nova vas,Maribor,2000,Maribor,Podravska
+2000 MARIBOR,KARDELJEVA CESTA 77,46.54122,15.63336,Kardeljeva cesta,,77,,Maribor,,Nova vas,Maribor,2000,Maribor,Podravska
 2000 MARIBOR,KARDELJEVA CESTA 84,46.54116,15.63252,Kardeljeva cesta,,84,,Maribor,,Nova vas,Maribor,2000,Maribor,Podravska
 2000 MARIBOR,KETTEJEVA ULICA 14,46.54801,15.63859,Kettejeva ulica,,14,,Maribor,,Tabor,Maribor,2000,Maribor,Podravska
 2000 MARIBOR,KNAFELČEVA ULICA 31,46.53891,15.63321,Knafelčeva ulica,,31,,Maribor,,Nova vas,Maribor,2000,Maribor,Podravska
@@ -700,6 +701,7 @@ cityZZZS,addressZZZS,lat,lon,street,streetAlt,housenumber,housenumberAppendix,ci
 3314 BRASLOVČE,PARIŽLJE 125,46.27792,15.06359,Parižlje,,125,,Parižlje,,Braslovče,Braslovče,3314,Braslovče,Savinjska
 3320 VELENJE,CESTA BRATOV MRAVLJAKOV 13,46.36272,15.11965,Cesta bratov Mravljakov,,13,,Velenje,,Šmartno,Velenje,3320,Velenje,Savinjska
 3320 VELENJE,CESTA I 23,46.35913,15.12535,Cesta I,,23,,Velenje,,Gorica,Velenje,3320,Velenje,Savinjska
+3320 VELENJE,CESTA TALCEV 14,46.36096,15.10803,Cesta talcev,,14,,Velenje,,Staro Velenje,Velenje,3320,Velenje,Savinjska
 3320 VELENJE,EFENKOVA CESTA 61,46.36240,15.12419,Efenkova cesta,,61,,Velenje,,Šmartno,Velenje,3320,Velenje,Savinjska
 3320 VELENJE,KARDELJEV TRG 3,46.36095,15.12049,Kardeljev trg,,3,,Velenje,,Velenje - levi breg - vzhod,Velenje,3320,Velenje,Savinjska
 3320 VELENJE,KIDRIČEVA CESTA 19 A,46.36353,15.11608,Kidričeva cesta,,19,A,Velenje,,Velenje - desni breg,Velenje,3320,Velenje,Savinjska
@@ -751,6 +753,7 @@ cityZZZS,addressZZZS,lat,lon,street,streetAlt,housenumber,housenumberAppendix,ci
 4201 ZGORNJA BESNICA,VIDEMCE 10,46.26114,14.29641,Videmce,,10,,Zgornja Besnica,,Besnica,Kranj,4201,Zgornja Besnica,Gorenjska
 4202 NAKLO,GLAVNA CESTA 18,46.27271,14.31461,Glavna cesta,,18,,Naklo,,,Naklo,4202,Naklo,Gorenjska
 4202 NAKLO,PIVKA 23 A,46.26877,14.31795,Pivka,,23,A,Naklo,,,Naklo,4202,Naklo,Gorenjska
+4202 NAKLO,PIVKA 4,46.27025,14.31896,Pivka,,4,,Naklo,,,Naklo,4202,Naklo,Gorenjska
 4202 NAKLO,STARA CESTA 61,46.27597,14.31494,Stara cesta,,61,,Naklo,,,Naklo,4202,Naklo,Gorenjska
 4202 NAKLO,ULICA TOMA ZUPANA 33,46.27202,14.31794,Ulica Toma Zupana,,33,,Naklo,,,Naklo,4202,Naklo,Gorenjska
 4203 DUPLJE,ZGORNJE DUPLJE 101 A,46.30397,14.29648,Zgornje Duplje,,101,A,Zgornje Duplje,,,Naklo,4203,Duplje,Gorenjska
@@ -925,12 +928,12 @@ cityZZZS,addressZZZS,lat,lon,street,streetAlt,housenumber,housenumberAppendix,ci
 6210 SEŽANA,ULICA IVANA TURŠIČA 6,45.70826,13.86425,Ulica Ivana Turšiča,,6,,Sežana,,Sežana,Sežana,6210,Sežana,Obalno-kraška
 6221 DUTOVLJE,DUTOVLJE 128,45.76451,13.82894,Dutovlje,,128,,Dutovlje,,Dutovlje,Sežana,6221,Dutovlje,Obalno-kraška
 6230 POSTOJNA,CANKARJEVA ULICA 6,45.77464,14.21517,Cankarjeva ulica,,6,,Postojna,,Postojna,Postojna,6230,Postojna,Primorsko-notranjska
-6230 POSTOJNA,GREGORČIČEV DREVORED 11,45.77434,14.21615,Gregorčičev drevored,,11,,Postojna,,Postojna,Postojna,6230,Postojna,Primorsko-notranjska
 6230 POSTOJNA,JAMSKA CESTA 23,45.77731,14.20921,Jamska cesta,,23,,Postojna,,Postojna,Postojna,6230,Postojna,Primorsko-notranjska
 6230 POSTOJNA,LJUBLJANSKA CESTA 28,45.77710,14.21606,Ljubljanska cesta,,28,,Postojna,,Postojna,Postojna,6230,Postojna,Primorsko-notranjska
 6230 POSTOJNA,POT K PIVKI 2 B,45.77518,14.20715,Pot k Pivki,,2,B,Postojna,,Postojna,Postojna,6230,Postojna,Primorsko-notranjska
 6230 POSTOJNA,PREČNA ULICA 2,45.77205,14.21042,Prečna ulica,,2,,Postojna,,Postojna,Postojna,6230,Postojna,Primorsko-notranjska
 6230 POSTOJNA,PREČNA ULICA 4,45.77151,14.21020,Prečna ulica,,4,,Postojna,,Postojna,Postojna,6230,Postojna,Primorsko-notranjska
+6230 POSTOJNA,ROŽNA ULICA 1 A,45.76829,14.21461,Rožna ulica,,1,A,Postojna,,Postojna,Postojna,6230,Postojna,Primorsko-notranjska
 6230 POSTOJNA,ROŽNA ULICA 10,45.76584,14.21305,Rožna ulica,,10,,Postojna,,Postojna,Postojna,6230,Postojna,Primorsko-notranjska
 6232 PLANINA,PLANINA 211,45.82390,14.23975,Planina,,211,,Planina,,Planina,Postojna,6232,Planina,Primorsko-notranjska
 6240 KOZINA,BOROVA ULICA 2,45.60732,13.94328,Borova ulica,,2,,Hrpelje,,Hrpelje,Hrpelje-Kozina,6240,Kozina,Obalno-kraška
@@ -966,7 +969,6 @@ cityZZZS,addressZZZS,lat,lon,street,streetAlt,housenumber,housenumberAppendix,ci
 6310 IZOLA - ISOLA,PREŠERNOVA CESTA 53,45.53019,13.65195,Prešernova cesta,Strada France Prešeren,53,,Izola,Isola,Livade,Izola,6310,Izola - Isola,Obalno-kraška
 6310 IZOLA - ISOLA,ULICA OKTOBRSKE REVOLUCIJE 11,45.53464,13.66078,Ulica oktobrske revolucije,Via Rivoluzione d'Ottobre,11,,Izola,Isola,Haliaetum,Izola,6310,Izola - Isola,Obalno-kraška
 6310 IZOLA - ISOLA,ŠARED 51,45.51187,13.65781,Šared,,51,,Šared,,Korte,Izola,6310,Izola - Isola,Obalno-kraška
-6320 PORTOROŽ - PORTOROSE,BELOKRIŠKA CESTA 44 C,45.51793,13.58636,Belokriška cesta,Strada di Croce Bianca,44,C,Portorož,Portorose,Portorož,Piran,6320,Portorož - Portorose,Obalno-kraška
 6320 PORTOROŽ - PORTOROSE,CESTA SOLINARJEV 1,45.50452,13.60205,Cesta solinarjev,Strada dei Salinari,1,,Lucija,Lucia,Lucija,Piran,6320,Portorož - Portorose,Obalno-kraška
 6320 PORTOROŽ - PORTOROSE,FAZAN 1,45.50642,13.60720,Fazan,Fasano,1,,Lucija,Lucia,Lucija,Piran,6320,Portorož - Portorose,Obalno-kraška
 6320 PORTOROŽ - PORTOROSE,OBALA 105,45.50549,13.60232,Obala,Lungomare,105,,Lucija,Lucia,Lucija,Piran,6320,Portorož - Portorose,Obalno-kraška
