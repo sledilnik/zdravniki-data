@@ -19,7 +19,6 @@ cityZZZS,addressZZZS,lat,lon,street,streetAlt,housenumber,housenumberAppendix,ci
 1000 LJUBLJANA,CESTA NA BRDO 63,46.04564,14.46976,Cesta na Brdo,,63,,Ljubljana,,Četrtna skupnost Rožnik,Ljubljana,1000,Ljubljana,Osrednjeslovenska
 1000 LJUBLJANA,CESTA NA ROŽNIK 17,46.05380,14.48571,Cesta na Rožnik,,17,,Ljubljana,,Četrtna skupnost Rožnik,Ljubljana,1000,Ljubljana,Osrednjeslovenska
 1000 LJUBLJANA,CESTA V MESTNI LOG 55,46.03620,14.48957,Cesta v Mestni log,,55,,Ljubljana,,Četrtna skupnost Trnovo,Ljubljana,1000,Ljubljana,Osrednjeslovenska
-1000 LJUBLJANA,CLEVELANDSKA ULICA 23,46.07364,14.54313,Clevelandska ulica,,23,,Ljubljana,,Četrtna skupnost Jarše,Ljubljana,1000,Ljubljana,Osrednjeslovenska
 1000 LJUBLJANA,DALMATINOVA ULICA 10,46.05355,14.50782,Dalmatinova ulica,,10,,Ljubljana,,Četrtna skupnost Center,Ljubljana,1000,Ljubljana,Osrednjeslovenska
 1000 LJUBLJANA,DALMATINOVA ULICA 7,46.05425,14.50563,Dalmatinova ulica,,7,,Ljubljana,,Četrtna skupnost Center,Ljubljana,1000,Ljubljana,Osrednjeslovenska
 1000 LJUBLJANA,DERČEVA ULICA 35,46.07120,14.48296,Derčeva ulica,,35,,Ljubljana,,Četrtna skupnost Šiška,Ljubljana,1000,Ljubljana,Osrednjeslovenska
@@ -36,7 +35,6 @@ cityZZZS,addressZZZS,lat,lon,street,streetAlt,housenumber,housenumberAppendix,ci
 1000 LJUBLJANA,DUNAJSKA CESTA 5,46.05937,14.50613,Dunajska cesta,,5,,Ljubljana,,Četrtna skupnost Bežigrad,Ljubljana,1000,Ljubljana,Osrednjeslovenska
 1000 LJUBLJANA,DUNAJSKA CESTA 56,46.06546,14.50982,Dunajska cesta,,56,,Ljubljana,,Četrtna skupnost Bežigrad,Ljubljana,1000,Ljubljana,Osrednjeslovenska
 1000 LJUBLJANA,DUNAJSKA CESTA 59,46.06581,14.50894,Dunajska cesta,,59,,Ljubljana,,Četrtna skupnost Bežigrad,Ljubljana,1000,Ljubljana,Osrednjeslovenska
-1000 LJUBLJANA,DUNAJSKA CESTA 63,46.06679,14.50926,Dunajska cesta,,63,,Ljubljana,,Četrtna skupnost Bežigrad,Ljubljana,1000,Ljubljana,Osrednjeslovenska
 1000 LJUBLJANA,DUNAJSKA CESTA 88,46.07082,14.51089,Dunajska cesta,,88,,Ljubljana,,Četrtna skupnost Bežigrad,Ljubljana,1000,Ljubljana,Osrednjeslovenska
 1000 LJUBLJANA,EIPPROVA ULICA 3,46.04327,14.50498,Eipprova ulica,,3,,Ljubljana,,Četrtna skupnost Trnovo,Ljubljana,1000,Ljubljana,Osrednjeslovenska
 1000 LJUBLJANA,FILIPIČEVA ULICA 1,46.04113,14.49404,Filipičeva ulica,,1,,Ljubljana,,Četrtna skupnost Trnovo,Ljubljana,1000,Ljubljana,Osrednjeslovenska
@@ -54,7 +52,6 @@ cityZZZS,addressZZZS,lat,lon,street,streetAlt,housenumber,housenumberAppendix,ci
 1000 LJUBLJANA,GROHARJEVA CESTA 11,46.04479,14.49729,Groharjeva cesta,,11,,Ljubljana,,Četrtna skupnost Vič,Ljubljana,1000,Ljubljana,Osrednjeslovenska
 1000 LJUBLJANA,GRŠKA ULICA 13,46.06621,14.54495,Grška ulica,,13,,Ljubljana,,Četrtna skupnost Jarše,Ljubljana,1000,Ljubljana,Osrednjeslovenska
 1000 LJUBLJANA,HACQUETOVA ULICA 6,46.06035,14.51545,Hacquetova ulica,,6,,Ljubljana,,Četrtna skupnost Bežigrad,Ljubljana,1000,Ljubljana,Osrednjeslovenska
-1000 LJUBLJANA,HACQUETOVA ULICA 7,46.06068,14.51568,Hacquetova ulica,,7,,Ljubljana,,Četrtna skupnost Bežigrad,Ljubljana,1000,Ljubljana,Osrednjeslovenska
 1000 LJUBLJANA,HRENOVA ULICA 19,46.04438,14.50677,Hrenova ulica,,19,,Ljubljana,,Četrtna skupnost Center,Ljubljana,1000,Ljubljana,Osrednjeslovenska
 1000 LJUBLJANA,HRUŠEVSKA CESTA 6 A,46.04676,14.54206,Hruševska cesta,,6,A,Ljubljana,,Četrtna skupnost Golovec,Ljubljana,1000,Ljubljana,Osrednjeslovenska
 1000 LJUBLJANA,HUBADOVA ULICA 31,46.07760,14.50897,Hubadova ulica,,31,,Ljubljana,,Četrtna skupnost Bežigrad,Ljubljana,1000,Ljubljana,Osrednjeslovenska
@@ -261,7 +258,6 @@ cityZZZS,addressZZZS,lat,lon,street,streetAlt,housenumber,housenumberAppendix,ci
 1290 GROSUPLJE,OB GROSUPELJŠČICI 28,45.96309,14.66212,Ob Grosupeljščici,,28,,Grosuplje,,Grosuplje,Grosuplje,1290,Grosuplje,Osrednjeslovenska
 1290 GROSUPLJE,POD GOZDOM CESTA I 14,45.95943,14.65315,Pod gozdom cesta I,,14,,Grosuplje,,Grosuplje,Grosuplje,1290,Grosuplje,Osrednjeslovenska
 1291 ŠKOFLJICA,DOLENJSKA CESTA 324 A,46.00139,14.55416,Dolenjska cesta,,324,A,Lavrica,,Lavrica,Škofljica,1291,Škofljica,Osrednjeslovenska
-1291 ŠKOFLJICA,HRIBI 4,45.98755,14.57140,Hribi,,4,,Škofljica,,Pevčeva dolina-Hribi,Škofljica,1291,Škofljica,Osrednjeslovenska
 1291 ŠKOFLJICA,KOČEVSKA CESTA 25,45.98069,14.57676,Kočevska cesta,,25,,Škofljica,,Zalog-Klanec,Škofljica,1291,Škofljica,Osrednjeslovenska
 1292 IG,BANIJA 4,45.95897,14.52720,Banija,,4,,Ig,,,Ig,1292,Ig,Osrednjeslovenska
 1292 IG,DRAGA 1,45.94726,14.54796,Draga,,1,,Draga,,,Ig,1292,Ig,Osrednjeslovenska
@@ -419,7 +415,6 @@ cityZZZS,addressZZZS,lat,lon,street,streetAlt,housenumber,housenumberAppendix,ci
 2000 MARIBOR,ULICA HEROJA NANDETA 37,46.53310,15.67376,Ulica heroja Nandeta,,37,,Maribor,,Tezno,Maribor,2000,Maribor,Podravska
 2000 MARIBOR,ULICA MOŠE PIJADA 21 B,46.55325,15.64301,Ulica Moše Pijada,,21,B,Maribor,,Magdalena,Maribor,2000,Maribor,Podravska
 2000 MARIBOR,ULICA PARIŠKE KOMUNE 42,46.54732,15.64697,Ulica Pariške komune,,42,,Maribor,,Tabor,Maribor,2000,Maribor,Podravska
-2000 MARIBOR,ULICA ROBERTA KUKOVCA 15,46.53491,15.62707,Ulica Roberta Kukovca,,15,,Maribor,,Radvanje,Maribor,2000,Maribor,Podravska
 2000 MARIBOR,ULICA STANETA SEVERJA 7,46.53749,15.63301,Ulica Staneta Severja,,7,,Maribor,,Nova vas,Maribor,2000,Maribor,Podravska
 2000 MARIBOR,ULICA TALCEV 25,46.55679,15.65152,Ulica talcev,,25,,Maribor,,Center,Maribor,2000,Maribor,Podravska
 2000 MARIBOR,ULICA TALCEV 9,46.55933,15.65183,Ulica talcev,,9,,Maribor,,Center,Maribor,2000,Maribor,Podravska
@@ -616,7 +611,6 @@ cityZZZS,addressZZZS,lat,lon,street,streetAlt,housenumber,housenumberAppendix,ci
 3000 CELJE,MILČINSKEGA ULICA 14,46.24745,15.27811,Milčinskega ulica,,14,,Celje,,Gaberje,Celje,3000,Celje,Savinjska
 3000 CELJE,NA GOLOVCU 2,46.24446,15.26860,Na Golovcu,,2,,Celje,,Gaberje,Celje,3000,Celje,Savinjska
 3000 CELJE,NAZORJEVA ULICA 14,46.23485,15.24024,Nazorjeva ulica,,14,,Celje,,Medlog,Celje,3000,Celje,Savinjska
-3000 CELJE,OB KOPRIVNICI 21,46.25056,15.25789,Ob Koprivnici,,21,,Celje,,Ostrožno,Celje,3000,Celje,Savinjska
 3000 CELJE,OB KOPRIVNICI 81,46.24988,15.25196,Ob Koprivnici,,81,,Celje,,Ostrožno,Celje,3000,Celje,Savinjska
 3000 CELJE,OBLAKOVA ULICA 5,46.23463,15.26257,Oblakova ulica,,5,,Celje,,Dolgo polje,Celje,3000,Celje,Savinjska
 3000 CELJE,OPEKARNIŠKA CESTA 15 A,46.24623,15.27069,Opekarniška cesta,,15,A,Celje,,Gaberje,Celje,3000,Celje,Savinjska
@@ -627,7 +621,6 @@ cityZZZS,addressZZZS,lat,lon,street,streetAlt,housenumber,housenumberAppendix,ci
 3000 CELJE,ULICA TONČKE ČEČEVE 9,46.23342,15.25004,Ulica Tončke Čečeve,,9,,Celje,,Savinja,Celje,3000,Celje,Savinjska
 3000 CELJE,VESELOVA ULICA 13,46.23698,15.26756,Veselova ulica,,13,,Celje,,Dolgo polje,Celje,3000,Celje,Savinjska
 3000 CELJE,ZAGRAD 31 C,46.21596,15.27901,Zagrad,,31,C,Celje,,Pod gradom,Celje,3000,Celje,Savinjska
-3000 CELJE,ČOPOVA ULICA 20,46.23742,15.25546,Čopova ulica,,20,,Celje,,Dolgo polje,Celje,3000,Celje,Savinjska
 3201 ŠMARTNO V ROŽNI DOLINI,GORICA PRI ŠMARTNEM 13,46.27219,15.23887,Gorica pri Šmartnem,,13,,Gorica pri Šmartnem,,Šmartno v Rožni dolini,Celje,3201,Šmartno v Rožni dolini,Savinjska
 3204 DOBRNA,DOBRNA 34 A,46.33732,15.23024,Dobrna,,34,A,Dobrna,,,Dobrna,3204,Dobrna,Savinjska
 3204 DOBRNA,DOBRNA 50,46.33966,15.22417,Dobrna,,50,,Dobrna,,,Dobrna,3204,Dobrna,Savinjska
@@ -684,7 +677,6 @@ cityZZZS,addressZZZS,lat,lon,street,streetAlt,housenumber,housenumberAppendix,ci
 3272 RIMSKE TOPLICE,TOPLICE 10,46.11927,15.20326,Toplice,,10,,Rimske Toplice,,Rimske Toplice,Laško,3272,Rimske Toplice,Savinjska
 3301 PETROVČE,DOBRIŠA VAS 81,46.24659,15.18210,Dobriša vas,,81,,Dobriša vas,,Petrovče,Žalec,3301,Petrovče,Savinjska
 3301 PETROVČE,PETROVČE 95,46.24465,15.18767,Petrovče,,95,,Petrovče,,Petrovče,Žalec,3301,Petrovče,Savinjska
-3303 GOMILSKO,GRAJSKA VAS 15 J,46.24311,15.05183,Grajska vas,,15,J,Grajska vas,,Gomilsko,Braslovče,3303,Gomilsko,Savinjska
 3305 VRANSKO,VRANSKO 130 D,46.24591,14.95101,Vransko,,130,D,Vransko,,,Vransko,3305,Vransko,Savinjska
 3305 VRANSKO,VRANSKO 144 A,46.24698,14.95400,Vransko,,144,A,Vransko,,,Vransko,3305,Vransko,Savinjska
 3310 ŽALEC,CANKARJEVA ULICA 4,46.25240,15.16660,Cankarjeva ulica,,4,,Žalec,,Mestna skupnost Žalec,Žalec,3310,Žalec,Savinjska
@@ -840,7 +832,6 @@ cityZZZS,addressZZZS,lat,lon,street,streetAlt,housenumber,housenumberAppendix,ci
 5000 NOVA GORICA,SEDEJEVA ULICA 6,45.96038,13.65156,Sedejeva ulica,,6,,Nova Gorica,,Krajevna skupnost Nova Gorica,Nova Gorica,5000,Nova Gorica,Goriška
 5000 NOVA GORICA,STRELIŠKA POT 2,45.95104,13.63447,Streliška pot,,2,,Nova Gorica,,Krajevna skupnost Nova Gorica,Nova Gorica,5000,Nova Gorica,Goriška
 5000 NOVA GORICA,ULICA GRADNIKOVE BRIGADE 47,45.96276,13.64769,Ulica Gradnikove brigade,,47,,Nova Gorica,,Krajevna skupnost Nova Gorica,Nova Gorica,5000,Nova Gorica,Goriška
-5000 NOVA GORICA,ULICA GRADNIKOVE BRIGADE 63,45.96476,13.64809,Ulica Gradnikove brigade,,63,,Nova Gorica,,Krajevna skupnost Nova Gorica,Nova Gorica,5000,Nova Gorica,Goriška
 5000 NOVA GORICA,ULICA GRADNIKOVE BRIGADE 7,45.95843,13.64623,Ulica Gradnikove brigade,,7,,Nova Gorica,,Krajevna skupnost Nova Gorica,Nova Gorica,5000,Nova Gorica,Goriška
 5000 NOVA GORICA,ULICA TOLMINSKIH PUNTARJEV 4,45.95594,13.64904,Ulica tolminskih puntarjev,,4,,Nova Gorica,,Krajevna skupnost Nova Gorica,Nova Gorica,5000,Nova Gorica,Goriška
 5000 NOVA GORICA,ULICA VINKA VODOPIVCA 21,45.95834,13.66378,Ulica Vinka Vodopivca,,21,,Kromberk,,Krajevna skupnost Kromberk - Loke,Nova Gorica,5000,Nova Gorica,Goriška
