@@ -69,6 +69,7 @@ cityZZZS,addressZZZS,lat,lon,street,streetAlt,housenumber,housenumberAppendix,ci
 1000 LJUBLJANA,KORYTKOVA ULICA 29,46.05799,14.52368,Korytkova ulica,,29,,Ljubljana,,Četrtna skupnost Center,Ljubljana,1000,Ljubljana,Osrednjeslovenska
 1000 LJUBLJANA,KORYTKOVA ULICA 30,46.05777,14.52384,Korytkova ulica,,30,,Ljubljana,,Četrtna skupnost Center,Ljubljana,1000,Ljubljana,Osrednjeslovenska
 1000 LJUBLJANA,KOTNIKOVA ULICA 29,46.05681,14.51321,Kotnikova ulica,,29,,Ljubljana,,Četrtna skupnost Center,Ljubljana,1000,Ljubljana,Osrednjeslovenska
+1000 LJUBLJANA,KOTNIKOVA ULICA 30,46.05676,14.51406,Kotnikova ulica,,30,,Ljubljana,,Četrtna skupnost Center,Ljubljana,1000,Ljubljana,Osrednjeslovenska
 1000 LJUBLJANA,KRŽIČEVA ULICA 10,46.06465,14.51105,Kržičeva ulica,,10,,Ljubljana,,Četrtna skupnost Bežigrad,Ljubljana,1000,Ljubljana,Osrednjeslovenska
 1000 LJUBLJANA,KUNAVERJEVA ULICA 15,46.07940,14.47495,Kunaverjeva ulica,,15,,Ljubljana,,Četrtna skupnost Dravlje,Ljubljana,1000,Ljubljana,Osrednjeslovenska
 1000 LJUBLJANA,LAMUTOVA ULICA 15,46.07676,14.45439,Lamutova ulica,,15,,Ljubljana,,Četrtna skupnost Dravlje,Ljubljana,1000,Ljubljana,Osrednjeslovenska
@@ -90,7 +91,6 @@ cityZZZS,addressZZZS,lat,lon,street,streetAlt,housenumber,housenumberAppendix,ci
 1000 LJUBLJANA,METELKOVA ULICA 9,46.05658,14.51516,Metelkova ulica,,9,,Ljubljana,,Četrtna skupnost Center,Ljubljana,1000,Ljubljana,Osrednjeslovenska
 1000 LJUBLJANA,MIRJE 19,46.04538,14.49873,Mirje,,19,,Ljubljana,,Četrtna skupnost Vič,Ljubljana,1000,Ljubljana,Osrednjeslovenska
 1000 LJUBLJANA,MIRJE 2,46.04487,14.50172,Mirje,,2,,Ljubljana,,Četrtna skupnost Trnovo,Ljubljana,1000,Ljubljana,Osrednjeslovenska
-1000 LJUBLJANA,NA JAMI 20,46.06663,14.48922,Na jami,,20,,Ljubljana,,Četrtna skupnost Šiška,Ljubljana,1000,Ljubljana,Osrednjeslovenska
 1000 LJUBLJANA,NOVE FUŽINE 40,46.05346,14.56112,Nove Fužine,,40,,Ljubljana,,Četrtna skupnost Moste,Ljubljana,1000,Ljubljana,Osrednjeslovenska
 1000 LJUBLJANA,OB SOTOČJU 9,46.05335,14.54171,Ob sotočju,,9,,Ljubljana,,Četrtna skupnost Golovec,Ljubljana,1000,Ljubljana,Osrednjeslovenska
 1000 LJUBLJANA,OB ZELENI JAMI 3,46.05956,14.52509,Ob zeleni jami,,3,,Ljubljana,,Četrtna skupnost Jarše,Ljubljana,1000,Ljubljana,Osrednjeslovenska
@@ -257,7 +257,6 @@ cityZZZS,addressZZZS,lat,lon,street,streetAlt,housenumber,housenumberAppendix,ci
 1290 GROSUPLJE,ADAMIČEVA CESTA 41 B,45.95673,14.66126,Adamičeva cesta,,41,B,Grosuplje,,Grosuplje,Grosuplje,1290,Grosuplje,Osrednjeslovenska
 1290 GROSUPLJE,OB GROSUPELJŠČICI 28,45.96309,14.66212,Ob Grosupeljščici,,28,,Grosuplje,,Grosuplje,Grosuplje,1290,Grosuplje,Osrednjeslovenska
 1290 GROSUPLJE,POD GOZDOM CESTA I 14,45.95943,14.65315,Pod gozdom cesta I,,14,,Grosuplje,,Grosuplje,Grosuplje,1290,Grosuplje,Osrednjeslovenska
-1291 ŠKOFLJICA,DOLENJSKA CESTA 324 A,46.00139,14.55416,Dolenjska cesta,,324,A,Lavrica,,Lavrica,Škofljica,1291,Škofljica,Osrednjeslovenska
 1291 ŠKOFLJICA,KOČEVSKA CESTA 25,45.98069,14.57676,Kočevska cesta,,25,,Škofljica,,Zalog-Klanec,Škofljica,1291,Škofljica,Osrednjeslovenska
 1292 IG,BANIJA 4,45.95897,14.52720,Banija,,4,,Ig,,,Ig,1292,Ig,Osrednjeslovenska
 1292 IG,DRAGA 1,45.94726,14.54796,Draga,,1,,Draga,,,Ig,1292,Ig,Osrednjeslovenska
