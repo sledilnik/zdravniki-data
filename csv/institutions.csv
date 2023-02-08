@@ -1,8 +1,8 @@
 id_inst,zzzsSt,name,unit,address,post,city,municipalityPart,municipality,lat,lon,phone,website
-4254688,4254688,"0.4, ZOBOZDRAVSTVENE STORITVE D.O.O.",OE LJUBLJANA,Polhov Gradec 13,1355 Polhov Gradec,Polhov Gradec,Polhov Gradec,Dobrova-Polhov Gradec,46.06521,14.31457,,
+4254688,4254688,"0.4, ZOBOZDRAVSTVENE STORITVE D.O.O.",OE LJUBLJANA,Polhov Gradec 13,1355 Polhov Gradec,Polhov Gradec,Polhov Gradec,Dobrova-Polhov Gradec,46.06521,14.31457,,https://www.zdravniki-zobozdravniki.net/clan/Gregor-KNAFELC-922/
 6387872,6387872,1A-DENT ZOBJE ZOBOZDRAVSTVENA DEJAVNOST D.O.O.,IZPOSTAVA RADLJE OB DRAVI,Podgorje 73D,2381 Podgorje pri Slovenj Gradcu,Podgorje,Podgorje,Slovenj Gradec,46.4755,15.0818,(02) 876 48 64,https://www.zdravniki-zobozdravniki.net/clan/Mateja-GORJUP-MEH-1539/
 4483473,4483473,2LEVA DENTALNA MEDICINA IN MEDIJI D.O.O.,OE KRANJ,Vrečkova ulica 3,4000 Kranj,Kranj,Planina,Kranj,46.23503,14.36105,,http://www.ordinacija-belehar.si
-2780239,2780239,32 D.O.O. ZDRAVSTVO IN ZOBOZDRAVSTVO,IZPOSTAVA GROSUPLJE,Ulica bratov Babnik 10,1000 Ljubljana,Ljubljana,Četrtna skupnost Dravlje,Ljubljana,46.07645,14.466,,
+2780239,2780239,32 D.O.O. ZDRAVSTVO IN ZOBOZDRAVSTVO,IZPOSTAVA GROSUPLJE,Ulica bratov Babnik 10,1000 Ljubljana,Ljubljana,Četrtna skupnost Dravlje,Ljubljana,46.07645,14.466,,https://www.zdravniki-zobozdravniki.net/clan/Ljubica-SORMAZ-1139/#ordinacija
 4290312,4290312,"32BISEROV, D.O.O., ZOBNA AMBULANTA ALENKA GRAHEK MIHOVEC, DR. DENT. MED.",OE LJUBLJANA,Gorenja vas - Reteče 58B,1215 Medvode,Gorenja vas - Reteče,Reteče - Gorenja vas,Škofja Loka,46.15128,14.38319,059 059 001,
 507343,507343,"A DENT, TRGOVINA IN STORITVE, D.O.O.",IZPOSTAVA SEŽANA,Partizanska cesta 63,6210 Sežana,Sežana,Sežana,Sežana,45.70583,13.86426,05 734 13 03,https://adent.si/
 5660079,5660079,A-DENS ZOBOZDRAVSTVENE STORITVE D.O.O.,OE NOVO MESTO,Trg 27,8216 Mirna Peč,Mirna Peč,,Mirna Peč,45.85842,15.08385,07 307 85 19,http://www.zobna-ambulanta.com
@@ -126,7 +126,7 @@ id_inst,zzzsSt,name,unit,address,post,city,municipalityPart,municipality,lat,lon
 4029448,4029448,"DIAGNOSTIČNI CENTER ŠENTJUR, ZDRAVSTVENE IN DRUGE STORITVE, TRGOVINA IN INŽENIRING, D.O.O.",IZPOSTAVA ŠENTJUR PRI CELJU,Ulica Dušana Kvedra 27,3230 Šentjur,Šentjur,Šentjur-mesto,Šentjur,46.21817,15.39597,(03) 746 25 50,http://www.dc-sentjur.com/sl/
 2907548,2907548,DIANA OKRETIČ - ZOBOZDRAVSTVENA ORDINACIJA,IZPOSTAVA IZOLA,Ulica oktobrske revolucije 11,6310 Izola - Isola,Izola,Haliaetum,Izola,45.53464,13.66078,05 641 45 68,http://www.slovenski-zobozdravniki.si/diana-okretic
 5699657,5699657,"DIDENT, ZOBOZDRAVSTVENA DEJAVNOST D.O.O.",IZPOSTAVA ŠKOFJA LOKA,Stara cesta 10,4220 Škofja Loka,Škofja Loka,Kamnitnik,Škofja Loka,46.16618,14.31281,,https://www.zdravniki-zobozdravniki.net/clan/Diana-TERLEVIC-DABIC-1484/
-3092020,3092020,DIKIĆ KRSTINIĆ SNEŽANA - ZOBOZDRAVSTVO ODRASLIH,IZPOSTAVA LITIJA,Partizanska pot 8A,1270 Litija,Litija,Mestna skupnost Litija,Litija,46.05389,14.83656,,http://zobozdravstvo-dikic-krstinic.si/
+3092020,3092020,DIKIĆ KRSTINIĆ SNEŽANA - ZOBOZDRAVSTVO ODRASLIH,IZPOSTAVA LITIJA,Partizanska pot 8A,1270 Litija,Litija,Mestna skupnost Litija,Litija,46.05389,14.83656,01 898 43 81,http://zobozdravstvo-dikic-krstinic.si/
 4449791,4449791,DINA ŠKRBINC DR. DENT. MED. - ZOBOZDRAVSTVENA ORDINACIJA,OE LJUBLJANA,Mirje 2,1000 Ljubljana,Ljubljana,Četrtna skupnost Trnovo,Ljubljana,46.04487,14.50172,(01)200 51 21,https://www.zobozdravnik-skrbinc.si/
 4226082,4226082,DISPANZER ZA ZDRAVSTVENO VARSTVO OTROK IN MLADOSTNIKOV D.O.O.,IZPOSTAVA ŽALEC,Prešernova ulica 6,3310 Žalec,Žalec,Mestna skupnost Žalec,Žalec,46.25093,15.16216,(03) 713 43 14,https://www.dom-zalec.si/index.php/2014-05-13-19-05-45
 4165327,4165327,"DIVINA MEDICA PODJETJE ZA ZDRAVSTVENO DEJAVNOST, TRGOVINO IN STORITVE D.O.O.",OE MARIBOR,Betnavska cesta 13,2000 Maribor,Maribor,Magdalena,Maribor,46.54967,15.64086,(02) 320 20 10,
@@ -174,7 +174,7 @@ id_inst,zzzsSt,name,unit,address,post,city,municipalityPart,municipality,lat,lon
 2936450,2936450,GARMUŠ SONJA - ZASEBNA SPLOŠNA AMBULANTA,IZPOSTAVA POSTOJNA,Kolodvorska cesta 24,6257 Pivka,Pivka,Pivka,Pivka,45.68043,14.1946,(05) 757 05 40,http://www.ambulanta-garmus.si
 5713360,5713360,"GDENT SPLOŠNO IN ESTETSKO ZOBOZDRAVSTVO UROŠ FRANC GAŠPERIN, DR.DENT.MED.",IZPOSTAVA DOMŽALE,Prešernova cesta 21B,1230 Domžale,Domžale,Domžale - Venclja Perka,Domžale,46.1407,14.58948,041 394 980,http://gdent.si
 4666700,4666700,"GEMINI, SPECIALISTIČNA AMBULANTA ZA GINEKOLOGIJO, PERINATOLOGIJO IN ULTRAZVOČNO DIAGNOSTIKO, SIMONA ČOPI",OE MURSKA SOBOTA,Puconci 251,9201 Puconci,Puconci,Puconci,Puconci,46.69401,16.17399,,http://www.gemini-ambulanta.si/
-3122878,3122878,GERIĆ MARTA - ZOBOZDRAVSTVENA AMBULANTA,IZPOSTAVA DOMŽALE,Vegova ulica 22,1251 Moravče,Moravče,Moravče,Moravče,46.13743,14.74729,,
+3122878,3122878,GERIĆ MARTA - ZOBOZDRAVSTVENA AMBULANTA,IZPOSTAVA DOMŽALE,Vegova ulica 22,1251 Moravče,Moravče,Moravče,Moravče,46.13743,14.74729,(01) 723 27 50,https://www.zdravniki-zobozdravniki.net/clan/Marta-GERIC-437/
 4496920,4496920,GERONTOLOŠKA IN SPLOŠNA AMBULANTA POLONCA VOBOVNIK GROBELNIK,OE MARIBOR,Železnikova ulica 4,2000 Maribor,Maribor,Pobrežje,Maribor,46.55037,15.66738,(05) 912 95 00,https://www.ambulanta-grobelnik.si/
 5823780,5823780,"GINEKOLOGIJA DR. FRANIĆ, ZDRAVSTVENE IN IZOBRAŽEVALNE DEJAVNOSTI, D.O.O.",IZPOSTAVA ŠMARJE PRI JELŠAH,Celjska cesta 10,3250 Rogaška Slatina,Rogaška Slatina,Rogaška Slatina,Rogaška Slatina,46.23916,15.6342,03 581 55 50,http://www.ginekologija.si
 7663617,7663617,"GINEKOLOGIJA MEGLIČ, SPECIALISTIČNA DEJAVNOST NA PODROČJU GINEKOLOGIJE, PERINATOLOGIJE, ULTRAZVOČNE DIAGNOSTIKE, OPERATIVNE IN ESTETSKE GINEKOLOGIJE, D.O.O.",OE LJUBLJANA,Cesta 25,8213 Veliki Gaber,Cesta,Veliki Gaber,Trebnje,45.94446,14.89143,01 439 49 10,http://www.ginekologijameglic.si
@@ -248,7 +248,7 @@ id_inst,zzzsSt,name,unit,address,post,city,municipalityPart,municipality,lat,lon
 3208680,3208680,KRALJ ROMAN - ZASEBNA AMBULANTA SPLOŠNE MEDICINE,IZPOSTAVA ZAGORJE,Cesta zmage 1,1410 Zagorje ob Savi,Zagorje ob Savi,Jože Marn,Zagorje ob Savi,46.13384,14.9957,03 565 50 13,http://www.zdravniki-zobozdravniki.net/clan/Roman-KRALJ-445/
 3193466,3193466,KRALJ ZLATKA - ZASEBNA SPLOŠNA ORDINACIJA,OE LJUBLJANA,Zaloška cesta 149,1000 Ljubljana,Ljubljana,Četrtna skupnost Moste,Ljubljana,46.05654,14.55551,01 431 52 52,https://ordinacijakralj.weebly.com/
 3091120,3091120,KRANJEC LEOPOLDINA - ZOBNA ORDINACIJA,OE LJUBLJANA,Kopitarjev trg 1,1217 Vodice,Vodice,,Vodice,46.18729,14.49116,,
-3815618,3815618,KRIŽAJ STORITVE D.O.O.,IZPOSTAVA GROSUPLJE,Slomškova ulica 17,1000 Ljubljana,Ljubljana,Četrtna skupnost Center,Ljubljana,46.05559,14.5127,,https://klinikakrizaj.si/
+3815618,3815618,KRIŽAJ STORITVE D.O.O.,IZPOSTAVA GROSUPLJE,Slomškova ulica 17,1000 Ljubljana,Ljubljana,Četrtna skupnost Center,Ljubljana,46.05559,14.5127,01/788 68 17,https://klinikakrizaj.si/
 3156072,3156072,KRIŽAJ ZILJANA - ORDINACIJA GINEKOLOGIJE IN PORODNIŠTVA,OE LJUBLJANA,Cesta v Mestni log 55,1000 Ljubljana,Ljubljana,Četrtna skupnost Trnovo,Ljubljana,46.0362,14.48957,(01) 283 42 98,https://www.ginekolog-ljubljana.si/
 3092034,3092034,KRSTINIĆ GORAN - ZOBOZDRAVSTVO ODRASLIH,IZPOSTAVA LITIJA,Partizanska pot 8A,1270 Litija,Litija,Mestna skupnost Litija,Litija,46.05389,14.83656,,http://zobozdravstvo-dikic-krstinic.si/
 5688170,5688170,"KSP DENT, ZOBOZDRAVSTVENE STORITVE, D.O.O.",IZPOSTAVA LENART,Maistrova ulica 22,2230 Lenart v Slov. goricah,Lenart v Slov. goricah,Lenart,Lenart,46.57734,15.82896,(02) 720 64 33,https://www.zdravniki-zobozdravniki.net/clan/Katja-SESTANJ-PUKLAVEC-1593/
@@ -271,7 +271,7 @@ id_inst,zzzsSt,name,unit,address,post,city,municipalityPart,municipality,lat,lon
 2663360,2663360,LOLIĆ DAMIR - AMBULANTA SPLOŠNE MEDICINE,IZPOSTAVA KOČEVJE,Roška cesta 18,1330 Kočevje,Kočevje,Kočevje-mesto,Kočevje,45.63938,14.86562,01/893 15 26,https://www.zdkocevje.si/portfolio-view/lolic-damir-spec-druz-med/
 2905806,2905806,LOLIČ VERICA - ORDINACIJA SPLOŠNE MEDICINE,IZPOSTAVA KOČEVJE,Roška cesta 22,1330 Kočevje,Kočevje,Kočevje-mesto,Kočevje,45.64005,14.86716,01 893 02 47,https://www.zdkocevje.si/portfolio-view/dr-verica-lolic/
 3445498,3445498,LOVREC ANDREJ - DOKTOR MEDICINE,OE MARIBOR,Pupinova ulica 2,2000 Maribor,Maribor,Magdalena,Maribor,46.55272,15.64503,(02) 250 24 83,https://zdravniki-zobozdravniki.net/Clan/Andrej-LOVREC-716
-3630991,3630991,LOVŠIN URŠKA - ZOBOZDRAVSTVENA ORDINACIJA,IZPOSTAVA LITIJA,Partizanska pot 8A,1270 Litija,Litija,Mestna skupnost Litija,Litija,46.05389,14.83656,,
+3630991,3630991,LOVŠIN URŠKA - ZOBOZDRAVSTVENA ORDINACIJA,IZPOSTAVA LITIJA,Partizanska pot 8A,1270 Litija,Litija,Mestna skupnost Litija,Litija,46.05389,14.83656,(01) 899 55 70,https://www.urskalovsin.com/kontakt
 3123489,3123489,LOŽAR OLGA - SPLOŠNA AMBULANTA ZGORNJE JARŠE,IZPOSTAVA DOMŽALE,Kamniška cesta 24,1235 Radomlje,Preserje pri Radomljah,Preserje,Domžale,46.168,14.5949,01 721 00 90,https://www.zdravniki-zobozdravniki.net/clan/Olga-LOZAR-337/
 3092693,3092693,LUKAČ MIRKO - ZOBNA AMBULANTA,IZPOSTAVA LENDAVA,Mlinska ulica 6E,9220 Lendava - Lendva,Lendava,Lendava,Lendava,46.56214,16.45301,,http://www.zobozdravniki-pomurja.si
 3122972,3122972,LUKIČ MERELA ANA - ZOBOZDRAVSTVENA AMBULANTA,IZPOSTAVA DOMŽALE,Pelechova cesta 18,1235 Radomlje,Preserje pri Radomljah,Preserje,Domžale,46.16801,14.59744,,
