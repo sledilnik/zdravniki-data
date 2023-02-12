@@ -19,7 +19,9 @@ RANGE_OVERRIDES = "Overrides!A1:AA"
 
 type_map = {
     'SPLOŠNA DEJAVNOST - SPLOŠNA AMBULANTA': 'gp',
+    'SPLOŠNA AMB. - BOLJŠA DOSTOPNOST DO IOZ': 'gp-x',
     'SPLOŠNA DEJ.-OTROŠKI IN ŠOLSKI DISPANZER': 'ped',
+    'OTR. ŠOL. DISP.-BOLJŠA DOSTOPNOST DO IOZ': 'ped-x',
     'ZOBOZDR. DEJAVNOST-ZDRAVLJENJE ODRASLIH': 'den',
     'ZOBOZDR. DEJAVNOST-ZDRAVLJENJE MLADINE': 'den-y',
     'ZOBOZDR. DEJAVNOST-ZDRAVLJENJE ŠTUDENTOV': 'den-s',
@@ -49,7 +51,7 @@ def write_timestamp_file(filename: str, old_hash: str):
 
 def convert_to_csv(zzzsid_map):
     doctors = []
-    for group in ["zdravniki", "zobozdravniki", "ginekologi"]:
+    for group in ["zdravniki", "zobozdravniki", "ginekologi", "za-boljšo-dostopnost"]:
         filename = max(glob.glob(f"zzzs/*_{group}.xlsx"))
         print(f"Source: {group} - {filename}")
 
