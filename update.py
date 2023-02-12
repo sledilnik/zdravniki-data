@@ -54,7 +54,11 @@ def convert_to_csv(zzzsid_map):
         print(f"Source: {group} - {filename}")
 
         df = pd.read_excel(io=filename, sheet_name='Podatki', skiprows=9).dropna()
-        df.columns = ['unit', 'name', 'address', 'city', 'doctor', 'type', 'availability', 'load', 'accepts']
+        df.columns = ['unit', 'institutionID', 'name', 'address', 'city', 'doctorID', 'doctor', 'typeID', 'type', 'availability', 'load', 'accepts', 'agreesToAcceptOver']
+
+        # TODO: Use the new columns instead of dropping them:
+        df.drop(columns=['institutionID', 'doctorID', 'typeID', 'agreesToAcceptOver'], inplace=True)
+
         df['doctor'] = df['doctor'].str.strip().replace('\s+', ' ', regex=True)
         df['doctor'] = df['doctor'].str.title()
         df['type'] = df['type'].str.strip().map(type_map)
