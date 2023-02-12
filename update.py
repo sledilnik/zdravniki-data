@@ -280,7 +280,7 @@ def download_zzzs_xlsx_files():
     # Število opredeljenih pri aktivnih zobozdravnikih na dan 01.11.2020
     # Število opredeljenih pri aktivnih zdravnikih na dan 01.11.2020
     # Število opredeljenih pri aktivnih ginekologih na dan 3.1.2021
-    nameRegex= r".* (zobozdravniki|zdravniki|ginekologi).* ([0-9]{1,2}\.[0-9]{1,2}\.20[0-9]{2})"
+    nameRegex= r".* (zobozdravniki|zdravniki|ginekologi|za boljšo dostopnost).* ([0-9]{1,2}\.[0-9]{1,2}\.20[0-9]{2})"
 
     BaseURL = "https://zavarovanec.zzzs.si/wps/portal/portali/azos/ioz/ioz_izvajalci"
     page = requests.get(BaseURL)
@@ -300,7 +300,7 @@ def download_zzzs_xlsx_files():
             continue
 
         date = datetime.datetime.strptime(match.group(2), '%d.%m.%Y').date()
-        group = match.group(1).lower()
+        group = match.group(1).lower().replace(' ', '-')
         filename = f"{date}_{group}.xlsx"
         dest = os.path.join("zzzs/",filename)
 
