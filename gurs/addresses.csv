@@ -897,7 +897,6 @@ cityZZZS,addressZZZS,lat,lon,street,streetAlt,housenumber,housenumberAppendix,ci
 6000 KOPER - CAPODISTRIA,PRISOJNA POT 10,45.54649,13.70532,Prisojna pot,Vicolo Assolato,10,,Koper,Capodistria,Žusterna,Koper,6000,Koper - Capodistria,Obalno-kraška
 6000 KOPER - CAPODISTRIA,ROZMANOVA ULICA 13,45.53894,13.72060,Rozmanova ulica,Via Stane Rozman,13,,Koper,Capodistria,Semedela,Koper,6000,Koper - Capodistria,Obalno-kraška
 6000 KOPER - CAPODISTRIA,STANIČEV TRG 1,45.54603,13.72777,Staničev trg,Piazzetta Valentin Stanič,1,,Koper,Capodistria,Koper - Center,Koper,6000,Koper - Capodistria,Obalno-kraška
-6000 KOPER - CAPODISTRIA,TOMŠIČEVA ULICA 4,45.54106,13.71896,Tomšičeva ulica,Via Tone Tomšič,4,,Koper,Capodistria,Semedela,Koper,6000,Koper - Capodistria,Obalno-kraška
 6000 KOPER - CAPODISTRIA,ULICA 15.MAJA 19,45.53713,13.72967,Ulica 15.maja,Via XV maggio,19,,Koper,Capodistria,Semedela,Koper,6000,Koper - Capodistria,Obalno-kraška
 6000 KOPER - CAPODISTRIA,ULICA 15.MAJA 19 D,45.53661,13.72939,Ulica 15.maja,Via XV maggio,19,D,Koper,Capodistria,Semedela,Koper,6000,Koper - Capodistria,Obalno-kraška
 6000 KOPER - CAPODISTRIA,ULICA OB PARKU 1,45.53982,13.70659,Ulica Ob parku,Via Del parco,1,,Koper,Capodistria,Žusterna,Koper,6000,Koper - Capodistria,Obalno-kraška
@@ -911,6 +910,7 @@ cityZZZS,addressZZZS,lat,lon,street,streetAlt,housenumber,housenumberAppendix,ci
 6000 KOPER - CAPODISTRIA,VOJKOVO NABREŽJE 27,45.54662,13.73465,Vojkovo nabrežje,Riva Janko Premrl-Vojko,27,,Koper,Capodistria,Koper - Center,Koper,6000,Koper - Capodistria,Obalno-kraška
 6000 KOPER - CAPODISTRIA,VOJKOVO NABREŽJE 3,45.54500,13.73061,Vojkovo nabrežje,Riva Janko Premrl-Vojko,3,,Koper,Capodistria,Koper - Center,Koper,6000,Koper - Capodistria,Obalno-kraška
 6000 KOPER - CAPODISTRIA,VOJKOVO NABREŽJE 32,45.54807,13.73774,Vojkovo nabrežje,Riva Janko Premrl-Vojko,32,,Koper,Capodistria,Koper - Center,Koper,6000,Koper - Capodistria,Obalno-kraška
+6000 KOPER - CAPODISTRIA,VRTNA ULICA 10 A,45.54661,13.73287,Vrtna ulica,Calle degli Orti,10,A,Koper,Capodistria,Koper - Center,Koper,6000,Koper - Capodistria,Obalno-kraška
 6210 SEŽANA,CANKARJEVA ULICA 4,45.70931,13.86760,Cankarjeva ulica,,4,,Sežana,,Sežana,Sežana,6210,Sežana,Obalno-kraška
 6210 SEŽANA,LEVSTIKOVA ULICA 2,45.70870,13.87106,Levstikova ulica,,2,,Sežana,,Sežana,Sežana,6210,Sežana,Obalno-kraška
 6210 SEŽANA,LEVSTIKOVA ULICA 4,45.70872,13.87084,Levstikova ulica,,4,,Sežana,,Sežana,Sežana,6210,Sežana,Obalno-kraška
