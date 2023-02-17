@@ -11,6 +11,8 @@ import subprocess
 import sheet2csv
 import hashlib,time
 from dotenv import load_dotenv
+from zipfile import ZipFile
+from io import BytesIO
 
 load_dotenv()
 GOOGLE_API_KEY = os.environ["GOOGLE_API_KEY"]
@@ -323,6 +325,39 @@ def download_zzzs_xlsx_files():
 
             open(dest, 'wb').write(r.content)
 
+def download_zzzs_RIZDDZ():
+    baseUrl = "https://api.zzzs.si/"
+    page = requests.get(baseUrl + "ZZZS/pao/bpi.nsf/index", allow_redirects=True)
+    page.raise_for_status()
+    soup = BeautifulSoup(page.content, "html.parser")
+    atag = soup.find_all("a", text=re.compile("bpi\.zip"))
+    if len(atag) != 1:
+        print("Problem finding unique link to bpi.zip")
+        raise
+    url = baseUrl + atag[0]['href'].strip()
+    print(f'Downloading RIZDDZ zip from: {url}')
+    r = requests.get(url, allow_redirects=True)
+    r.raise_for_status()
+
+    ct = r.headers.get('content-type')
+    if ct.lower() != "application/x-zip":
+        print(f"Unexpected content type '{ct}'.")
+        raise
+
+    cl = int(r.headers.get('content-length'))
+    if cl < 300000:
+        print(f"Too short content length {cl} bytes.")
+        raise
+
+    downloadedZip = ZipFile(BytesIO(r.content))
+    if downloadedZip.namelist() != ['BPI.XML']:
+        print(f"Unexpected files in zip: {downloadedZip.namelist()}.")
+        raise
+
+    file = downloadedZip.open('BPI.XML')
+    soup = BeautifulSoup(file, 'html.parser')
+    open("zzzs/rizddz.xml", 'wb').write(soup.prettify().encode())
+
 
 if __name__ == "__main__":
     fname_inst = 'csv/institutions.csv'
@@ -331,6 +366,7 @@ if __name__ == "__main__":
     old_hash_doctors = sha1sum(fname_doctors)
 
     download_zzzs_xlsx_files()
+    download_zzzs_RIZDDZ()
     get_zzzs_api_data_all()
     get_zzzs_api_data_by_category()
     zzzsid_map = get_zzzs_id_map()

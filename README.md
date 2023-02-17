@@ -29,7 +29,8 @@ ___
   * Saved to [zzzs/institutions-by-category.csv](zzzs/institutions-by-category.csv)
 * :white_check_mark: API [Izvajalci zdravstvenih storitev](https://api.zzzs.si/covid-sledilnik)
   * Saved to [zzzs/institutions-all.csv](zzzs/institutions-all.csv)
-* :question: Potencialno: RIZDDZ [Register izvajalcev zdravstvene dejavnosti](http://api.zzzs.si/ZZZS/pao/bpi.nsf/index)
+* :white_check_mark: RIZDDZ [Register izvajalcev zdravstvene dejavnosti](http://api.zzzs.si/ZZZS/pao/bpi.nsf/index)
+  * Saved to [zzzs/rizddz.xml](zzzs/rizddz.xml)
 
 ### NIJZ
 
