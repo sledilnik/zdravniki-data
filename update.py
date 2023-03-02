@@ -330,7 +330,7 @@ def download_zzzs_RIZDDZ():
     page = requests.get(baseUrl + "ZZZS/pao/bpi.nsf/index", allow_redirects=True)
     page.raise_for_status()
     soup = BeautifulSoup(page.content, "html.parser")
-    atag = soup.find_all("a", text=re.compile("bpi\.zip"))
+    atag = soup.find_all("a", string=re.compile("bpi\.zip"))
     if len(atag) != 1:
         print("Problem finding unique link to bpi.zip")
         raise
