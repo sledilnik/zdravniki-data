@@ -82,12 +82,14 @@ def convert_to_csv(zzzsid_map):
             if len(df.columns) == 13:
                 print("...version after 2023-02-10")
                 df.columns = ['unit', 'institutionID', 'name', 'address', 'city', 'doctorID', 'doctor', 'typeID', 'type', 'availability', 'load', 'accepts', 'agreesToAcceptOver']
+                df['doctor'] = df['doctor'].str.title()
                 # TODO: Use the new columns instead of dropping them:
                 df.drop(columns=['institutionID', 'doctorID', 'typeID', 'agreesToAcceptOver'], inplace=True)
 
             elif len(df.columns) == 9:
                 print("Detected early version, prior to 2023-02-10")
                 df.columns = ['unit', 'name', 'address', 'city', 'doctor', 'type', 'availability', 'load', 'accepts']
+                df['doctor'] = df['doctor'].str.title()
                 # TODO: insert dummy new ID columns if needed.
 
             else:
@@ -96,7 +98,6 @@ def convert_to_csv(zzzsid_map):
 
 
         df['doctor'] = df['doctor'].str.strip().replace('\s+', ' ', regex=True)
-        df['doctor'] = df['doctor'].str.title()
         df['type'] = df['type'].str.strip().map(type_map)
         df['accepts'] = df['accepts'].str.strip().map(accepts_map)
         df['name'] = df['name'].str.strip()
