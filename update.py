@@ -22,6 +22,7 @@ RANGE_OVERRIDES = "Overrides!A1:AA"
 type_map = {
     'SPLOŠNA DEJAVNOST - SPLOŠNA AMBULANTA': 'gp',
     'SPLOŠNA AMB. - BOLJŠA DOSTOPNOST DO IOZ': 'gp-x',
+    'SPLOŠNA AMB. ZA NEOPREDELJENE ZAV. OSEBE': 'gp-f', 
     'SPLOŠNA DEJ.-OTROŠKI IN ŠOLSKI DISPANZER': 'ped',
     'OTR. ŠOL. DISP.-BOLJŠA DOSTOPNOST DO IOZ': 'ped-x',
     'ZOBOZDR. DEJAVNOST-ZDRAVLJENJE ODRASLIH': 'den',
@@ -53,15 +54,50 @@ def write_timestamp_file(filename: str, old_hash: str):
 
 def convert_to_csv(zzzsid_map):
     doctors = []
-    for group in ["zdravniki", "zobozdravniki", "ginekologi", "za-boljšo-dostopnost"]:
+    for group in ["zdravniki", "zobozdravniki", "ginekologi", "za-boljšo-dostopnost", "za-neopredeljene"]:
         filename = max(glob.glob(f"zzzs/*_{group}.xlsx"))
         print(f"Source: {group} - {filename}")
 
         df = pd.read_excel(io=filename, sheet_name='Podatki', skiprows=9).dropna()
-        df.columns = ['unit', 'institutionID', 'name', 'address', 'city', 'doctorID', 'doctor', 'typeID', 'type', 'availability', 'load', 'accepts', 'agreesToAcceptOver']
 
-        # TODO: Use the new columns instead of dropping them:
-        df.drop(columns=['institutionID', 'doctorID', 'typeID', 'agreesToAcceptOver'], inplace=True)
+        if group == "za-neopredeljene":
+            print("Converting za neopredeljene")
+            if len(df.columns) == 8:
+                print("...introduced with 2023-02-10")
+                df.columns = ['unit', 'institutionID', 'name', 'address', 'city', 'typeID', 'type', 'load']
+                # TODO: Use the new columns instead of dropping them:
+                df.drop(columns=['institutionID', 'typeID'], inplace=True)
+                # ['unit', 'name', 'address', 'city', 'type', 'load']
+                df.insert(4, 'doctor', 'Ambulanta za neopredeljene')
+                # ['unit', 'name', 'address', 'city', 'doctor', 'type', 'load']
+                df.insert(6, 'availability', None)
+                # ['unit', 'name', 'address', 'city', 'doctor', 'type', 'availability', 'load']
+                df.insert(8, 'accepts', 'DA') # default
+                # ['unit', 'name', 'address', 'city', 'doctor', 'type', 'availability', 'accepts']
+
+                print(df.columns)
+                
+            else:
+                print(f"Unsupported za neopredeljene source columns! count={len(df.columns)}: {df.columns}")
+                raise
+
+        else:
+            print("Converting doctors list")
+            if len(df.columns) == 13:
+                print("...version after 2023-02-10")
+                df.columns = ['unit', 'institutionID', 'name', 'address', 'city', 'doctorID', 'doctor', 'typeID', 'type', 'availability', 'load', 'accepts', 'agreesToAcceptOver']
+                # TODO: Use the new columns instead of dropping them:
+                df.drop(columns=['institutionID', 'doctorID', 'typeID', 'agreesToAcceptOver'], inplace=True)
+
+            elif len(df.columns) == 9:
+                print("Detected early version, prior to 2023-02-10")
+                df.columns = ['unit', 'name', 'address', 'city', 'doctor', 'type', 'availability', 'load', 'accepts']
+                # TODO: insert dummy new ID columns if needed.
+
+            else:
+                print(f"Unsupported za opredeljene source columns! count={len(df.columns)}: {df.columns}")
+                raise
+
 
         df['doctor'] = df['doctor'].str.strip().replace('\s+', ' ', regex=True)
         df['doctor'] = df['doctor'].str.title()
