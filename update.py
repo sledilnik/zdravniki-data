@@ -67,15 +67,11 @@ def convert_to_csv(zzzsid_map):
                 df.columns = ['unit', 'institutionID', 'name', 'address', 'city', 'typeID', 'type', 'load']
                 # TODO: Use the new columns instead of dropping them:
                 df.drop(columns=['institutionID', 'typeID'], inplace=True)
-                # ['unit', 'name', 'address', 'city', 'type', 'load']
-                df.insert(4, 'doctor', 'Ambulanta za neopredeljene')
-                # ['unit', 'name', 'address', 'city', 'doctor', 'type', 'load']
-                df.insert(6, 'availability', None)
-                # ['unit', 'name', 'address', 'city', 'doctor', 'type', 'availability', 'load']
-                df.insert(8, 'accepts', 'DA') # default
-                # ['unit', 'name', 'address', 'city', 'doctor', 'type', 'availability', 'accepts']
 
-                print(df.columns)
+                # add missing columns with default values
+                df['doctor'] = 'Ambulanta za neopredeljene'
+                df['availability'] = None
+                df['accepts'] = 'DA'
                 
             else:
                 print(f"Unsupported za neopredeljene source columns! count={len(df.columns)}: {df.columns}")
