@@ -83,6 +83,17 @@ def convert_to_csv(zzzsid_map):
                 print("...version after 2023-02-10")
                 df.columns = ['unit', 'institutionID', 'name', 'address', 'city', 'doctorID', 'doctor', 'typeID', 'type', 'availability', 'load', 'mustAccept', 'accepts']
                 df['doctor'] = df['doctor'].str.title()
+
+                diff_accepts_NE_DA=df.loc[(df['mustAccept'] == 'NE') & (df['accepts'] == 'DA'), ['name', 'doctor', 'type', 'mustAccept', 'accepts']]
+                if not diff_accepts_NE_DA.empty:
+                    print("Doctors that accept according to ZZZS even if they don't have to:")
+                    print(diff_accepts_NE_DA)
+
+                diff_accepts_DA_NE=df.loc[(df['mustAccept'] == 'DA') & (df['accepts'] == 'NE'), ['name', 'doctor', 'type', 'mustAccept', 'accepts']]
+                if not diff_accepts_DA_NE.empty:
+                    print("Doctors that don't accept according to ZZZS but they should have to:")
+                    print(diff_accepts_DA_NE)
+
                 # TODO: Use the new ID columns instead of dropping them:
                 df.drop(columns=['institutionID', 'doctorID', 'typeID', 'mustAccept'], inplace=True)
 
