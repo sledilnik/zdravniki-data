@@ -81,10 +81,10 @@ def convert_to_csv(zzzsid_map):
             print("Converting doctors list")
             if len(df.columns) == 13:
                 print("...version after 2023-02-10")
-                df.columns = ['unit', 'institutionID', 'name', 'address', 'city', 'doctorID', 'doctor', 'typeID', 'type', 'availability', 'load', 'accepts', 'agreesToAcceptOver']
+                df.columns = ['unit', 'institutionID', 'name', 'address', 'city', 'doctorID', 'doctor', 'typeID', 'type', 'availability', 'load', 'mustAccept', 'accepts']
                 df['doctor'] = df['doctor'].str.title()
-                # TODO: Use the new columns instead of dropping them:
-                df.drop(columns=['institutionID', 'doctorID', 'typeID', 'agreesToAcceptOver'], inplace=True)
+                # TODO: Use the new ID columns instead of dropping them:
+                df.drop(columns=['institutionID', 'doctorID', 'typeID', 'mustAccept'], inplace=True)
 
             elif len(df.columns) == 9:
                 print("Detected early version, prior to 2023-02-10")
