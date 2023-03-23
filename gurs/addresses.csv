@@ -338,6 +338,7 @@ cityZZZS,addressZZZS,lat,lon,street,streetAlt,housenumber,housenumberAppendix,ci
 1434 LOKA PRI ZIDANEM MOSTU,LOKA PRI ZIDANEM MOSTU 48,46.05586,15.20767,Loka pri Zidanem Mostu,,48,,Loka pri Zidanem Mostu,,Loka pri Zidanem Mostu,Sevnica,1434,Loka pri Zidanem Mostu,Posavska
 2000 MARIBOR,AŠKERČEVA ULICA 7,46.56465,15.65189,Aškerčeva ulica,,7,,Maribor,,Ivan Cankar,Maribor,2000,Maribor,Podravska
 2000 MARIBOR,BETETTOVA ULICA 11,46.54059,15.63068,Betettova ulica,,11,,Maribor,,Nova vas,Maribor,2000,Maribor,Podravska
+2000 MARIBOR,BETETTOVA ULICA 19,46.53969,15.62985,Betettova ulica,,19,,Maribor,,Nova vas,Maribor,2000,Maribor,Podravska
 2000 MARIBOR,BETNAVSKA CESTA 13,46.54967,15.64086,Betnavska cesta,,13,,Maribor,,Magdalena,Maribor,2000,Maribor,Podravska
 2000 MARIBOR,BORŠTNIKOVA ULICA 79,46.53511,15.62851,Borštnikova ulica,,79,,Maribor,,Radvanje,Maribor,2000,Maribor,Podravska
 2000 MARIBOR,BORŠTNIKOVA ULICA 83,46.53525,15.62858,Borštnikova ulica,,83,,Maribor,,Radvanje,Maribor,2000,Maribor,Podravska
@@ -443,7 +444,6 @@ cityZZZS,addressZZZS,lat,lon,street,streetAlt,housenumber,housenumberAppendix,ci
 2212 ŠENTILJ V SLOV. GORICAH,POD HRIBOM 14,46.67994,15.65514,Pod hribom,,14,,Šentilj v Slov. goricah,,Šentilj,Šentilj,2212,Šentilj v Slov. goricah,Podravska
 2214 SLADKI VRH,SLADKI VRH 5,46.69756,15.73680,Sladki Vrh,,5,,Sladki Vrh,,Sladki Vrh,Šentilj,2214,Sladki Vrh,Podravska
 2221 JARENINA,VUKOVSKI DOL 30,46.62155,15.71991,Vukovski Dol,,30,,Vukovski Dol,,Jarenina,Pesnica,2221,Jarenina,Podravska
-2229 MALEČNIK,MALEČNIK 14,46.55410,15.70257,Malečnik,,14,,Malečnik,,Malečnik-Ruperče,Maribor,2229,Malečnik,Podravska
 2230 LENART V SLOV. GORICAH,GREGORČIČEVA ULICA 1,46.57373,15.83203,Gregorčičeva ulica,,1,,Lenart v Slov. goricah,,Lenart,Lenart,2230,Lenart v Slov. goricah,Podravska
 2230 LENART V SLOV. GORICAH,GUBČEVA ULICA 5,46.57869,15.82838,Gubčeva ulica,,5,,Lenart v Slov. goricah,,Lenart,Lenart,2230,Lenart v Slov. goricah,Podravska
 2230 LENART V SLOV. GORICAH,HRASTOVEC V SLOV. GORICAH 22,46.56511,15.78691,Hrastovec v Slov. goricah,,22,,Hrastovec v Slov. goricah,,Lenart,Lenart,2230,Lenart v Slov. goricah,Podravska
