@@ -63,7 +63,7 @@ jobs:
     - name: Check git diff
       run: |
         ls -la csv/*
-        ls -la zzzs/*
+        # ls -la zzzs/*
         git status
         git diff
 
