@@ -161,6 +161,15 @@ def append_overrides():
 
     doctors.to_csv('csv/doctors.csv')
 
+    used_overrides_accepts=doctors.loc[doctors['accepts_override'].notna() & (doctors['accepts'] != doctors['accepts_override']), ['accepts', 'accepts_override']]
+    print(f"Doctors with used accept override: {len(used_overrides_accepts)}")
+
+    redundant_overrides_accepts=doctors.loc[doctors['accepts'] == doctors['accepts_override'], ['accepts', 'accepts_override']]
+    if not redundant_overrides_accepts.empty:
+        print(f"Doctors with redundant accept override: {len(redundant_overrides_accepts)}:")
+        with pd.option_context('display.max_rows', None,'display.max_columns', None):
+            print(redundant_overrides_accepts)
+
     overrides.count().to_csv('csv/stats-overrides.csv')
     overrides.groupby(['date_override']).count().to_csv('csv/stats-overrides-by-day.csv')
     overrides.groupby(['note_override','accepts_override'])['accepts_override'].count().to_csv('csv/stats-overrides-accepts.csv')
