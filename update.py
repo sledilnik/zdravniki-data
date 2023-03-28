@@ -149,7 +149,7 @@ def append_overrides():
         raise e
 
     doctors = pd.read_csv('csv/doctors.csv', index_col=['doctor','type','id_inst'])
-    overrides = pd.read_csv('csv/overrides.csv', index_col=['doctor','type','id_inst'])
+    overrides = pd.read_csv('csv/overrides.csv', index_col=['doctor','type','id_inst'], parse_dates=['date_override'])
 
     if not overrides.index.is_unique:
         print ("============= DUPLICATES ============")
