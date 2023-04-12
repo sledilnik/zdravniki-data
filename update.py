@@ -299,7 +299,7 @@ def get_zzzs_id_map():
         # renamed, needed temporary until new .xlsx arepublished with same new names:
         # 'ZDRAVSTVENI DOM TRBOVLJE TRBOVLJE, RUDARSKA CESTA 12': "102320", # was renamed
         # 'MDENT, ZOBOZDRAVSTVENE STORITVE, MIHAJLO FRANGOV S.P.': "7155880",
-        'DOLINAR- KRESE HERMINA - ZASEBNA OTROŠKA IN ŠOLSKA ORDINACIJA': "8524237",
+        # 'DOLINAR- KRESE HERMINA - ZASEBNA OTROŠKA IN ŠOLSKA ORDINACIJA': "8524237",
         #'ZASEBNI ŠOLSKI DISPANZER JELKA HOSTNIK, DR. MED., SPEC. ŠOL. MED.': "", # TODO
 
         # larger, split providers
