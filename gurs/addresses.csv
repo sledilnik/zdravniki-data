@@ -595,6 +595,7 @@ cityZZZS,addressZZZS,lat,lon,street,streetAlt,housenumber,housenumberAppendix,ci
 3000 CELJE,CANKARJEVA ULICA 6,46.22964,15.26602,Cankarjeva ulica,,6,,Celje,,Center,Celje,3000,Celje,Savinjska
 3000 CELJE,CESTA V ZADOBROVO 12,46.25725,15.29632,Cesta v Zadobrovo,,12,,Trnovlje pri Celju,,Trnovlje,Celje,3000,Celje,Savinjska
 3000 CELJE,GAJI 28,46.24473,15.28996,Gaji,,28,,Trnovlje pri Celju,,Trnovlje,Celje,3000,Celje,Savinjska
+3000 CELJE,GLAVNI TRG 6,46.22793,15.26487,Glavni trg,,6,,Celje,,Center,Celje,3000,Celje,Savinjska
 3000 CELJE,GLEDALIŠKA ULICA 4,46.23047,15.26256,Gledališka ulica,,4,,Celje,,Center,Celje,3000,Celje,Savinjska
 3000 CELJE,GREGORČIČEVA ULICA 5,46.23224,15.26227,Gregorčičeva ulica,,5,,Celje,,Dolgo polje,Celje,3000,Celje,Savinjska
 3000 CELJE,IPAVČEVA ULICA 15,46.23572,15.25939,Ipavčeva ulica,,15,,Celje,,Dolgo polje,Celje,3000,Celje,Savinjska
@@ -617,7 +618,6 @@ cityZZZS,addressZZZS,lat,lon,street,streetAlt,housenumber,housenumberAppendix,ci
 3000 CELJE,RAZLAGOVA ULICA 10,46.22662,15.26608,Razlagova ulica,,10,,Celje,,Center,Celje,3000,Celje,Savinjska
 3000 CELJE,TRUBARJEVA ULICA 11,46.23108,15.25643,Trubarjeva ulica,,11,,Celje,,Kajuh,Celje,3000,Celje,Savinjska
 3000 CELJE,ULICA BRATOV VOŠNJAKOV 12,46.24598,15.26429,Ulica bratov Vošnjakov,,12,,Celje,,Nova vas,Celje,3000,Celje,Savinjska
-3000 CELJE,ULICA TONČKE ČEČEVE 9,46.23342,15.25004,Ulica Tončke Čečeve,,9,,Celje,,Savinja,Celje,3000,Celje,Savinjska
 3000 CELJE,VESELOVA ULICA 13,46.23698,15.26756,Veselova ulica,,13,,Celje,,Dolgo polje,Celje,3000,Celje,Savinjska
 3000 CELJE,ZAGRAD 31 C,46.21596,15.27901,Zagrad,,31,C,Celje,,Pod gradom,Celje,3000,Celje,Savinjska
 3201 ŠMARTNO V ROŽNI DOLINI,GORICA PRI ŠMARTNEM 13,46.27219,15.23887,Gorica pri Šmartnem,,13,,Gorica pri Šmartnem,,Šmartno v Rožni dolini,Celje,3201,Šmartno v Rožni dolini,Savinjska
@@ -706,6 +706,7 @@ cityZZZS,addressZZZS,lat,lon,street,streetAlt,housenumber,housenumberAppendix,ci
 3320 VELENJE,SONČNI GRIČ 7,46.35393,15.12586,Sončni grič,,7,,Velenje,,Gorica,Velenje,3320,Velenje,Savinjska
 3320 VELENJE,SUBOTIŠKA CESTA 12,46.36625,15.10260,Subotiška cesta,,12,,Velenje,,Stara vas,Velenje,3320,Velenje,Savinjska
 3320 VELENJE,VODNIKOVA CESTA 1,46.36151,15.11636,Vodnikova cesta,,1,,Velenje,,Velenje - desni breg,Velenje,3320,Velenje,Savinjska
+3320 VELENJE,ŠALEŠKA CESTA 19 A,46.35940,15.11693,Šaleška cesta,,19,A,Velenje,,Velenje - levi breg - zahod,Velenje,3320,Velenje,Savinjska
 3325 ŠOŠTANJ,FLORJAN 165 C,46.38507,15.02767,Florjan,,165,C,Florjan,,Skorno - Florjan,Šoštanj,3325,Šoštanj,Savinjska
 3325 ŠOŠTANJ,TRG JOŽETA LAMPRETA 1,46.37648,15.04850,Trg Jožeta Lampreta,,1,,Šoštanj,,Šoštanj,Šoštanj,3325,Šoštanj,Savinjska
 3326 TOPOLŠICA,TOPOLŠICA 64,46.40481,15.02068,Topolšica,,64,,Topolšica,,Topolšica,Šoštanj,3326,Topolšica,Savinjska
