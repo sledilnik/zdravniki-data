@@ -194,7 +194,7 @@ def geocode_addresses():
     addresses.to_csv('gurs/addresses-zzzs.csv')
 
     try:
-        subprocess.run(["geocode", "-in", "gurs/addresses-zzzs.csv", "-out", "gurs/addresses.csv", "-zipCol", "1", "-addressCol", "2", "-appendAll"])
+        subprocess.run(["geocode", "csv", "--in", "gurs/addresses-zzzs.csv", "--out", "gurs/addresses.csv", "--zipCol", "1", "--addressCol", "2", "--appendAll"])
     except FileNotFoundError:
         print("geocode not found, skipping.")
 
@@ -205,7 +205,7 @@ def geocode_addresses():
     addresses.to_csv('gurs/addresses-overrides.csv')
 
     try:
-        subprocess.run(["geocode", "-in", "gurs/addresses-overrides.csv", "-out", "gurs/addresses-overrides-geocoded.csv", "-zipCol", "1", "-addressCol", "2", "-appendAll"])
+        subprocess.run(["geocode", "csv", "--in", "gurs/addresses-overrides.csv", "--out", "gurs/addresses-overrides-geocoded.csv", "--zipCol", "1", "--addressCol", "2", "--appendAll"])
     except FileNotFoundError:
         print("geocode not found, skipping.")
 
