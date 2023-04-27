@@ -10,6 +10,7 @@ postOver,addressOver,cityOver,lat,lon,street,streetAlt,housenumber,housenumberAp
 1000 Ljubljana,Čufarjeva ulica 11,,46.05516,14.51021,Čufarjeva ulica,,11,,Ljubljana,,Četrtna skupnost Center,Ljubljana,1000,Ljubljana,Osrednjeslovenska
 1218 Komenda,Glavarjeva cesta 61a,,46.20453,14.53935,Glavarjeva cesta,,61,A,Komenda,,,Komenda,1218,Komenda,Osrednjeslovenska
 1231 Ljubljana-Črnuče,Primožičeva ulica 2,,46.10339,14.53177,Primožičeva ulica,,2,,Ljubljana,,Četrtna skupnost Črnuče,Ljubljana,1231,Ljubljana - Črnuče,Osrednjeslovenska
+1235 Radomlje,Kamniška cesta 24,Zgornje Jarše,46.16800,14.59490,Kamniška cesta,,24,,Preserje pri Radomljah,,Preserje,Domžale,1235,Radomlje,Osrednjeslovenska
 1235 Radomlje,Kamniška cesta 24d,Zgornje Jarše,46.16455,14.59455,Kamniška cesta,,24,D,Zgornje Jarše,,Jarše - Rodica,Domžale,1235,Radomlje,Osrednjeslovenska
 1236 Trzin,Ljubljanska cesta 12,,46.13255,14.56242,Ljubljanska cesta,,12,,Trzin,,,Trzin,1236,Trzin,Osrednjeslovenska
 1236 Trzin,Mengeška 7b,,46.13394,14.56236,Mengeška cesta,,7,B,Trzin,,,Trzin,1236,Trzin,Osrednjeslovenska
@@ -88,5 +89,10 @@ postOver,addressOver,cityOver,lat,lon,street,streetAlt,housenumber,housenumberAp
 8232 Šentrupert,Šentrupert 124,,45.97680,15.08850,Šentrupert,,124,,Šentrupert,,,Šentrupert,8232,Šentrupert,Jugovzhodna Slovenija
 8233 Mirna,Cesta na Fužine 10,,45.95289,15.06032,Cesta na Fužine,,10,,Mirna,,,Mirna,8233,Mirna,Jugovzhodna Slovenija
 8270 Krško,Cesta krških žrtev 132C,,45.94307,15.48349,Cesta krških žrtev,,132,C,Krško,,Krško,Krško,8270,Krško,Posavska
+9000 Murska Sobota,Cvetkova ulica 10,Murska Sobota,46.66089,16.16751,Cvetkova ulica,,10,,Murska Sobota,,Center,Murska Sobota,9000,Murska Sobota,Pomurska
+9000 Murska Sobota,Lendavska ulica 17a,Murska Sobota,46.66438,16.16739,Lendavska ulica,,17,A,Murska Sobota,,Ledava,Murska Sobota,9000,Murska Sobota,Pomurska
+9000 Murska Sobota,Lendavska ulica 18,Murska Sobota,46.66410,16.16828,Lendavska ulica,,18,,Murska Sobota,,Center,Murska Sobota,9000,Murska Sobota,Pomurska
+9000 Murska Sobota,Mladinska ulica 10,Murska Sobota,46.61794,16.14409,Mladinska ulica,,10,,Bakovci,,Bakovci,Murska Sobota,9000,Murska Sobota,Pomurska
 9201 Puconci,Puconci 150,,46.70397,16.15779,Puconci,,150,,Puconci,,Puconci,Puconci,9201,Puconci,Pomurska
 9220 Lendava,Mlinska ulica 6e,,46.56214,16.45301,Mlinska ulica,Malom utca,6,E,Lendava,Lendva,Lendava,Lendava,9220,Lendava - Lendva,Pomurska
+9220 Lendava - Lendva,Mlinska ulica 6,Lendava,46.56183,16.45256,Mlinska ulica,Malom utca,6,,Lendava,Lendva,Lendava,Lendava,9220,Lendava - Lendva,Pomurska
