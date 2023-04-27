@@ -227,7 +227,7 @@ cityZZZS,addressZZZS,lat,lon,street,streetAlt,housenumber,housenumberAppendix,ci
 1234 MENGEŠ,ROPRETOVA CESTA 23,46.15862,14.56291,Ropretova cesta,,23,,Mengeš,,,Mengeš,1234,Mengeš,Osrednjeslovenska
 1234 MENGEŠ,ZAVRTI 45,46.16750,14.57426,Zavrti,,45,,Mengeš,,,Mengeš,1234,Mengeš,Osrednjeslovenska
 1234 MENGEŠ,ZORANINA ULICA 3,46.16207,14.57100,Zoranina ulica,,3,,Mengeš,,,Mengeš,1234,Mengeš,Osrednjeslovenska
-1235 RADOMLJE,KAMNIŠKA CESTA 24,46.16800,14.59490,Kamniška cesta,,24,,Preserje pri Radomljah,,Preserje,Domžale,1235,Radomlje,Osrednjeslovenska
+1235 RADOMLJE,KAMNIŠKA CESTA 24,,,,,,,,,,,,,
 1235 RADOMLJE,PELECHOVA CESTA 18,46.16801,14.59744,Pelechova cesta,,18,,Preserje pri Radomljah,,Preserje,Domžale,1235,Radomlje,Osrednjeslovenska
 1241 KAMNIK,LJUBLJANSKA CESTA 4 J,46.21694,14.60311,Ljubljanska cesta,,4,J,Kamnik,,Perovo,Kamnik,1241,Kamnik,Osrednjeslovenska
 1241 KAMNIK,NA BREGU 24,46.21033,14.61271,Na bregu,,24,,Kamnik,,Novi trg,Kamnik,1241,Kamnik,Osrednjeslovenska
@@ -1073,9 +1073,9 @@ cityZZZS,addressZZZS,lat,lon,street,streetAlt,housenumber,housenumberAppendix,ci
 8360 ŽUŽEMBERK,GRAJSKI TRG 41,45.83109,14.93110,Grajski trg,,41,,Žužemberk,,,Žužemberk,8360,Žužemberk,Jugovzhodna Slovenija
 8360 ŽUŽEMBERK,JURČIČEVA ULICA 32,45.83205,14.93017,Jurčičeva ulica,,32,,Žužemberk,,,Žužemberk,8360,Žužemberk,Jugovzhodna Slovenija
 9000 MURSKA SOBOTA,CANKARJEVA ULICA 113,46.65595,16.15589,Cankarjeva ulica,,113,,Murska Sobota,,Turopolje,Murska Sobota,9000,Murska Sobota,Pomurska
-9000 MURSKA SOBOTA,CVETKOVA ULICA 10,46.66089,16.16751,Cvetkova ulica,,10,,Murska Sobota,,Center,Murska Sobota,9000,Murska Sobota,Pomurska
-9000 MURSKA SOBOTA,CVETKOVA ULICA 12,46.66107,16.16751,Cvetkova ulica,,12,,Murska Sobota,,Center,Murska Sobota,9000,Murska Sobota,Pomurska
-9000 MURSKA SOBOTA,CVETKOVA ULICA 34,46.66314,16.16803,Cvetkova ulica,,34,,Murska Sobota,,Center,Murska Sobota,9000,Murska Sobota,Pomurska
+9000 MURSKA SOBOTA,CVETKOVA ULICA 10,,,,,,,,,,,,,
+9000 MURSKA SOBOTA,CVETKOVA ULICA 12,,,,,,,,,,,,,
+9000 MURSKA SOBOTA,CVETKOVA ULICA 34,,,,,,,,,,,,,
 9000 MURSKA SOBOTA,DOLGA ULICA 82,46.66544,16.14308,Dolga ulica,,82,,Černelavci,,KS ČERNELAVCI,Murska Sobota,9000,Murska Sobota,Pomurska
 9000 MURSKA SOBOTA,GRAJSKA ULICA 24,46.66402,16.16066,Grajska ulica,,24,,Murska Sobota,,Ledava,Murska Sobota,9000,Murska Sobota,Pomurska
 9000 MURSKA SOBOTA,GREGORČIČEVA ULICA 27 A,46.66099,16.16877,Gregorčičeva ulica,,27,A,Murska Sobota,,Center,Murska Sobota,9000,Murska Sobota,Pomurska
@@ -1083,9 +1083,9 @@ cityZZZS,addressZZZS,lat,lon,street,streetAlt,housenumber,housenumberAppendix,ci
 9000 MURSKA SOBOTA,KOCLJEVA ULICA 2,46.66070,16.16317,Kocljeva ulica,,2,,Murska Sobota,,Center,Murska Sobota,9000,Murska Sobota,Pomurska
 9000 MURSKA SOBOTA,KOCLJEVA ULICA 9,46.65945,16.16360,Kocljeva ulica,,9,,Murska Sobota,,Center,Murska Sobota,9000,Murska Sobota,Pomurska
 9000 MURSKA SOBOTA,LENDAVSKA ULICA 16,46.66408,16.16819,Lendavska ulica,,16,,Murska Sobota,,Center,Murska Sobota,9000,Murska Sobota,Pomurska
-9000 MURSKA SOBOTA,LENDAVSKA ULICA 17 A,46.66438,16.16739,Lendavska ulica,,17,A,Murska Sobota,,Ledava,Murska Sobota,9000,Murska Sobota,Pomurska
+9000 MURSKA SOBOTA,LENDAVSKA ULICA 17 A,,,,,,,,,,,,,
 9000 MURSKA SOBOTA,LENDAVSKA ULICA 18,46.66410,16.16828,Lendavska ulica,,18,,Murska Sobota,,Center,Murska Sobota,9000,Murska Sobota,Pomurska
-9000 MURSKA SOBOTA,MLADINSKA ULICA 10,46.61794,16.14409,Mladinska ulica,,10,,Bakovci,,Bakovci,Murska Sobota,9000,Murska Sobota,Pomurska
+9000 MURSKA SOBOTA,MLADINSKA ULICA 10,,,,,,,,,,,,,
 9000 MURSKA SOBOTA,PLESE 2,46.65833,16.17610,Plese,,2,,Murska Sobota,,Ledava,Murska Sobota,9000,Murska Sobota,Pomurska
 9000 MURSKA SOBOTA,TRSTENJAKOVA ULICA 34,46.65416,16.16627,Trstenjakova ulica,,34,,Murska Sobota,,Partizan,Murska Sobota,9000,Murska Sobota,Pomurska
 9000 MURSKA SOBOTA,TRSTENJAKOVA ULICA 69,46.65477,16.16795,Trstenjakova ulica,,69,,Murska Sobota,,Partizan,Murska Sobota,9000,Murska Sobota,Pomurska
@@ -1102,9 +1102,9 @@ cityZZZS,addressZZZS,lat,lon,street,streetAlt,housenumber,housenumberAppendix,ci
 9201 PUCONCI,PUCONCI 79,46.70469,16.15443,Puconci,,79,,Puconci,,Puconci,Puconci,9201,Puconci,Pomurska
 9203 PETROVCI,GORNJI PETROVCI 33 A,46.80527,16.21811,Gornji Petrovci,,33,A,Gornji Petrovci,,Gornji Petrovci,Gornji Petrovci,9203,Petrovci,Pomurska
 9220 LENDAVA - LENDVA,KIDRIČEVA ULICA 34,46.55821,16.45692,Kidričeva ulica,Kidrič utca,34,,Lendava,Lendva,Lendava,Lendava,9220,Lendava - Lendva,Pomurska
-9220 LENDAVA - LENDVA,MLINSKA ULICA 6,46.56183,16.45256,Mlinska ulica,Malom utca,6,,Lendava,Lendva,Lendava,Lendava,9220,Lendava - Lendva,Pomurska
+9220 LENDAVA - LENDVA,MLINSKA ULICA 6,,,,,,,,,,,,,
 9220 LENDAVA - LENDVA,MLINSKA ULICA 6 E,46.56214,16.45301,Mlinska ulica,Malom utca,6,E,Lendava,Lendva,Lendava,Lendava,9220,Lendava - Lendva,Pomurska
-9220 LENDAVA - LENDVA,MLINSKA ULICA 7,46.56302,16.45148,Mlinska ulica,Malom utca,7,,Lendava,Lendva,Lendava,Lendava,9220,Lendava - Lendva,Pomurska
+9220 LENDAVA - LENDVA,MLINSKA ULICA 7,,,,,,,,,,,,,
 9220 LENDAVA - LENDVA,SLOMŠKOVO NASELJE 7,46.56780,16.44899,Slomškovo naselje,Slomšek - lakótelep,7,,Lendava,Lendva,Lendava,Lendava,9220,Lendava - Lendva,Pomurska
 9220 LENDAVA - LENDVA,TRIMLINI 56 A,46.54414,16.46532,Trimlini,Hármasmalom,56,A,Trimlini,Hármasmalom,Trimlini,Lendava,9220,Lendava - Lendva,Pomurska
 9221 MARTJANCI,MARTJANCI 29 A,46.68523,16.19015,Martjanci,,29,A,Martjanci,,Martjanci,Moravske Toplice,9221,Martjanci,Pomurska
