@@ -222,12 +222,12 @@ def add_gurs_geodata():
     institutions.to_csv('csv/institutions.csv')
 
     doctors = pd.read_csv('csv/doctors.csv', index_col=['doctor', 'type', 'id_inst'])
-    dfgeo=pd.read_csv('gurs/addresses-overrides-geocoded.csv', index_col=['postOver','addressOver','cityOver'], dtype=str)
+    dfgeo=pd.read_csv('gurs/addresses-overrides-geocoded.csv', index_col=['postOver','addressOver'], dtype=str)
     dfgeo.fillna('', inplace=True)
     dfgeo['address'] = dfgeo.apply(lambda x: f'{x.street} {x.housenumber}{x.housenumberAppendix}', axis = 1)
     dfgeo['post'] = dfgeo.apply(lambda x: f'{x.zipCode} {x.zipName}', axis = 1)
 
-    doctors = doctors.merge(dfgeo[['address','post','city','municipalityPart','municipality','lat','lon']], how = 'left', left_on = ['post','address','city'], right_index=True, suffixes=['Over', ''])
+    doctors = doctors.merge(dfgeo[['address','post','city','municipalityPart','municipality','lat','lon']], how = 'left', left_on = ['post','address'], right_index=True, suffixes=['Over', ''])
     doctors.drop(['postOver','addressOver','cityOver'], axis='columns', inplace=True)
     doctors.to_csv('csv/doctors.csv')
 
