@@ -205,7 +205,7 @@ def geocode_addresses():
     addresses.to_csv('gurs/addresses-overrides.csv')
 
     try:
-        subprocess.run(["geocode", "csv", "--in", "gurs/addresses-overrides.csv", "--out", "gurs/addresses-overrides-geocoded.csv", "--zipCol", "1", "--addressCol", "2", "--appendAll"])
+        subprocess.run(["geocode", "csv", "--in", "gurs/addresses-overrides.csv", "--out", "gurs/addresses-overrides-geocoded.csv", "--zipCol", "1", "--addressCol", "2", "--cityCol", "3", "--appendAll"])
     except FileNotFoundError:
         print("geocode not found, skipping.")
 
@@ -214,8 +214,8 @@ def add_gurs_geodata():
     institutions = pd.read_csv('csv/institutions.csv', index_col=['id_inst'])
     dfgeo=pd.read_csv('gurs/addresses.csv', index_col=['cityZZZS','addressZZZS'], dtype=str)
     dfgeo.fillna('', inplace=True)
-    dfgeo['address'] = dfgeo.apply(lambda x: f'{x.street} {x.housenumber}{x.housenumberAppendix}', axis = 1)
-    dfgeo['post'] = dfgeo.apply(lambda x: f'{x.zipCode} {x.zipName}', axis = 1)
+    dfgeo['address'] = dfgeo.apply(lambda x: f'{x.street} {x.housenumber}{x.housenumberAppendix}'.strip(), axis = 1)
+    dfgeo['post'] = dfgeo.apply(lambda x: f'{x.zipCode} {x.zipName}'.strip(), axis = 1)
 
     institutions = institutions.merge(dfgeo[['address','post','city','municipalityPart','municipality','lat','lon']], how = 'left', left_on = ['city','address'], right_index=True, suffixes=['_zzzs', ''])
     institutions.drop(['address_zzzs','city_zzzs'], axis='columns', inplace=True)
@@ -224,8 +224,8 @@ def add_gurs_geodata():
     doctors = pd.read_csv('csv/doctors.csv', index_col=['doctor', 'type', 'id_inst'])
     dfgeo=pd.read_csv('gurs/addresses-overrides-geocoded.csv', index_col=['postOver','addressOver','cityOver'], dtype=str)
     dfgeo.fillna('', inplace=True)
-    dfgeo['address'] = dfgeo.apply(lambda x: f'{x.street} {x.housenumber}{x.housenumberAppendix}', axis = 1)
-    dfgeo['post'] = dfgeo.apply(lambda x: f'{x.zipCode} {x.zipName}', axis = 1)
+    dfgeo['address'] = dfgeo.apply(lambda x: f'{x.street} {x.housenumber}{x.housenumberAppendix}'.strip(), axis = 1)
+    dfgeo['post'] = dfgeo.apply(lambda x: f'{x.zipCode} {x.zipName}'.strip(), axis = 1)
 
     doctors = doctors.merge(dfgeo[['address','post','city','municipalityPart','municipality','lat','lon']], how = 'left', left_on = ['post','address','city'], right_index=True, suffixes=['Over', ''])
     doctors.drop(['postOver','addressOver','cityOver'], axis='columns', inplace=True)
