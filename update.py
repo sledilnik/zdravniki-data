@@ -198,10 +198,10 @@ def geocode_addresses():
     except FileNotFoundError:
         print("geocode not found, skipping.")
 
-    addresses = pd.read_csv('csv/doctors.csv', usecols=['post', 'address']).rename(columns={'post':'postOver','address':'addressOver'}).dropna()
-    addresses.sort_values(by=['postOver', 'addressOver'], inplace=True)
+    addresses = pd.read_csv('csv/doctors.csv', usecols=['post', 'address', 'city']).rename(columns={'post':'postOver', 'address':'addressOver', 'city':'cityOver'}).dropna(subset=['postOver','addressOver'])
+    addresses.sort_values(by=['postOver', 'addressOver', 'cityOver'], inplace=True)
     addresses.drop_duplicates(inplace=True)
-    addresses.set_index(['postOver', 'addressOver'], inplace=True)
+    addresses.set_index(['postOver', 'addressOver', 'cityOver'], inplace=True)
     addresses.to_csv('gurs/addresses-overrides.csv')
 
     try:
@@ -222,13 +222,13 @@ def add_gurs_geodata():
     institutions.to_csv('csv/institutions.csv')
 
     doctors = pd.read_csv('csv/doctors.csv', index_col=['doctor', 'type', 'id_inst'])
-    dfgeo=pd.read_csv('gurs/addresses-overrides-geocoded.csv', index_col=['postOver','addressOver'], dtype=str)
+    dfgeo=pd.read_csv('gurs/addresses-overrides-geocoded.csv', index_col=['postOver','addressOver','cityOver'], dtype=str)
     dfgeo.fillna('', inplace=True)
     dfgeo['address'] = dfgeo.apply(lambda x: f'{x.street} {x.housenumber}{x.housenumberAppendix}', axis = 1)
     dfgeo['post'] = dfgeo.apply(lambda x: f'{x.zipCode} {x.zipName}', axis = 1)
 
-    doctors = doctors.merge(dfgeo[['address','post','city','municipalityPart','municipality','lat','lon']], how = 'left', left_on = ['post','address'], right_index=True, suffixes=['Over', ''])
-    doctors.drop(['addressOver','postOver'], axis='columns', inplace=True)
+    doctors = doctors.merge(dfgeo[['address','post','city','municipalityPart','municipality','lat','lon']], how = 'left', left_on = ['post','address','city'], right_index=True, suffixes=['Over', ''])
+    doctors.drop(['postOver','addressOver','cityOver'], axis='columns', inplace=True)
     doctors.to_csv('csv/doctors.csv')
 
 
