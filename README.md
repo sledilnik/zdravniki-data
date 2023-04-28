@@ -62,9 +62,9 @@ Struktura datoteke [institutions.csv](csv/institutions.csv):
 | `unit`             | ZZZS enota                            | string  | NOT NULL | NIJZ xlsx           | ni uporabljen, bo verjetno opuščen          |
 | `address`          | Naslov sedeža inštitucije             | string  | NOT NULL | NIJZ xlsx, GURS RPE | Ulični naslov. Iz RPE če geocoding uspe, sicer iz xlsx |
 | `post`             | Pošta sedeža inštitucije              | string  | NOT NULL | NIJZ xlsx, GURS RPE | Poštna številka in naziv poštnega okoliše. Iz RPE če geocoding uspe, sicer iz xlsx |
-| `city`             | Naselje sedeža inštitucije            | string  | NOT NULL | GURS RPE            | Ime naselja, če geocoding uspe, sicer "???" |
+| `city`             | Naselje sedeža inštitucije            | string  | NULL     | GURS RPE            | Ime naselja, če geocoding uspe              |
 | `municipalityPart` | Del občine sedeža inštitucije         | string  | NULL     | GURS RPE            | Mestna, vaška četrt, krajevna skupnost, če geocoding uspe |
-| `municipality`     | Občina sedeža inštitucije             | string  | NULL     | GURS RPE            | Bi šlo lahko v šifrant, če geocoding uspe                 |
+| `municipality`     | Občina sedeža inštitucije             | string  | NOT NULL | GURS RPE            | Bi šlo lahko v šifrant, če geocoding uspe, sicer "???"    |
 | `lat`              | Geografska širina sedeža inštitucije  | decimal | NULL     | GURS RPE            | 5 decimalk, cca 1m natančnost, če geocoding uspe          |
 | `lon`              | Geografska dolžina sedeža inštitucije | decimal | NULL     | GURS RPE            | 5 decimalk, cca 1m natančnost, če geocoding uspe          |
 | `phone`            | Telefon sedeža inštitucije            | string  | NULL     | ZZZS API            | Lahko jih je več, ločenih z vejicami        |
@@ -90,11 +90,11 @@ Struktura datoteke [doctors.csv](csv/doctors.csv):
 | `website`               | Spletno mesto ambulante/inštitucije        | string  | NULL     | ReportErr | Lahko jih je več, ločenih z vejicami        |
 | `email`                 | E-pošta ambulante                          | string  | NULL     | ReportErr |                                             |
 | `orderform`             | Spletni naslov za naročanje                | string  | NULL     | ReportErr |                                             |
-| `address`               | Naslov ambulante                           | string  | NULL     | ReportErr |                                             |
-| `post`                  | Pošta ambulante                            | string  | NULL     | ReportErr |                                             |
-| `city`                  | Naselje ambulante                          | string  | NULL     | GURS RPE  |                                             |
+| `address`               | Naslov ambulante                           | string  | NULL     | ReportErr, GURS RPE | Ulični naslov. Iz RPE če geocoding uspe, sicer iz GSheeta |
+| `post`                  | Pošta ambulante                            | string  | NULL     | ReportErr, GURS RPE | Poštna številka in naziv poštnega okoliše. Iz RPE če geocoding uspe, sicer iz GSheeta |
+| `city`                  | Naselje ambulante                          | string  | NULL     | GURS RPE  | Ime naselja, če geocoding uspe, sicer iz GSheeta |
 | `municipalityPart`      | Del občine ambulante                       | string  | NULL     | GURS RPE  | Mestna, vaška četrt, krajevna skupnost      |
-| `municipality`          | Občina ambulante                           | string  | NULL     | GURS RPE  | Bi šlo lahko v šifrant                      |
+| `municipality`          | Občina ambulante                           | string  | NULL     | GURS RPE  | Bi šlo lahko v šifrant, če geocoding uspe, sicer "???" |
 | `lat`                   | Geografska širina ambulante                | decimal | NULL     | GURS RPE  | 5 decimalk, cca 1m natančnost               |
 | `lon`                   | Geografska dolžina ambulante               | decimal | NULL     | GURS RPE  | 5 decimalk, cca 1m natančnost               |
 
