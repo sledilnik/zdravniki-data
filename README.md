@@ -63,7 +63,7 @@ Struktura datoteke [institutions.csv](csv/institutions.csv):
 | `address`          | Naslov sedeža inštitucije             | string  | NOT NULL | NIJZ xlsx, GURS RPE |                                             |
 | `post`             | Pošta sedeža inštitucije              | string  | NOT NULL | NIJZ xlsx, GURS RPE | Poštna številka in naziv poštnega okoliše   |
 | `city`             | Naselje sedeža inštitucije            | string  | NOT NULL | GURS RPE            |                                             |
-| `municipalityPart` | Del občine sedeža inštitucije         | string  | NOT NULL | GURS RPE            | Ožji del občine                             |
+| `municipalityPart` | Del občine sedeža inštitucije         | string  | NOT NULL | GURS RPE            | Mestna, vaška četrt, krajevna skupnost      |
 | `municipality`     | Občina sedeža inštitucije             | string  | NOT NULL | GURS RPE            | Bi šlo lahko v šifrant                      |
 | `lat`              | Geografska širina sedeža inštitucije  | decimal | NOT NULL | GURS RPE            | 5 decimalk, cca 1m natančnost               |
 | `lon`              | Geografska dolžina sedeža inštitucije | decimal | NOT NULL | GURS RPE            | 5 decimalk, cca 1m natančnost               |
@@ -76,12 +76,12 @@ Struktura datoteke [doctors.csv](csv/doctors.csv):
 
 | Stolpec                 | Pomen                                      | Tip     | NULL?    | Vir       | Opomba                                      |
 |-------------------------|--------------------------------------------|---------|----------|-----------|---------------------------------------------|
-| `doctor`                | :key:Ime zdravnika                         | string  | NOT NULL | ZZZS xlsx | ALL CAPS pretvorjen v `.title()` case       |
+| `doctor`                | :key:Ime zdravnika                         | string  | NOT NULL | ZZZS xlsx | ALL CAPS pretvorjen v `.title()` case. Pri *Ambulantah za neopredeljene* hardcoded |
 | `type`                  | :key:Vrsta zdravnika FK `dict-doctors.csv` | enum    | NOT NULL | ZZZS xlsx |                                             |
 | `id_inst`               | :key:ID, FK na `institutions.csv`          | int     | NOT NULL |           | zzsSt iz ZZZS API-ja                        |
 | `accepts`               | Ali sprejema nove paciente (y/n)           | enum    | NOT NULL | ZZZS xlsx |                                             |
 | `availability`          | Obseg zaposlitve (delež v tej ambulanti)   | decimal | NOT NULL | ZZZS xlsx |                                             |
-| `load`                  | Glavarinski količnik                       | decimal | NOT NULL | ZZZS xlsx |                                             |
+| `load`                  | Glavarinski količnik                       | decimal | NOT NULL | ZZZS xlsx | Preračunan na 100% obseg zaposlitve. Pri *Ambulantah za neopredeljene* število oseb |
 | `date_override`         | Datum popravka preko Sporoči napako        | date    | NULL     | ReportErr |                                             |
 | `note_override`         | Opomba popravka za prikaz                  | string  | NULL     | ReportErr |                                             |
 | `accepts_override`      | Popravek: sprejema paciente                | enum    | NULL     | ReportErr |                                             |
@@ -93,7 +93,7 @@ Struktura datoteke [doctors.csv](csv/doctors.csv):
 | `address`               | Naslov ambulante                           | string  | NULL     | ReportErr |                                             |
 | `post`                  | Pošta ambulante                            | string  | NULL     | ReportErr |                                             |
 | `city`                  | Naselje ambulante                          | string  | NULL     | GURS RPE  |                                             |
-| `municipalityPart`      | Del občine ambulante                       | string  | NULL     | GURS RPE  | Ožji del občine                             |
+| `municipalityPart`      | Del občine ambulante                       | string  | NULL     | GURS RPE  | Mestna, vaška četrt, krajevna skupnost      |
 | `municipality`          | Občina ambulante                           | string  | NULL     | GURS RPE  | Bi šlo lahko v šifrant                      |
 | `lat`                   | Geografska širina ambulante                | decimal | NULL     | GURS RPE  | 5 decimalk, cca 1m natančnost               |
 | `lon`                   | Geografska dolžina ambulante               | decimal | NULL     | GURS RPE  | 5 decimalk, cca 1m natančnost               |
