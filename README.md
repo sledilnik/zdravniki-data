@@ -60,13 +60,13 @@ Struktura datoteke [institutions.csv](csv/institutions.csv):
 | `zzzsSt`           | ZZZS ID                               | int     | NULL     | ZZZS API            | Nekateri vnosi ga še nimajo                 |
 | `name`             | Ime inštitucije                       | string  | NOT NULL | NIJZ xlsx           |                                             |
 | `unit`             | ZZZS enota                            | string  | NOT NULL | NIJZ xlsx           | ni uporabljen, bo verjetno opuščen          |
-| `address`          | Naslov sedeža inštitucije             | string  | NOT NULL | NIJZ xlsx, GURS RPE |                                             |
-| `post`             | Pošta sedeža inštitucije              | string  | NOT NULL | NIJZ xlsx, GURS RPE | Poštna številka in naziv poštnega okoliše   |
-| `city`             | Naselje sedeža inštitucije            | string  | NOT NULL | GURS RPE            |                                             |
-| `municipalityPart` | Del občine sedeža inštitucije         | string  | NOT NULL | GURS RPE            | Mestna, vaška četrt, krajevna skupnost      |
-| `municipality`     | Občina sedeža inštitucije             | string  | NOT NULL | GURS RPE            | Bi šlo lahko v šifrant                      |
-| `lat`              | Geografska širina sedeža inštitucije  | decimal | NOT NULL | GURS RPE            | 5 decimalk, cca 1m natančnost               |
-| `lon`              | Geografska dolžina sedeža inštitucije | decimal | NOT NULL | GURS RPE            | 5 decimalk, cca 1m natančnost               |
+| `address`          | Naslov sedeža inštitucije             | string  | NOT NULL | NIJZ xlsx, GURS RPE | Ulični naslov. Iz RPE če geocoding uspe, sicer iz xlsx |
+| `post`             | Pošta sedeža inštitucije              | string  | NOT NULL | NIJZ xlsx, GURS RPE | Poštna številka in naziv poštnega okoliše. Iz RPE če geocoding uspe, sicer iz xlsx |
+| `city`             | Naselje sedeža inštitucije            | string  | NOT NULL | GURS RPE            | Ime naselja, če geocoding uspe, sicer "???" |
+| `municipalityPart` | Del občine sedeža inštitucije         | string  | NULL     | GURS RPE            | Mestna, vaška četrt, krajevna skupnost, če geocoding uspe |
+| `municipality`     | Občina sedeža inštitucije             | string  | NULL     | GURS RPE            | Bi šlo lahko v šifrant, če geocoding uspe                 |
+| `lat`              | Geografska širina sedeža inštitucije  | decimal | NULL     | GURS RPE            | 5 decimalk, cca 1m natančnost, če geocoding uspe          |
+| `lon`              | Geografska dolžina sedeža inštitucije | decimal | NULL     | GURS RPE            | 5 decimalk, cca 1m natančnost, če geocoding uspe          |
 | `phone`            | Telefon sedeža inštitucije            | string  | NULL     | ZZZS API            | Lahko jih je več, ločenih z vejicami        |
 | `website`          | Spletno mesto sedeža inštitucije      | string  | NULL     | ZZZS API            | Lahko jih je več, ločenih z vejicami        |
 

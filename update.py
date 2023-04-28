@@ -214,8 +214,9 @@ def add_gurs_geodata():
     institutions = pd.read_csv('csv/institutions.csv', index_col=['id_inst'])
     dfgeo=pd.read_csv('gurs/addresses.csv', index_col=['cityZZZS','addressZZZS'], dtype=str)
     dfgeo.fillna('', inplace=True)
-    dfgeo['address'] = dfgeo.apply(lambda x: f'{x.street} {x.housenumber}{x.housenumberAppendix}'.strip(), axis = 1)
-    dfgeo['post'] = dfgeo.apply(lambda x: f'{x.zipCode} {x.zipName}'.strip(), axis = 1)
+    dfgeo['address'] = dfgeo.apply(lambda x: f'{x.street} {x.housenumber}{x.housenumberAppendix}'.strip() if x.housenumber else x.name[1], axis = 1)
+    dfgeo['post'] = dfgeo.apply(lambda x: f'{x.zipCode} {x.zipName}'.strip() if x.zipCode else x.name[0], axis = 1)
+    dfgeo['city'] = dfgeo.apply(lambda x: x.city if x.city else '???', axis = 1)
 
     institutions = institutions.merge(dfgeo[['address','post','city','municipalityPart','municipality','lat','lon']], how = 'left', left_on = ['city','address'], right_index=True, suffixes=['_zzzs', ''])
     institutions.drop(['address_zzzs','city_zzzs'], axis='columns', inplace=True)
