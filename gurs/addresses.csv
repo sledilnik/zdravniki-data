@@ -96,6 +96,7 @@ cityZZZS,addressZZZS,lat,lon,street,streetAlt,housenumber,housenumberAppendix,ci
 1000 LJUBLJANA,OPEKARSKA CESTA 30,46.03750,14.50466,Opekarska cesta,,30,,Ljubljana,,Četrtna skupnost Trnovo,Ljubljana,1000,Ljubljana,Osrednjeslovenska
 1000 LJUBLJANA,PARMOVA ULICA 51,46.06408,14.50270,Parmova ulica,,51,,Ljubljana,,Četrtna skupnost Bežigrad,Ljubljana,1000,Ljubljana,Osrednjeslovenska
 1000 LJUBLJANA,PARMOVA ULICA 51 B,46.06450,14.50257,Parmova ulica,,51,B,Ljubljana,,Četrtna skupnost Bežigrad,Ljubljana,1000,Ljubljana,Osrednjeslovenska
+1000 LJUBLJANA,PARMOVA ULICA 53,46.06506,14.50269,Parmova ulica,,53,,Ljubljana,,Četrtna skupnost Bežigrad,Ljubljana,1000,Ljubljana,Osrednjeslovenska
 1000 LJUBLJANA,PERIČEVA ULICA 25,46.06616,14.51125,Peričeva ulica,,25,,Ljubljana,,Četrtna skupnost Bežigrad,Ljubljana,1000,Ljubljana,Osrednjeslovenska
 1000 LJUBLJANA,PERIČEVA ULICA 29,46.06668,14.51192,Peričeva ulica,,29,,Ljubljana,,Četrtna skupnost Bežigrad,Ljubljana,1000,Ljubljana,Osrednjeslovenska
 1000 LJUBLJANA,PERIČEVA ULICA 31,46.06686,14.51147,Peričeva ulica,,31,,Ljubljana,,Četrtna skupnost Bežigrad,Ljubljana,1000,Ljubljana,Osrednjeslovenska
@@ -376,7 +377,6 @@ cityZZZS,addressZZZS,lat,lon,street,streetAlt,housenumber,housenumberAppendix,ci
 2000 MARIBOR,LEONA ZALAZNIKA ULICA 35,46.57719,15.66905,Leona Zalaznika ulica,,35,,Maribor,,Ivan Cankar,Maribor,2000,Maribor,Podravska
 2000 MARIBOR,LJUBLJANSKA ULICA 5,46.55289,15.64858,Ljubljanska ulica,,5,,Maribor,,Magdalena,Maribor,2000,Maribor,Podravska
 2000 MARIBOR,LJUBLJANSKA ULICA 9,46.55337,15.64665,Ljubljanska ulica,,9,,Maribor,,Magdalena,Maribor,2000,Maribor,Podravska
-2000 MARIBOR,MAGDALENSKI TRG 7,46.55409,15.64675,Magdalenski trg,,7,,Maribor,,Magdalena,Maribor,2000,Maribor,Podravska
 2000 MARIBOR,MASARYKOVA ULICA 26,46.55161,15.64827,Masarykova ulica,,26,,Maribor,,Magdalena,Maribor,2000,Maribor,Podravska
 2000 MARIBOR,MEJNA ULICA 6,46.55388,15.65783,Mejna ulica,,6,,Maribor,,Pobrežje,Maribor,2000,Maribor,Podravska
 2000 MARIBOR,MELJSKI DOL 36,46.57005,15.66523,Meljski dol,,36,,Maribor,,Center,Maribor,2000,Maribor,Podravska
@@ -443,6 +443,7 @@ cityZZZS,addressZZZS,lat,lon,street,streetAlt,housenumber,housenumberAppendix,ci
 2212 ŠENTILJ V SLOV. GORICAH,POD HRIBOM 14,46.67994,15.65514,Pod hribom,,14,,Šentilj v Slov. goricah,,Šentilj,Šentilj,2212,Šentilj v Slov. goricah,Podravska
 2214 SLADKI VRH,SLADKI VRH 5,46.69756,15.73680,Sladki Vrh,,5,,Sladki Vrh,,Sladki Vrh,Šentilj,2214,Sladki Vrh,Podravska
 2221 JARENINA,VUKOVSKI DOL 30,46.62155,15.71991,Vukovski Dol,,30,,Vukovski Dol,,Jarenina,Pesnica,2221,Jarenina,Podravska
+2229 MALEČNIK,GRUŠOVA 7,46.55411,15.75163,Grušova,,7,,Grušova,,Malečnik-Ruperče,Maribor,2229,Malečnik,Podravska
 2230 LENART V SLOV. GORICAH,GREGORČIČEVA ULICA 1,46.57373,15.83203,Gregorčičeva ulica,,1,,Lenart v Slov. goricah,,Lenart,Lenart,2230,Lenart v Slov. goricah,Podravska
 2230 LENART V SLOV. GORICAH,GUBČEVA ULICA 5,46.57869,15.82838,Gubčeva ulica,,5,,Lenart v Slov. goricah,,Lenart,Lenart,2230,Lenart v Slov. goricah,Podravska
 2230 LENART V SLOV. GORICAH,HRASTOVEC V SLOV. GORICAH 22,46.56511,15.78691,Hrastovec v Slov. goricah,,22,,Hrastovec v Slov. goricah,,Lenart,Lenart,2230,Lenart v Slov. goricah,Podravska
@@ -745,6 +746,7 @@ cityZZZS,addressZZZS,lat,lon,street,streetAlt,housenumber,housenumberAppendix,ci
 4000 KRANJ,VALJAVČEVA ULICA 27,46.25053,14.35693,Valjavčeva ulica,,27,,Kranj,,Vodovodni stolp,Kranj,4000,Kranj,Gorenjska
 4000 KRANJ,VREČKOVA ULICA 3,46.23503,14.36105,Vrečkova ulica,,3,,Kranj,,Planina,Kranj,4000,Kranj,Gorenjska
 4000 KRANJ,ZASAVSKA CESTA 58 D,46.21782,14.36865,Zasavska cesta,,58,D,Kranj,,Orehek - Drulovka,Kranj,4000,Kranj,Gorenjska
+4201 ZGORNJA BESNICA,BRSC 41,46.25671,14.28583,Brsc,,41,,Zgornja Besnica,,Besnica,Kranj,4201,Zgornja Besnica,Gorenjska
 4201 ZGORNJA BESNICA,VIDEMCE 10,46.26114,14.29641,Videmce,,10,,Zgornja Besnica,,Besnica,Kranj,4201,Zgornja Besnica,Gorenjska
 4202 NAKLO,GLAVNA CESTA 18,46.27271,14.31461,Glavna cesta,,18,,Naklo,,,Naklo,4202,Naklo,Gorenjska
 4202 NAKLO,PIVKA 23 A,46.26877,14.31795,Pivka,,23,A,Naklo,,,Naklo,4202,Naklo,Gorenjska
