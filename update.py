@@ -22,6 +22,7 @@ RANGE_OVERRIDES = "Overrides!A1:AA"
 type_map = {
     'SPLOŠNA DEJAVNOST - SPLOŠNA AMBULANTA': 'gp',
     'SPLOŠNA AMB. - BOLJŠA DOSTOPNOST DO IOZ': 'gp-x',
+    'SPLOŠNA AMB. ZA NEOPREDELJENE ZAV. OSEBE': 'gp-f', 
     'SPLOŠNA DEJ.-OTROŠKI IN ŠOLSKI DISPANZER': 'ped',
     'OTR. ŠOL. DISP.-BOLJŠA DOSTOPNOST DO IOZ': 'ped-x',
     'ZOBOZDR. DEJAVNOST-ZDRAVLJENJE ODRASLIH': 'den',
@@ -53,18 +54,61 @@ def write_timestamp_file(filename: str, old_hash: str):
 
 def convert_to_csv(zzzsid_map):
     doctors = []
-    for group in ["zdravniki", "zobozdravniki", "ginekologi", "za-boljšo-dostopnost"]:
+    for group in ["zdravniki", "zobozdravniki", "ginekologi", "za-boljšo-dostopnost", "za-neopredeljene"]:
         filename = max(glob.glob(f"zzzs/*_{group}.xlsx"))
         print(f"Source: {group} - {filename}")
 
         df = pd.read_excel(io=filename, sheet_name='Podatki', skiprows=9).dropna()
-        df.columns = ['unit', 'institutionID', 'name', 'address', 'city', 'doctorID', 'doctor', 'typeID', 'type', 'availability', 'load', 'accepts', 'agreesToAcceptOver']
 
-        # TODO: Use the new columns instead of dropping them:
-        df.drop(columns=['institutionID', 'doctorID', 'typeID', 'agreesToAcceptOver'], inplace=True)
+        if group == "za-neopredeljene":
+            print("Converting za neopredeljene")
+            if len(df.columns) == 8:
+                print("...introduced with 2023-02-10")
+                df.columns = ['unit', 'institutionID', 'name', 'address', 'city', 'typeID', 'type', 'load']
+                # TODO: Use the new columns instead of dropping them:
+                df.drop(columns=['institutionID', 'typeID'], inplace=True)
+
+                # add missing columns with default values
+                df['doctor'] = 'Ambulanta za neopredeljene'
+                df['availability'] = None
+                df['accepts'] = 'DA'
+                
+            else:
+                print(f"Unsupported za neopredeljene source columns! count={len(df.columns)}: {df.columns}")
+                raise
+
+        else:
+            print("Converting doctors list")
+            if len(df.columns) == 13:
+                print("...version after 2023-02-10")
+                df.columns = ['unit', 'institutionID', 'name', 'address', 'city', 'doctorID', 'doctor', 'typeID', 'type', 'availability', 'load', 'mustAccept', 'accepts']
+                df['doctor'] = df['doctor'].str.title()
+
+                diff_accepts_NE_DA=df.loc[(df['mustAccept'] == 'NE') & (df['accepts'] == 'DA'), ['name', 'doctor', 'type', 'mustAccept', 'accepts']]
+                if not diff_accepts_NE_DA.empty:
+                    print("Doctors that accept according to ZZZS even if they don't have to:")
+                    print(diff_accepts_NE_DA)
+
+                diff_accepts_DA_NE=df.loc[(df['mustAccept'] == 'DA') & (df['accepts'] == 'NE'), ['name', 'doctor', 'type', 'mustAccept', 'accepts']]
+                if not diff_accepts_DA_NE.empty:
+                    print("Doctors that don't accept according to ZZZS but they should have to:")
+                    print(diff_accepts_DA_NE)
+
+                # TODO: Use the new ID columns instead of dropping them:
+                df.drop(columns=['institutionID', 'doctorID', 'typeID', 'mustAccept'], inplace=True)
+
+            elif len(df.columns) == 9:
+                print("Detected early version, prior to 2023-02-10")
+                df.columns = ['unit', 'name', 'address', 'city', 'doctor', 'type', 'availability', 'load', 'accepts']
+                df['doctor'] = df['doctor'].str.title()
+                # TODO: insert dummy new ID columns if needed.
+
+            else:
+                print(f"Unsupported za opredeljene source columns! count={len(df.columns)}: {df.columns}")
+                raise
+
 
         df['doctor'] = df['doctor'].str.strip().replace('\s+', ' ', regex=True)
-        df['doctor'] = df['doctor'].str.title()
         df['type'] = df['type'].str.strip().map(type_map)
         df['accepts'] = df['accepts'].str.strip().map(accepts_map)
         df['name'] = df['name'].str.strip()
@@ -105,7 +149,7 @@ def append_overrides():
         raise e
 
     doctors = pd.read_csv('csv/doctors.csv', index_col=['doctor','type','id_inst'])
-    overrides = pd.read_csv('csv/overrides.csv', index_col=['doctor','type','id_inst'])
+    overrides = pd.read_csv('csv/overrides.csv', index_col=['doctor','type','id_inst'], parse_dates=['date_override'])
 
     if not overrides.index.is_unique:
         print ("============= DUPLICATES ============")
@@ -116,6 +160,20 @@ def append_overrides():
     doctors = doctors.join(overrides)
 
     doctors.to_csv('csv/doctors.csv')
+
+    used_overrides_accepts=doctors.loc[doctors['accepts_override'].notna() & (doctors['accepts'] != doctors['accepts_override']), ['accepts', 'accepts_override', 'date_override']]
+    used_overrides_accepts.sort_values(by=['date_override'], inplace=True)
+    print(f"Doctors with used accept override: {len(used_overrides_accepts)}")
+    if not used_overrides_accepts.empty:
+        with pd.option_context('display.max_rows', None,'display.max_columns', None):
+            print(used_overrides_accepts.to_string())
+
+    redundant_overrides_accepts=doctors.loc[doctors['accepts'] == doctors['accepts_override'], ['accepts', 'accepts_override', 'date_override']]
+    redundant_overrides_accepts.sort_values(by=['date_override'], inplace=True)
+    print(f"Doctors with redundant accept override: {len(redundant_overrides_accepts)}")
+    if not redundant_overrides_accepts.empty:
+        with pd.option_context('display.max_rows', None,'display.max_columns', None):
+            print(redundant_overrides_accepts.to_string())
 
     overrides.count().to_csv('csv/stats-overrides.csv')
     overrides.groupby(['date_override']).count().to_csv('csv/stats-overrides-by-day.csv')
@@ -136,18 +194,18 @@ def geocode_addresses():
     addresses.to_csv('gurs/addresses-zzzs.csv')
 
     try:
-        subprocess.run(["geocode", "-in", "gurs/addresses-zzzs.csv", "-out", "gurs/addresses.csv", "-zipCol", "1", "-addressCol", "2", "-appendAll"])
+        subprocess.run(["geocode", "csv", "--in", "gurs/addresses-zzzs.csv", "--out", "gurs/addresses.csv", "--zipCol", "1", "--addressCol", "2", "--appendAll"])
     except FileNotFoundError:
         print("geocode not found, skipping.")
 
-    addresses = pd.read_csv('csv/doctors.csv', usecols=['post', 'address']).rename(columns={'post':'postOver','address':'addressOver'}).dropna()
-    addresses.sort_values(by=['postOver', 'addressOver'], inplace=True)
+    addresses = pd.read_csv('csv/doctors.csv', usecols=['post', 'address', 'city']).rename(columns={'post':'postOver', 'address':'addressOver', 'city':'cityOver'}).dropna(subset=['postOver','addressOver'])
+    addresses.sort_values(by=['postOver', 'addressOver', 'cityOver'], inplace=True)
     addresses.drop_duplicates(inplace=True)
-    addresses.set_index(['postOver', 'addressOver'], inplace=True)
+    addresses.set_index(['postOver', 'addressOver', 'cityOver'], inplace=True)
     addresses.to_csv('gurs/addresses-overrides.csv')
 
     try:
-        subprocess.run(["geocode", "-in", "gurs/addresses-overrides.csv", "-out", "gurs/addresses-overrides-geocoded.csv", "-zipCol", "1", "-addressCol", "2", "-appendAll"])
+        subprocess.run(["geocode", "csv", "--in", "gurs/addresses-overrides.csv", "--out", "gurs/addresses-overrides-geocoded.csv", "--zipCol", "1", "--addressCol", "2", "--cityCol", "3", "--appendAll"])
     except FileNotFoundError:
         print("geocode not found, skipping.")
 
@@ -156,21 +214,24 @@ def add_gurs_geodata():
     institutions = pd.read_csv('csv/institutions.csv', index_col=['id_inst'])
     dfgeo=pd.read_csv('gurs/addresses.csv', index_col=['cityZZZS','addressZZZS'], dtype=str)
     dfgeo.fillna('', inplace=True)
-    dfgeo['address'] = dfgeo.apply(lambda x: f'{x.street} {x.housenumber}{x.housenumberAppendix}', axis = 1)
-    dfgeo['post'] = dfgeo.apply(lambda x: f'{x.zipCode} {x.zipName}', axis = 1)
+    dfgeo['address'] = dfgeo.apply(lambda x: f'{x.street} {x.housenumber}{x.housenumberAppendix}'.strip() if x.housenumber else x.name[1], axis = 1)
+    dfgeo['post'] = dfgeo.apply(lambda x: f'{x.zipCode} {x.zipName}'.strip() if x.zipCode else x.name[0], axis = 1)
+    dfgeo['municipality'] = dfgeo.apply(lambda x: x.municipality if x.municipality else '???', axis = 1)
 
     institutions = institutions.merge(dfgeo[['address','post','city','municipalityPart','municipality','lat','lon']], how = 'left', left_on = ['city','address'], right_index=True, suffixes=['_zzzs', ''])
     institutions.drop(['address_zzzs','city_zzzs'], axis='columns', inplace=True)
     institutions.to_csv('csv/institutions.csv')
 
     doctors = pd.read_csv('csv/doctors.csv', index_col=['doctor', 'type', 'id_inst'])
-    dfgeo=pd.read_csv('gurs/addresses-overrides-geocoded.csv', index_col=['postOver','addressOver'], dtype=str)
+    dfgeo=pd.read_csv('gurs/addresses-overrides-geocoded.csv', index_col=['postOver','addressOver','cityOver'], dtype=str)
     dfgeo.fillna('', inplace=True)
-    dfgeo['address'] = dfgeo.apply(lambda x: f'{x.street} {x.housenumber}{x.housenumberAppendix}', axis = 1)
-    dfgeo['post'] = dfgeo.apply(lambda x: f'{x.zipCode} {x.zipName}', axis = 1)
+    dfgeo['address'] = dfgeo.apply(lambda x: f'{x.street} {x.housenumber}{x.housenumberAppendix}'.strip() if x.housenumber else x.name[1], axis = 1)
+    dfgeo['post'] = dfgeo.apply(lambda x: f'{x.zipCode} {x.zipName}'.strip() if x.zipCode else x.name[0], axis = 1)
+    dfgeo['city'] = dfgeo.apply(lambda x: x.city if x.city else x.name[2], axis = 1)
+    dfgeo['municipality'] = dfgeo.apply(lambda x: x.municipality if x.municipality else '???', axis = 1)
 
-    doctors = doctors.merge(dfgeo[['address','post','city','municipalityPart','municipality','lat','lon']], how = 'left', left_on = ['post','address'], right_index=True, suffixes=['Over', ''])
-    doctors.drop(['addressOver','postOver'], axis='columns', inplace=True)
+    doctors = doctors.merge(dfgeo[['address','post','city','municipalityPart','municipality','lat','lon']], how = 'left', left_on = ['post','address','city'], right_index=True, suffixes=['Over', ''])
+    doctors.drop(['postOver','addressOver','cityOver'], axis='columns', inplace=True)
     doctors.to_csv('csv/doctors.csv')
 
 
@@ -241,7 +302,7 @@ def get_zzzs_id_map():
         # renamed, needed temporary until new .xlsx arepublished with same new names:
         # 'ZDRAVSTVENI DOM TRBOVLJE TRBOVLJE, RUDARSKA CESTA 12': "102320", # was renamed
         # 'MDENT, ZOBOZDRAVSTVENE STORITVE, MIHAJLO FRANGOV S.P.': "7155880",
-        'DOLINAR- KRESE HERMINA - ZASEBNA OTROŠKA IN ŠOLSKA ORDINACIJA': "8524237",
+        # 'DOLINAR- KRESE HERMINA - ZASEBNA OTROŠKA IN ŠOLSKA ORDINACIJA': "8524237",
         #'ZASEBNI ŠOLSKI DISPANZER JELKA HOSTNIK, DR. MED., SPEC. ŠOL. MED.': "", # TODO
 
         # larger, split providers
@@ -281,10 +342,13 @@ def add_zzzs_api_data():
 
 
 def download_zzzs_xlsx_files():
-    # Število opredeljenih pri aktivnih zobozdravnikih na dan 01.11.2020
-    # Število opredeljenih pri aktivnih zdravnikih na dan 01.11.2020
-    # Število opredeljenih pri aktivnih ginekologih na dan 3.1.2021
-    nameRegex= r".* (zobozdravniki|zdravniki|ginekologi|za boljšo dostopnost|za neopredeljene).* ([0-9]{1,2}\.[0-9]{1,2}\.20[0-9]{2})"
+    # 28.03.2023, Število opredeljenih v ambulantah za neopredeljene (za osebe nad 19 let brez splošnega zdravnika)
+    # 28.03.2023, Število opredeljenih v ambulantah za boljšo dostopnost (splošni zdravnik)
+    # 28.03.2023, Število opredeljenih pri ginekologih
+    # 28.03.2023, Število opredeljenih pri zobozdravnikih
+    # 28.03.2023, Število opredeljenih pri splošnih zdravnikih (družinski, otroški oz. šolski zdravniki)
+    nameRegex= r".* (zobozdravniki|zdravniki|ginekologi|za boljšo dostopnost|za neopredeljene).*"
+    dateRegex= r"([0-9]{1,2}\.[0-9]{1,2}\.20[0-9]{2})"
 
     BaseURL = "https://zavarovanec.zzzs.si/wps/portal/portali/azos/ioz/ioz_izvajalci"
     page = requests.get(BaseURL)
@@ -293,6 +357,7 @@ def download_zzzs_xlsx_files():
     ultag = soup.find("ul", class_="datoteke")
 
     for litag in ultag.find_all('li'):
+        dateMatch=match = re.match(dateRegex, litag.text)
         atag=litag.find('a')
         title=atag.text
         print(title)
@@ -303,7 +368,7 @@ def download_zzzs_xlsx_files():
             # raise
             continue
 
-        date = datetime.datetime.strptime(match.group(2), '%d.%m.%Y').date()
+        date = datetime.datetime.strptime(dateMatch.group(1), '%d.%m.%Y').date()
         group = match.group(1).lower().replace(' ', '-')
         filename = f"{date}_{group}.xlsx"
         dest = os.path.join("zzzs/",filename)
@@ -330,7 +395,7 @@ def download_zzzs_RIZDDZ():
     page = requests.get(baseUrl + "ZZZS/pao/bpi.nsf/index", allow_redirects=True)
     page.raise_for_status()
     soup = BeautifulSoup(page.content, "html.parser")
-    atag = soup.find_all("a", text=re.compile("bpi\.zip"))
+    atag = soup.find_all("a", string=re.compile("bpi\.zip"))
     if len(atag) != 1:
         print("Problem finding unique link to bpi.zip")
         raise

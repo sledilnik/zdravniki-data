@@ -17,7 +17,7 @@ on:
     - 'requirements.txt'
   schedule:
     # * is a special character in YAML so you have to quote this string
-    - cron:  '15 2,7,10,15 * * *' # GMT, 3-4 am CET window (after nightly sync on API) + 3 times during the day
+    - cron:  '5 2,5,12,18, * * *' # GMT, 3-4 am CET window (after nightly sync on API) + 3 times during the day
   workflow_dispatch:
 
 # A workflow run is made up of one or more jobs that can run sequentially or in parallel
@@ -37,21 +37,11 @@ jobs:
     - name: Set up Python
       uses: actions/setup-python@v4
       with:
-        python-version: '3.8'
-
-    - name: Cache pip
-      uses: actions/cache@v3.2.6
-      with:
-        # This path is specific to Ubuntu
-        path: ~/.cache/pip
-        # Look to see if there is a cache hit for the corresponding requirements file
-        key: ${{ runner.os }}-pip-${{ hashFiles('requirements.txt') }}
-        restore-keys: |
-          ${{ runner.os }}-pip-
-          ${{ runner.os }}-
+        python-version: '3.11'
+        cache: 'pip'
 
     - name: Install python dependencies
-      run: pip install -U -r requirements.txt
+      run: pip install -r requirements.txt
 
     - name: "Run update.py"
       env:
@@ -63,7 +53,7 @@ jobs:
     - name: Check git diff
       run: |
         ls -la csv/*
-        ls -la zzzs/*
+        # ls -la zzzs/*
         git status
         git diff
 
