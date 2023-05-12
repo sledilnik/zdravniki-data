@@ -390,6 +390,18 @@ def download_zzzs_xlsx_files():
 
             open(dest, 'wb').write(r.content)
 
+def download_zzzs_address_book():
+    r = requests.get("http://api.zzzs.si/lokacijeOC/LokacijeZdrDelavcevOC.xlsx", allow_redirects=True)
+    r.raise_for_status()
+    ct = r.headers.get('content-type')
+    if ct.lower() != "application/xlsx" and ct.lower() != "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet":
+        print(f"Unexpected content type '{ct}'.")
+        raise
+
+    destXlsx = "zzzs/LokacijeZdrDelavcevOC.xlsx"
+    print(f"    Saving to: {destXlsx}")
+    open(destXlsx, 'wb').write(r.content)
+
 def download_zzzs_RIZDDZ():
     baseUrl = "https://api.zzzs.si/"
     page = requests.get(baseUrl + "ZZZS/pao/bpi.nsf/index", allow_redirects=True)
@@ -432,6 +444,7 @@ if __name__ == "__main__":
 
     download_zzzs_xlsx_files()
     download_zzzs_RIZDDZ()
+    download_zzzs_address_book()
     get_zzzs_api_data_all()
     get_zzzs_api_data_by_category()
     zzzsid_map = get_zzzs_id_map()
