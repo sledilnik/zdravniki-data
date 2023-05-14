@@ -406,10 +406,6 @@ def download_zzzs_address_book():
     destDirXlsx = f"zzzs/{ts.year:04}/{ts.month:02}"
     os.makedirs(destDirXlsx, mode = 0o755, exist_ok = True)
 
-    # temporary cleanup
-    if os.path.exists("zzzs/LokacijeZdrDelavcevOC.xlsx"):
-        os.remove(path="zzzs/LokacijeZdrDelavcevOC.xlsx")
-
     destXlsx = f"{destDirXlsx}/{ts.year:04}-{ts.month:02}-{ts.day:2}_LokacijeZdrDelavcevOC.xlsx"
     print(f"    Saving to: {destXlsx}")
     open(destXlsx, 'wb').write(r.content)
