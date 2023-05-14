@@ -398,7 +398,18 @@ def download_zzzs_address_book():
         print(f"Unexpected content type '{ct}'.")
         raise
 
-    destXlsx = "zzzs/LokacijeZdrDelavcevOC.xlsx"
+    # Excel: "Datum in čas priprave: 13.05.2023 16:33:37"
+    # HTTP header: 'Last-Modified': 'Sat, 13 May 2023 14:33:51 GMT'
+    ts=email.utils.parsedate_to_datetime(r.headers.get('Last-Modified'))
+    print("HTTP Last Modified: ", ts)
+    destDirXlsx = f"zzzs/{ts.year:04}/{ts.month:02}"
+    os.makedirs(destDirXlsx, mode = 0o755, exist_ok = True)
+
+    # temporary cleanup
+    if os.path.exists("zzzs/LokacijeZdrDelavcevOC.xlsx"):
+        os.remove(path="zzzs/LokacijeZdrDelavcevOC.xlsx")
+
+    destXlsx = f"{destDirXlsx}/{ts.year:04}-{ts.month:02}-{ts.day:2}_LokacijeZdrDelavcevOC.xlsx"
     print(f"    Saving to: {destXlsx}")
     open(destXlsx, 'wb').write(r.content)
 
