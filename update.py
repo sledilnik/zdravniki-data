@@ -392,7 +392,10 @@ def download_zzzs_xlsx_files():
             open(dest, 'wb').write(r.content)
 
 def download_zzzs_address_book():
-    r = requests.get("http://api.zzzs.si/lokacijeOC/LokacijeZdrDelavcevOC.xlsx", allow_redirects=True)
+    srcUrl = "http://api.zzzs.si/lokacijeOC/LokacijeZdrDelavcevOC.xlsx"
+    print(f'Downloading ZZZS address book from: {srcUrl}')
+
+    r = requests.get(srcUrl, allow_redirects=True)
     r.raise_for_status()
     ct = r.headers.get('content-type')
     if ct.lower() != "application/xlsx" and ct.lower() != "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet":
@@ -402,13 +405,19 @@ def download_zzzs_address_book():
     # Excel: "Datum in čas priprave: 13.05.2023 16:33:37"
     # HTTP header: 'Last-Modified': 'Sat, 13 May 2023 14:33:51 GMT'
     ts=email.utils.parsedate_to_datetime(r.headers.get('Last-Modified'))
-    print("HTTP Last Modified: ", ts)
+    print("    HTTP Last Modified: ", ts)
     destDirXlsx = f"zzzs/{ts.year:04}/{ts.month:02}"
     os.makedirs(destDirXlsx, mode = 0o755, exist_ok = True)
 
     destXlsx = f"{destDirXlsx}/{ts.year:04}-{ts.month:02}-{ts.day:2}_LokacijeZdrDelavcevOC.xlsx"
     print(f"    Saving to: {destXlsx}")
     open(destXlsx, 'wb').write(r.content)
+
+    destCsv = "csv/address-book.csv"
+    # TODO: rename columns and set proper index
+    addressBook = pd.read_excel(io=destXlsx, sheet_name='Podatki', skiprows=5, index_col=None)
+    print(f"    Saving to: {destCsv}")
+    addressBook.to_csv(destCsv, index = False)
 
 def download_zzzs_RIZDDZ():
     baseUrl = "https://api.zzzs.si/"
