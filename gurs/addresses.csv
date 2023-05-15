@@ -54,6 +54,7 @@ cityZZZS,addressZZZS,lat,lon,street,streetAlt,housenumber,housenumberAppendix,ci
 1000 LJUBLJANA,HRENOVA ULICA 19,46.04438,14.50677,Hrenova ulica,,19,,Ljubljana,,Četrtna skupnost Center,Ljubljana,1000,Ljubljana,Osrednjeslovenska
 1000 LJUBLJANA,HRUŠEVSKA CESTA 6 A,46.04676,14.54206,Hruševska cesta,,6,A,Ljubljana,,Četrtna skupnost Golovec,Ljubljana,1000,Ljubljana,Osrednjeslovenska
 1000 LJUBLJANA,HUBADOVA ULICA 31,46.07760,14.50897,Hubadova ulica,,31,,Ljubljana,,Četrtna skupnost Bežigrad,Ljubljana,1000,Ljubljana,Osrednjeslovenska
+1000 LJUBLJANA,KARLOVŠKA CESTA 10,46.04457,14.50967,Karlovška cesta,,10,,Ljubljana,,Četrtna skupnost Center,Ljubljana,1000,Ljubljana,Osrednjeslovenska
 1000 LJUBLJANA,KLANČARJEVA ULICA 13,46.02575,14.54048,Klančarjeva ulica,,13,,Ljubljana,,Četrtna skupnost Rudnik,Ljubljana,1000,Ljubljana,Osrednjeslovenska
 1000 LJUBLJANA,KOGOVŠKOVA ULICA 1,46.07318,14.46775,Kogovškova ulica,,1,,Ljubljana,,Četrtna skupnost Šiška,Ljubljana,1000,Ljubljana,Osrednjeslovenska
 1000 LJUBLJANA,KOLEZIJSKA ULICA 1 A,46.04290,14.50142,Kolezijska ulica,,1,A,Ljubljana,,Četrtna skupnost Trnovo,Ljubljana,1000,Ljubljana,Osrednjeslovenska
@@ -744,7 +745,6 @@ cityZZZS,addressZZZS,lat,lon,street,streetAlt,housenumber,housenumberAppendix,ci
 4000 KRANJ,VALJAVČEVA ULICA 27,46.25053,14.35693,Valjavčeva ulica,,27,,Kranj,,Vodovodni stolp,Kranj,4000,Kranj,Gorenjska
 4000 KRANJ,VREČKOVA ULICA 3,46.23503,14.36105,Vrečkova ulica,,3,,Kranj,,Planina,Kranj,4000,Kranj,Gorenjska
 4000 KRANJ,ZASAVSKA CESTA 58 D,46.21782,14.36865,Zasavska cesta,,58,D,Kranj,,Orehek - Drulovka,Kranj,4000,Kranj,Gorenjska
-4201 ZGORNJA BESNICA,BRSC 41,46.25671,14.28583,Brsc,,41,,Zgornja Besnica,,Besnica,Kranj,4201,Zgornja Besnica,Gorenjska
 4201 ZGORNJA BESNICA,VIDEMCE 10,46.26114,14.29641,Videmce,,10,,Zgornja Besnica,,Besnica,Kranj,4201,Zgornja Besnica,Gorenjska
 4202 NAKLO,GLAVNA CESTA 18,46.27271,14.31461,Glavna cesta,,18,,Naklo,,,Naklo,4202,Naklo,Gorenjska
 4202 NAKLO,PIVKA 23 A,46.26877,14.31795,Pivka,,23,A,Naklo,,,Naklo,4202,Naklo,Gorenjska
