@@ -56,7 +56,7 @@ def write_timestamp_file(filename: str, old_hash: str):
 def convert_to_csv(zzzsid_map):
     doctors = []
     for group in ["zdravniki", "zobozdravniki", "ginekologi", "za-boljšo-dostopnost", "za-neopredeljene"]:
-        filename = max(glob.glob(f"zzzs/*_{group}.xlsx"))
+        filename = max(glob.glob(f"zzzs/????/??/????-??-??_{group}.xlsx"))
         print(f"Source: {group} - {filename}")
 
         df = pd.read_excel(io=filename, sheet_name='Podatki', skiprows=9).dropna()
@@ -372,7 +372,9 @@ def download_zzzs_xlsx_files():
         date = datetime.datetime.strptime(dateMatch.group(1), '%d.%m.%Y').date()
         group = match.group(1).lower().replace(' ', '-')
         filename = f"{date}_{group}.xlsx"
-        dest = os.path.join("zzzs/",filename)
+        destDir = os.path.join("zzzs/", f"{date.year:04}", f"{date.month:02}")
+        os.makedirs(destDir, mode = 0o755, exist_ok = True)
+        dest = os.path.join(destDir, filename)
 
         if os.path.exists(dest):
             print(f"    Already downloaded: {dest}")
