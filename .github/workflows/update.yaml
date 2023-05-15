@@ -43,18 +43,18 @@ jobs:
     - name: Install python dependencies
       run: pip install -r requirements.txt
 
-    - name: Move zzzs xlsx to dated directories (needed only once)
-      run: |
-        cd zzzs/
-        for f in `ls ????-??-??_*.xlsx`
-        do
-            echo "Moving file $f"
-            d=$(echo "$f" | awk -F "-" '{print $1 "/" $2 }')
-            echo "     ... to $d/$f"
-            mkdir -p $d
-            git mv "$f" "$d/$f"
-        done
-        cd ..
+    # - name: Move zzzs xlsx to dated directories (needed only once)
+    #   run: |
+    #     cd zzzs/
+    #     for f in `ls ????-??-??_*.xlsx`
+    #     do
+    #         echo "Moving file $f"
+    #         d=$(echo "$f" | awk -F "-" '{print $1 "/" $2 }')
+    #         echo "     ... to $d/$f"
+    #         mkdir -p $d
+    #         git mv "$f" "$d/$f"
+    #     done
+    #     cd ..
 
     - name: "Run update.py"
       env:
