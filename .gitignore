@@ -1,2 +1,5 @@
 venv
-.env
+.*
+!/.gitignore
+!/.env.example
+!/.gitattributes
