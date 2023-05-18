@@ -418,6 +418,7 @@ def download_zzzs_address_book():
     destCsv = "csv/address-book.csv"
     # TODO: rename columns and set proper index
     addressBook = pd.read_excel(io=destXlsx, sheet_name='Podatki', skiprows=5, index_col=None)
+    addressBook.sort_values(by=[*addressBook], inplace=True) # sort by all columns
     print(f"    Saving to: {destCsv}")
     addressBook.to_csv(destCsv, index = False)
 
