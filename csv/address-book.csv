@@ -5,9 +5,7 @@ osebnega zdravnika","Strokovni naziv
 osebnega zdravnika","RIZDDZ številka 
 izvajalca","RIZDDZ številka 
 lokacije
-izvajalca","Ulica in hišna 
-številka lokacije","Poštna številka in 
-naziv pošte lokacije",Telefonska številka
+izvajalca",address,post,Telefonska številka
 302001,7,,5811,"dr. med., spec.",7,0,HRUŠEVSKA CESTA 6 A,1000 LJUBLJANA,
 302001,7,,12089,"dr. med., spec.",7,0,HRUŠEVSKA CESTA 6 A,1000 LJUBLJANA,
 302001,24,,10822,"dr. med., spec.",24,0,VIDEM 17,1262 DOL PRI LJUBLJANI,
