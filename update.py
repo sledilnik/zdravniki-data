@@ -184,7 +184,8 @@ def append_overrides():
 def geocode_addresses():
     xlsxAddresses = pd.read_csv('csv/institutions.csv', usecols=['city','address']).rename(columns={'city':'cityZZZS','address':'addressZZZS'})
     apiAddresses = pd.read_csv('zzzs/institutions-all.csv', usecols=['posta','naslov']).rename(columns={'posta':'cityZZZS','naslov':'addressZZZS'})
-    addresses = pd.concat([xlsxAddresses, apiAddresses], ignore_index=True)
+    addressBookAddresses = pd.read_csv('csv/address-book.csv', usecols=['post','address']).rename(columns={'post':'cityZZZS','address':'addressZZZS'})
+    addresses = pd.concat([xlsxAddresses, apiAddresses, addressBookAddresses], ignore_index=True)
 
     addresses['cityZZZS'] = addresses['cityZZZS'].str.upper()
     addresses['addressZZZS'] = addresses['addressZZZS'].str.upper()
@@ -416,8 +417,20 @@ def download_zzzs_address_book():
     open(destXlsx, 'wb').write(r.content)
 
     destCsv = "csv/address-book.csv"
-    # TODO: rename columns and set proper index
     addressBook = pd.read_excel(io=destXlsx, sheet_name='Podatki', skiprows=5, index_col=None)
+    addressBook.rename(inplace=True, columns={
+        # 'Šifra ZZZS dejavnosti':'zzzsDejavnostId',
+        # 'RIZDDZ številka \npogodbenega izvajalca':'rizddzInstitutionContractorId',
+        # 'Znanstveni naziv\nosebnega zdravnika':'doctorTitleScientific',
+        # 'RIZDDZ številka izbranega \nosebnega zdravnika':'rizddzDoctorId',
+        # 'Strokovni naziv\nosebnega zdravnika':'doctorTitleProfessional',
+        # 'RIZDDZ številka \nizvajalca':'rizddzInstitutionId',
+        # 'RIZDDZ številka \nlokacije\nizvajalca':'rizddzLocationId',
+        'Ulica in hišna \nštevilka lokacije':'address',
+        'Poštna številka in \nnaziv pošte lokacije':'post',
+        # 'Telefonska številka':'phone',
+        })
+
     addressBook.sort_values(by=[*addressBook], inplace=True) # sort by all columns
     print(f"    Saving to: {destCsv}")
     addressBook.to_csv(destCsv, index = False)
