@@ -1,4 +1,4 @@
-cityZZZS,addressZZZS,lat,lon,street,streetAlt,housenumber,housenumberAppendix,city,cityAlt,municipalityPart,municipality,zipCode,zipName,statisticalRegion
+postZZZS,addressZZZS,lat,lon,street,streetAlt,housenumber,housenumberAppendix,city,cityAlt,municipalityPart,municipality,zipCode,zipName,statisticalRegion
 1000 LJUBLJANA,ALJAŽEVA ULICA 30,46.06839,14.49548,Aljaževa ulica,,30,,Ljubljana,,Četrtna skupnost Šiška,Ljubljana,1000,Ljubljana,Osrednjeslovenska
 1000 LJUBLJANA,AMERIŠKA ULICA 13,46.06609,14.54281,Ameriška ulica,,13,,Ljubljana,,Četrtna skupnost Jarše,Ljubljana,1000,Ljubljana,Osrednjeslovenska
 1000 LJUBLJANA,AŠKERČEVA CESTA 4,46.04687,14.49913,Aškerčeva cesta,,4,,Ljubljana,,Četrtna skupnost Center,Ljubljana,1000,Ljubljana,Osrednjeslovenska

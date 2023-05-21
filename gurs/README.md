@@ -6,8 +6,8 @@ Struktura datoteke [addresses.csv](addresses.csv):
 
 | Stolpec               | Pomen                              | Tip     | NULL?    | Vir       | Opomba                                       |
 |-----------------------|------------------------------------|---------|----------|-----------|----------------------------------------------|
-| `cityZZZS`            | Poštna številka in naziv, PK :key: | string  | NOT NULL | NIJZ xlsx |                                              |
-| `addressZZZS`         | Ulica in hišna številka PK :key:   | string  | NOT NULL | NIJZ xlsx |                                              |
+| `postZZZS`            | Poštna številka in naziv, PK :key: | string  | NOT NULL | ZZZS xlsx |                                              |
+| `addressZZZS`         | Ulica in hišna številka PK :key:   | string  | NOT NULL | ZZZS xlsx |                                              |
 | `lat`                 | Geografska širina naslova          | decimal | NOT NULL | GURS RPE  | 5 decimalk, cca 1m natančnost                |
 | `lon`                 | Geografska dolžina naslova         | decimal | NOT NULL | GURS RPE  | 5 decimalk, cca 1m natančnost                |
 | `street`              | Ime ulice                          | string  | NOT NULL | GURS RPE  | Vsebuje ime naselja kjer ni uličnega sistema |
