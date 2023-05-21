@@ -182,16 +182,16 @@ def append_overrides():
 
 
 def geocode_addresses():
-    xlsxAddresses = pd.read_csv('csv/institutions.csv', usecols=['city','address']).rename(columns={'city':'cityZZZS','address':'addressZZZS'})
-    apiAddresses = pd.read_csv('zzzs/institutions-all.csv', usecols=['posta','naslov']).rename(columns={'posta':'cityZZZS','naslov':'addressZZZS'})
-    addressBookAddresses = pd.read_csv('csv/address-book.csv', usecols=['post','address']).rename(columns={'post':'cityZZZS','address':'addressZZZS'})
+    xlsxAddresses = pd.read_csv('csv/institutions.csv', usecols=['city','address']).rename(columns={'city':'postZZZS','address':'addressZZZS'})
+    apiAddresses = pd.read_csv('zzzs/institutions-all.csv', usecols=['posta','naslov']).rename(columns={'posta':'postZZZS','naslov':'addressZZZS'})
+    addressBookAddresses = pd.read_csv('csv/address-book.csv', usecols=['post','address']).rename(columns={'post':'postZZZS','address':'addressZZZS'})
     addresses = pd.concat([xlsxAddresses, apiAddresses, addressBookAddresses], ignore_index=True)
 
-    addresses['cityZZZS'] = addresses['cityZZZS'].str.upper()
+    addresses['postZZZS'] = addresses['postZZZS'].str.upper()
     addresses['addressZZZS'] = addresses['addressZZZS'].str.upper()
-    addresses.sort_values(by=['cityZZZS','addressZZZS'], inplace=True)
+    addresses.sort_values(by=['postZZZS','addressZZZS'], inplace=True)
     addresses.drop_duplicates(inplace=True)
-    addresses.set_index(['cityZZZS','addressZZZS'], inplace=True)
+    addresses.set_index(['postZZZS','addressZZZS'], inplace=True)
 
     addresses.to_csv('gurs/addresses-zzzs.csv')
 
@@ -214,7 +214,7 @@ def geocode_addresses():
 
 def add_gurs_geodata():
     institutions = pd.read_csv('csv/institutions.csv', index_col=['id_inst'])
-    dfgeo=pd.read_csv('gurs/addresses.csv', index_col=['cityZZZS','addressZZZS'], dtype=str)
+    dfgeo=pd.read_csv('gurs/addresses.csv', index_col=['postZZZS','addressZZZS'], dtype=str)
     dfgeo.fillna('', inplace=True)
     dfgeo['address'] = dfgeo.apply(lambda x: f'{x.street} {x.housenumber}{x.housenumberAppendix}'.strip() if x.housenumber else x.name[1], axis = 1)
     dfgeo['post'] = dfgeo.apply(lambda x: f'{x.zipCode} {x.zipName}'.strip() if x.zipCode else x.name[0], axis = 1)
@@ -420,6 +420,8 @@ def download_zzzs_address_book():
     addressBook = pd.read_excel(io=destXlsx, sheet_name='Podatki', skiprows=5, index_col=None)
     addressBook.rename(inplace=True, columns={
         # 'Šifra ZZZS dejavnosti':'zzzsDejavnostId',
+        # 'Šifra in naziv dejavnosti s storitvijo':'',
+        # 'Šifra in naziv storitve':'',
         # 'RIZDDZ številka \npogodbenega izvajalca':'rizddzInstitutionContractorId',
         # 'Znanstveni naziv\nosebnega zdravnika':'doctorTitleScientific',
         # 'RIZDDZ številka izbranega \nosebnega zdravnika':'rizddzDoctorId',
@@ -427,8 +429,9 @@ def download_zzzs_address_book():
         # 'RIZDDZ številka \nizvajalca':'rizddzInstitutionId',
         # 'RIZDDZ številka \nlokacije\nizvajalca':'rizddzLocationId',
         'Ulica in hišna \nštevilka lokacije':'address',
+        'Naselje lokacije':'city',
         'Poštna številka in \nnaziv pošte lokacije':'post',
-        # 'Telefonska številka':'phone',
+        'Telefonska številka':'phone',
         })
 
     addressBook.sort_values(by=[*addressBook], inplace=True) # sort by all columns
