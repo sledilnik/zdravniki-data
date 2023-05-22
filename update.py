@@ -32,6 +32,18 @@ type_map = {
     'SPLOŠNA DEJAVNOST - DISPANZER ZA ŽENSKE': 'gyn'
 }
 
+typeid_map = {
+    302001: 'gp',
+    302064: 'gp-x',
+    302067: 'gp-f', 
+    327009: 'ped',
+    327065: 'ped-x',
+    404101: 'den',
+    404103: 'den-y',
+    404105: 'den-s',
+    306007: 'gyn',
+}
+
 accepts_map = {
     'DA': 'y',
     'NE': 'n'
@@ -419,24 +431,27 @@ def download_zzzs_address_book():
     destCsv = "csv/address-book.csv"
     addressBook = pd.read_excel(io=destXlsx, sheet_name='Podatki', skiprows=5, index_col=None)
     addressBook.rename(inplace=True, columns={
-        # 'Šifra ZZZS dejavnosti':'zzzsDejavnostId',
+        'Šifra ZZZS dejavnosti':'zzzsTypeId',
         # 'Šifra in naziv dejavnosti s storitvijo':'',
         # 'Šifra in naziv storitve':'',
-        # 'RIZDDZ številka \npogodbenega izvajalca':'rizddzInstitutionContractorId',
-        # 'Znanstveni naziv\nosebnega zdravnika':'doctorTitleScientific',
-        # 'RIZDDZ številka izbranega \nosebnega zdravnika':'rizddzDoctorId',
-        # 'Strokovni naziv\nosebnega zdravnika':'doctorTitleProfessional',
-        # 'RIZDDZ številka \nizvajalca':'rizddzInstitutionId',
-        # 'RIZDDZ številka \nlokacije\nizvajalca':'rizddzLocationId',
+        'RIZDDZ številka \npogodbenega \nizvajalca':'rizddzInstitutionContractorId',
+        'Znanstveni naziv\nosebnega zdravnika':'doctorTitleScientific',
+        'RIZDDZ številka izbranega \nosebnega zdravnika':'rizddzDoctorId',
+        'Strokovni naziv\nosebnega zdravnika':'doctorTitleProfessional',
+        'RIZDDZ številka \nizvajalca':'rizddzInstitutionId',
+        'RIZDDZ številka \nlokacije\nizvajalca':'rizddzLocationId',
         'Ulica in hišna \nštevilka lokacije':'address',
         'Naselje lokacije':'city',
         'Poštna številka in \nnaziv pošte lokacije':'post',
         'Telefonska številka':'phone',
         })
 
-    addressBook.sort_values(by=[*addressBook], inplace=True) # sort by all columns
+    addressBook['zzzsType'] = addressBook['zzzsTypeId'].map(typeid_map)
+    addressBook.drop(columns=['Šifra in naziv dejavnosti s storitvijo', 'Šifra in naziv storitve'], inplace=True)
+    addressBook.sort_values(by=['rizddzInstitutionContractorId', 'rizddzInstitutionId', 'rizddzLocationId', 'rizddzDoctorId', 'zzzsTypeId', 'zzzsType'], inplace=True)
+    addressBook.set_index(['rizddzInstitutionContractorId', 'rizddzInstitutionId', 'rizddzLocationId', 'rizddzDoctorId', 'zzzsTypeId', 'zzzsType'], inplace=True, verify_integrity=False) # sort columns
     print(f"    Saving to: {destCsv}")
-    addressBook.to_csv(destCsv, index = False)
+    addressBook.to_csv(destCsv, index = True)
 
 def download_zzzs_RIZDDZ():
     baseUrl = "https://api.zzzs.si/"
