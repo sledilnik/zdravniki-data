@@ -457,6 +457,7 @@ rizddzInstitutionContractorId,rizddzInstitutionId,rizddzLocationId,rizddzDoctorI
 372,372,18,56,302001,gp,,"dr. med., spec. družinska medicine",TRG 8,MIRNA PEČ,8216 MIRNA PEČ,07 20 15 433
 372,9370,0,4840,302001,gp,,dr. med.,JURČIČEVA ULICA 32,ŽUŽEMBERK,8360 ŽUŽEMBERK,07 38 85 271
 372,9370,0,14075,404101,den,,dr. dent. med.,JURČIČEVA ULICA 32,ŽUŽEMBERK,8360 ŽUŽEMBERK,07 38 85 274
+372,9370,0,14075,404103,den-y,,dr. dent. med.,JURČIČEVA ULICA 32,ŽUŽEMBERK,8360 ŽUŽEMBERK,07 38 85 274
 372,9376,0,4350,327009,ped,,"dr. med., spec. pediatrije",PRVOMAJSKA CESTA 5,ŠENTJERNEJ,8310 ŠENTJERNEJ,07 37 19 528
 372,9376,0,6880,302001,gp,,dr. med.,PRVOMAJSKA CESTA 5,ŠENTJERNEJ,8310 ŠENTJERNEJ,07 37 19 523
 372,9376,0,10859,404101,den,,dr. dent. med.,PRVOMAJSKA CESTA 5,ŠENTJERNEJ,8310 ŠENTJERNEJ,07 37 19 526
@@ -465,7 +466,6 @@ rizddzInstitutionContractorId,rizddzInstitutionId,rizddzLocationId,rizddzDoctorI
 372,9376,0,17420,404101,den,,dr. dent. med.,PRVOMAJSKA CESTA 5,ŠENTJERNEJ,8310 ŠENTJERNEJ,07 62 09 401
 373,373,0,6600,302001,gp,,"dr. med., spec. splošne medicine",GOLIEV TRG 3,TREBNJE,8210 TREBNJE,07 34 81 763
 373,373,0,6684,302001,gp,,"dr. med., spec. medicine dela, prometa in športa",GOLIEV TRG 3,TREBNJE,8210 TREBNJE,07 34 81 775
-373,373,0,7998,302001,gp,,"dr. med., spec. splošne medicine",GOLIEV TRG 3,TREBNJE,8210 TREBNJE,07 34 81 793
 373,373,0,8100,306007,gyn,,"dr. med., spec. ginekologije in porodništva",GOLIEV TRG 3,TREBNJE,8210 TREBNJE,07 34 81 778
 373,373,0,8134,327009,ped,,"dr. med., spec. pediatrije",GOLIEV TRG 3,TREBNJE,8210 TREBNJE,07 34 81 773
 373,373,0,10211,302001,gp,,"dr. med., spec. družinska medicine",GOLIEV TRG 3,TREBNJE,8210 TREBNJE,07 34 81 803
@@ -473,7 +473,7 @@ rizddzInstitutionContractorId,rizddzInstitutionId,rizddzLocationId,rizddzDoctorI
 373,373,0,11698,404103,den-y,,dr. dent. med.,GOLIEV TRG 3,TREBNJE,8210 TREBNJE,07 34 81 756
 373,373,0,11900,306007,gyn,,"dr. med., spec. ginekologije in porodništva",GOLIEV TRG 3,TREBNJE,8210 TREBNJE,07 34 81 778
 373,373,0,11946,327009,ped,,"dr. med., spec. pediatrije",GOLIEV TRG 3,TREBNJE,8210 TREBNJE,07 34 81 773
-373,373,0,12209,302001,gp,,"dr. med., spec. družinska medicine",GOLIEV TRG 3,TREBNJE,8210 TREBNJE,07 62 06 816
+373,373,0,12209,302001,gp,,"dr. med., spec. družinska medicine",GOLIEV TRG 3,TREBNJE,8210 TREBNJE,07 34 81 767
 373,373,0,12215,327009,ped,,"dr. med., spec. pediatrije",GOLIEV TRG 3,TREBNJE,8210 TREBNJE,07 34 81 771
 373,373,0,12520,404101,den,,dr. dent. med.,GOLIEV TRG 3,TREBNJE,8210 TREBNJE,07 34 81 754
 373,373,0,12520,404103,den-y,,dr. dent. med.,GOLIEV TRG 3,TREBNJE,8210 TREBNJE,07 34 81 754
