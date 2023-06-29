@@ -1163,6 +1163,7 @@ postZZZS,addressZZZS,lat,lon,street,streetAlt,housenumber,housenumberAppendix,ci
 8000 NOVO MESTO,ŠMIHEL 3,45.79557,15.16412,Šmihel,,3,,Novo mesto,,Krajevna skupnost Šmihel,Novo mesto,8000,Novo mesto,Jugovzhodna Slovenija
 8000 NOVO MESTO,ŠMIHELSKA CESTA 1,45.79995,15.16385,Šmihelska cesta,,1,,Novo mesto,,Krajevna skupnost Drska,Novo mesto,8000,Novo mesto,Jugovzhodna Slovenija
 8000 NOVO MESTO,ŠMIHELSKA CESTA 20,45.79817,15.16106,Šmihelska cesta,,20,,Novo mesto,,Krajevna skupnost Drska,Novo mesto,8000,Novo mesto,Jugovzhodna Slovenija
+8101 NOVO MESTO,ŠMIHEL 3,,,,,,,,,,,,,
 8210 TREBNJE,GOLIEV TRG 3,45.90830,15.00666,Goliev trg,,3,,Trebnje,,Trebnje,Trebnje,8210,Trebnje,Jugovzhodna Slovenija
 8210 TREBNJE,GUBČEVA CESTA 41 A,45.90835,15.01221,Gubčeva cesta,,41,A,Trebnje,,Trebnje,Trebnje,8210,Trebnje,Jugovzhodna Slovenija
 8210 TREBNJE,GUBČEVA CESTA 9 A,45.90828,15.00976,Gubčeva cesta,,9,A,Trebnje,,Trebnje,Trebnje,8210,Trebnje,Jugovzhodna Slovenija
@@ -1346,6 +1347,7 @@ postZZZS,addressZZZS,lat,lon,street,streetAlt,housenumber,housenumberAppendix,ci
 9252 RADENCI,PRISOJNA CESTA 4 A,46.64084,16.03900,Prisojna cesta,,4,A,Radenci,,KS RADENCI,Radenci,9252,Radenci,Pomurska
 9252 RADENCI,RADGONSKA CESTA 2,46.64125,16.04391,Radgonska cesta,,2,,Radenci,,KS RADENCI,Radenci,9252,Radenci,Pomurska
 9252 RADENCI,TITOVA CESTA 1,46.64540,16.03866,Titova cesta,,1,,Radenci,,KS RADENCI,Radenci,9252,Radenci,Pomurska
+9253 APAČE,APAČE 4,46.69650,15.90144,Apače,,4,,Apače,,KRAJEVNA SKUPNOST APAČE,Apače,9253,Apače,Pomurska
 9261 CANKOVA,CANKOVA 65,46.71863,16.01757,Cankova,,65,,Cankova,,,Cankova,9261,Cankova,Pomurska
 9261 CANKOVA,CANKOVA 65 A,46.71884,16.01822,Cankova,,65,A,Cankova,,,Cankova,9261,Cankova,Pomurska
 9261 CANKOVA,CANKOVA 65 B,46.71858,16.01850,Cankova,,65,B,Cankova,,,Cankova,9261,Cankova,Pomurska
