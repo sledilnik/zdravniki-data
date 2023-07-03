@@ -53,6 +53,7 @@ postZZZS,addressZZZS,lat,lon,street,streetAlt,housenumber,housenumberAppendix,ci
 1000 LJUBLJANA,GROHARJEVA CESTA 11,46.04479,14.49729,Groharjeva cesta,,11,,Ljubljana,,Četrtna skupnost Vič,Ljubljana,1000,Ljubljana,Osrednjeslovenska
 1000 LJUBLJANA,GRŠKA ULICA 13,46.06621,14.54495,Grška ulica,,13,,Ljubljana,,Četrtna skupnost Jarše,Ljubljana,1000,Ljubljana,Osrednjeslovenska
 1000 LJUBLJANA,HACQUETOVA ULICA 6,46.06035,14.51545,Hacquetova ulica,,6,,Ljubljana,,Četrtna skupnost Bežigrad,Ljubljana,1000,Ljubljana,Osrednjeslovenska
+1000 LJUBLJANA,HACQUETOVA ULICA 7,46.06068,14.51568,Hacquetova ulica,,7,,Ljubljana,,Četrtna skupnost Bežigrad,Ljubljana,1000,Ljubljana,Osrednjeslovenska
 1000 LJUBLJANA,HRENOVA ULICA 19,46.04438,14.50677,Hrenova ulica,,19,,Ljubljana,,Četrtna skupnost Center,Ljubljana,1000,Ljubljana,Osrednjeslovenska
 1000 LJUBLJANA,HRUŠEVSKA CESTA 6 A,46.04676,14.54206,Hruševska cesta,,6,A,Ljubljana,,Četrtna skupnost Golovec,Ljubljana,1000,Ljubljana,Osrednjeslovenska
 1000 LJUBLJANA,HUBADOVA ULICA 31,46.07760,14.50897,Hubadova ulica,,31,,Ljubljana,,Četrtna skupnost Bežigrad,Ljubljana,1000,Ljubljana,Osrednjeslovenska
@@ -77,6 +78,7 @@ postZZZS,addressZZZS,lat,lon,street,streetAlt,housenumber,housenumberAppendix,ci
 1000 LJUBLJANA,KUNAVERJEVA ULICA 15,46.07940,14.47495,Kunaverjeva ulica,,15,,Ljubljana,,Četrtna skupnost Dravlje,Ljubljana,1000,Ljubljana,Osrednjeslovenska
 1000 LJUBLJANA,LAMUTOVA ULICA 15,46.07676,14.45439,Lamutova ulica,,15,,Ljubljana,,Četrtna skupnost Dravlje,Ljubljana,1000,Ljubljana,Osrednjeslovenska
 1000 LJUBLJANA,LEPI POT 14,46.04460,14.49488,Lepi pot,,14,,Ljubljana,,Četrtna skupnost Vič,Ljubljana,1000,Ljubljana,Osrednjeslovenska
+1000 LJUBLJANA,LEPODVORSKA ULICA 2,46.06241,14.49627,Lepodvorska ulica,,2,,Ljubljana,,Četrtna skupnost Šiška,Ljubljana,1000,Ljubljana,Osrednjeslovenska
 1000 LJUBLJANA,LEVČEVA ULICA 11,46.04925,14.48778,Levčeva ulica,,11,,Ljubljana,,Četrtna skupnost Rožnik,Ljubljana,1000,Ljubljana,Osrednjeslovenska
 1000 LJUBLJANA,LINHARTOVA CESTA 15,46.06480,14.51444,Linhartova cesta,,15,,Ljubljana,,Četrtna skupnost Bežigrad,Ljubljana,1000,Ljubljana,Osrednjeslovenska
 1000 LJUBLJANA,LINHARTOVA CESTA 5,46.06405,14.50981,Linhartova cesta,,5,,Ljubljana,,Četrtna skupnost Bežigrad,Ljubljana,1000,Ljubljana,Osrednjeslovenska
@@ -341,6 +343,7 @@ postZZZS,addressZZZS,lat,lon,street,streetAlt,housenumber,housenumberAppendix,ci
 1360 VRHNIKA,POD HRUŠEVCO 33,45.97336,14.29506,Pod Hruševco,,33,,Vrhnika,,Vrhnika Breg,Vrhnika,1360,Vrhnika,Osrednjeslovenska
 1360 VRHNIKA,ROBOVA CESTA 6,45.96751,14.29722,Robova cesta,,6,,Vrhnika,,Vrhnika Breg,Vrhnika,1360,Vrhnika,Osrednjeslovenska
 1360 VRHNIKA,SINJA GORICA 7,45.97963,14.31058,Sinja Gorica,,7,,Sinja Gorica,,Sinja Gorica,Vrhnika,1360,Vrhnika,Osrednjeslovenska
+1360 VRHNIKA,STARA CESTA 7,45.96563,14.29688,Stara cesta,,7,,Vrhnika,,Vrhnika Breg,Vrhnika,1360,Vrhnika,Osrednjeslovenska
 1360 VRHNIKA,STARA VRHNIKA 31,45.97727,14.28382,Stara Vrhnika,,31,,Stara Vrhnika,,Stara Vrhnika,Vrhnika,1360,Vrhnika,Osrednjeslovenska
 1370 LOGATEC,GUBČEVA 8A,45.91896,14.21734,Gubčeva ulica,,8,A,Logatec,,Naklo,Logatec,1370,Logatec,Osrednjeslovenska
 1370 LOGATEC,GUBČEVA ULICA 1,45.91689,14.21786,Gubčeva ulica,,1,,Logatec,,Naklo,Logatec,1370,Logatec,Osrednjeslovenska
@@ -391,6 +394,7 @@ postZZZS,addressZZZS,lat,lon,street,streetAlt,housenumber,housenumberAppendix,ci
 2000 MARIBOR,CESTA PROLETARSKIH BRIGAD 79,46.54401,15.62699,Cesta proletarskih brigad,,79,,Maribor,,Nova vas,Maribor,2000,Maribor,Podravska
 2000 MARIBOR,CESTA XIV. DIVIZIJE 30,46.55159,15.66267,Cesta XIV. divizije,,30,,Maribor,,Pobrežje,Maribor,2000,Maribor,Podravska
 2000 MARIBOR,CESTA XIV.DIVIZIJE 34,46.55115,15.66257,Cesta XIV. divizije,,34,,Maribor,,Pobrežje,Maribor,2000,Maribor,Podravska
+2000 MARIBOR,CESTA ZMAGE 98,46.54312,15.63496,Cesta zmage,,98,,Maribor,,Tabor,Maribor,2000,Maribor,Podravska
 2000 MARIBOR,DVOŘAKOVA ULICA 10,46.55362,15.64424,Dvořakova ulica,,10,,Maribor,,Magdalena,Maribor,2000,Maribor,Podravska
 2000 MARIBOR,GLAVNI TRG 4,46.55729,15.64522,Glavni trg,,4,,Maribor,,Center,Maribor,2000,Maribor,Podravska
 2000 MARIBOR,GORKEGA ULICA 18,46.55341,15.64215,Gorkega ulica,,18,,Maribor,,Magdalena,Maribor,2000,Maribor,Podravska
@@ -457,6 +461,7 @@ postZZZS,addressZZZS,lat,lon,street,streetAlt,housenumber,housenumberAppendix,ci
 2000 MARIBOR,TOMŠIČEVA ULICA 23,46.56585,15.65337,Tomšičeva ulica,,23,,Maribor,,Ivan Cankar,Maribor,2000,Maribor,Podravska
 2000 MARIBOR,TOMŠIČEVA ULICA 6,46.56540,15.65090,Tomšičeva ulica,,6,,Maribor,,Ivan Cankar,Maribor,2000,Maribor,Podravska
 2000 MARIBOR,TRUBARJEVA ULICA 15,46.56466,15.64435,Trubarjeva ulica,,15,,Maribor,,Koroška vrata,Maribor,2000,Maribor,Podravska
+2000 MARIBOR,TURNERJEVA ULICA 21 B,46.56380,15.63071,Turnerjeva ulica,,21,B,Maribor,,Koroška vrata,Maribor,2000,Maribor,Podravska
 2000 MARIBOR,TURNERJEVA ULICA 33,46.56489,15.63232,Turnerjeva ulica,,33,,Maribor,,Koroška vrata,Maribor,2000,Maribor,Podravska
 2000 MARIBOR,ULICA ARNOLDA TOVORNIKA 21,46.53663,15.63006,Ulica Arnolda Tovornika,,21,,Maribor,,Nova vas,Maribor,2000,Maribor,Podravska
 2000 MARIBOR,ULICA BORCEV 1 B,46.53636,15.68832,Ulica borcev,,1,B,Maribor,,Brezje-Dogoše-Zrkovci,Maribor,2000,Maribor,Podravska
@@ -957,6 +962,7 @@ postZZZS,addressZZZS,lat,lon,street,streetAlt,housenumber,housenumberAppendix,ci
 5000 NOVA GORICA,GREGORČIČEVA ULICA 16,45.95219,13.64773,Gregorčičeva ulica,,16,,Nova Gorica,,Krajevna skupnost Nova Gorica,Nova Gorica,5000,Nova Gorica,Goriška
 5000 NOVA GORICA,KIDRIČEVA ULICA 35,45.95196,13.64685,Kidričeva ulica,,35,,Nova Gorica,,Krajevna skupnost Nova Gorica,Nova Gorica,5000,Nova Gorica,Goriška
 5000 NOVA GORICA,KOLODVORSKA POT 6,45.95441,13.63502,Kolodvorska pot,,6,,Nova Gorica,,Krajevna skupnost Nova Gorica,Nova Gorica,5000,Nova Gorica,Goriška
+5000 NOVA GORICA,LEDINE 169,45.96203,13.64202,Ledine,,169,,Nova Gorica,,Krajevna skupnost Nova Gorica,Nova Gorica,5000,Nova Gorica,Goriška
 5000 NOVA GORICA,LISKUR 23,45.93414,13.65800,Liskur,,23,,Rožna Dolina,,Krajevna skupnost Rožna Dolina,Nova Gorica,5000,Nova Gorica,Goriška
 5000 NOVA GORICA,REJČEVA ULICA 2,45.95782,13.64582,Rejčeva ulica,,2,,Nova Gorica,,Krajevna skupnost Nova Gorica,Nova Gorica,5000,Nova Gorica,Goriška
 5000 NOVA GORICA,REJČEVA ULICA 4,45.95794,13.64553,Rejčeva ulica,,4,,Nova Gorica,,Krajevna skupnost Nova Gorica,Nova Gorica,5000,Nova Gorica,Goriška
