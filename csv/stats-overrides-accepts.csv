@@ -14,7 +14,7 @@ Ne sprejema novih pacientov (prevzela polno ambulanto dr. Čeh Tadeje).,n,1
 Ne sprejema novih pacientov (v fazi upokojevanja).,n,2
 Ne sprejema novih pacientov (zdravnik medicine dela).,n,3
 Ne sprejema novih pacientov (zdravnik urgentne medicine).,n,3
-Ne sprejema novih pacientov.,n,231
+Ne sprejema novih pacientov.,n,232
 Samo pacienti  dr. Čampa.,n,1
 Samo preventiva šolskih otrok.,n,1
 Sprejema nove paciente,y,6
@@ -22,4 +22,5 @@ Sprejema nove paciente.,y,44
 Sprejema samo družinske člane že opredeljenih pacientov.,n,2
 Sprejema samo v DSO.,n,1
 Sprejema v čakalno vrsto.,n,2
+Ukinjena z majem 2023.,n,1
 V pokoju.,n,20
