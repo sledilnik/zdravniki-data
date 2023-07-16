@@ -378,7 +378,6 @@ postZZZS,addressZZZS,lat,lon,street,streetAlt,housenumber,housenumberAppendix,ci
 1434 LOKA PRI ZIDANEM MOSTU,LOKA 48,,,,,,,,,,,,,
 1434 LOKA PRI ZIDANEM MOSTU,LOKA PRI ZIDANEM MOSTU 48,46.05586,15.20767,Loka pri Zidanem Mostu,,48,,Loka pri Zidanem Mostu,,Loka pri Zidanem Mostu,Sevnica,1434,Loka pri Zidanem Mostu,Posavska
 2000 MARIBOR,AŠKERČEVA ULICA 7,46.56465,15.65189,Aškerčeva ulica,,7,,Maribor,,Ivan Cankar,Maribor,2000,Maribor,Podravska
-2000 MARIBOR,BETETTOVA ULICA 11,46.54059,15.63068,Betettova ulica,,11,,Maribor,,Nova vas,Maribor,2000,Maribor,Podravska
 2000 MARIBOR,BETETTOVA ULICA 19,46.53969,15.62985,Betettova ulica,,19,,Maribor,,Nova vas,Maribor,2000,Maribor,Podravska
 2000 MARIBOR,BETNAVSKA CESTA 13,46.54967,15.64086,Betnavska cesta,,13,,Maribor,,Magdalena,Maribor,2000,Maribor,Podravska
 2000 MARIBOR,BORŠTNIKOVA ULICA 79,46.53511,15.62851,Borštnikova ulica,,79,,Maribor,,Radvanje,Maribor,2000,Maribor,Podravska
@@ -999,7 +998,6 @@ postZZZS,addressZZZS,lat,lon,street,streetAlt,housenumber,housenumberAppendix,ci
 5243 PODBRDO,PODBRDO 73A,46.21090,13.96798,Podbrdo,,73,A,Podbrdo,,Podbrdo,Tolmin,5243,Podbrdo,Goriška
 5250 SOLKAN,ULICA MATIJE DOLJAKA 12,45.97005,13.64545,Ulica Matije Doljaka,,12,,Solkan,,Krajevna skupnost Solkan,Nova Gorica,5250,Solkan,Goriška
 5250 SOLKAN,ŠOLSKA 25,45.96906,13.64982,Šolska ulica,,25,,Solkan,,Krajevna skupnost Solkan,Nova Gorica,5250,Solkan,Goriška
-5253 ČEPOVAN,ČEPOVAN 90,46.04984,13.79420,Čepovan,,90,,Čepovan,,Krajevna skupnost Čepovan,Nova Gorica,5253,Čepovan,Goriška
 5253 ČEPOVAN,ČEPOVAN 90E,,,,,,,,,,,,,
 5270 AJDOVŠČINA,CESTA 5. MAJA 15,45.89125,13.90296,Cesta 5. maja,,15,,Ajdovščina,,Krajevna skupnost Ajdovščina,Ajdovščina,5270,Ajdovščina,Goriška
 5270 AJDOVŠČINA,GORIŠKA CESTA 78,45.88562,13.88883,Goriška cesta,,78,,Ajdovščina,,Krajevna skupnost Ajdovščina,Ajdovščina,5270,Ajdovščina,Goriška
@@ -1035,7 +1033,6 @@ postZZZS,addressZZZS,lat,lon,street,streetAlt,housenumber,housenumberAppendix,ci
 5294 DORNBERK,GRADIŠČE NAD PRVAČINO 4,45.88323,13.71792,Gradišče nad Prvačino,,4,,Gradišče nad Prvačino,,Krajevna skupnost Gradišče,Nova Gorica,5294,Dornberk,Goriška
 5294 DORNBERK,ULICA BOJANA VODOPIVCA 5,45.88678,13.73465,Ulica Bojana Vodopivca,,5,,Dornberk,,Krajevna skupnost Dornberk,Nova Gorica,5294,Dornberk,Goriška
 5295 BRANIK,BRANIK 75,45.86003,13.78728,Branik,,75,,Branik,,Krajevna skupnost Branik,Nova Gorica,5295,Branik,Goriška
-5296 KOSTANJEVICA NA KRASU,KOSTANJEVICA NA KRASU 79,45.84267,13.64371,Kostanjevica na Krasu,,79,,Kostanjevica na Krasu,,Kostanjevica,Miren-Kostanjevica,5296,Kostanjevica na Krasu,Goriška
 6000 KOPER - CAPODISTRIA,BEBLERJEVA ULICA 12,45.54087,13.70495,Beblerjeva ulica,Via Aleš Bebler,12,,Koper,Capodistria,Žusterna,Koper,6000,Koper - Capodistria,Obalno-kraška
 6000 KOPER - CAPODISTRIA,BEBLERJEVA ULICA 2 B,45.54074,13.70871,Beblerjeva ulica,Via Aleš Bebler,2,B,Koper,Capodistria,Žusterna,Koper,6000,Koper - Capodistria,Obalno-kraška
 6000 KOPER - CAPODISTRIA,BEBLERJEVA ULICA 7,45.54048,13.70814,Beblerjeva ulica,Via Aleš Bebler,7,,Koper,Capodistria,Žusterna,Koper,6000,Koper - Capodistria,Obalno-kraška
@@ -1318,6 +1315,8 @@ postZZZS,addressZZZS,lat,lon,street,streetAlt,housenumber,housenumberAppendix,ci
 9221 MARTJANCI,MARTJANCI 13,46.68564,16.18812,Martjanci,,13,,Martjanci,,Martjanci,Moravske Toplice,9221,Martjanci,Pomurska
 9221 MARTJANCI,MARTJANCI 29 A,46.68523,16.19015,Martjanci,,29,A,Martjanci,,Martjanci,Moravske Toplice,9221,Martjanci,Pomurska
 9221 MARTJANCI,MARTJANCI 35,46.68503,16.19115,Martjanci,,35,,Martjanci,,Martjanci,Moravske Toplice,9221,Martjanci,Pomurska
+9224 TURNIŠČE,ŠTEFANA KOVAČA 97,46.62631,16.31201,Ulica Štefana Kovača,,97,,Turnišče,,Turnišče pri Lendavi,Turnišče,9224,Turnišče,Pomurska
+9225 VELIKA POLANA,VELIKA POLANA 109,46.57246,16.34498,Velika Polana,,109,,Velika Polana,,,Velika Polana,9225,Velika Polana,Pomurska
 9226 MORAVSKE TOPLICE,KRANJČEVA ULICA 14 A,46.68480,16.21961,Kranjčeva ulica,,14,A,Moravske Toplice,,Moravske Toplice,Moravske Toplice,9226,Moravske Toplice,Pomurska
 9226 MORAVSKE TOPLICE,ULICA OB IGRIŠČU 3,46.68736,16.21683,Ulica ob igrišču,,3,,Moravske Toplice,,Moravske Toplice,Moravske Toplice,9226,Moravske Toplice,Pomurska
 9231 BELTINCI,BRATONCI 137,46.61781,16.21412,Bratonci,,137,,Bratonci,,Bratonci,Beltinci,9231,Beltinci,Pomurska
