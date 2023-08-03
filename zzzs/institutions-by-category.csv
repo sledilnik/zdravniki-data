@@ -72,7 +72,7 @@ zzzsSt,vrsta,oe,tip,sifOe,naziv,naslov,posta,tel,splStran
 789398,Javni,OE RAVNE NA KOROŠKEM,Zdravstveni dom,300000,ZDRAVSTVENI DOM VELENJE,VODNIKOVA CESTA 1,3320 VELENJE,03 899 54 00,http://www.zd-velenje.si
 223507,Javni,OE RAVNE NA KOROŠKEM,Zdravstveni dom,300000,ZGORNJESAVINJSKI ZDRAVSTVENI DOM NAZARJE,ZADREČKA CESTA 14,3331 NAZARJE,03 839 24 83,https://zgornjesavinjski-zd.si/
 4350649,Zasebni,OE CELJE,"Družinski, otroški in šolski zdravnik",210000,"AMBULANTA SPLOŠNE MEDICINE JURE BIĆANIĆ, DR. MED., SPEC. SPL. MED.",KOVAŠKA CESTA 22,3214 ZREČE,03 752 13 40,https://www.zdravniki-zobozdravniki.net/clan/Jure-BICANIC-1016/
-8661983,Zasebni,OE CELJE,"Družinski, otroški in šolski zdravnik",210000,"BAJC-MED, ZDRAVSTVENE STORITVE, D.O.O.",STRITARJEVA ULICA 4,3250 ROGAŠKA SLATINA,,
+8661983,Zasebni,OE CELJE,"Družinski, otroški in šolski zdravnik",210000,"BAJC-MED, ZDRAVSTVENE STORITVE, D.O.O.",STRITARJEVA ULICA 4,3250 ROGAŠKA SLATINA,,https://bajc-med.si/
 4029448,Zasebni,OE CELJE,"Družinski, otroški in šolski zdravnik",210000,"DIAGNOSTIČNI CENTER ŠENTJUR, ZDRAVSTVENE IN DRUGE STORITVE, TRGOVINA IN INŽENIRING, D.O.O.",ULICA DUŠANA KVEDRA 27,3230 ŠENTJUR,(03) 746 25 50,http://www.dc-sentjur.com/sl/
 4226082,Zasebni,OE CELJE,"Družinski, otroški in šolski zdravnik",210000,DISPANZER ZA ZDRAVSTVENO VARSTVO OTROK IN MLADOSTNIKOV D.O.O.,PREŠERNOVA ULICA 6,3310 ŽALEC,(03) 713 43 14,https://www.dom-zalec.si/index.php/2014-05-13-19-05-45
 6369009,Zasebni,OE CELJE,"Družinski, otroški in šolski zdravnik",210000,"DOKTOR M, ZDRAVSTVENE STORITVE D.O.O.",SPODNJE NEGONJE 16 C,3250 ROGAŠKA SLATINA,,http://www.doktor-m.si
@@ -89,6 +89,7 @@ zzzsSt,vrsta,oe,tip,sifOe,naziv,naslov,posta,tel,splStran
 4104860,Zasebni,OE CELJE,"Družinski, otroški in šolski zdravnik",210000,"ZASEBNA AMBULANTA SPLOŠNE MEDICINE SLAVKO JERNEJŠEK, DR.MED., SPECIALIST SPLOŠNE MEDICINE",GLAVNI TRG 15,3313 POLZELA,03 705 08 08,https://www.zdravniki-zobozdravniki.net/clan/Slavko-JERNEJSEK-849/
 4342168,Zasebni,OE CELJE,"Družinski, otroški in šolski zdravnik",210000,ZASEBNA AMBULANTA TATJANA TISOVIC RUS DR. MED.,KOVAŠKA CESTA 22,3214 ZREČE,03 752 13 20,https://www.zdravniki-zobozdravniki.net/clan/Tatjana-TISOVIC-RUS-1019/
 5801252,Zasebni,OE CELJE,"Družinski, otroški in šolski zdravnik",210000,ZASEBNA ORDINACIJA DR. JADEK D.O.O.,CANKARJEVA ULICA 6,3000 CELJE,03 492 47 00,http://www.jadek.si
+9025052,Zasebni,OE CELJE,"Družinski, otroški in šolski zdravnik",210000,"ZASEBNA ORDINACIJA DRUŽINSKE MEDICINE MUAMER MUŠIĆ, DR. MED., SPECIALIST DRUŽINSKE MEDICINE - ZASEBNI ZDRAVSTVENI DELAVEC",JENKOVA ULICA 36,3000 CELJE,,
 4220901,Zasebni,OE CELJE,"Družinski, otroški in šolski zdravnik",210000,"ZASEBNA PEDIATRIČNA AMBULANTA DAMIR DABRANIN, DR.MED., SPECIALIST PEDIATER",MESTNI TRG 17,3210 SLOVENSKE KONJICE,(03) 759 06 95,http://www.zpa.si/kontakt.php
 4343331,Zasebni,OE CELJE,"Družinski, otroški in šolski zdravnik",210000,"ZASEBNA SPLOŠNA AMBULANTA - SABINA REZAR, DR.MED.",ŠMARTNO OB PAKI 146 B,3327 ŠMARTNO OB PAKI,(03) 705 09 21,https://www.zdravniki-zobozdravniki.net/clan/Sabina-REZAR-1270/
 6352845,Zasebni,OE CELJE,"Družinski, otroški in šolski zdravnik",210000,"ZASEBNA SPLOŠNA AMBULANTA ALEŠ BLAZNIK, DR.MED. D.O.O.",OB KOPRIVNICI 81,3000 CELJE,(03) 543 42 53,http://www.alesblaznik.si/

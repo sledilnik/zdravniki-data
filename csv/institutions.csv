@@ -61,7 +61,7 @@ id_inst,zzzsSt,name,unit,address,post,city,municipalityPart,municipality,lat,lon
 5758164,5758164,"AS.MED, DRUŽBA ZA ZDRAVO ŽIVLJENJE D.O.O.",OE MURSKA SOBOTA,Kocljeva ulica 10,9000 Murska Sobota,Murska Sobota,Center,Murska Sobota,46.66002,16.16316,051 400 080,https://dzdravje.si/asmed/
 4574404,4574404,"ATELJE D, ZOBOZDRAVSTVO, STORITVE IN SVETOVANJE, D.O.O.",OE MARIBOR,Koroška cesta 113C,2000 Maribor,Maribor,Koroška vrata,Maribor,46.56093,15.62844,(02) 252 75 74,https://www.cakalnedobe.si/ambulante/atelje-d-zobozdravstvo-storitve-in-svetovanje-d-o-o
 617685,617685,BABIT ZOBOZDRAVSTVENI CENTER D.O.O.,OE LJUBLJANA,Kolezijska ulica 25,1000 Ljubljana,Ljubljana,Četrtna skupnost Trnovo,Ljubljana,46.04145,14.4975,(01) 283 61 70,https://www.babit.si/
-8661983,8661983,"BAJC-MED, ZDRAVSTVENE STORITVE, D.O.O.",IZPOSTAVA ŠMARJE PRI JELŠAH,Stritarjeva ulica 4,3250 Rogaška Slatina,Rogaška Slatina,Rogaška Slatina,Rogaška Slatina,46.24244,15.6402,,
+8661983,8661983,"BAJC-MED, ZDRAVSTVENE STORITVE, D.O.O.",IZPOSTAVA ŠMARJE PRI JELŠAH,Stritarjeva ulica 4,3250 Rogaška Slatina,Rogaška Slatina,Rogaška Slatina,Rogaška Slatina,46.24244,15.6402,,https://bajc-med.si/
 3454818,3454818,BAKLAN BRIGITA - ZASEBNA AMBULANTA SPLOŠNE MEDICINE,IZPOSTAVA PTUJ,Markovci 43,2281 Markovci,Markovci,,Markovci,46.3943,15.93041,(02) 788 82 10,https://www.zdravniki-zobozdravniki.net/clan/Brigita-BAKLAN-692/
 3096695,3096695,BAN-FRIŠČIČ GORDANA - DOKTOR STOMATOLOGIJE,IZPOSTAVA IDRIJA,Ulica Otona Župančiča 3,5280 Idrija,Idrija,Idrija,Idrija,46.00239,14.03016,,
 3122986,3122986,BANKO MILAN - ZASEBNA SPLOŠNA AMBULANTA,IZPOSTAVA DOMŽALE,Mestni trg 2,1230 Domžale,Domžale,Domžale - Slavka Šlandra,Domžale,46.13975,14.59617,01 724 52 34,https://ezdravnik.si/zdravnik/milan-banko/
@@ -784,6 +784,7 @@ zdlsi,,ZD LJUBLJANA - ŠIŠKA,OE LJUBLJANA,Derčeva ulica 5,1000 Ljubljana,Ljubl
 4272966,4272966,"ZOBNA ORDINACIJA FABJAN - TINA FABJAN, DR. DENT. MED.",OE CELJE,Aškerčeva ulica 14,3000 Celje,Celje,Center,Celje,46.23059,15.26804,,http://www.medicalfabjan.si/zobna-ordinacija/
 4224752,4224752,ZOBNA ORDINACIJA GORDANA JAKOPOVIĆ DR. DENT.MED.,OE MURSKA SOBOTA,Ulica Prekmurske čete 12,9000 Murska Sobota,Murska Sobota,Turopolje,Murska Sobota,46.65297,16.15597,,http://www.zobna-ordinacija-gordana-jakopovic-dr-dent-med
 5325017,5325017,ZOBNA ORDINACIJA GORKIČ D.O.O.,OE NOVA GORICA,Morsko 1,5213 Kanal,Morsko,Kanal,Kanal,46.08033,13.63544,,https://www.zdravniki-zobozdravniki.net/clan/Milos-GORKIC-545/
+8588285,8588285,"ZOBNA ORDINACIJA IRDENS, ZOBOZDRAVSTVENE STORITVE, D.O.O.",OE MARIBOR,Cesta k Dravi 8,2241 Spodnji Duplek,Spodnji Duplek,Spodnji Duplek,Duplek,46.50113,15.74875,(02) 684 01 23,
 6485498,6485498,"ZOBNA ORDINACIJA MATEJ HASAJ, DR. DENT. MED.",OE MARIBOR,Koroška cesta 52,2000 Maribor,Maribor,Koroška vrata,Maribor,46.5591,15.63717,(02) 252 65 12,https://www.cakalnedobe.si/ambulante/zobna-ordinacija-matej-hasaj-dr-dent-med
 6219520,6219520,"ZOBNA ORDINACIJA META ČESNIK, DR. DENT. MED.",IZPOSTAVA POSTOJNA,Kolodvorska cesta 24,6257 Pivka,Pivka,Pivka,Pivka,45.68043,14.1946,05 620 34 50,http://zobozdravstvo-mc.si
 4110666,4110666,"ZOBNA ORDINACIJA MOJCA KOŠAR , DR. DENT. MED.",OE MURSKA SOBOTA,Kocljeva ulica 9,9000 Murska Sobota,Murska Sobota,Center,Murska Sobota,46.65945,16.1636,,http://www.zobozdravniki-pomurja.si/profil/11/opis.html
