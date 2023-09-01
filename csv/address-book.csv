@@ -141,6 +141,7 @@ rizddzInstitutionContractorId,rizddzInstitutionId,rizddzLocationId,rizddzDoctorI
 131,131,9,9806,302001,gp,,"dr. med., spec. družinska medicine",MORSKO 1,MORSKO,5213 KANAL,(05) 33 83 342
 131,131,9,10630,302001,gp,,"dr. med., spec. družinska medicine",MORSKO 1,MORSKO,5213 KANAL,(05) 33 83 343
 131,131,10,9814,302001,gp,,"dr. med., spec. družinska medicine",ZADRUŽNA CESTA 1,DOBROVO,5212 DOBROVO V BRDIH,(05) 33 83 265
+131,131,10,12574,302001,gp,,"dr. med., spec. družinska medicine",ZADRUŽNA CESTA 1,DOBROVO,5212 DOBROVO V BRDIH,33 83 169
 131,131,18,11576,302001,gp,,"dr. med., spec. družinska medicine",ULICA GRADNIKOVE BRIGADE 7,NOVA GORICA,5000 NOVA GORICA,33 83 294
 131,131,23,12605,302001,gp,,"dr. med., spec. družinska medicine",TRG 20,RENČE,5292 RENČE,33 83 366
 131,131,24,6535,302002,,,"dr. med., spec. družinska medicine",GRADIŠČE NAD PRVAČINO 4,GRADIŠČE NAD PRVAČINO,5294 DORNBERK,33 83 369
@@ -181,6 +182,7 @@ rizddzInstitutionContractorId,rizddzInstitutionId,rizddzLocationId,rizddzDoctorI
 132,132,17,16705,404101,den,,dr. dent. med.,TRG 20,RENČE,5292 RENČE,(05) 305 32 09
 132,132,17,16705,404103,den-y,,dr. dent. med.,TRG 20,RENČE,5292 RENČE,(05) 305 32 09
 132,132,18,11356,404101,den,,dr. dent. med.,GREGORČIČEVA ULICA 16,,5000 NOVA GORICA,(05) 339 41 00
+133,133,0,126,402111,,,dr.dent.med. spec. otr. in prev. zobozdravstva,PREŠERNOVA ULICA 6 A,TOLMIN,5220 TOLMIN,
 133,133,0,4825,306007,gyn,,"dr. med., spec. ginekologije in porodništva",PREŠERNOVA ULICA 6 A,TOLMIN,5220 TOLMIN,05 620 32 62
 133,133,0,7031,302001,gp,,"dr. med., spec. družinska medicine",PREŠERNOVA ULICA 6 A,TOLMIN,5220 TOLMIN,05 620 32 70
 133,133,0,7520,327009,ped,,"dr. med., spec. pediatrije",PREŠERNOVA ULICA 6 A,TOLMIN,5220 TOLMIN,05 620 32 65
@@ -206,11 +208,11 @@ rizddzInstitutionContractorId,rizddzInstitutionId,rizddzLocationId,rizddzDoctorI
 133,133,3,12823,302001,gp,,"dr. med., spec. družinska medicine",PODBRDO 73A,PODBRDO,5243 PODBRDO,05 620 33 50
 133,133,3,13082,404103,den-y,,dr. dent. med.,PODBRDO 73A,PODBRDO,5243 PODBRDO,05 620 33 52
 133,133,3,14116,327009,ped,,"dr. med., spec. pediatrije",PODBRDO 73A,PODBRDO,5243 PODBRDO,05 620 33 50
-133,133,4,3946,302001,gp,,"dr. med., spec. družinska medicine",MOST NA SOČI 52,MOST NA SOČI,5216 MOST NA SOČI,05 620 33 40
 133,133,4,7725,302001,gp,,"dr. med., spec. družinska medicine",MOST NA SOČI 52,MOST NA SOČI,5216 MOST NA SOČI,05 620 33 42
 133,133,4,8626,404101,den,,dr. dent. med.,MOST NA SOČI 52,MOST NA SOČI,5216 MOST NA SOČI,05 620 33 44
 133,133,4,13082,404101,den,,dr. dent. med.,MOST NA SOČI 52,MOST NA SOČI,5216 MOST NA SOČI,05 620 33 44
 133,133,4,13082,404103,den-y,,dr. dent. med.,MOST NA SOČI 52,MOST NA SOČI,5216 MOST NA SOČI,05 620 33 44
+133,133,4,13222,302001,gp,,"dr. med., spec. družinska medicine",MOST NA SOČI 52,MOST NA SOČI,5216 MOST NA SOČI,05 620 33 40
 133,133,5,4824,302002,,,"dr. med., spec. družinska medicine",GREGORČIČEVA ULICA 32,TOLMIN,5220 TOLMIN,05 380 18 05
 133,133,6,12823,302002,,,"dr. med., spec. družinska medicine",PODBRDO 33,,5243 PODBRDO,05 380 18 50
 133,133,8,8412,404103,den-y,,dr. dent. med.,DIJAŠKA ULICA 12B,TOLMIN,5220 TOLMIN,05 620 33 10
@@ -766,7 +768,6 @@ rizddzInstitutionContractorId,rizddzInstitutionId,rizddzLocationId,rizddzDoctorI
 4031,4031,0,10524,306007,gyn,,"dr. med., spec. ginekologije in porodništva",KIDRIČEVA CESTA 38 A,KRANJ,4000 KRANJ,
 4031,4031,0,12259,306007,gyn,,"dr. med., spec. ginekologije in porodništva",KIDRIČEVA CESTA 38 A,KRANJ,4000 KRANJ,
 4031,4031,0,12280,306007,gyn,,"dr. med., spec. ginekologije in porodništva",KIDRIČEVA CESTA 38 A,KRANJ,4000 KRANJ,
-4031,4031,0,12679,306007,gyn,,"dr. med., spec. ginekologije in porodništva",KIDRIČEVA CESTA 38 A,KRANJ,4000 KRANJ,
 5750,5750,0,5303,306007,gyn,,"dr. med., spec. ginekologije in porodništva",POD GOZDOM CESTA I 14,GROSUPLJE,1290 GROSUPLJE,01 781 84 00
 5750,5750,0,5330,327009,ped,,dr. med.,POD GOZDOM CESTA I 14,GROSUPLJE,1290 GROSUPLJE,01 781 84 00
 5750,5750,0,7224,302001,gp,,"dr. med., spec. splošne medicine",POD GOZDOM CESTA I 14,GROSUPLJE,1290 GROSUPLJE,"01 781 84 00, 01 781 84 16"
@@ -1805,7 +1806,7 @@ rizddzInstitutionContractorId,rizddzInstitutionId,rizddzLocationId,rizddzDoctorI
 20652,20652,2,12490,302002,,,"dr. med., spec. družinska medicine",PEKRSKA CESTA 56,MARIBOR,2000 MARIBOR,02/ 480 56 20
 20652,20652,3,12490,302001,gp,,"dr. med., spec. družinska medicine",PEKRSKA CESTA 56,MARIBOR,2000 MARIBOR,02/ 421 56 14
 20652,20652,4,11740,302001,gp,,"dr. med., spec. družinska medicine",KALOHOVA ULICA 18,MARIBOR,2000 MARIBOR,02/ 421 56 12
-20652,20652,5,11148,302001,gp,,"dr. med., spec. družinska medicine",POHORSKA ULICA 21 A,MARIBOR,2000 MARIBOR,08/ 205 60 32
+20652,20652,5,11148,302001,gp,,"dr. med., spec. družinska medicine",RADVANJSKA CESTA 134,MARIBOR,2000 MARIBOR,08/ 205 60 32
 20656,20656,0,9352,404101,den,,dr. dent. med.,DESTRNIK 9,DESTRNIK,2253 DESTRNIK,02/ 753 01 24
 20656,20656,0,9352,404103,den-y,,dr. dent. med.,DESTRNIK 9,DESTRNIK,2253 DESTRNIK,02/ 753 01 24
 20664,20664,0,9468,404101,den,,dr. dent. med.,CESTA OSVOBODILNE FRONTE 44,MARIBOR,2000 MARIBOR,041/ 281 388
@@ -2007,7 +2008,6 @@ rizddzInstitutionContractorId,rizddzInstitutionId,rizddzLocationId,rizddzDoctorI
 24922,24922,0,7328,302001,gp,,"dr. med., spec.",KOČEVSKA CESTA 25,ŠKOFLJICA,1291 ŠKOFLJICA,
 24925,24925,0,7109,404101,den,,dr. dent. med.,BRAJNIKOVA ULICA 20,LJUBLJANA,1000 LJUBLJANA,059/090 400
 24931,24931,0,6775,302001,gp,,"dr. med., spec. družinska medicine",ROŠKA CESTA 18,KOČEVJE,1330 KOČEVJE,01 893 15 26
-24931,24931,1,6775,302002,,,"dr. med., spec. družinska medicine",PONIKVE 76,PONIKVE,1312 VIDEM - DOBREPOLJE,01 788 01 12
 24939,24939,0,5553,404101,den,,dr. dent. med.,ROŠKA CESTA 18,KOČEVJE,1330 KOČEVJE,01 895 4678
 24949,24949,0,6855,302001,gp,,"dr. med., spec. splošne medicine",KEKČEVA ULICA 3,KOČEVJE,1330 KOČEVJE,01 893 11 30
 24949,24949,0,6855,327009,ped,,"dr. med., spec. splošne medicine",KEKČEVA ULICA 3,KOČEVJE,1330 KOČEVJE,01 893 11 30
