@@ -159,6 +159,7 @@ postZZZS,addressZZZS,lat,lon,street,streetAlt,housenumber,housenumberAppendix,ci
 1000 LJUBLJANA,ULICA LOJZETA SPACALA 10,46.06747,14.47210,Ulica Lojzeta Spacala,,10,,Ljubljana,,Četrtna skupnost Šiška,Ljubljana,1000,Ljubljana,Osrednjeslovenska
 1000 LJUBLJANA,URANIČEVA ULICA 4 A,46.07105,14.47191,Uraničeva ulica,,4,A,Ljubljana,,Četrtna skupnost Šiška,Ljubljana,1000,Ljubljana,Osrednjeslovenska
 1000 LJUBLJANA,V KLADEH 9,46.10876,14.45930,V Kladeh,,9,,Ljubljana,,Četrtna skupnost Šentvid,Ljubljana,1000,Ljubljana,Osrednjeslovenska
+1000 LJUBLJANA,VANDOTOVA ULICA 27,46.03305,14.52414,Vandotova ulica,,27,,Ljubljana,,Četrtna skupnost Rudnik,Ljubljana,1000,Ljubljana,Osrednjeslovenska
 1000 LJUBLJANA,VILHARJEV PODHOD 1,46.06032,14.51507,Vilharjev podhod,,1,,Ljubljana,,Četrtna skupnost Bežigrad,Ljubljana,1000,Ljubljana,Osrednjeslovenska
 1000 LJUBLJANA,VILHARJEV PODHOD 18,46.06015,14.51605,Vilharjev podhod,,18,,Ljubljana,,Četrtna skupnost Bežigrad,Ljubljana,1000,Ljubljana,Osrednjeslovenska
 1000 LJUBLJANA,VILHARJEV PODHOD 7,46.06035,14.51578,Vilharjev podhod,,7,,Ljubljana,,Četrtna skupnost Bežigrad,Ljubljana,1000,Ljubljana,Osrednjeslovenska
@@ -252,6 +253,7 @@ postZZZS,addressZZZS,lat,lon,street,streetAlt,housenumber,housenumberAppendix,ci
 1241 KAMNIK,NOVI TRG 26 A,46.22082,14.61321,Novi trg,,26,A,Kamnik,,Novi trg,Kamnik,1241,Kamnik,Osrednjeslovenska
 1241 KAMNIK,NOVI TRG 43 A,46.21914,14.61117,Novi trg,,43,A,Kamnik,,Novi trg,Kamnik,1241,Kamnik,Osrednjeslovenska
 1241 KAMNIK,PODGORJE 110 A,46.20383,14.57426,Podgorje,,110,A,Podgorje,,Podgorje,Kamnik,1241,Kamnik,Osrednjeslovenska
+1241 KAMNIK,ZIKOVA ULICA 3,46.21533,14.60444,Zikova ulica,,3,,Kamnik,,Perovo,Kamnik,1241,Kamnik,Osrednjeslovenska
 1241 KAMNIK,ŠUTNA 7,46.22403,14.60998,Šutna,,7,,Kamnik,,Kamnik-Center,Kamnik,1241,Kamnik,Osrednjeslovenska
 1251 MORAVČE,VEGOVA 22,46.13743,14.74729,Vegova ulica,,22,,Moravče,,Moravče,Moravče,1251,Moravče,Osrednjeslovenska
 1251 MORAVČE,VEGOVA ULICA 22,46.13743,14.74729,Vegova ulica,,22,,Moravče,,Moravče,Moravče,1251,Moravče,Osrednjeslovenska
