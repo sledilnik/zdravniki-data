@@ -46,7 +46,7 @@ Ambulanta za neopredeljene,gp-f,751640,y,,132.0,2023-03-24,,,,05/29 27 172,https
 Ambulanta za neopredeljene,gp-f,789398,y,,1261.0,2023-03-24,,,,,https://zd-velenje.si/ambulanta-za-neopredeljene-paciente/,,,,,,,,,
 Ambulanta za neopredeljene,gp-f,ozgkr,y,,5.0,2023-07-14,Ukinjena z majem 2023.,n,,04 208 2427,https://www.zd-kranj.si/?subpageid=22&ordid=137,,https://www.gospodar-zdravja.si/reservation/patients/service_provider/4241/doctor/92218/990,,,,,,,
 Ambulanta za neopredeljene,gp-f,zdlbe,y,,939.0,2023-05-17,Sprejemajo samo bivše paciente ZD Bežigrad.,,,,https://www.zd-lj.si/zdlj/index.php?option=com_content&view=article&id=1030:zdl-bezigrad&catid=266&Itemid=2903&lang=sl,,,,,,,,,
-Ambulanta za neopredeljene,gp-f,zdlmp,y,,3826.0,2023-03-22,,,,,https://www.zd-lj.si/zdlj/index.php?option=com_content&view=article&id=1031:zdl-moste-polje&catid=266&Itemid=2904&lang=sl,,,,,,,,,
+Ambulanta za neopredeljene,gp-f,zdlmp,y,,3826.0,2023-09-20,Ne sprejema novih pacientov.,n,,,https://www.zd-lj.si/zdlj/index.php?option=com_content&view=article&id=1031:zdl-moste-polje&catid=266&Itemid=2904&lang=sl,,,,,,,,,
 Ambulanta za neopredeljene,gp-f,zdlsi,y,,799.0,2023-06-26,Sprejema samo bivše paciente ZD Šiška,,,,https://www.zd-lj.si/zdlj/index.php?option=com_content&view=article&id=1032:zdl-siska&catid=266&Itemid=2905&lang=sl,,https://portal.zd-lj.si,,,,,,,
 Ambulanta za neopredeljene,gp-f,zdlvr,y,,1771.0,2023-07-14,Ne sprejema novih pacientov.,n,,,https://www.zd-lj.si/zdlj/index.php?option=com_content&view=article&id=1033:zdl-vic-rudnik&catid=266&Itemid=2906&lang=sl,,,,,,,,,
 Amon Prodnik Vesna,ped,92407,n,0.75,3059.12,,,,,,,,,,,,,,,
@@ -2214,7 +2214,7 @@ Rus Alenka,ped,zdlbe,n,0.75,2555.87,,,,,,,,,,,,,,,
 Rus Dolinar Ida,ped,6997488,n,0.76,2368.03,,,,,,,,,,,,,,,
 Rus Peter,gp,205431,n,0.69,2676.46,2021-12-30,,,,01/837-00-46,,splosna.loski-potok@zdribnica.si,,Hrib-Loški Potok 102,1318 Loški Potok,Hrib-Loški Potok,Loški potok,Loški Potok,45.70030,14.59115
 Rus Peter,ped,205431,n,0.16,2273.13,,,,,,,,,,,,,,,
-Rus Primož,gp,478988,n,1.18,5472.97,2021-12-23,Sprejema nove paciente.,y,,051 400 080,,vrhnika@skupinskapraksa.si,,Stara cesta 4A,1360 Vrhnika,Vrhnika,Vrhnika Center,Vrhnika,45.96590,14.29733
+Rus Primož,gp,478988,n,1.18,5472.97,2023-09-20,Ne sprejema novih pacientov.,n,,051 400 080,,vrhnika@skupinskapraksa.si,,Stara cesta 4A,1360 Vrhnika,Vrhnika,Vrhnika Center,Vrhnika,45.96590,14.29733
 Rus Sergej,gp,3118263,n,1.0,3113.48,,,,,,,,,,,,,,,
 Rus Simonka,den-y,3209958,n,1.0,143.24,,,,,,,,,,,,,,,
 Rus Valerija,gp,3194293,n,1.0,2580.6,,,,,,,,,,,,,,,
