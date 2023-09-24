@@ -1,4 +1,5 @@
 postOver,addressOver,cityOver,lat,lon,street,streetAlt,housenumber,housenumberAppendix,city,cityAlt,municipalityPart,municipality,zipCode,zipName,statisticalRegion
+1000 Ljubljana,Cesta v Mestni log 55,,46.03620,14.48957,Cesta v Mestni log,,55,,Ljubljana,,Četrtna skupnost Trnovo,Ljubljana,1000,Ljubljana,Osrednjeslovenska
 1000 Ljubljana,Kotnikova ulica 36,,46.05708,14.51405,Kotnikova ulica,,36,,Ljubljana,,Četrtna skupnost Center,Ljubljana,1000,Ljubljana,Osrednjeslovenska
 1000 Ljubljana,Metelkova 15,,46.05705,14.51547,Metelkova ulica,,15,,Ljubljana,,Četrtna skupnost Center,Ljubljana,1000,Ljubljana,Osrednjeslovenska
 1000 Ljubljana,Preglov trg 14,,46.05348,14.55878,Preglov trg,,14,,Ljubljana,,Četrtna skupnost Moste,Ljubljana,1000,Ljubljana,Osrednjeslovenska
@@ -30,6 +31,7 @@ postOver,addressOver,cityOver,lat,lon,street,streetAlt,housenumber,housenumberAp
 1360 Vrhnika,Stara cesta 4a,,45.96590,14.29733,Stara cesta,,4,A,Vrhnika,,Vrhnika Center,Vrhnika,1360,Vrhnika,Osrednjeslovenska
 1360 Vrhnika,Stara cesta 7,,45.96563,14.29688,Stara cesta,,7,,Vrhnika,,Vrhnika Breg,Vrhnika,1360,Vrhnika,Osrednjeslovenska
 1432 Zidani Most,Zidani most 9,,46.08562,15.17046,Zidani Most,,9,,Zidani Most,,Zidani Most,Laško,1432,Zidani Most,Savinjska
+2000 Maribor,Kalohova ulica 18,,46.55507,15.61747,Kalohova ulica,,18,,Maribor,,Studenci,Maribor,2000,Maribor,Podravska
 2000 Maribor,Turnerjeva ulica 33,,46.56489,15.63232,Turnerjeva ulica,,33,,Maribor,,Koroška vrata,Maribor,2000,Maribor,Podravska
 2000 Maribor,Ulica kneza Koclja 11,,46.55769,15.65032,Ulica kneza Koclja,,11,,Maribor,,Center,Maribor,2000,Maribor,Podravska
 2000 Maribor,Zagrebška cesta 84a,,46.52839,15.66801,Zagrebška cesta,,84,A,Maribor,,Tezno,Maribor,2000,Maribor,Podravska
@@ -48,6 +50,7 @@ postOver,addressOver,cityOver,lat,lon,street,streetAlt,housenumber,housenumberAp
 3272 Rimske Toplice,Aškerčeva cesta 4,,46.12412,15.19462,Aškerčeva cesta,,4,,Rimske Toplice,,Rimske Toplice,Laško,3272,Rimske Toplice,Savinjska
 3301 Petrovče,Petrovče 33,,46.24494,15.18813,Petrovče,,33,,Petrovče,,Petrovče,Žalec,3301,Petrovče,Savinjska
 3305 Vransko,Vransko 130d,,46.24591,14.95101,Vransko,,130,D,Vransko,,,Vransko,3305,Vransko,Savinjska
+3314 Braslovče,Braslovče 29,,46.28774,15.03991,Braslovče,,29,,Braslovče,,Braslovče,Braslovče,3314,Braslovče,Savinjska
 3325 Šoštanj,Trg Jožeta Lampreta 1,,46.37648,15.04850,Trg Jožeta Lampreta,,1,,Šoštanj,,Šoštanj,Šoštanj,3325,Šoštanj,Savinjska
 3330 Mozirje,Savinjska cesta 6,,46.33885,14.95935,Savinjska cesta,,6,,Mozirje,,Mozirje,Mozirje,3330,Mozirje,Savinjska
 3333 Ljubno ob Savinji,Foršt 28,,46.34498,14.83276,Foršt,,28,,Ljubno ob Savinji,,,Ljubno,3333,Ljubno ob Savinji,Savinjska
@@ -88,6 +91,7 @@ postOver,addressOver,cityOver,lat,lon,street,streetAlt,housenumber,housenumberAp
 6333 Sečovlje,Sečovlje 44,,45.47541,13.61973,Sečovlje,Sicciole,44,,Sečovlje,Sicciole,Sečovlje,Piran,6333,Sečovlje - Sicciole,Obalno-kraška
 8000 Novo mesto,Šmarješka cesta 44,,45.82141,15.18482,Šmarješka cesta,,44,,Novo mesto,,Krajevna skupnost Ločna-Mačkovec,Novo mesto,8000,Novo mesto,Jugovzhodna Slovenija
 8216 Mirna Peč,Trg 2,,45.85907,15.08377,Trg,,2,,Mirna Peč,,,Mirna Peč,8216,Mirna Peč,Jugovzhodna Slovenija
+8232 Šentrupert,Šentrupert 124,,45.97680,15.08850,Šentrupert,,124,,Šentrupert,,,Šentrupert,8232,Šentrupert,Jugovzhodna Slovenija
 8233 Mirna,Cesta na Fužine 10,,45.95289,15.06032,Cesta na Fužine,,10,,Mirna,,,Mirna,8233,Mirna,Jugovzhodna Slovenija
 8270 Krško,Cesta krških žrtev 132C,,45.94307,15.48349,Cesta krških žrtev,,132,C,Krško,,Krško,Krško,8270,Krško,Posavska
 9000 Murska Sobota,Cvetkova ulica 10,Murska Sobota,46.66089,16.16751,Cvetkova ulica,,10,,Murska Sobota,,Center,Murska Sobota,9000,Murska Sobota,Pomurska
