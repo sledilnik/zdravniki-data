@@ -172,6 +172,7 @@ postZZZS,addressZZZS,lat,lon,street,streetAlt,housenumber,housenumberAppendix,ci
 1000 LJUBLJANA,VOJKOVA CESTA 74,46.07115,14.52000,Vojkova cesta,,74,,Ljubljana,,Četrtna skupnost Bežigrad,Ljubljana,1000,Ljubljana,Osrednjeslovenska
 1000 LJUBLJANA,"VRHOVCI, CESTA XVIII 3",46.04606,14.45584,"Vrhovci, cesta XVIII",,3,,Ljubljana,,Četrtna skupnost Rožnik,Ljubljana,1000,Ljubljana,Osrednjeslovenska
 1000 LJUBLJANA,VURNIKOVA ULICA 9,46.06262,14.51543,Vurnikova ulica,,9,,Ljubljana,,Četrtna skupnost Bežigrad,Ljubljana,1000,Ljubljana,Osrednjeslovenska
+1000 LJUBLJANA,ZALOŠKA CESTA 147,46.05654,14.55514,Zaloška cesta,,147,,Ljubljana,,Četrtna skupnost Moste,Ljubljana,1000,Ljubljana,Osrednjeslovenska
 1000 LJUBLJANA,ZALOŠKA CESTA 149,46.05654,14.55551,Zaloška cesta,,149,,Ljubljana,,Četrtna skupnost Moste,Ljubljana,1000,Ljubljana,Osrednjeslovenska
 1000 LJUBLJANA,ZALOŠKA CESTA 159,46.05661,14.55866,Zaloška cesta,,159,,Ljubljana,,Četrtna skupnost Moste,Ljubljana,1000,Ljubljana,Osrednjeslovenska
 1000 LJUBLJANA,ZALOŠKA CESTA 167,46.05636,14.56089,Zaloška cesta,,167,,Ljubljana,,Četrtna skupnost Moste,Ljubljana,1000,Ljubljana,Osrednjeslovenska
@@ -577,7 +578,6 @@ postZZZS,addressZZZS,lat,lon,street,streetAlt,housenumber,housenumberAppendix,ci
 2282 CIRKULANE,CIRKULANE 28,46.34593,15.99901,Cirkulane,,28,,Cirkulane,,,Cirkulane,2282,Cirkulane,Podravska
 2284 VIDEM PRI PTUJU,VIDEM PRI PTUJU 51,46.36906,15.90255,Videm pri Ptuju,,51,,Videm pri Ptuju,,Kraj.skupnost Videm pri Ptuju,Videm,2284,Videm pri Ptuju,Podravska
 2286 PODLEHNIK,PODLEHNIK 9,46.33608,15.87803,Podlehnik,,9,,Podlehnik,,,Podlehnik,2286,Podlehnik,Podravska
-2288 HAJDINA,ZGORNJA HAJDINA 127,46.40832,15.83889,Zgornja Hajdina,,127,,Zgornja Hajdina,,,Hajdina,2288,Hajdina,Podravska
 2288 HAJDINA,ZGORNJA HAJDINA 44 A,46.40766,15.83712,Zgornja Hajdina,,44,A,Zgornja Hajdina,,,Hajdina,2288,Hajdina,Podravska
 2310 SLOVENSKA BISTRICA,DEVINA 13 B,46.40484,15.57309,Devina,,13,B,Devina,,Alfonz Šarh,Slovenska Bistrica,2310,Slovenska Bistrica,Podravska
 2310 SLOVENSKA BISTRICA,DEVINSKA ULICA 11,46.39787,15.57986,Devinska ulica,,11,,Slovenska Bistrica,,Alfonz Šarh,Slovenska Bistrica,2310,Slovenska Bistrica,Podravska
