@@ -994,7 +994,6 @@ postZZZS,addressZZZS,lat,lon,street,streetAlt,housenumber,housenumberAppendix,ci
 5230 BOVEC,KOT 85,46.33596,13.54877,Kot,,85,,Bovec,,Bovec,Bovec,5230,Bovec,Goriška
 5230 BOVEC,KOT 86,46.33609,13.54917,Kot,,86,,Bovec,,Bovec,Bovec,5230,Bovec,Goriška
 5230 BOVEC,MALA VAS 56,46.34016,13.55752,Mala vas,,56,,Bovec,,Bovec,Bovec,5230,Bovec,Goriška
-5243 PODBRDO,PETROVO BRDO 7,46.21455,13.99771,Petrovo Brdo,,7,,Petrovo Brdo,,Podbrdo,Tolmin,5243,Podbrdo,Goriška
 5243 PODBRDO,PODBRDO 33,46.21396,13.97220,Podbrdo,,33,,Podbrdo,,Podbrdo,Tolmin,5243,Podbrdo,Goriška
 5243 PODBRDO,PODBRDO 67,46.20558,13.95963,Podbrdo,,67,,Podbrdo,,Podbrdo,Tolmin,5243,Podbrdo,Goriška
 5243 PODBRDO,PODBRDO 73A,46.21090,13.96798,Podbrdo,,73,A,Podbrdo,,Podbrdo,Tolmin,5243,Podbrdo,Goriška
@@ -1338,7 +1337,7 @@ postZZZS,addressZZZS,lat,lon,street,streetAlt,housenumber,housenumberAppendix,ci
 9242 KRIŽEVCI PRI LJUTOMERU,KRIŽEVCI PRI LJUTOMERU 34 A,46.56666,16.13705,Križevci pri Ljutomeru,,34,A,Križevci pri Ljutomeru,,,Križevci,9242,Križevci pri Ljutomeru,Pomurska
 9242 KRIŽEVCI PRI LJUTOMERU,LUKAVCI 64,46.53721,16.14581,Lukavci,,64,,Lukavci,,,Križevci,9242,Križevci pri Ljutomeru,Pomurska
 9242 KRIŽEVCI PRI LJUTOMERU,LUKAVCI 9,46.54260,16.15051,Lukavci,,9,,Lukavci,,,Križevci,9242,Križevci pri Ljutomeru,Pomurska
-9243 MALA NEDELJA,MALA NEDELJA 36,46.52492,16.05468,Mala Nedelja,,36,,Mala Nedelja,,Mala Nedelja,Ljutomer,9243,Mala Nedelja,Pomurska
+9243 MALA NEDELJA,MORAVCI V SLOV. GORICAH 34B,46.51465,16.05219,Moravci v Slov. goricah,,34,B,Moravci v Slov. goricah,,Mala Nedelja,Ljutomer,9243,Mala Nedelja,Pomurska
 9244 SVETI JURIJ OB ŠČAVNICI,ULICA EDVARDA KOCBEKA 17,46.56753,16.01417,Ulica Edvarda Kocbeka,,17,,Sveti Jurij ob Ščavnici,,,Sveti Jurij ob Ščavnici,9244,Sveti Jurij ob Ščavnici,Pomurska
 9246 RAZKRIŽJE,ŠAFARSKO 24 D,46.52012,16.28685,Šafarsko,,24,D,Šafarsko,,,Razkrižje,9246,Razkrižje,Pomurska
 9250 GORNJA RADGONA,CANKARJEVA CESTA 2,46.67295,15.99299,Cankarjeva cesta,,2,,Gornja Radgona,,KS GORNJA RADGONA,Gornja Radgona,9250,Gornja Radgona,Pomurska
