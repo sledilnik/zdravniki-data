@@ -302,6 +302,25 @@ def get_zzzs_api_data_by_category():
 
         apiInstitutions.append(df)
 
+    # get also gp-x
+    # https://www.zzzs.si/zzzs-api/izvajalci-zdravstvenih-storitev/po-vrsti-izvajalcev/?ajax=1&act=get-izvajalci&type=vrste&key=Dru%C5%BEinski%2C%20otro%C5%A1ki%20in%20%C5%A1olski%20zdravnik
+    zzzsApiKeys=[
+        'Dru%C5%BEinski%2C%20otro%C5%A1ki%20in%20%C5%A1olski%20zdravnik'
+    ]
+
+    for key in zzzsApiKeys:
+        print(f"Fetching from ZZZS API: {key}")
+        apiUrl = f"https://www.zzzs.si/zzzs-api/izvajalci-zdravstvenih-storitev/po-vrsti-izvajalcev/?ajax=1&act=get-izvajalci&type=vrste&key={key}"
+        r = requests.get(apiUrl)
+        r.raise_for_status()
+        j = r.json()
+        df = pd.DataFrame.from_dict(j)
+
+        df.drop(['@entryid'], axis='columns', inplace=True)
+        df.set_index('zzzsSt', inplace=True)
+
+        apiInstitutions.append(df)
+
     df = pd.concat(apiInstitutions).drop_duplicates()
     df.sort_values(by=[*df], inplace=True) # sort by all columns
     df.to_csv('zzzs/institutions-by-category.csv')
