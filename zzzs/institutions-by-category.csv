@@ -655,10 +655,10 @@ zzzsSt,vrsta,oe,tip,sifOe,naziv,naslov,posta,tel,splStran
 5652207,Zasebni,OE MARIBOR,Zobozdravnik,260000,"TOPZOB, ZOBOZDRAVSTVO ZA MLADINO IN ODRASLE, D.O.O.",RAJŠPOVA ULICA 16,2250 PTUJ,02 779 51 01,https://www.topzob.si/
 3095868,Zasebni,OE MARIBOR,Zobozdravnik,260000,TOŠIČ ZORICA - ZASEBNA ZOBNA AMBULANTA,BREG 6 A,2322 MAJŠPERK,(02) 794 30 11,https://www.zdravniki-zobozdravniki.net/clan/Zorica-TOSIC-701/
 3095854,Zasebni,OE MARIBOR,Zobozdravnik,260000,TRIFUNAC VELEMIR - ZASEBNA ZOBNA AMBULANTA,BREG 6 A,2322 MAJŠPERK,(02) 794 20 01,https://www.zdravniki-zobozdravniki.net/clan/Velemir-TRIFUNAC-702/
+5104488,Zasebni,OE MARIBOR,Zobozdravnik,260000,"VIADENT, ZOBOZDRAVSTVENE IN DRUGE STORITVE, D.O.O.",VRBANSKA CESTA 35,2000 MARIBOR,(02) 251 94 74,https://www.cakalnedobe.si/ambulante/zasebna-zobna-ordinacija-drofenik-marko-jozef
 4165847,Zasebni,OE MARIBOR,Zobozdravnik,260000,ZALIVKA DRUŽBA ZA ZOBOZDRAVSTVENO DEJAVNOST IN DRUGE STORITVE D.O.O,KREKOVA ULICA 14 A,2000 MARIBOR,(02) 777 13 41,https://www.cakalnedobe.si/ambulante/zalivka-druzba-za-zobozdravstveno-dejavnost-d-o-o
 5563770,Zasebni,OE MARIBOR,Zobozdravnik,260000,"ZASEBNA ZOBNA AMBULANTA ALBINA ŽIŽEK, DR. DENT. MED.",DESTRNIK 9,2253 DESTRNIK,(02) 753 01 24,https://www.cakalnedobe.si/ambulante/zasebna-zobna-ambulanta-albina-zizek-dr-dent-med
 4491906,Zasebni,OE MARIBOR,Zobozdravnik,260000,"ZASEBNA ZOBNA AMBULANTA ZORAN RIBIČ, DR.DENT.MED.",DORNAVA 135 A,2252 DORNAVA,(02) 755 00 38,https://www.zobozdravstvo-ribic.si/
-5104488,Zasebni,OE MARIBOR,Zobozdravnik,260000,"ZASEBNA ZOBNA ORDINACIJA DROFENIK MARKO JOŽEF, DRUŽBA ZA ZOBOZDRAVSTVENE STORITVE IN SVETOVANJE D.O.O.",VRBANSKA CESTA 35,2000 MARIBOR,(02) 251 94 74,https://www.cakalnedobe.si/ambulante/zasebna-zobna-ordinacija-drofenik-marko-jozef
 6567480,Zasebni,OE MARIBOR,Zobozdravnik,260000,"ZATE, ZOBNA AMBULANTA IN DRUGE STORITVE, D.O.O.",ŽELEZNIKOVA ULICA 4,2000 MARIBOR,(05) 912 65 05,http://www.mini-implantati.si/si/page/ZATE
 4171000,Zasebni,OE MARIBOR,Zobozdravnik,260000,ZDRAV ZOB ZOBOZDRAVSTVENI ZAVOD,JURŠINCI 3,2256 JURŠINCI,02 758 00 31,https://www.cakalnedobe.si/ambulante/zdrav-zob-zobozdravstveni-zavod-zobozdravstvena-dejavnost/
 4521272,Zasebni,OE MARIBOR,Zobozdravnik,260000,"ZDRAVI ZOBJE, ZDRAVSTVENE STORITVE IN IZOBRAŽEVANJE, D.O.O.",ULICA HEROJA NANDETA 37,2000 MARIBOR,(02) 461 17 55,https://www.zdravizobje.si/
@@ -804,7 +804,7 @@ zzzsSt,vrsta,oe,tip,sifOe,naziv,naslov,posta,tel,splStran
 4188710,Zasebni,OE RAVNE NA KOROŠKEM,"Družinski, otroški in šolski zdravnik",300000,"ZDRAVJE - DRUŽINSKA MEDICINA, IVAN URBANC, S.P.",FLORJAN 165 C,3325 ŠOŠTANJ,(03) 588 20 70,https://www.zdravniki-zobozdravniki.net/clan/Ivan-URBANC-998/
 8833439,Zasebni,OE RAVNE NA KOROŠKEM,"Družinski, otroški in šolski zdravnik",300000,"ZDRAVSTVENE STORITVE IN SVETOVANJE, DAŠA ZORE SLATINŠEK S.P.",ČUFARJEVA CESTA 2,3320 VELENJE,03 490 88 36,http://ambulanta-zoreslatinsek.si
 9005050,Zasebni,OE RAVNE NA KOROŠKEM,"Družinski, otroški in šolski zdravnik",300000,"ZDRAVSTVENE STORITVE IN SVETOVANJE, URŠKA TREBIČNIK S.P.",JERIHOVA CESTA 36,3320 VELENJE,,
-8531635,Zasebni,OE RAVNE NA KOROŠKEM,"Družinski, otroški in šolski zdravnik",300000,"ZDRAVSTVENE STORITVE IN SVETOVANJE, VESNA LAH S.P.",CESTA TALCEV 14,3320 VELENJE,03 588 16 46,http://www.medicinalah.si
+8531635,Zasebni,OE RAVNE NA KOROŠKEM,"Družinski, otroški in šolski zdravnik",300000,"ZDRAVSTVENE STORITVE IN SVETOVANJE, VESNA LAH S.P.",CESTA TALCEV 14,3320 VELENJE,03 588 18 40,http://www.medicinalah.si
 3796435,Zasebni,OE RAVNE NA KOROŠKEM,Specialist,300000,"E & A, ZDRAVSTVENE IN DRUGE STORITVE, D.O.O.",OB ŽELEZNICI 26,3313 POLZELA,(03) 838 12 60,https://www.zdravniki-zobozdravniki.net/clan/Edita-ARH-745/
 3036090,Zasebni,OE RAVNE NA KOROŠKEM,Specialist,300000,"GPD GINEKOLOGIJA IN PORODNIŠTVO, POSREDNIŠTVO IN STORITVE, D.O.O.",SONČNI GRIČ 7,3320 VELENJE,064 261 390,https://www.medicalfabjan.si/ginekologija-zzzs
 2954682,Zasebni,OE RAVNE NA KOROŠKEM,Specialist,300000,LEVAK - HOZJAN SONJA - ZASEBNA GINEKOLOŠKA AMBULANTA,VODNIKOVA CESTA 1,3320 VELENJE,(03) 897 29 30,http://www.ginekologija-levak.si
