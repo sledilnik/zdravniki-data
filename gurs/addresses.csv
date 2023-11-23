@@ -533,7 +533,6 @@ postZZZS,addressZZZS,lat,lon,street,streetAlt,housenumber,housenumberAppendix,ci
 2241 SPODNJI DUPLEK,CESTA 4. JULIJA 65,46.50187,15.75064,Cesta 4. julija,,65,,Spodnji Duplek,,Spodnji Duplek,Duplek,2241,Spodnji Duplek,Podravska
 2241 SPODNJI DUPLEK,CESTA K DRAVI 8,46.50113,15.74875,Cesta k Dravi,,8,,Spodnji Duplek,,Spodnji Duplek,Duplek,2241,Spodnji Duplek,Podravska
 2241 SPODNJI DUPLEK,KORENSKA CESTA 31,46.50402,15.75597,Korenska cesta,,31,,Spodnji Duplek,,Spodnji Duplek,Duplek,2241,Spodnji Duplek,Podravska
-2241 SPODNJI DUPLEK,ZGORNJI DUPLEK 103 A,46.51524,15.72835,Zgornji Duplek,,103,A,Zgornji Duplek,,Zgornji Duplek,Duplek,2241,Spodnji Duplek,Podravska
 2242 ZGORNJA KORENA,ŽIKARCE 1 A,46.52291,15.78266,Žikarce,,1,A,Žikarce,,Korena,Duplek,2242,Zgornja Korena,Podravska
 2250 PTUJ,LANGUSOVA ULICA 8,46.43101,15.88301,Langusova ulica,,8,,Ptuj,,Četrt Ljudski vrt,Ptuj,2250,Ptuj,Podravska
 2250 PTUJ,NA TRATAH 4,46.41683,15.87719,Na tratah,,4,,Ptuj,,Četrt Jezero,Ptuj,2250,Ptuj,Podravska
@@ -1043,6 +1042,7 @@ postZZZS,addressZZZS,lat,lon,street,streetAlt,housenumber,housenumberAppendix,ci
 6000 KOPER - CAPODISTRIA,CESTA ZORE PERELLO-GODINA 1,45.54256,13.72830,Cesta Zore Perello-Godina,Strada Zora Perello-Godina,1,,Koper,Capodistria,Koper - Center,Koper,6000,Koper - Capodistria,Obalno-kraška
 6000 KOPER - CAPODISTRIA,DELLAVALLEJEVA ULICA 3,45.54870,13.73094,Dellavallejeva ulica,Via Luciano Dellavalle,3,,Koper,Capodistria,Koper - Center,Koper,6000,Koper - Capodistria,Obalno-kraška
 6000 KOPER - CAPODISTRIA,DOLINSKA CESTA 17 C,45.52901,13.73041,Dolinska cesta,Strada della Valle,17,C,Koper,Capodistria,Olmo-Prisoje,Koper,6000,Koper - Capodistria,Obalno-kraška
+6000 KOPER - CAPODISTRIA,FERRARSKA ULICA 2,45.54284,13.73195,Ferrarska ulica,Via Ferrara,2,,Koper,Capodistria,Koper - Center,Koper,6000,Koper - Capodistria,Obalno-kraška
 6000 KOPER - CAPODISTRIA,GLAGOLJAŠKA ULICA 1 C,45.54925,13.72716,Glagoljaška ulica,Via dei Glagoliti,1,C,Koper,Capodistria,Koper - Center,Koper,6000,Koper - Capodistria,Obalno-kraška
 6000 KOPER - CAPODISTRIA,ISTRSKA CESTA 89 B,45.54636,13.70418,Istrska cesta,Strada dell'Istria,89,B,Koper,Capodistria,Žusterna,Koper,6000,Koper - Capodistria,Obalno-kraška
 6000 KOPER - CAPODISTRIA,KIDRIČEVA ULICA 2,45.54846,13.72938,Kidričeva ulica,Via Boris Kidrič,2,,Koper,Capodistria,Koper - Center,Koper,6000,Koper - Capodistria,Obalno-kraška
