@@ -89,7 +89,6 @@ id_inst,zzzsSt,name,unit,address,post,city,municipalityPart,municipality,lat,lon
 2990899,2990899,CIGLER MARIJA - DOKTOR STOMATOLOGIJE,IZPOSTAVA SLOVENJ GRADEC,Partizanska pot 16,2380 Slovenj Gradec,Slovenj Gradec,Center,Slovenj Gradec,46.50693,15.08202,(02) 882 12 02,https://ordinacijacigler.si/
 3113738,3113738,CIMAN ROBERT - ZOBNA ORDINACIJA,OE NOVA GORICA,Ulica Gradnikove brigade 7,5000 Nova Gorica,Nova Gorica,Krajevna skupnost Nova Gorica,Nova Gorica,45.95843,13.64623,,https://www.zdravniki-zobozdravniki.net/clan/Robert-CIMAN-555/
 8876856,8876856,"CLINICAL, ZUNAJBOLNIŠNIČNA SPECIALISTIČNA ZDRAVSTVENA DEJAVNOST D.O.O.",OE LJUBLJANA,Podpeška cesta 14,1351 Brezovica pri Ljubljani,Brezovica pri Ljubljani,Brezovica,Brezovica,46.02162,14.41607,01 330 72 64,https://clinical.si/
-2954711,2954711,COLARIĆ MARJAN - ZDRAVNIK SPLOŠNE MEDICINE,IZPOSTAVA SLOVENSKA BISTRICA,Bistriška cesta 62,2319 Poljčane,Poljčane,,Poljčane,46.3129,15.57823,(02) 802 59 97,https://zdravniki-zobozdravniki.net/Clan/Marjan-COLARIC-396
 820549,820549,"CORONA DENTIS ZOBOZDRAVSTVENA DEJAVNOST, ZOBOTEHNIČNA DEJAVNOST IN TRGOVINA D.O.O.",OE MARIBOR,Pesnica pri Mariboru 42C,2211 Pesnica pri Mariboru,Pesnica pri Mariboru,Pesnica pri Mariboru,Pesnica,46.60846,15.67654,070 595 300,https://www.corona-dentis.si/
 4107515,4107515,"CUSPIS ZOBOZDRAVSTVO, TRGOVINA IN OSTALE STORITVE D.O.O.",IZPOSTAVA PTUJ,Podgorci 48,2273 Podgorci,Podgorci,Podgorci,Ormož,46.42049,16.04944,02 764 00 74,http://www.slovenski-zobozdravniki.si/alenka-krabonja
 5189793,5189793,CYCLOPET RADIOFARMAKI IN DIAGNOSTIKA D.O.O.,OE LJUBLJANA,Martinčeva ulica 30,1000 Ljubljana,Ljubljana,Četrtna skupnost Dravlje,Ljubljana,46.07876,14.46871,01/437 01 61,http://www.zobest.si
@@ -108,7 +107,7 @@ id_inst,zzzsSt,name,unit,address,post,city,municipalityPart,municipality,lat,lon
 4106949,4106949,DENTALCARE PREVENTIVNA IN OTROŠKA ZOBOZDRAVSTVENA DEJAVNOST D.O.O.,OE KRŠKO,Cesta krških žrtev 132C,8270 Krško,Krško,Krško,Krško,45.94307,15.48349,(07) 488 02 72,http://www.dentalcare.si/
 803482,803482,"DENTALEN - TERJAK, DRUŽBA ZA ZOBOZDRAVSTVENO DEJAVNOST D.O.O.",OE MARIBOR,Spodnji Slemen 11,2352 Selnica ob Dravi,Spodnji Slemen,,Selnica ob Dravi,46.56018,15.52055,(02) 252 68 57,https://www.cakalnedobe.si/ambulante/dentalen-terjak-druzba-za-zobozdravstveno-dejavnost-d-o-o
 5918513,5918513,"DENTALNA GALERIJA MAJOMA, ZOBOZDRAVSTVENE STORITVE, D.O.O.",OE MARIBOR,Cesta zmage 98,2000 Maribor,Maribor,Tabor,Maribor,46.54312,15.63496,(02) 331 11 73,https://majoma.si/
-4553883,4553883,"DENTALNI ATELJE MATIJA BRVAR, DR. DENT. MED.",OE MARIBOR,Tomšičeva ulica 23,2000 Maribor,Maribor,Ivan Cankar,Maribor,46.56585,15.65337,(02) 250 83 61,http://dentalni-atelje.si/
+8626022,8626022,"DENTALNI ATELJE, ZOBOZDRAVSTVENE IN DRUGE STORITVE, D.O.O.",OE MARIBOR,Tomšičeva ulica 23,2000 Maribor,Maribor,Ivan Cankar,Maribor,46.56585,15.65337,02/ 250 83 61,https://dentalni-atelje.si/
 4377667,4377667,DENTALNI CENTER DR. LAH KRAVANJA D.O.O.,IZPOSTAVA TOLMIN,Mala vas 56,5230 Bovec,Bovec,Bovec,Bovec,46.34016,13.55752,05 389 63 03,https://mydentist.si
 5738161,5738161,DENTALNI CENTER TATALOVIČ ZOBOZDRAVSTVO D.O.O.,OE KRŠKO,Cesta krških žrtev 112,8270 Krško,Krško,Krško,Krško,45.95115,15.48664,07 49 22 012,http://www.tatalovic.si/
 5091710,5091710,"DENTALNI IN ESTETSKI STUDIO VB, ZOBOZDRAVSTVENE IN DRUGE ZDRAVSTVENE DEJAVNOSTI, D.O.O.",OE MARIBOR,Jezdarska ulica 7,2000 Maribor,Maribor,Magdalena,Maribor,46.55122,15.64209,(02) 320 58 66,https://dentalni-estetski.si/
@@ -142,7 +141,6 @@ id_inst,zzzsSt,name,unit,address,post,city,municipalityPart,municipality,lat,lon
 7995315,7995315,"DR. IRINA VOSTRUEVA, SPECIALISTIČNA ZDRAVSTVENA DEJAVNOST, D.O.O.",OE LJUBLJANA,Peričeva ulica 29,1000 Ljubljana,Ljubljana,Četrtna skupnost Bežigrad,Ljubljana,46.06668,14.51192,(01) 436 43 00,https://ginekologijabezigrad.si/
 2674956,2674956,"DR. ČOK DENTAL, ZOBOZDRAVSTVO D.O.O.",IZPOSTAVA PIRAN,Obala 114,6320 Portorož - Portorose,Lucija,Lucija,Piran,45.50349,13.60337,05 677 17 00,http://www.drcokdental.si
 3123080,3123080,DRENIK IRENA - ZASEBNA ZOBNA AMBULANTA,OE CELJE,Nazorjeva ulica 14,3000 Celje,Celje,Medlog,Celje,46.23485,15.24024,(03) 492 12 40,https://www.zdravniki-zobozdravniki.net/clan/Irena-DRENIK-170/
-6381804,6381804,"DRUŽINSKA MEDICINA BOŽIČEK, ZDRAVSTVENE STORITVE D.O.O.",IZPOSTAVA ŠMARJE PRI JELŠAH,Bistrica ob Sotli 61,3256 Bistrica ob Sotli,Bistrica ob Sotli,,Bistrica ob Sotli,46.05571,15.66327,,http://medicinabozicek.spisarna.si/
 7139250,7139250,DRUŽINSKA MEDICINA DR. ANJA ČERNE - ZASEBNA ZDRAVNICA,OE LJUBLJANA,Dol pri Ljubljani 4,1262 Dol pri Ljubljani,Dol pri Ljubljani,Dol,Dol pri Ljubljani,46.08894,14.64003,068 696 622,http://www.medicina-cerne.si/
 8570939,8570939,"DRUŽINSKA MEDICINA STUDENCI, SPLOŠNA ZUNAJBOLNIŠNIČNA ZDRAVSTVENA DEJAVNOST, D.O.O.",OE MARIBOR,Hrastje 56B,2341 Limbuš,Hrastje,Pekre,Maribor,46.54745,15.58404,(02) 429 00 90,
 6186000,6186000,"DRUŽINSKA MEDICINA ŽAGAR, D.O.O.",OE NOVO MESTO,Jurčičeva ulica 32,8360 Žužemberk,Žužemberk,,Žužemberk,45.83205,14.93017,073 888 069,https://druzinska-medicina-zagar.weebly.com/
@@ -333,7 +331,7 @@ id_inst,zzzsSt,name,unit,address,post,city,municipalityPart,municipality,lat,lon
 3435198,3435198,"NAGLIDENT, DRUŽBA ZA ZOBOZDRAVSTVENE IN OSTALE STORITVE, D.O.O.",IZPOSTAVA TRŽIČ,Predilniška cesta 6,4290 Tržič,Tržič,Tržič - mesto,Tržič,46.36187,14.30768,(04) 592 36 00,http://www.naglident.si/
 4110908,4110908,"NAL, ZOBOZDRAVSTVENA DEJAVNOST, D.O.O.",IZPOSTAVA ŠKOFJA LOKA,Podgornikova ulica 1,1000 Ljubljana,Ljubljana,Četrtna skupnost Šiška,Ljubljana,46.07375,14.47954,04 511 17 14,http://www.nal.si
 3727990,3727990,NASMEH ZOBOZDRAVSTVO ZOBOZDRAVSTVENE STORITVE D.O.O.,OE NOVO MESTO,Kandijska cesta 62,8000 Novo mesto,Novo mesto,Krajevna skupnost Žabja vas,Novo mesto,45.79919,15.17787,07 332 20 10,http://www.nasmehzobozdravstvo.wordpress.com
-8779383,8779383,NEJA JURJEC SMOLE - ZOBOZDRAVSTVENA DEJAVNOST - SPLOŠNO ZOBOZDRAVSTVO,IZPOSTAVA ŠMARJE PRI JELŠAH,Celjska cesta 7,3250 Rogaška Slatina,Rogaška Slatina,Rogaška Slatina,Rogaška Slatina,46.23915,15.63321,,
+7870503,7870503,ND DENTAL ZOBOZDRAVSTVENA DEJAVNOST D.O.O.,IZPOSTAVA ŠMARJE PRI JELŠAH,Celjska cesta 7,3250 Rogaška Slatina,Rogaška Slatina,Rogaška Slatina,Rogaška Slatina,46.23915,15.63321,03 819 05 10,https://www.nd-dental.si/
 3962520,3962520,"NEŠKOVIĆ DANKA, DR. DENT. MED. - ZASEBNA STOMATOLOŠKA ORDINACIJA",IZPOSTAVA KOČEVJE,Ljubljanska cesta 19,1330 Kočevje,Kočevje,Kočevje-mesto,Kočevje,45.64149,14.85688,(01) 895 48 19,
 4108680,4108680,"NIKA PODBREGAR, DR.DENT.MED. - ZASEBNA ZOBNA AMBULANTA",IZPOSTAVA ŽALEC,Prešernova ulica 6,3310 Žalec,Žalec,Mestna skupnost Žalec,Žalec,46.25093,15.16216,(03) 710 05 75,http://www.ambulanta-podbregar.si/
 3112823,3112823,NIKIČ ALENKA - DOKTOR STOMATOLOGIJE,OE NOVO MESTO,Trubarjeva cesta 5,8310 Šentjernej,Šentjernej,Šentjernej,Šentjernej,45.84409,15.33708,07 337 39 80,http://www.cakalnedobe.si/ambulante/nikic-alenka-doktor-stomatologije-zobozdravstvena-dejavnost/
@@ -404,7 +402,6 @@ ozgsl,,"OSNOVNO ZDRAVSTVO GORENJSKE, OE ZDRAVSTVENI DOM ŠKOFJA LOKA",IZPOSTAVA 
 3110410,3110410,RAJNAR - VOROŠ ZVEZDICA - SANA VITA ZASEBNA SPLOŠNA AMBULANTA,OE MURSKA SOBOTA,CVETKOVA ULICA 10,9000 MURSKA SOBOTA,,,???,,,,https://www.zdravniki-zobozdravniki.net/clan/Zvezdica-RAJNAR-VOROS-1274/
 3645080,3645080,RAN ZOBOZDRAVSTVENA DEJAVNOST D.O.O.,IZPOSTAVA ŠKOFJA LOKA,Reteče 205,4220 Škofja Loka,Reteče,Reteče - Gorenja vas,Škofja Loka,46.15779,14.37091,(04) 511 17 27,https://ran.centerhocevar.com/
 6464867,6464867,"REMEDIA ZDRAVSTVO, IZOBRAŽEVANJE IN SOCIALNE STORITVE D.O.O.",OE LJUBLJANA,Hruševska cesta 6A,1000 Ljubljana,Ljubljana,Četrtna skupnost Golovec,Ljubljana,46.04676,14.54206,01 286 38 33,https://dzdravje.si/remedia/
-3122219,3122219,REPNIK NADA - ZASEBNA ZOBNA AMBULANTA,IZPOSTAVA SLOVENSKE KONJICE,Mestni trg 17,3210 Slovenske Konjice,Slovenske Konjice,Slovenske Konjice,Slovenske Konjice,46.33998,15.42862,03 575 54 05,http://www.zdravniki-zobozdravniki.net/nadarepnik
 3137166,3137166,RIHTARŠIČ IRENA - SPLOŠNA AMBULANTA,OE MURSKA SOBOTA,Ulica Staneta Rozmana 11A,9000 Murska Sobota,Murska Sobota,Center,Murska Sobota,46.66162,16.16734,,https://www.zdravniki-zobozdravniki.net/clan/Irena-RIHTARSIC-184/
 3126073,3126073,RITUPER BOJNEC MIRA - ZOBNA AMBULANTA,OE MURSKA SOBOTA,Kocljevo naselje 9,9231 Beltinci,Beltinci,Beltinci,Beltinci,46.6088,16.23201,,http://wwwzobozdravniki-pomurja.si
 5651459,5651459,RODNA STORITVE ZA ZDRAVJE D.O.O.,OE KRANJ,Zasavska cesta 58D,4000 Kranj,Kranj,Orehek - Drulovka,Kranj,46.21782,14.36865,,http://www.rodna.si
@@ -727,6 +724,7 @@ zdlsi,,ZD LJUBLJANA - ŠIŠKA,OE LJUBLJANA,Derčeva ulica 5,1000 Ljubljana,Ljubl
 6183191,6183191,ZDRAVSTVENI ZAVOD I DENT KRANJ,OE KRANJ,Vrečkova ulica 3,4000 Kranj,Kranj,Planina,Kranj,46.23503,14.36105,064 261 477,http://zobozdravstvo-vujovic.si
 4396695,4396695,ZDRAVSTVENI ZAVOD IMPLANT DENT POSTOJNA,IZPOSTAVA POSTOJNA,Prečna ulica 2,6230 Postojna,Postojna,Postojna,Postojna,45.77205,14.21042,070 826 778,http://www.implantdentpostojna.eu/
 6861492,6861492,"ZDRAVSTVENI ZAVOD KOS, RUŠE",OE MARIBOR,Stadionska ulica 4,2342 Ruše,Ruše,,Ruše,46.54277,15.50623,(02) 603 64 97,https://zdravniki-zobozdravniki.net/Clan/Edvard-KOS-53
+9096234,9096234,ZDRAVSTVENI ZAVOD LESKOVEC KOPER,OE KOPER,Vojkovo nabrežje 23,6000 Koper - Capodistria,Koper,Koper - Center,Koper,45.54627,13.73404,05 626 02 94,
 5951814,5951814,ZDRAVSTVENI ZAVOD MARKDENS KOPER,OE KOPER,Beblerjeva ulica 7,6000 Koper - Capodistria,Koper,Žusterna,Koper,45.54048,13.70814,05 628 53 52,http://www.markdens.si
 5628458,5628458,ZDRAVSTVENI ZAVOD MIRADENT KOPER,OE KOPER,Cesta Zore Perello-Godina 1,6000 Koper - Capodistria,Koper,Koper - Center,Koper,45.54256,13.7283,(05) 663 81 60,http://www.zdravniki-zobozdravniki.net/clan/mirjana-tavcar-782/
 4979124,4979124,ZDRAVSTVENI ZAVOD MULTIMEDICUS,OE LJUBLJANA,Utik 52,1217 Vodice,Utik,,Vodice,46.16785,14.50143,082 015 361,http://www.zzmm.si
