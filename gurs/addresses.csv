@@ -957,6 +957,7 @@ postZZZS,addressZZZS,lat,lon,street,streetAlt,housenumber,housenumberAppendix,ci
 4290 TRŽIČ,DETELJICA 10,46.35571,14.29218,Deteljica,,10,,Bistrica pri Tržiču,,Bistrica pri Tržiču,Tržič,4290,Tržič,Gorenjska
 4290 TRŽIČ,PREDILNIŠKA CESTA 6,46.36187,14.30768,Predilniška cesta,,6,,Tržič,,Tržič - mesto,Tržič,4290,Tržič,Gorenjska
 4290 TRŽIČ,ROČEVNICA 58,46.35296,14.28957,Ročevnica,,58,,Ročevnica,,Bistrica pri Tržiču,Tržič,4290,Tržič,Gorenjska
+5000 NOVA GORICA,BEVKOV TRG 6,45.95762,13.64674,Bevkov trg,,6,,Nova Gorica,,Krajevna skupnost Nova Gorica,Nova Gorica,5000,Nova Gorica,Goriška
 5000 NOVA GORICA,CANKARJEVA ULICA 60,45.96193,13.64493,Cankarjeva ulica,,60,,Nova Gorica,,Krajevna skupnost Nova Gorica,Nova Gorica,5000,Nova Gorica,Goriška
 5000 NOVA GORICA,ERJAVČEVA ULICA 30,45.95367,13.63740,Erjavčeva ulica,,30,,Nova Gorica,,Krajevna skupnost Nova Gorica,Nova Gorica,5000,Nova Gorica,Goriška
 5000 NOVA GORICA,GREGORČIČEVA ULICA 16,45.95219,13.64773,Gregorčičeva ulica,,16,,Nova Gorica,,Krajevna skupnost Nova Gorica,Nova Gorica,5000,Nova Gorica,Goriška
@@ -967,7 +968,6 @@ postZZZS,addressZZZS,lat,lon,street,streetAlt,housenumber,housenumberAppendix,ci
 5000 NOVA GORICA,REJČEVA ULICA 2,45.95782,13.64582,Rejčeva ulica,,2,,Nova Gorica,,Krajevna skupnost Nova Gorica,Nova Gorica,5000,Nova Gorica,Goriška
 5000 NOVA GORICA,REJČEVA ULICA 4,45.95794,13.64553,Rejčeva ulica,,4,,Nova Gorica,,Krajevna skupnost Nova Gorica,Nova Gorica,5000,Nova Gorica,Goriška
 5000 NOVA GORICA,SEDEJEVA ULICA 10,45.96044,13.65288,Sedejeva ulica,,10,,Nova Gorica,,Krajevna skupnost Nova Gorica,Nova Gorica,5000,Nova Gorica,Goriška
-5000 NOVA GORICA,SEDEJEVA ULICA 6,45.96038,13.65156,Sedejeva ulica,,6,,Nova Gorica,,Krajevna skupnost Nova Gorica,Nova Gorica,5000,Nova Gorica,Goriška
 5000 NOVA GORICA,STRELIŠKA POT 2,45.95104,13.63447,Streliška pot,,2,,Nova Gorica,,Krajevna skupnost Nova Gorica,Nova Gorica,5000,Nova Gorica,Goriška
 5000 NOVA GORICA,ULICA GRADNIKOVE BRIGADE 47,45.96276,13.64769,Ulica Gradnikove brigade,,47,,Nova Gorica,,Krajevna skupnost Nova Gorica,Nova Gorica,5000,Nova Gorica,Goriška
 5000 NOVA GORICA,ULICA GRADNIKOVE BRIGADE 7,45.95843,13.64623,Ulica Gradnikove brigade,,7,,Nova Gorica,,Krajevna skupnost Nova Gorica,Nova Gorica,5000,Nova Gorica,Goriška
