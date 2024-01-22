@@ -1,4 +1,5 @@
 postOver,addressOver,cityOver
+1000 Ljubljana,Cesta v Mestni log 55,
 1000 Ljubljana,Metelkova 15,
 1000 Ljubljana,Preglov trg 14,
 1000 Ljubljana,Rakovniška ulica 4,
@@ -28,6 +29,7 @@ postOver,addressOver,cityOver
 1360 Vrhnika,Stara cesta 4a,
 1360 Vrhnika,Stara cesta 7,
 1432 Zidani Most,Zidani most 9,
+2000 Maribor,Kalohova ulica 18,
 2000 Maribor,Turnerjeva ulica 33,
 2000 Maribor,Ulica Kneza Koclja 10,
 2000 Maribor,Ulica kneza Koclja 11,
@@ -47,6 +49,7 @@ postOver,addressOver,cityOver
 3272 Rimske Toplice,Aškerčeva cesta 4,
 3301 Petrovče,Petrovče 33,
 3305 Vransko,Vransko 130d,
+3314 Braslovče,Braslovče 29,
 3325 Šoštanj,Trg Jožeta Lampreta 1,
 3330 Mozirje,Savinjska cesta 6,
 3333 Ljubno ob Savinji,Foršt 28,
@@ -87,6 +90,7 @@ postOver,addressOver,cityOver
 6333 Sečovlje,Sečovlje 44,
 8000 Novo mesto,Šmarješka cesta 44,
 8216 Mirna Peč,Trg 2,
+8232 Šentrupert,Šentrupert 124,
 8233 Mirna,Cesta na Fužine 10,
 8270 Krško,Cesta krških žrtev 132C,
 9000 Murska Sobota,Cvetkova ulica 10,Murska Sobota
