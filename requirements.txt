@@ -4,4 +4,4 @@ openpyxl==3.1.*
 requests==2.31.*
 beautifulsoup4==4.12.2
 sheet2csv==1.0.7
-python-dotenv==1.0.0
+python-dotenv==1.0.1
