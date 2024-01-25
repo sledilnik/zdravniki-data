@@ -309,6 +309,7 @@ postZZZS,addressZZZS,lat,lon,street,streetAlt,housenumber,housenumberAppendix,ci
 1330 KOČEVJE,ROŠKA CESTA 18,45.63938,14.86562,Roška cesta,,18,,Kočevje,,Kočevje-mesto,Kočevje,1330,Kočevje,Jugovzhodna Slovenija
 1330 KOČEVJE,ROŠKA CESTA 22,45.64005,14.86716,Roška cesta,,22,,Kočevje,,Kočevje-mesto,Kočevje,1330,Kočevje,Jugovzhodna Slovenija
 1330 KOČEVJE,VAS FARA,,,,,,,,,,,,,
+1337 OSILNICA,OSILNICA,,,,,,,,,,,,,
 1338 KOČEVSKA REKA,KOČEVSKA REKA,,,,,,,,,,,,,
 1351 BREZOVICA PRI LJUBLJANI,NOVA POT 5,46.00970,14.41547,Nova pot,,5,,Vnanje Gorice,,Vnanje Gorice,Brezovica,1351,Brezovica pri Ljubljani,Osrednjeslovenska
 1351 BREZOVICA PRI LJUBLJANI,PODPEŠKA CESTA 14,46.02162,14.41607,Podpeška cesta,,14,,Brezovica pri Ljubljani,,Brezovica,Brezovica,1351,Brezovica pri Ljubljani,Osrednjeslovenska
@@ -1024,6 +1025,7 @@ postZZZS,addressZZZS,lat,lon,street,streetAlt,housenumber,housenumberAppendix,ci
 5290 ŠEMPETER PRI GORICI,CESTA PREKOMORSKIH BRIGAD 25,45.93053,13.63792,Cesta Prekomorskih brigad,,25,,Šempeter pri Gorici,,,Šempeter-Vrtojba,5290,Šempeter pri Gorici,Goriška
 5290 ŠEMPETER PRI GORICI,CESTA PREKOMORSKIH BRIGAD 3,45.93034,13.63913,Cesta Prekomorskih brigad,,3,,Šempeter pri Gorici,,,Šempeter-Vrtojba,5290,Šempeter pri Gorici,Goriška
 5290 ŠEMPETER PRI GORICI,CESTA PREKOMORSKIH BRIGAD 3 B,45.93016,13.63891,Cesta Prekomorskih brigad,,3,B,Šempeter pri Gorici,,,Šempeter-Vrtojba,5290,Šempeter pri Gorici,Goriška
+5290 ŠEMPETER PRI GORICI,ULICA 9. SEPTEMBRA 140,45.91119,13.63405,Ulica 9. septembra,,140,,Vrtojba,,,Šempeter-Vrtojba,5290,Šempeter pri Gorici,Goriška
 5290 ŠEMPETER PRI GORICI,ULICA PADLIH BORCEV 13 A,45.93020,13.64083,Ulica padlih borcev,,13,A,Šempeter pri Gorici,,,Šempeter-Vrtojba,5290,Šempeter pri Gorici,Goriška
 5290 ŠEMPETER PRI GORICI,ŽNIDARČIČEVA ULICA 21,45.92606,13.63130,Žnidarčičeva ulica,,21,,Šempeter pri Gorici,,,Šempeter-Vrtojba,5290,Šempeter pri Gorici,Goriška
 5291 MIREN,MIREN 137,45.89199,13.60618,Miren,,137,,Miren,,Miren,Miren-Kostanjevica,5291,Miren,Goriška
@@ -1316,6 +1318,7 @@ postZZZS,addressZZZS,lat,lon,street,streetAlt,housenumber,housenumberAppendix,ci
 9221 MARTJANCI,MARTJANCI 13,46.68564,16.18812,Martjanci,,13,,Martjanci,,Martjanci,Moravske Toplice,9221,Martjanci,Pomurska
 9221 MARTJANCI,MARTJANCI 29 A,46.68523,16.19015,Martjanci,,29,A,Martjanci,,Martjanci,Moravske Toplice,9221,Martjanci,Pomurska
 9221 MARTJANCI,MARTJANCI 35,46.68503,16.19115,Martjanci,,35,,Martjanci,,Martjanci,Moravske Toplice,9221,Martjanci,Pomurska
+9223 DOBROVNIK - DOBRONAK,DOBROVNIK 297,46.65132,16.35208,Dobrovnik,Dobronak,297,,Dobrovnik,Dobronak,KS DOBROVNIK,Dobrovnik,9223,Dobrovnik - Dobronak,Pomurska
 9224 TURNIŠČE,ŠTEFANA KOVAČA 97,46.62631,16.31201,Ulica Štefana Kovača,,97,,Turnišče,,Turnišče pri Lendavi,Turnišče,9224,Turnišče,Pomurska
 9225 VELIKA POLANA,VELIKA POLANA 109,46.57246,16.34498,Velika Polana,,109,,Velika Polana,,,Velika Polana,9225,Velika Polana,Pomurska
 9226 MORAVSKE TOPLICE,KRANJČEVA ULICA 14 A,46.68480,16.21961,Kranjčeva ulica,,14,A,Moravske Toplice,,Moravske Toplice,Moravske Toplice,9226,Moravske Toplice,Pomurska
