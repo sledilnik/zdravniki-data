@@ -219,7 +219,7 @@ id_inst,zzzsSt,name,unit,address,post,city,municipalityPart,municipality,lat,lon
 5091629,5091629,"JVP DENTAL, ZOBOZDRAVSTVENE STORITVE, D.O.O.",OE MARIBOR,Pohorska ulica 21B,2000 Maribor,Maribor,Radvanje,Maribor,46.53831,15.60509,(02) 614 22 51,https://www.zdravniki-zobozdravniki.net/clan/jasmina-vranicar-pece-908/
 2878554,2878554,K & C ZOBOZDRAVSTVO D.O.O.,OE KRANJ,Gosposvetska ulica 10A,4000 Kranj,Kranj,Zlato polje,Kranj,46.24862,14.35322,04 236 46 10,http://www.zobozdravnica-kopac.si/
 6724496,6724496,"KALAMED D.O.O., AMBULANTA DRUŽINSKE MEDICINE",IZPOSTAVA VELENJE,Prešernova cesta 9A,3320 Velenje,Velenje,Velenje - levi breg - zahod,Velenje,46.35935,15.10963,(059) 056 860,https://ezdravnik.si/zdravnik/kalamed/
-3434266,3434266,"KAMA-DENT D.O.O., ZOBOZDRAVSTVENA DEJAVNOST, LJUBLJANA",IZPOSTAVA DOMŽALE,Filipičeva ulica 1,1000 Ljubljana,Ljubljana,Četrtna skupnost Trnovo,Ljubljana,46.04113,14.49404,,http://www.kamadent.si/
+3434266,3434266,"KAMA-DENT D.O.O., ZOBOZDRAVSTVENA DEJAVNOST, LJUBLJANA",IZPOSTAVA DOMŽALE,Filipičeva ulica 1,1000 Ljubljana,Ljubljana,Četrtna skupnost Trnovo,Ljubljana,46.04113,14.49404,031 212 336,http://www.kamadent.si/
 1566071,1566071,KANSKY GABERŠEK MARINA - ZOBOZDRAVSTVENA ORDINACIJA,OE LJUBLJANA,Dunajska cesta 22,1000 Ljubljana,Ljubljana,Četrtna skupnost Bežigrad,Ljubljana,46.06212,14.5093,01/232 76 79,https://www.zdravniki-zobozdravniki.net/clan/Marina-KANSKY-GABERSEK-1222/
 6540995,6540995,"KARDIOLOGIJA MARINŠEK & GINEKOLOGIJA PETERNELJ, ZDRAVSTVENE STORITVE, SVETOVANJE IN IZOBRAŽEVANJE D.O.O.",OE CELJE,Dobriša vas 81,3301 Petrovče,Dobriša vas,Petrovče,Žalec,46.24659,15.1821,030 389 089,http://www.ginekologija-peternelj.si
 3137243,3137243,KASTELEC STANOVNIK LADKA - ZASEBNA ZOBOZDRAVSTVENA ORDINACIJA,IZPOSTAVA VRHNIKA,Cesta 6. maja 11,1360 Vrhnika,Vrhnika,Vrhnika Center,Vrhnika,45.96278,14.29358,01 750 23 33,http://www.slovenski-zobozdravniki.si/
@@ -267,7 +267,7 @@ id_inst,zzzsSt,name,unit,address,post,city,municipalityPart,municipality,lat,lon
 3630991,3630991,LOVŠIN URŠKA - ZOBOZDRAVSTVENA ORDINACIJA,IZPOSTAVA LITIJA,Partizanska pot 8A,1270 Litija,Litija,Mestna skupnost Litija,Litija,46.05389,14.83656,(01) 899 55 70,https://www.urskalovsin.com/kontakt
 3123489,3123489,LOŽAR OLGA - SPLOŠNA AMBULANTA ZGORNJE JARŠE,IZPOSTAVA DOMŽALE,KAMNIŠKA CESTA 24,1235 RADOMLJE,,,???,,,01 721 00 90,https://www.zdravniki-zobozdravniki.net/clan/Olga-LOZAR-337/
 3092693,3092693,LUKAČ MIRKO - ZOBNA AMBULANTA,IZPOSTAVA LENDAVA,Mlinska ulica 6E,9220 Lendava - Lendva,Lendava,Lendava,Lendava,46.56214,16.45301,,http://www.zobozdravniki-pomurja.si
-3122972,3122972,LUKIČ MERELA ANA - ZOBOZDRAVSTVENA AMBULANTA,IZPOSTAVA DOMŽALE,Pelechova cesta 18,1235 Radomlje,Preserje pri Radomljah,Preserje,Domžale,46.16801,14.59744,,
+3122972,3122972,LUKIČ MERELA ANA - ZOBOZDRAVSTVENA AMBULANTA,IZPOSTAVA DOMŽALE,Pelechova cesta 18,1235 Radomlje,Preserje pri Radomljah,Preserje,Domžale,46.16801,14.59744,01/722 80 73,https://www.zobozdravstvo-lukic.si/
 3124484,3124484,LUPŠE - ŠTAMPAR JASNA - DEJAVNOST SPLOŠNE MEDICINE,OE MARIBOR,Partizanska cesta 59,2000 Maribor,Maribor,Ivan Cankar,Maribor,46.56358,15.6579,(02) 250 17 20,https://www.zdravniki-zobozdravniki.net/clan/Jasna-LUPSE-STAMPAR-243/
 3122466,3122466,LUŽNIK PETER - DOKTOR STOMATOLOGIJE,IZPOSTAVA SLOVENJ GRADEC,Prešernova ulica 3C,2380 Slovenj Gradec,Slovenj Gradec,Legen-mesto,Slovenj Gradec,46.51484,15.0839,(02) 884 29 33,http://orodent.si/zobna.html
 3998947,3998947,"M-DENS, ZOBOZDRAVSTVENA ORDINACIJA IN LABORATORIJ ZA ZOBNO PROTETIKO, D.O.O.",OE LJUBLJANA,Zaloška cesta 147,1000 Ljubljana,Ljubljana,Četrtna skupnost Moste,Ljubljana,46.05654,14.55514,031/017 527,
@@ -479,7 +479,7 @@ ozgsl,,"OSNOVNO ZDRAVSTVO GORENJSKE, OE ZDRAVSTVENI DOM ŠKOFJA LOKA",IZPOSTAVA 
 179839,179839,SŽ - ŽELEZNIŠKI ZDRAVSTVENI DOM LJUBLJANA,OE NOVA GORICA,Celovška cesta 4,1000 Ljubljana,Ljubljana,Četrtna skupnost Center,Ljubljana,46.0573,14.50122,(01) 33 05 101,http://www.zzd.si/
 6501933,6501933,"T DENT, ZOBNA ORDINACIJA, D.O.O.",IZPOSTAVA KAMNIK,Glavarjeva cesta 61A,1218 Komenda,Komenda,,Komenda,46.20453,14.53935,040 802 532,http://www.tdent.si
 4975443,4975443,"TADEJA ŠTRUMBELJ, DR.MED., ZASEBNI ZDRAVSTVENI ZAVOD ŠTRUMBELJ",OE LJUBLJANA,Na Palcah 2,1211 Ljubljana - Šmartno,Ljubljana,Četrtna skupnost Šmarna gora,Ljubljana,46.12111,14.47331,(01) 565 40 69,https://www.zzz-strumbelj.si/
-6162114,6162114,"TAJA DULAR POTOČAR, DR. DENT. MED., ZASEBNA ZOBOZDRAVSTVENA ORDINACIJA",IZPOSTAVA DOMŽALE,Aljaževa ulica 9,1234 Mengeš,Mengeš,,Mengeš,46.1699,14.57643,,http://dulardent.si/
+6162114,6162114,"TAJA DULAR POTOČAR, DR. DENT. MED., ZASEBNA ZOBOZDRAVSTVENA ORDINACIJA",IZPOSTAVA DOMŽALE,Aljaževa ulica 9,1234 Mengeš,Mengeš,,Mengeš,46.1699,14.57643,01/723 81 92,http://dulardent.si/
 4585559,4585559,"TANJA NEDELJKOVIĆ, DR.DENT.MED., - ZASEBNA ZOBNA ORDINACIJA",IZPOSTAVA AJDOVŠČINA,Tovarniška cesta 2B,5270 Ajdovščina,Ajdovščina,Krajevna skupnost Ajdovščina,Ajdovščina,45.88681,13.90359,05 368 00 81,https://www.zdravniki-zobozdravniki.net/clan/Tanja-NEDELJKOVIC-1128/
 8569868,8569868,"TANJA ŠPICLIN, DR. MED. - SPLOŠNA IN DRUŽINSKA MEDICINA",OE LJUBLJANA,Polhov Gradec 13,1355 Polhov Gradec,Polhov Gradec,Polhov Gradec,Dobrova-Polhov Gradec,46.06521,14.31457,,
 3155978,3155978,TATALOVIČ RATKO - AMBULANTA GINEKOLOGIJE IN PORODNIŠTVA,OE LJUBLJANA,Tbilisijska ulica 59,1000 Ljubljana,Ljubljana,Četrtna skupnost Vič,Ljubljana,46.03762,14.47887,(01) 257 47 90,http://www.ginekolog-tatalovic.si
@@ -683,7 +683,7 @@ zdlsi,,ZD LJUBLJANA - ŠIŠKA,OE LJUBLJANA,Derčeva ulica 5,1000 Ljubljana,Ljubl
 3259412,3259412,ZDRAVSTVENI DOM MEDVODE,OE LJUBLJANA,Ostrovrharjeva ulica 6,1215 Medvode,Medvode,Medvode - center,Medvode,46.14535,14.4056,,http://www.zd-medvode.si/
 91813,91813,ZDRAVSTVENI DOM METLIKA,IZPOSTAVA METLIKA,Cesta bratstva in enotnosti 71,8330 Metlika,Metlika,Mestna skupnost Metlika,Metlika,45.64848,15.31814,07 369 14 00,http://www.zd-metlika.si
 772405,772405,ZDRAVSTVENI DOM MURSKA SOBOTA,OE MURSKA SOBOTA,Grajska ulica 24,9000 Murska Sobota,Murska Sobota,Ledava,Murska Sobota,46.66402,16.16066,,http://www.zd-ms.si
-91918,91918,ZDRAVSTVENI DOM NOVO MESTO,OE NOVO MESTO,Kandijska cesta 4,8000 Novo mesto,Novo mesto,Krajevna skupnost Drska,Novo mesto,45.80129,15.1627,07 391 67 00,http://www.zd-nm.si
+91918,91918,ZDRAVSTVENI DOM NOVO MESTO,OE NOVO MESTO,Kandijska cesta 4,8000 Novo mesto,Novo mesto,Krajevna skupnost Drska,Novo mesto,45.80129,15.1627,073 916 700,http://www.zd-nm.si
 92120,92120,ZDRAVSTVENI DOM ORMOŽ,IZPOSTAVA ORMOŽ,Ulica dr. Hrovata 4,2270 Ormož,Ormož,Ormož,Ormož,46.40724,16.14333,02 741 09 00,http://www.zd-ormoz.si/
 141819,141819,ZDRAVSTVENI DOM OSNOVNO VARSTVO NOVA GORICA,OE NOVA GORICA,Rejčeva ulica 4,5000 Nova Gorica,Nova Gorica,Krajevna skupnost Nova Gorica,Nova Gorica,45.95794,13.64553,,http://www.zd-go.si
 710804,710804,ZDRAVSTVENI DOM PIRAN POLIAMBULATORIO PIRANO,IZPOSTAVA PIRAN,Cesta solinarjev 1,6320 Portorož - Portorose,Lucija,Lucija,Piran,45.50452,13.60205,05 620 72 32,http://www.zd-piran.si
