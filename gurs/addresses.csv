@@ -230,6 +230,7 @@ postZZZS,addressZZZS,lat,lon,street,streetAlt,housenumber,housenumberAppendix,ci
 1231 LJUBLJANA - ČRNUČE,DUNAJSKA CESTA 405,46.10448,14.53545,Dunajska cesta,,405,,Ljubljana,,Četrtna skupnost Črnuče,Ljubljana,1231,Ljubljana - Črnuče,Osrednjeslovenska
 1231 LJUBLJANA - ČRNUČE,PETKOVA ULICA 16,46.09907,14.52792,Petkova ulica,,16,,Ljubljana,,Četrtna skupnost Črnuče,Ljubljana,1231,Ljubljana - Črnuče,Osrednjeslovenska
 1231 LJUBLJANA - ČRNUČE,ZASAVSKA CESTA 95,46.09189,14.57495,Zasavska cesta,,95,,Ljubljana,,Četrtna skupnost Črnuče,Ljubljana,1231,Ljubljana - Črnuče,Osrednjeslovenska
+1233 DOB,GORJUŠA 17,46.13838,14.63581,Gorjuša,,17,,Gorjuša,,Dob,Domžale,1233,Dob,Osrednjeslovenska
 1233 DOB,PREŠERNOVA ULICA 11,46.15085,14.62615,Prešernova ulica,,11,,Dob,,Dob,Domžale,1233,Dob,Osrednjeslovenska
 1234 MENGEŠ,ALJAŽEVA ULICA 9,46.16990,14.57643,Aljaževa ulica,,9,,Mengeš,,,Mengeš,1234,Mengeš,Osrednjeslovenska
 1234 MENGEŠ,GLAVNI TRG 13,46.16820,14.57322,Glavni trg,,13,,Mengeš,,,Mengeš,1234,Mengeš,Osrednjeslovenska
@@ -713,6 +714,7 @@ postZZZS,addressZZZS,lat,lon,street,streetAlt,housenumber,housenumberAppendix,ci
 3000 CELJE,OPEKARNIŠKA CESTA 15 A,46.24623,15.27069,Opekarniška cesta,,15,A,Celje,,Gaberje,Celje,3000,Celje,Savinjska
 3000 CELJE,PLEČNIKOVA ULICA 29,46.22686,15.27788,Plečnikova ulica,,29,,Celje,,Aljažev hrib,Celje,3000,Celje,Savinjska
 3000 CELJE,RAZLAGOVA ULICA 10,46.22662,15.26608,Razlagova ulica,,10,,Celje,,Center,Celje,3000,Celje,Savinjska
+3000 CELJE,STRMA POT 4,46.24790,15.26581,Strma pot,,4,,Celje,,Nova vas,Celje,3000,Celje,Savinjska
 3000 CELJE,TRUBARJEVA ULICA 11,46.23108,15.25643,Trubarjeva ulica,,11,,Celje,,Kajuh,Celje,3000,Celje,Savinjska
 3000 CELJE,ULICA BRATOV VOŠNJAKOV 12,46.24598,15.26429,Ulica bratov Vošnjakov,,12,,Celje,,Nova vas,Celje,3000,Celje,Savinjska
 3000 CELJE,VESELOVA ULICA 13,46.23698,15.26756,Veselova ulica,,13,,Celje,,Dolgo polje,Celje,3000,Celje,Savinjska
@@ -1116,10 +1118,12 @@ postZZZS,addressZZZS,lat,lon,street,streetAlt,housenumber,housenumberAppendix,ci
 6280 ANKARAN - ANCARANO,JADRANSKA CESTA 31,45.58116,13.72755,Jadranska cesta,Strada dell'Adriatico,31,,Ankaran,Ancarano,,Ankaran,6280,Ankaran - Ancarano,Obalno-kraška
 6280 ANKARAN - ANCARANO,KOLOMBAN 38 F,45.58875,13.74737,Kolomban,Colombano,38,F,Kolomban,Colombano,Hrvatini,Koper,6280,Ankaran - Ancarano,Obalno-kraška
 6280 ANKARAN - ANCARANO,KOLOMBAN 54 A,45.59191,13.74653,Kolomban,Colombano,54,A,Kolomban,Colombano,Hrvatini,Koper,6280,Ankaran - Ancarano,Obalno-kraška
+6280 ANKARAN - ANCARANO,REGENTOVA ULICA 6,45.58085,13.73887,Regentova ulica,Via Ivan Regent,6,,Ankaran,Ancarano,,Ankaran,6280,Ankaran - Ancarano,Obalno-kraška
 6281 ŠKOFIJE,SPODNJE ŠKOFIJE 174 A,45.57104,13.79217,Spodnje Škofije,,174,A,Spodnje Škofije,,Škofije,Koper,6281,Škofije,Obalno-kraška
 6281 ŠKOFIJE,ZGORNJE ŠKOFIJE 79 N,45.56185,13.80214,Zgornje Škofije,,79,N,Zgornje Škofije,,Škofije,Koper,6281,Škofije,Obalno-kraška
 6310 IZOLA - ISOLA,BRKINSKA ULICA 3,45.53690,13.66234,Brkinska ulica,Via dei Brkini,3,,Izola,Isola,Haliaetum,Izola,6310,Izola - Isola,Obalno-kraška
 6310 IZOLA - ISOLA,CANKARJEV DREVORED 16,45.53713,13.66242,Cankarjev drevored,Viale Ivan Cankar,16,,Izola,Isola,Haliaetum,Izola,6310,Izola - Isola,Obalno-kraška
+6310 IZOLA - ISOLA,JUŽNA CESTA 101,45.53028,13.65288,Južna cesta,Strada Meridionale,101,,Izola,Isola,Livade,Izola,6310,Izola - Isola,Obalno-kraška
 6310 IZOLA - ISOLA,JUŽNA CESTA 4 B,45.53109,13.66517,Južna cesta,Strada Meridionale,4,B,Izola,Isola,Livade,Izola,6310,Izola - Isola,Obalno-kraška
 6310 IZOLA - ISOLA,KAJUHOVA ULICA 1 B,45.53446,13.66402,Kajuhova ulica,Via Kajuh,1,B,Izola,Isola,Livade,Izola,6310,Izola - Isola,Obalno-kraška
 6310 IZOLA - ISOLA,KAJUHOVA ULICA 34,45.53002,13.66787,Kajuhova ulica,Via Kajuh,34,,Izola,Isola,Livade,Izola,6310,Izola - Isola,Obalno-kraška
@@ -1291,6 +1295,7 @@ postZZZS,addressZZZS,lat,lon,street,streetAlt,housenumber,housenumberAppendix,ci
 9000 MURSKA SOBOTA,MLADINSKA ULICA 10,,,,,,,,,,,,,
 9000 MURSKA SOBOTA,PLESE 2,46.65833,16.17610,Plese,,2,,Murska Sobota,,Ledava,Murska Sobota,9000,Murska Sobota,Pomurska
 9000 MURSKA SOBOTA,SOBOŠKA ULICA 17,46.62069,16.14742,Soboška ulica,,17,,Bakovci,,Bakovci,Murska Sobota,9000,Murska Sobota,Pomurska
+9000 MURSKA SOBOTA,TRG ZMAGE 4,46.66132,16.16321,Trg zmage,,4,,Murska Sobota,,Center,Murska Sobota,9000,Murska Sobota,Pomurska
 9000 MURSKA SOBOTA,TRSTENJAKOVA ULICA 34,46.65416,16.16627,Trstenjakova ulica,,34,,Murska Sobota,,Partizan,Murska Sobota,9000,Murska Sobota,Pomurska
 9000 MURSKA SOBOTA,TRSTENJAKOVA ULICA 69,46.65477,16.16795,Trstenjakova ulica,,69,,Murska Sobota,,Partizan,Murska Sobota,9000,Murska Sobota,Pomurska
 9000 MURSKA SOBOTA,ULICA ARHITEKTA NOVAKA 13,46.65940,16.16937,Ulica arhitekta Novaka,,13,,Murska Sobota,,Center,Murska Sobota,9000,Murska Sobota,Pomurska
