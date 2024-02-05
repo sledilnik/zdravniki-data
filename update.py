@@ -280,18 +280,18 @@ def get_zzzs_api_data_all():
 def get_zzzs_api_data_by_category():
     # keys for ZZZS API calls, add as needed, see https://www.zzzs.si/zzzs-api/izvajalci-zdravstvenih-storitev/po-dejavnosti/
     zzzsApiKeys=[
-        'Splošna ambulanta',
-        'Otroški in šolski dispanzer',
-        'Zobozdravstvo za odrasle',
-        'Zobozdravstvo za mladino',
-        'Zobozdravstvo za študente',
-        'Dispanzer za ženske'
+        ('Splošna dejavnost', 'Splošna ambulanta'),
+        ('Splošna dejavnost', 'Otroški in šolski dispanzer'),
+        ('Zobozdravstvo', 'Zobozdravstvo za odrasle'),
+        ('Zobozdravstvo', 'Zobozdravstvo za mladino'),
+        ('Zobozdravstvo', 'Zobozdravstvo za študente'),
+        ('Splošna dejavnost', 'Dispanzer za ženske')
     ]
 
     apiInstitutions = []
     for key in zzzsApiKeys:
         print(f"Fetching from ZZZS API: {key}")
-        apiUrl = f"https://www.zzzs.si/zzzs-api/izvajalci-zdravstvenih-storitev/po-dejavnosti/?ajax=1&act=get-izvajalci&type=dejavnosti&key={key}"
+        apiUrl = f"https://www.zzzs.si/zzzs-api/izvajalci-zdravstvenih-storitev/po-dejavnosti/?ajax=1&act=get-izvajalci&type=dejavnosti&lang=&kat={key[0]}&key={key[1]}"
         r = requests.get(apiUrl)
         r.raise_for_status()
         j = r.json()
