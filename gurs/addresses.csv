@@ -183,7 +183,6 @@ postZZZS,addressZZZS,lat,lon,street,streetAlt,housenumber,housenumberAppendix,ci
 1000 LJUBLJANA,ČUČKOVA ULICA 17,46.03501,14.45303,Čučkova ulica,,17,,Ljubljana,,Četrtna skupnost Vič,Ljubljana,1000,Ljubljana,Osrednjeslovenska
 1000 LJUBLJANA,ŠARHOVA ULICA 20,46.07926,14.51017,Šarhova ulica,,20,,Ljubljana,,Četrtna skupnost Bežigrad,Ljubljana,1000,Ljubljana,Osrednjeslovenska
 1000 LJUBLJANA,ŠESTOVA ULICA 10,46.04631,14.48719,Šestova ulica,,10,,Ljubljana,,Četrtna skupnost Vič,Ljubljana,1000,Ljubljana,Osrednjeslovenska
-1000 LJUBLJANA,ŠIŠENSKA CESTA 44,46.07131,14.48026,Šišenska cesta,,44,,Ljubljana,,Četrtna skupnost Šiška,Ljubljana,1000,Ljubljana,Osrednjeslovenska
 1000 LJUBLJANA,ŠLAJMERJEVA ULICA 6,46.05426,14.52502,Šlajmerjeva ulica,,6,,Ljubljana,,Četrtna skupnost Center,Ljubljana,1000,Ljubljana,Osrednjeslovenska
 1000 LJUBLJANA,ŠTEMBALOVA 2 A,46.07912,14.51537,Štembalova ulica,,2,A,Ljubljana,,Četrtna skupnost Bežigrad,Ljubljana,1000,Ljubljana,Osrednjeslovenska
 1000 LJUBLJANA,ŽELEZNA CESTA 10,46.06082,14.51403,Železna cesta,,10,,Ljubljana,,Četrtna skupnost Bežigrad,Ljubljana,1000,Ljubljana,Osrednjeslovenska
@@ -309,8 +308,6 @@ postZZZS,addressZZZS,lat,lon,street,streetAlt,housenumber,housenumberAppendix,ci
 1330 KOČEVJE,ROŠKA CESTA 18,45.63938,14.86562,Roška cesta,,18,,Kočevje,,Kočevje-mesto,Kočevje,1330,Kočevje,Jugovzhodna Slovenija
 1330 KOČEVJE,ROŠKA CESTA 22,45.64005,14.86716,Roška cesta,,22,,Kočevje,,Kočevje-mesto,Kočevje,1330,Kočevje,Jugovzhodna Slovenija
 1330 KOČEVJE,VAS FARA,,,,,,,,,,,,,
-1337 OSILNICA,OSILNICA,,,,,,,,,,,,,
-1338 KOČEVSKA REKA,KOČEVSKA REKA,,,,,,,,,,,,,
 1351 BREZOVICA PRI LJUBLJANI,NOVA POT 5,46.00970,14.41547,Nova pot,,5,,Vnanje Gorice,,Vnanje Gorice,Brezovica,1351,Brezovica pri Ljubljani,Osrednjeslovenska
 1351 BREZOVICA PRI LJUBLJANI,PODPEŠKA CESTA 14,46.02162,14.41607,Podpeška cesta,,14,,Brezovica pri Ljubljani,,Brezovica,Brezovica,1351,Brezovica pri Ljubljani,Osrednjeslovenska
 1351 BREZOVICA PRI LJUBLJANI,PODPEŠKA CESTA 208,46.00242,14.41325,Podpeška cesta,,208,,Vnanje Gorice,,Vnanje Gorice,Brezovica,1351,Brezovica pri Ljubljani,Osrednjeslovenska
@@ -889,7 +886,6 @@ postZZZS,addressZZZS,lat,lon,street,streetAlt,housenumber,housenumberAppendix,ci
 4207 CERKLJE NA GORENJSKEM,KRVAVŠKA CESTA 4,46.25433,14.48847,Krvavška cesta,,4,,Cerklje na Gorenjskem,,Cerklje na Gorenjskem,Cerklje na Gorenjskem,4207,Cerklje na Gorenjskem,Gorenjska
 4207 CERKLJE NA GORENJSKEM,ŠMARTNO 70,46.24908,14.51508,Šmartno,,70,,Šmartno,,Šmartno,Cerklje na Gorenjskem,4207,Cerklje na Gorenjskem,Gorenjska
 4208 ŠENČUR,PIPANOVA CESTA 43,46.24860,14.41889,Pipanova cesta,,43,,Šenčur,,Šenčur,Šenčur,4208,Šenčur,Gorenjska
-4208 ŠENČUR,PIPANOVA CESTA 51 C,46.24928,14.42003,Pipanova cesta,,51,C,Šenčur,,Šenčur,Šenčur,4208,Šenčur,Gorenjska
 4208 ŠENČUR,POSLOVNA CONA A 10,46.23803,14.40783,Poslovna cona A,,10,,Šenčur,,Šenčur,Šenčur,4208,Šenčur,Gorenjska
 4208 ŠENČUR,POSLOVNA CONA A 32,46.23713,14.40876,Poslovna cona A,,32,,Šenčur,,Šenčur,Šenčur,4208,Šenčur,Gorenjska
 4208 ŠENČUR,ROŽNA ULICA 44,46.23852,14.41220,Rožna ulica,,44,,Šenčur,,Šenčur,Šenčur,4208,Šenčur,Gorenjska
@@ -1266,7 +1262,6 @@ postZZZS,addressZZZS,lat,lon,street,streetAlt,housenumber,housenumberAppendix,ci
 8340 ČRNOMELJ,ULICA NA PRISTAVAH 1,45.57823,15.19245,Ulica na Pristavah,,1,,Črnomelj,,KS Črnomelj,Črnomelj,8340,Črnomelj,Jugovzhodna Slovenija
 8340 ČRNOMELJ,ULICA OTONA ŽUPANČIČA 3,45.57421,15.19108,Ulica Otona Župančiča,,3,,Črnomelj,,KS Črnomelj,Črnomelj,8340,Črnomelj,Jugovzhodna Slovenija
 8340 ČRNOMELJ,ZADRUŽNA CESTA 33,45.57914,15.19513,Zadružna cesta,,33,,Črnomelj,,KS Črnomelj,Črnomelj,8340,Črnomelj,Jugovzhodna Slovenija
-8342 STARI TRG OB KOLPI,PREDGRAD,,,,,,,,,,,,,
 8344 VINICA,VINICA 39 A,45.46053,15.25291,Vinica,,39,A,Vinica,,KS Vinica,Črnomelj,8344,Vinica,Jugovzhodna Slovenija
 8350 DOLENJSKE TOPLICE,KELTSKA ULICA 9,45.75288,15.05415,Keltska ulica,,9,,Dolenjske Toplice,,,Dolenjske Toplice,8350,Dolenjske Toplice,Jugovzhodna Slovenija
 8350 DOLENJSKE TOPLICE,PIONIRSKA CESTA 35,45.75720,15.05350,Pionirska cesta,,35,,Dolenjske Toplice,,,Dolenjske Toplice,8350,Dolenjske Toplice,Jugovzhodna Slovenija
