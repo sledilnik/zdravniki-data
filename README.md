@@ -18,7 +18,7 @@ ___
 
 ### ZZZS
 
-* :white_check_mark: xlsx [Seznami zdravnikov, ki so lahko osebni zdravniki](https://zavarovanec.zzzs.si/wps/portal/portali/azos/ioz/ioz_izvajalci)
+* :white_check_mark: xlsx [Seznami zdravnikov, ki so lahko osebni zdravniki](https://zavarovanec.zzzs.si/izbira-in-zamenjava-osebnega-zdravnika/seznami-zdravnikov/)
 * :white_check_mark: API [Izvajalci zdravstvenih storitev po dejavnosti](https://www.zzzs.si/zzzs-api/izvajalci-zdravstvenih-storitev/po-dejavnosti/)
   * [Splošna ambulanta](https://www.zzzs.si/zzzs-api/izvajalci-zdravstvenih-storitev/po-dejavnosti/?ajax=1&act=get-izvajalci&type=dejavnosti&key=Splo%C5%A1na%20ambulanta)
   * [Otroški in šolski dispanzer](https://www.zzzs.si/zzzs-api/izvajalci-zdravstvenih-storitev/po-dejavnosti/?ajax=1&act=get-izvajalci&type=dejavnosti&key=Otro%C5%A1ki%20in%20%C5%A1olski%20dispanzer)
