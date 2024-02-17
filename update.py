@@ -381,17 +381,18 @@ def download_zzzs_xlsx_files():
     # 28.03.2023, Število opredeljenih pri zobozdravnikih
     # 28.03.2023, Število opredeljenih pri splošnih zdravnikih (družinski, otroški oz. šolski zdravniki)
     nameRegex= r".* (zobozdravniki|zdravniki|ginekologi|za boljšo dostopnost|za neopredeljene).*"
-    dateRegex= r"([0-9]{1,2}\.[0-9]{1,2}\.20[0-9]{2})"
 
-    BaseURL = "https://zavarovanec.zzzs.si/wps/portal/portali/azos/ioz/ioz_izvajalci"
-    page = requests.get(BaseURL)
+    BaseURL = "https://zavarovanec.zzzs.si/izbira-in-zamenjava-osebnega-zdravnika/seznami-zdravnikov/"    
+    page = requests.get(BaseURL, verify=False)
     page.raise_for_status()
     soup = BeautifulSoup(page.content, "html.parser")
-    ultag = soup.find("ul", class_="datoteke")
+    tableElement = soup.find("table", id="seznamdatotek-1560")
+    tableBodyElement = tableElement.find('tbody')
 
-    for litag in ultag.find_all('li'):
-        dateMatch=match = re.match(dateRegex, litag.text)
-        atag=litag.find('a')
+    for tableBodyRowElement in tableBodyElement.find_all('tr'):
+        dateCellElement = tableBodyRowElement.find('td')
+        dateText=dateCellElement.text.strip()
+        atag=tableBodyRowElement.find('a')
         title=atag.text
         print(title)
 
@@ -401,7 +402,7 @@ def download_zzzs_xlsx_files():
             # raise
             continue
 
-        date = datetime.datetime.strptime(dateMatch.group(1), '%d.%m.%Y').date()
+        date = datetime.datetime.strptime(dateText, '%d.%m.%Y').date()
         group = match.group(1).lower().replace(' ', '-')
         filename = f"{date}_{group}.xlsx"
         destDir = os.path.join("zzzs/", f"{date.year:04}", f"{date.month:02}")
@@ -414,10 +415,10 @@ def download_zzzs_xlsx_files():
             h=atag['href'].strip()
             url=urllib.parse.urljoin(BaseURL,h)
 
-            r = requests.get(url, allow_redirects=True)
+            r = requests.get(url, verify=False, allow_redirects=True)
             r.raise_for_status()
             ct = r.headers.get('content-type')
-            if ct.lower() != "application/xlsx":
+            if ct.lower() != "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet":
                 print(f"Unexpected content type '{ct}'.")
                 raise
 
