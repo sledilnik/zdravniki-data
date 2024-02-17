@@ -60,6 +60,9 @@ jobs:
       env:
         GOOGLE_API_KEY: ${{ secrets.GOOGLE_API_KEY }}
       run: |
+        sudo apt install ca-certificates
+        sudo update-ca-certificates --fresh
+        export SSL_CERT_DIR=/etc/ssl/certs
         python update.py 
 
     # Runs a set of commands using the runners shell
