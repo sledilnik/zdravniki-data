@@ -5,7 +5,7 @@
 ## How to run scripts
 
 ___
-Triggeer the [update workflow](https://github.com/sledilnik/zdravniki-data/actions/workflows/update.yaml) or to run it locally run in this folder:
+Trigger the [update workflow](https://github.com/sledilnik/zdravniki-data/actions/workflows/update.yaml) or to run it locally run in this folder:
 
 1. `python3 -m venv venv` or `virtualenv -p python3 venv`
 1. `source venv/bin/activate`
