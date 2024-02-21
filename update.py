@@ -383,7 +383,7 @@ def download_zzzs_xlsx_files():
     nameRegex= r".* (zobozdravniki|zdravniki|ginekologi|za boljšo dostopnost|za neopredeljene).*"
 
     BaseURL = "https://zavarovanec.zzzs.si/izbira-in-zamenjava-osebnega-zdravnika/seznami-zdravnikov/"    
-    page = requests.get(BaseURL, verify=False)
+    page = requests.get(BaseURL)
     page.raise_for_status()
     soup = BeautifulSoup(page.content, "html.parser")
     tableElement = soup.find("table", id="seznamdatotek-1560")
@@ -415,7 +415,7 @@ def download_zzzs_xlsx_files():
             h=atag['href'].strip()
             url=urllib.parse.urljoin(BaseURL,h)
 
-            r = requests.get(url, verify=False, allow_redirects=True)
+            r = requests.get(url, allow_redirects=True)
             r.raise_for_status()
             ct = r.headers.get('content-type')
             if ct.lower() != "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet":
