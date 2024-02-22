@@ -775,7 +775,6 @@ postZZZS,addressZZZS,lat,lon,street,streetAlt,housenumber,housenumberAppendix,ci
 3254 PODČETRTEK,TRŠKA CESTA 76,46.15768,15.59547,Trška cesta,,76,,Podčetrtek,,Podčetrtek,Podčetrtek,3254,Podčetrtek,Savinjska
 3254 PODČETRTEK,ZDRAVILIŠKA CESTA 24,46.15826,15.60687,Zdraviliška cesta,,24,,Podčetrtek,,Podčetrtek,Podčetrtek,3254,Podčetrtek,Savinjska
 3256 BISTRICA OB SOTLI,BISTRICA OB SOTLI 3,46.05651,15.66083,Bistrica ob Sotli,,3,,Bistrica ob Sotli,,,Bistrica ob Sotli,3256,Bistrica ob Sotli,Posavska
-3256 BISTRICA OB SOTLI,BISTRICA OB SOTLI 61,46.05571,15.66327,Bistrica ob Sotli,,61,,Bistrica ob Sotli,,,Bistrica ob Sotli,3256,Bistrica ob Sotli,Posavska
 3260 KOZJE,KOZJE 150,46.07369,15.56080,Kozje,,150,,Kozje,,Kozje,Kozje,3260,Kozje,Savinjska
 3261 LESIČNO,GUBNO 10,46.11737,15.51784,Gubno,,10,,Gubno,,Lesično,Kozje,3261,Lesično,Savinjska
 3270 LAŠKO,KIDRIČEVA ULICA 5,46.15397,15.23683,Kidričeva ulica,,5,,Laško,,Laško,Laško,3270,Laško,Savinjska
@@ -1299,7 +1298,6 @@ postZZZS,addressZZZS,lat,lon,street,streetAlt,housenumber,housenumberAppendix,ci
 9000 MURSKA SOBOTA,ULICA GENERALA MAISTRA 23,46.65371,16.15626,Ulica generala Maistra,,23,,Murska Sobota,,Turopolje,Murska Sobota,9000,Murska Sobota,Pomurska
 9000 MURSKA SOBOTA,ULICA PREKMURSKE ČETE 12,46.65297,16.15597,Ulica Prekmurske čete,,12,,Murska Sobota,,Turopolje,Murska Sobota,9000,Murska Sobota,Pomurska
 9000 MURSKA SOBOTA,ULICA STANETA ROZMANA 11 A,46.66162,16.16734,Ulica Staneta Rozmana,,11,A,Murska Sobota,,Center,Murska Sobota,9000,Murska Sobota,Pomurska
-9000 MURSKA SOBOTA,ULICA STANETA ROZMANA 16,46.66145,16.16862,Ulica Staneta Rozmana,,16,,Murska Sobota,,Center,Murska Sobota,9000,Murska Sobota,Pomurska
 9103 MURSKA SOBOTA RAKIČAN,ULICA DR.VRBNJAKA 1,,,,,,,,,,,,,
 9201 PUCONCI,PUCONCI 150,46.70397,16.15779,Puconci,,150,,Puconci,,Puconci,Puconci,9201,Puconci,Pomurska
 9201 PUCONCI,PUCONCI 251,46.69401,16.17399,Puconci,,251,,Puconci,,Puconci,Puconci,9201,Puconci,Pomurska
