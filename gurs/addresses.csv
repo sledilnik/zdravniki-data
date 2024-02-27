@@ -313,6 +313,7 @@ postZZZS,addressZZZS,lat,lon,street,streetAlt,housenumber,housenumberAppendix,ci
 1351 BREZOVICA PRI LJUBLJANI,PODPEŠKA CESTA 14,46.02162,14.41607,Podpeška cesta,,14,,Brezovica pri Ljubljani,,Brezovica,Brezovica,1351,Brezovica pri Ljubljani,Osrednjeslovenska
 1351 BREZOVICA PRI LJUBLJANI,PODPEŠKA CESTA 208,46.00242,14.41325,Podpeška cesta,,208,,Vnanje Gorice,,Vnanje Gorice,Brezovica,1351,Brezovica pri Ljubljani,Osrednjeslovenska
 1351 BREZOVICA PRI LJUBLJANI,POŽARNICE 90,46.00371,14.42125,Požarnice,,90,,Vnanje Gorice,,Vnanje Gorice,Brezovica,1351,Brezovica pri Ljubljani,Osrednjeslovenska
+1351 BREZOVICA PRI LJUBLJANI,ŠOLSKA ULICA 1,46.01330,14.37678,Šolska ulica,,1,,Dragomer,,,Log-Dragomer,1351,Brezovica pri Ljubljani,Osrednjeslovenska
 1351 BREZOVICA PRI LJUBLJANI,ŠOLSKA ULICA 3,46.01260,14.37666,Šolska ulica,,3,,Dragomer,,,Log-Dragomer,1351,Brezovica pri Ljubljani,Osrednjeslovenska
 1352 PRESERJE,DOLENJA BREZOVICA 11,45.94773,14.42655,Dolenja Brezovica,,11,,Dolenja Brezovica,,Preserje,Brezovica,1352,Preserje,Osrednjeslovenska
 1352 PRESERJE,JEZERO 1,45.97634,14.41959,Jezero,,1,,Jezero,,Preserje,Brezovica,1352,Preserje,Osrednjeslovenska
@@ -333,10 +334,12 @@ postZZZS,addressZZZS,lat,lon,street,streetAlt,housenumber,housenumberAppendix,ci
 1357 NOTRANJE GORICE,PODPEŠKA CESTA 380,45.98948,14.40273,Podpeška cesta,,380,,Notranje Gorice,,Notranje Gorice,Brezovica,1357,Notranje Gorice,Osrednjeslovenska
 1357 NOTRANJE GORICE,ZA MOSTIČKOM 14,45.99636,14.40920,Za mostičkom,,14,,Notranje Gorice,,Notranje Gorice,Brezovica,1357,Notranje Gorice,Osrednjeslovenska
 1358 LOG PRI BREZOVICI,CESTA NA POLJE 2,46.00732,14.35305,Cesta na polje,,2,,Log pri Brezovici,,,Log-Dragomer,1358,Log pri Brezovici,Osrednjeslovenska
+1358 LOG PRI BREZOVICI,LOŠKA CESTA 12,46.00916,14.37187,Loška cesta,,12,,Log pri Brezovici,,,Log-Dragomer,1358,Log pri Brezovici,Osrednjeslovenska
 1360 VRHNIKA,BRIGADIRSKA CESTA 16,45.96273,14.30258,Brigadirska cesta,,16,,Verd,,Verd,Vrhnika,1360,Vrhnika,Osrednjeslovenska
 1360 VRHNIKA,CESTA 6. MAJA 11,45.96278,14.29358,Cesta 6. maja,,11,,Vrhnika,,Vrhnika Center,Vrhnika,1360,Vrhnika,Osrednjeslovenska
 1360 VRHNIKA,IDRIJSKA 13,45.96364,14.28875,Idrijska cesta,,13,,Vrhnika,,Vrhnika Vas,Vrhnika,1360,Vrhnika,Osrednjeslovenska
 1360 VRHNIKA,IDRIJSKA CESTA 13,45.96364,14.28875,Idrijska cesta,,13,,Vrhnika,,Vrhnika Vas,Vrhnika,1360,Vrhnika,Osrednjeslovenska
+1360 VRHNIKA,LOŠCA 1,45.96263,14.29674,Lošca,,1,,Vrhnika,,Vrhnika Center,Vrhnika,1360,Vrhnika,Osrednjeslovenska
 1360 VRHNIKA,MED VRTOVI 8,45.96540,14.28766,Med vrtovi,,8,,Vrhnika,,Vrhnika Vas,Vrhnika,1360,Vrhnika,Osrednjeslovenska
 1360 VRHNIKA,POD HRUŠEVCO 33,45.97336,14.29506,Pod Hruševco,,33,,Vrhnika,,Vrhnika Breg,Vrhnika,1360,Vrhnika,Osrednjeslovenska
 1360 VRHNIKA,ROBOVA CESTA 6,45.96751,14.29722,Robova cesta,,6,,Vrhnika,,Vrhnika Breg,Vrhnika,1360,Vrhnika,Osrednjeslovenska
