@@ -261,7 +261,6 @@ zzzsSt,vrsta,oe,tip,sifOe,naziv,naslov,posta,tel,splStran
 6297075,Zasebni,OE KRANJ,Zobozdravnik,240000,"ORTO4U, ZOBOZDRAVSTVENA DEJAVNOST, D.O.O.",ULICA BRATOV KOMEL 25,1210 LJUBLJANA - ŠENTVID,04 252 14 77,
 3112334,Zasebni,OE KRANJ,Zobozdravnik,240000,PAVLOVIĆ RADE - DOKTOR STOMATOLOGIJE,CESTA MARŠALA TITA 78,4270 JESENICE,068 159 913,http://www.slovenski-zobozdravniki.si/rade-pavlovic
 4384485,Zasebni,OE KRANJ,Zobozdravnik,240000,"PRENADENT, ZOBOZDRAVSTVENE STORITVE D.O.O.",DRAGA 1,1292 IG,04 208 24 07,http://www.prenadent.si
-3645080,Zasebni,OE KRANJ,Zobozdravnik,240000,RAN ZOBOZDRAVSTVENA DEJAVNOST D.O.O.,RETEČE 205,4220 ŠKOFJA LOKA,(04) 511 17 27,https://ran.centerhocevar.com/
 3631784,Zasebni,OE KRANJ,Zobozdravnik,240000,"ROK-LAB, ZOBOZDRAVSTVO, D.O.O.",TRATA 7 A,4224 GORENJA VAS,041 650 917,https://www.ezobozdravnik.si/seznam-zobozdravnikov/rok-lab/
 3583211,Zasebni,OE KRANJ,Zobozdravnik,240000,ROTAR TOMAŽ - ZOBOZDRAVSTVENA ORDINACIJA,PREŠERNOVA ULICA 6,4240 RADOVLJICA,04 530 49 74,https://www.zobozdravnik.si/
 797024,Zasebni,OE KRANJ,Zobozdravnik,240000,"SANOS, ZOBOZDRAVSTVENE STORITVE, D.O.O.",GREGORČIČEVA ULICA 10,4000 KRANJ,(04) 511 33 12,http://www.sanjakrajnik.si
@@ -342,10 +341,12 @@ zzzsSt,vrsta,oe,tip,sifOe,naziv,naslov,posta,tel,splStran
 2905806,Zasebni,OE LJUBLJANA,"Družinski, otroški in šolski zdravnik",250000,LOLIČ VERICA - ORDINACIJA SPLOŠNE MEDICINE,ROŠKA CESTA 22,1330 KOČEVJE,01 893 02 47,https://www.zdkocevje.si/portfolio-view/dr-verica-lolic/
 3123489,Zasebni,OE LJUBLJANA,"Družinski, otroški in šolski zdravnik",250000,LOŽAR OLGA - SPLOŠNA AMBULANTA ZGORNJE JARŠE,KAMNIŠKA CESTA 24,1235 RADOMLJE,01 721 00 90,https://www.zdravniki-zobozdravniki.net/clan/Olga-LOZAR-337/
 2681670,Zasebni,OE LJUBLJANA,"Družinski, otroški in šolski zdravnik",250000,"MEDI CENTER ZDRAVSTVENI CENTER, D.O.O.",TOPNIŠKA ULICA 4,1000 LJUBLJANA,,
+8958960,Zasebni,OE LJUBLJANA,"Družinski, otroški in šolski zdravnik",250000,"MEDICINA ČERNE, DRUŽINSKA MEDICINA, D.O.O.",DOL PRI LJUBLJANI 4,1262 DOL PRI LJUBLJANI,068 696 622,http://www.medicina-cerne.si
 7590259,Zasebni,OE LJUBLJANA,"Družinski, otroški in šolski zdravnik",250000,MEDICINSKI CENTER HUMANO D.O.O.,RADIO CESTA 5,1230 DOMŽALE,051 400 080,https://dzdravje.si/humano/
 5105114,Zasebni,OE LJUBLJANA,"Družinski, otroški in šolski zdravnik",250000,"MEDICOINTERNA, MEDICINSKE STORITVE IN SVETOVANJE, D.O.O.",ROŠKA CESTA 17,1330 KOČEVJE,,http://www.medicointerna.com
 6273647,Zasebni,OE LJUBLJANA,"Družinski, otroški in šolski zdravnik",250000,"MELANIJA NIKIĆ GAČEŠA - ZASEBNA ZDRAVNICA, AMBULANTA DRUŽINSKE MEDICINE",ZORANINA ULICA 3,1234 MENGEŠ,01 724 39 90,http://www.ambulantagacesa.si
 7012374,Zasebni,OE LJUBLJANA,"Družinski, otroški in šolski zdravnik",250000,"NINA LOKOVŠEK, AMBULANTA DRUŽINSKE MEDICINE",PODPEŠKA CESTA 380,1357 NOTRANJE GORICE,082 003 085,https://www.ambulanta-lokovsek.si/
+6264541,Zasebni,OE LJUBLJANA,"Družinski, otroški in šolski zdravnik",250000,"ORDINACIJA PTIČAR, MEDICINSKE STORITVE, D.O.O.",PONOVIŠKA CESTA 6,1270 LITIJA,01 89 83 454,https://www.zdravniki-zobozdravniki.net/clan/Tanja-PTICAR-710/
 7780044,Zasebni,OE LJUBLJANA,"Družinski, otroški in šolski zdravnik",250000,"OTROŠKI ZDRAVNIK, ZDRAVSTVENA DEJAVNOST, D.O.O.",DOLENJA BREZOVICA 11,1352 PRESERJE,082 014 091,https://dzdravje.si/otroskizdravnik/
 5708833,Zasebni,OE LJUBLJANA,"Družinski, otroški in šolski zdravnik",250000,PEDIATRIJA HELENA MOLE,CESTA V MESTNI LOG 55,1000 LJUBLJANA,01 283 96 84,https://www.zdravniki-zobozdravniki.net/clan/Helena-MOLE-1286/
 3434877,Zasebni,OE LJUBLJANA,"Družinski, otroški in šolski zdravnik",250000,PERŠIČ OJSTERŠEK ALENKA - ORDINACIJA SPLOŠNE MEDICINE,CESTA V MESTNI LOG 55,1000 LJUBLJANA,(01)521 13 51,https://www.zdravniki-zobozdravniki.net/clan/Alenka-PERSIC-OJSTERSEK-737/
@@ -557,6 +558,7 @@ zzzsSt,vrsta,oe,tip,sifOe,naziv,naslov,posta,tel,splStran
 4523256,Zasebni,OE MARIBOR,"Družinski, otroški in šolski zdravnik",260000,ORDINIJA ZDRAVSTVENA IN STORITVENA DEJAVNOST D.O.O.,POD HRIBOM 12,2212 ŠENTILJ V SLOV. GORICAH,(02) 650 50 90,https://zdravniki-zobozdravniki.net/Clan/Maksimiljan-DAMJAN-447
 3861500,Zasebni,OE MARIBOR,"Družinski, otroški in šolski zdravnik",260000,"PEDIATRIJA BORŠTNIKOVA, ZDRAVSTVENE STORITVE IN IZOBRAŽEVANJE, D.O.O.",BORŠTNIKOVA ULICA 79,2000 MARIBOR,(02) 429 02 22,http://www.pediatrija.si/
 7015856,Zasebni,OE MARIBOR,"Družinski, otroški in šolski zdravnik",260000,"PEDIATRIJA MOJCA ŠVAB ZAVRATNIK, DR. MED.",NA SOSESKI 14,2000 MARIBOR,(08) 200 26 65,http://www.pediatrija-sentilj.si/
+9150798,Zasebni,OE MARIBOR,"Družinski, otroški in šolski zdravnik",260000,"PEDIATRIJA ŠENTILJ, ZDRAVSTVENE IN DRUGE STORITVE, D.O.O.",NA SOSESKI 14,2000 MARIBOR,(08) 200 26 65,http://www.pediatrija-sentilj.si/
 4519019,Zasebni,OE MARIBOR,"Družinski, otroški in šolski zdravnik",260000,"PEDIATRIJA, DRUŽBA ZA PREVENTIVO IN ZDRAVLJENJE OTROK, D.O.O.",KALOHOVA ULICA 25,2000 MARIBOR,02 420 18 87,http://pediatrijakrebs.si/
 5088847,Zasebni,OE MARIBOR,"Družinski, otroški in šolski zdravnik",260000,"PEDIATRINJA SUZANA ŠKORJANC ANTOLIČ, ZDRAVSTVENA DEJAVNOST, D.O.O.",HRENOVA ULICA 6,2000 MARIBOR,(02) 429 09 11,https://pediatrinjasuzana.si/
 5755570,Zasebni,OE MARIBOR,"Družinski, otroški in šolski zdravnik",260000,"PEDIATRIČNA ORDINACIJA BARBARA DIETNER MERKAN, ZDRAVSTVENE STORITVE IN SVETOVANJE, D.O.O.",POBREŠKA CESTA 6,2000 MARIBOR,082 057 530,http://www.pediatrija-tezno.si
@@ -752,7 +754,7 @@ zzzsSt,vrsta,oe,tip,sifOe,naziv,naslov,posta,tel,splStran
 7290564,Zasebni,OE NOVO MESTO,"Družinski, otroški in šolski zdravnik",290000,"ORDINACIJA SPLOŠNE MEDICINE MIRO VUKOVIĆ, DR. MED. SPEC. DRUŽ. MED.",ULICA 21. OKTOBRA 19 C,8340 ČRNOMELJ,07 305 62 67,http://www.vukovic.pro
 4225667,Zasebni,OE NOVO MESTO,"Družinski, otroški in šolski zdravnik",290000,POLJE HARMONIJE DRUŽBA ZA KAKOVOST ŽIVLJENJA D.O.O.,ŠTEFAN PRI TREBNJEM 40,8210 TREBNJE,07 332 30 66,http://www.poljeharmonije.si
 8856927,Zasebni,OE NOVO MESTO,"Družinski, otroški in šolski zdravnik",290000,"VALENTINA BEVC, DR. MED., SPEC. DRUŽ. MED., AMBULANTA DRUŽINSKE MEDICINE",ULICA MAKSA HENIGMANA 57,8350 DOLENJSKE TOPLICE,07 30 66 870,https://www.zdravniki-zobozdravniki.net/clan/Valentina-BEVC-1664/
-6244657,Zasebni,OE NOVO MESTO,"Družinski, otroški in šolski zdravnik",290000,"ZASEBNA AMBULANTA DRUŽINSKE MEDICINE IRENA VESTER, DR. MED., SPEC. DRUŽ. MED.",ŠMARJETA 66,8220 ŠMARJEŠKE TOPLICE,05 995 52 45,http://www.zdravniki-zobozdravniki.net/clan/Irena-VESTER-1528/
+9128636,Zasebni,OE NOVO MESTO,"Družinski, otroški in šolski zdravnik",290000,ZASEBNA AMBULANTA DRUŽINSKE MEDICINE VESIMED D.O.O.,ŠMARJETA 66,8220 ŠMARJEŠKE TOPLICE,,
 8707620,Zasebni,OE NOVO MESTO,"Družinski, otroški in šolski zdravnik",290000,"ZASEBNA ZDRAVSTVENA AMBULANTA ROŽENBERGAR, D.O.O.",KANDIJSKA CESTA 4,8000 NOVO MESTO,07/33-24-028,
 4227668,Zasebni,OE NOVO MESTO,"Družinski, otroški in šolski zdravnik",290000,"ZASEBNA ZDRAVSTVENA AMBULANTA SPLOŠNE MEDICINE NATALIJA ŠKUFCA SREBRNJAK, DR. MED., SPEC. SPL. MED.",KANDIJSKA CESTA 4,8000 NOVO MESTO,07  332 40 11,http://www.zdravniki-zobozdravniki.net/clan/Natalija-SKUFCA-SREBRNJAK-981
 4227637,Zasebni,OE NOVO MESTO,"Družinski, otroški in šolski zdravnik",290000,"ZASEBNA ZDRAVSTVENA AMBULANTA ZORICA MILIĆ, DR. MED. SPEC. DRUŽINSKE MEDICINE",KANDIJSKA CESTA 4,8000 NOVO MESTO,07 332 40 16,http://www.zdravniki-zobozdravniki.net/clan/Zorica-MILIC-1008/
@@ -769,6 +771,7 @@ zzzsSt,vrsta,oe,tip,sifOe,naziv,naslov,posta,tel,splStran
 3727990,Zasebni,OE NOVO MESTO,Zobozdravnik,290000,NASMEH ZOBOZDRAVSTVO ZOBOZDRAVSTVENE STORITVE D.O.O.,KANDIJSKA CESTA 62,8000 NOVO MESTO,07 332 20 10,http://www.nasmehzobozdravstvo.wordpress.com
 3112823,Zasebni,OE NOVO MESTO,Zobozdravnik,290000,NIKIČ ALENKA - DOKTOR STOMATOLOGIJE,TRUBARJEVA CESTA 5,8310 ŠENTJERNEJ,07 337 39 80,http://www.cakalnedobe.si/ambulante/nikic-alenka-doktor-stomatologije-zobozdravstvena-dejavnost/
 3112959,Zasebni,OE NOVO MESTO,Zobozdravnik,290000,PALIČ ANDREJA - ZOBOZDRAVSTVO ODRASLIH,ULICA OTONA ŽUPANČIČA 3,8340 ČRNOMELJ,07 30 51 453,http://www.cakalnedobe.si/ambulante/palic-andreja-zobozdravstvo-odraslih-zobozdravstvena-dejavnost/
+8246501,Zasebni,OE NOVO MESTO,Zobozdravnik,290000,"TEA DENT, ZOBOZDRAVSTVO, TEA MALNAR TURNŠEK S.P.",ULICA TALCEV 17,8351 STRAŽA PRI NOVEM MESTU,,
 6100146,Zasebni,OE NOVO MESTO,Zobozdravnik,290000,ZASEBNA ZOBNA ORDINACIJA DENTI MARJAN JOŽEF DR. DENT. MED.,KANDIJSKA CESTA 4,8000 NOVO MESTO,07 391 67 50,http://www.zobozdravstvo-denti.si
 3957430,Zasebni,OE NOVO MESTO,Zobozdravnik,290000,"ZASEBNA ZOBNA ORDINACIJA POVŠE ZLATKO, DR. DENT. MED.",JURČIČEVA ULICA 32,8360 ŽUŽEMBERK,07 308 81 50,http://www.zdravniki-zobozdravniki.net/clan/Zlatko-POVSE-835/
 4226160,Zasebni,OE NOVO MESTO,Zobozdravnik,290000,"ZASEBNA ZOBOZDRAVSTVENA ORDINACIJA JANKA GORENEC, DR. DENT. MED.",KANDIJSKA CESTA 4,8000 NOVO MESTO,07 332 40 55,http://www.ordinacija-gorenec.si
