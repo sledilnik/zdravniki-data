@@ -69,9 +69,9 @@ rizddzInstitutionContractorId,rizddzInstitutionId,rizddzLocationId,rizddzDoctorI
 100,100,12,11705,404103,den-y,,dr. dent. med.,CERKLJE OB KRKI 3,CERKLJE OB KRKI,8263 CERKLJE OB KRKI,04969623
 109,109,0,11383,404101,den,,dr. dent. med.,JEZERO 1,JEZERO,1352 PRESERJE,01/363 30 70
 115,115,0,8753,302001,gp,,dr. med.,LEVSTIKOVA ULICA 2,SEŽANA,6210 SEŽANA,05 75 73 199
-128,128,0,9125,306007,gyn,,"dr. med., spec. ginekologije in porodništva",ČERNELČEVA CESTA 15,BREŽICE,8250 BREŽICE,07 466 8144
-128,128,0,9907,306007,gyn,,"dr. med., spec. ginekologije in porodništva",ČERNELČEVA CESTA 15,BREŽICE,8250 BREŽICE,07 466 8144
-128,128,0,12241,306007,gyn,,"dr. med., spec. ginekologije in porodništva",ČERNELČEVA CESTA 15,BREŽICE,8250 BREŽICE,07 466 8144
+128,128,0,9125,306007,gyn,,"dr. med., spec. ginekologije in porodništva",ČERNELČEVA CESTA 15,BREŽICE,8250 BREŽICE,074668144
+128,128,0,9907,306007,gyn,,"dr. med., spec. ginekologije in porodništva",ČERNELČEVA CESTA 15,BREŽICE,8250 BREŽICE,074668144
+128,128,0,12241,306007,gyn,,"dr. med., spec. ginekologije in porodništva",ČERNELČEVA CESTA 15,BREŽICE,8250 BREŽICE,074668144
 130,130,0,4820,327009,ped,,dr. med. spec. ped.,TOVARNIŠKA CESTA 3,AJDOVŠČINA,5270 AJDOVŠČINA,05 36 93 106
 130,130,0,5010,302001,gp,,"dr. med., spec. družinska medicine",TOVARNIŠKA CESTA 3,AJDOVŠČINA,5270 AJDOVŠČINA,(05) 36 93 110
 130,130,0,5389,306007,gyn,,"dr. med., spec. ginekologije in porodništva",TOVARNIŠKA CESTA 3,AJDOVŠČINA,5270 AJDOVŠČINA,(05) 36 93 125
@@ -578,6 +578,8 @@ rizddzInstitutionContractorId,rizddzInstitutionId,rizddzLocationId,rizddzDoctorI
 1268,1268,1,9584,404101,den,,dr. dent. med.,ULICA STANETA SEVERJA 7,MARIBOR,2000 MARIBOR,
 1270,1270,0,12681,302001,gp,,"dr. med., spec. družinska medicine",VOJKOVO NABREŽJE 23,KOPER,6000 KOPER - CAPODISTRIA,05 626 02 94
 1274,1274,1,6975,302001,gp,,dr. med.,PUPINOVA ULICA 2,MARIBOR,2000 MARIBOR,02/250-24-83
+1292,1292,0,10822,302001,gp,dr.,"dr. med., spec. druž. med.",DOL PRI LJUBLJANI 4,DOL PRI LJUBLJANI,1262 DOL PRI LJUBLJANI,068696622
+1295,1295,0,9847,302001,gp,,"dr. med., spec. družinska medicine",ŠMARJETA 66,ŠMARJETA,8220 ŠMARJEŠKE TOPLICE,041276950
 2131,2131,0,5119,302001,gp,,"dr. med., spec. družinska medicine",GREGORČIČEVA ULICA 5,CELJE,3000 CELJE,03 543 44 13
 2131,2131,0,5940,302001,gp,,"dr. med., spec. družinska medicine",GREGORČIČEVA ULICA 5,CELJE,3000 CELJE,03 543 42 21
 2131,2131,0,6239,302001,gp,,"dr. med., spec. splošne medicine",GREGORČIČEVA ULICA 5,CELJE,3000 CELJE,03 543 42 37
