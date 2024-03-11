@@ -272,7 +272,7 @@ zzzsSt,vrsta,oe,tip,sifOe,naziv,naslov,posta,tel,splStran
 3125215,Zasebni,OE KRANJ,Zobozdravnik,240000,ZAJŠEK PETER - ZOBOZDRAVSTVO,MLADINSKA CESTA 1,4260 BLED,04 575 40 35,http://zobna-ordinacija-bled.si/
 4226310,Zasebni,OE KRANJ,Zobozdravnik,240000,ZAPLOTNIK KRALJ KSENIJA ZASEBNA ZOBNA ORDINACIJA,BEGUNJSKA CESTA 2,4290 TRŽIČ,04 596 18 74,https://www.zdravniki-zobozdravniki.net/clan/Ksenija-ZAPLOTNIK-KRALJ-996/
 4350038,Zasebni,OE KRANJ,Zobozdravnik,240000,"ZASEBNA ZOBNA ORDINACIJA GREGOR MAVČIČ, DR. DENT. MED.",GOSPOSVETSKA ULICA 10 B,4000 KRANJ,04 208 24 30,http://gregormavcic.si/
-4345943,Zasebni,OE KRANJ,Zobozdravnik,240000,"ZASEBNA ZOBNA ORDINACIJA HELENA KONOBELJ, DR. DENT. MED.",CESTA MARŠALA TITA 78,4270 JESENICE,04 583 14 00,https://www.zdravniki-zobozdravniki.net/clan/Helena-KONOBELJ-1036/#ordinacija
+4345943,Zasebni,OE KRANJ,Zobozdravnik,240000,"ZASEBNA ZOBNA ORDINACIJA HELENA KONOBELJ, DR. DENT. MED.",CESTA MARŠALA TITA 16,4270 JESENICE,04 583 14 00,https://www.zdravniki-zobozdravniki.net/clan/Helena-KONOBELJ-1036/#ordinacija
 4351459,Zasebni,OE KRANJ,Zobozdravnik,240000,"ZASEBNI ZDRAVSTVENI ZAVOD BRUNO VOJNOVIĆ, DR.DENT.MED., ZOBOZDRAVSTVENA DEJAVNOST",KOPALIŠKA CESTA 7,4240 RADOVLJICA,04 531 22 60,http://Bruno Vojnović dr.dent.med.
 4236460,Zasebni,OE KRANJ,Zobozdravnik,240000,"ZASEBNI ZOBOZDRAVSTVENI ZAVOD, LAPČEVIČ VLADO, DR.DENT.MED.",BREG 36,4274 ŽIROVNICA,04 583 72 01,https://www.zdravniki-zobozdravniki.net/clan/Vlado-LAPCEVIC-1445/
 5741662,Zasebni,OE KRANJ,Zobozdravnik,240000,ZDRAVSTVENI ZAVOD ARTDENT BLED,KOLODVORSKA CESTA 3 C,4260 BLED,04 586 81 10,http://www.artdent.si/
@@ -536,7 +536,6 @@ zzzsSt,vrsta,oe,tip,sifOe,naziv,naslov,posta,tel,splStran
 5689022,Zasebni,OE MARIBOR,"Družinski, otroški in šolski zdravnik",260000,"AMBULANTA ZA VSE GENERACIJE, ZDRAVSTVENE STORITVE IN SVETOVANJE, D.O.O.",POTRČEVA CESTA 15,2250 PTUJ,(02) 746 76 01,https://www.zdravniki-zobozdravniki.net/clan/Lidija-LETONJA-JAUSOVEC-667/
 5561015,Zasebni,OE MARIBOR,"Družinski, otroški in šolski zdravnik",260000,"AMIGDALA, DRUŽBA ZA ZDRAVSTVENE, DRUGE STORITVE IN SVETOVANJE, D.O.O.",RADEHOVA 5 C,2230 LENART V SLOV. GORICAH,02 729 18 31,https://www.amigdala.si/
 3454818,Zasebni,OE MARIBOR,"Družinski, otroški in šolski zdravnik",260000,BAKLAN BRIGITA - ZASEBNA AMBULANTA SPLOŠNE MEDICINE,MARKOVCI 43,2281 MARKOVCI,(02) 788 82 10,https://www.zdravniki-zobozdravniki.net/clan/Brigita-BAKLAN-692/
-2954711,Zasebni,OE MARIBOR,"Družinski, otroški in šolski zdravnik",260000,COLARIĆ MARJAN - ZDRAVNIK SPLOŠNE MEDICINE,BISTRIŠKA CESTA 62,2319 POLJČANE,(02) 802 59 97,https://zdravniki-zobozdravniki.net/Clan/Marjan-COLARIC-396
 5091771,Zasebni,OE MARIBOR,"Družinski, otroški in šolski zdravnik",260000,"DENTIKO, ZOBOZDRAVSTVENE IN DRUGE ZDRAVSTVENE DEJAVNOSTI, D.O.O.",RADVANJSKA CESTA 134,2000 MARIBOR,083 813 600,http://dentiko.si/
 4165327,Zasebni,OE MARIBOR,"Družinski, otroški in šolski zdravnik",260000,"DIVINA MEDICA PODJETJE ZA ZDRAVSTVENO DEJAVNOST, TRGOVINO IN STORITVE D.O.O.",BETNAVSKA CESTA 13,2000 MARIBOR,02 320 20 10,https://divinamedica.si/
 8570939,Zasebni,OE MARIBOR,"Družinski, otroški in šolski zdravnik",260000,"DRUŽINSKA MEDICINA STUDENCI, SPLOŠNA ZUNAJBOLNIŠNIČNA ZDRAVSTVENA DEJAVNOST, D.O.O.",HRASTJE 56 B,2341 LIMBUŠ,(02) 429 00 90,
@@ -546,7 +545,6 @@ zzzsSt,vrsta,oe,tip,sifOe,naziv,naslov,posta,tel,splStran
 4173475,Zasebni,OE MARIBOR,"Družinski, otroški in šolski zdravnik",260000,KLINKON ZDRAVSTVENI ZAVOD,POTRČEVA CESTA 49,2250 PTUJ,(02) 780 10 56,https://klinkon-zdravstveni-zavod.webador.com/
 6892404,Zasebni,OE MARIBOR,"Družinski, otroški in šolski zdravnik",260000,"LAPIS AMB, ZDRAVSTVENE STORITVE, D.O.O.",ROSINOVA ULICA 11,2000 MARIBOR,02/ 250 24 83,https://zdravniki-zobozdravniki.net/Clan/Andrej-LOVREC-716
 5699280,Zasebni,OE MARIBOR,"Družinski, otroški in šolski zdravnik",260000,"LILIMED, ZUNAJBOLNIŠNIČNA ZDRAVSTVENA DEJAVNOST IN TRGOVINA, D.O.O.",BREG 6 A,2322 MAJŠPERK,(02) 794 51 01,https://zdravniki-zobozdravniki.net/Clan/Liljana-JOVANOVIC-699
-3445498,Zasebni,OE MARIBOR,"Družinski, otroški in šolski zdravnik",260000,LOVREC ANDREJ - DOKTOR MEDICINE,PUPINOVA ULICA 2,2000 MARIBOR,(02) 250 24 83,https://zdravniki-zobozdravniki.net/Clan/Andrej-LOVREC-716
 3124484,Zasebni,OE MARIBOR,"Družinski, otroški in šolski zdravnik",260000,LUPŠE - ŠTAMPAR JASNA - DEJAVNOST SPLOŠNE MEDICINE,PARTIZANSKA CESTA 59,2000 MARIBOR,(02) 250 17 20,https://www.zdravniki-zobozdravniki.net/clan/Jasna-LUPSE-STAMPAR-243/
 6038809,Zasebni,OE MARIBOR,"Družinski, otroški in šolski zdravnik",260000,"MEDICA PRIMA, ZDRAVSTVENE STORITVE, SVETOVANJE, TRGOVINA, D.O.O.",NA TRATI 2,2000 MARIBOR,(02) 461 73 29,http://ambulanta-brezje.si/
 3095581,Zasebni,OE MARIBOR,"Družinski, otroški in šolski zdravnik",260000,MEDICINA VIVAMED IZUDIN KANLIČ DR MED,OSOJNIKOVA CESTA 9,2250 PTUJ,(02) 779 07 91,https://www.zdravniki-zobozdravniki.net/clan/Izudin-KANLIC-1156/
