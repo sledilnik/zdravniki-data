@@ -854,6 +854,7 @@ postZZZS,addressZZZS,lat,lon,street,streetAlt,housenumber,housenumberAppendix,ci
 4000 KRANJ,GOSPOSVETSKA ULICA 10,46.24890,14.35325,Gosposvetska ulica,,10,,Kranj,,Zlato polje,Kranj,4000,Kranj,Gorenjska
 4000 KRANJ,GOSPOSVETSKA ULICA 10 A,46.24862,14.35322,Gosposvetska ulica,,10,A,Kranj,,Zlato polje,Kranj,4000,Kranj,Gorenjska
 4000 KRANJ,GOSPOSVETSKA ULICA 10 B,46.24826,14.35331,Gosposvetska ulica,,10,B,Kranj,,Zlato polje,Kranj,4000,Kranj,Gorenjska
+4000 KRANJ,GOSPOSVETSKA ULICA 10B,46.24826,14.35331,Gosposvetska ulica,,10,B,Kranj,,Zlato polje,Kranj,4000,Kranj,Gorenjska
 4000 KRANJ,GOSPOSVETSKA ULICA 12,46.24804,14.35409,Gosposvetska ulica,,12,,Kranj,,Zlato polje,Kranj,4000,Kranj,Gorenjska
 4000 KRANJ,GOSPOSVETSKA ULICA 9,46.24863,14.35278,Gosposvetska ulica,,9,,Kranj,,Zlato polje,Kranj,4000,Kranj,Gorenjska
 4000 KRANJ,GREGORČIČEVA ULICA 10,46.24313,14.35717,Gregorčičeva ulica,,10,,Kranj,,Center,Kranj,4000,Kranj,Gorenjska
@@ -1134,7 +1135,6 @@ postZZZS,addressZZZS,lat,lon,street,streetAlt,housenumber,housenumberAppendix,ci
 6320 PORTOROŽ - PORTOROSE,CESTA SOLINARJEV 1,45.50452,13.60205,Cesta solinarjev,Strada dei Salinari,1,,Lucija,Lucia,Lucija,Piran,6320,Portorož - Portorose,Obalno-kraška
 6320 PORTOROŽ - PORTOROSE,FAZAN 1,45.50642,13.60720,Fazan,Fasano,1,,Lucija,Lucia,Lucija,Piran,6320,Portorož - Portorose,Obalno-kraška
 6320 PORTOROŽ - PORTOROSE,KAMPOLIN 45 A,45.51111,13.61244,Kampolin,Campolino,45,A,Lucija,Lucia,Lucija,Piran,6320,Portorož - Portorose,Obalno-kraška
-6320 PORTOROŽ - PORTOROSE,OBALA 105,45.50549,13.60232,Obala,Lungomare,105,,Lucija,Lucia,Lucija,Piran,6320,Portorož - Portorose,Obalno-kraška
 6320 PORTOROŽ - PORTOROSE,OBALA 112,45.50425,13.60289,Obala,Lungomare,112,,Lucija,Lucia,Lucija,Piran,6320,Portorož - Portorose,Obalno-kraška
 6320 PORTOROŽ - PORTOROSE,OBALA 114,45.50349,13.60337,Obala,Lungomare,114,,Lucija,Lucia,Lucija,Piran,6320,Portorož - Portorose,Obalno-kraška
 6320 PORTOROŽ - PORTOROSE,OBALA 33,45.51425,13.58863,Obala,Lungomare,33,,Portorož,Portorose,Portorož,Piran,6320,Portorož - Portorose,Obalno-kraška
