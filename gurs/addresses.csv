@@ -72,7 +72,6 @@ postZZZS,addressZZZS,lat,lon,street,streetAlt,housenumber,housenumberAppendix,ci
 1000 LJUBLJANA,KOTNIKOVA ULICA 30,46.05676,14.51406,Kotnikova ulica,,30,,Ljubljana,,Četrtna skupnost Center,Ljubljana,1000,Ljubljana,Osrednjeslovenska
 1000 LJUBLJANA,KRŽIČEVA ULICA 10,46.06465,14.51105,Kržičeva ulica,,10,,Ljubljana,,Četrtna skupnost Bežigrad,Ljubljana,1000,Ljubljana,Osrednjeslovenska
 1000 LJUBLJANA,KUNAVERJEVA ULICA 15,46.07940,14.47495,Kunaverjeva ulica,,15,,Ljubljana,,Četrtna skupnost Dravlje,Ljubljana,1000,Ljubljana,Osrednjeslovenska
-1000 LJUBLJANA,LAMUTOVA ULICA 15,46.07676,14.45439,Lamutova ulica,,15,,Ljubljana,,Četrtna skupnost Dravlje,Ljubljana,1000,Ljubljana,Osrednjeslovenska
 1000 LJUBLJANA,LEPI POT 14,46.04460,14.49488,Lepi pot,,14,,Ljubljana,,Četrtna skupnost Vič,Ljubljana,1000,Ljubljana,Osrednjeslovenska
 1000 LJUBLJANA,LEPODVORSKA ULICA 2,46.06241,14.49627,Lepodvorska ulica,,2,,Ljubljana,,Četrtna skupnost Šiška,Ljubljana,1000,Ljubljana,Osrednjeslovenska
 1000 LJUBLJANA,LINHARTOVA CESTA 15,46.06480,14.51444,Linhartova cesta,,15,,Ljubljana,,Četrtna skupnost Bežigrad,Ljubljana,1000,Ljubljana,Osrednjeslovenska
@@ -117,6 +116,7 @@ postZZZS,addressZZZS,lat,lon,street,streetAlt,housenumber,housenumberAppendix,ci
 1000 LJUBLJANA,ROŽANSKA ULICA 2,46.07340,14.50885,Rožanska ulica,,2,,Ljubljana,,Četrtna skupnost Bežigrad,Ljubljana,1000,Ljubljana,Osrednjeslovenska
 1000 LJUBLJANA,"ROŽNA DOLINA, CESTA IV 45",46.04624,14.48124,"Rožna dolina, cesta IV",,45,,Ljubljana,,Četrtna skupnost Rožnik,Ljubljana,1000,Ljubljana,Osrednjeslovenska
 1000 LJUBLJANA,"ROŽNA DOLINA, CESTA VII 21 A",46.04992,14.48188,"Rožna dolina, cesta VII",,21,A,Ljubljana,,Četrtna skupnost Rožnik,Ljubljana,1000,Ljubljana,Osrednjeslovenska
+1000 LJUBLJANA,"ROŽNA DOLINA, CESTA VIII 13 C",46.04917,14.48222,"Rožna dolina, cesta VIII",,13,C,Ljubljana,,Četrtna skupnost Rožnik,Ljubljana,1000,Ljubljana,Osrednjeslovenska
 1000 LJUBLJANA,SAVLJE 74 C,46.09602,14.50020,Savlje,,74,C,Ljubljana,,Četrtna skupnost Posavje,Ljubljana,1000,Ljubljana,Osrednjeslovenska
 1000 LJUBLJANA,SAVSKA CESTA 10,46.06433,14.52589,Savska cesta,,10,,Ljubljana,,Četrtna skupnost Jarše,Ljubljana,1000,Ljubljana,Osrednjeslovenska
 1000 LJUBLJANA,SAVSKA CESTA 2,46.06365,14.52564,Savska cesta,,2,,Ljubljana,,Četrtna skupnost Jarše,Ljubljana,1000,Ljubljana,Osrednjeslovenska
@@ -929,7 +929,6 @@ postZZZS,addressZZZS,lat,lon,street,streetAlt,housenumber,housenumberAppendix,ci
 4248 LESCE,BEGUNJSKA CESTA 7,46.36184,14.16170,Begunjska cesta,,7,,Lesce,,Lesce,Radovljica,4248,Lesce,Gorenjska
 4248 LESCE,DOLINA 12,46.35462,14.15573,Dolina,,12,,Lesce,,Lesce,Radovljica,4248,Lesce,Gorenjska
 4248 LESCE,ŽELEZNIŠKA 10,46.36149,14.15766,Železniška ulica,,10,,Lesce,,Lesce,Radovljica,4248,Lesce,Gorenjska
-4248 LESCE,ŽELEZNIŠKA ULICA 10,46.36149,14.15766,Železniška ulica,,10,,Lesce,,Lesce,Radovljica,4248,Lesce,Gorenjska
 4248 LESCE,ŽELEZNIŠKA ULICA 5,46.36099,14.15865,Železniška ulica,,5,,Lesce,,Lesce,Radovljica,4248,Lesce,Gorenjska
 4260 BLED,CESTA SVOBODE 47 A,46.35838,14.09453,Cesta svobode,,47,A,Bled,,Bled,Bled,4260,Bled,Gorenjska
 4260 BLED,GORENJSKA ULICA 37,46.34715,14.12389,Gorenjska ulica,,37,,Ribno,,Ribno,Bled,4260,Bled,Gorenjska
@@ -1134,6 +1133,7 @@ postZZZS,addressZZZS,lat,lon,street,streetAlt,housenumber,housenumberAppendix,ci
 6310 IZOLA - ISOLA,ŠARED 51,45.51187,13.65781,Šared,,51,,Šared,,Korte,Izola,6310,Izola - Isola,Obalno-kraška
 6320 PORTOROŽ - PORTOROSE,CESTA SOLINARJEV 1,45.50452,13.60205,Cesta solinarjev,Strada dei Salinari,1,,Lucija,Lucia,Lucija,Piran,6320,Portorož - Portorose,Obalno-kraška
 6320 PORTOROŽ - PORTOROSE,FAZAN 1,45.50642,13.60720,Fazan,Fasano,1,,Lucija,Lucia,Lucija,Piran,6320,Portorož - Portorose,Obalno-kraška
+6320 PORTOROŽ - PORTOROSE,KAMPOLIN 45 A,45.51111,13.61244,Kampolin,Campolino,45,A,Lucija,Lucia,Lucija,Piran,6320,Portorož - Portorose,Obalno-kraška
 6320 PORTOROŽ - PORTOROSE,OBALA 105,45.50549,13.60232,Obala,Lungomare,105,,Lucija,Lucia,Lucija,Piran,6320,Portorož - Portorose,Obalno-kraška
 6320 PORTOROŽ - PORTOROSE,OBALA 112,45.50425,13.60289,Obala,Lungomare,112,,Lucija,Lucia,Lucija,Piran,6320,Portorož - Portorose,Obalno-kraška
 6320 PORTOROŽ - PORTOROSE,OBALA 114,45.50349,13.60337,Obala,Lungomare,114,,Lucija,Lucia,Lucija,Piran,6320,Portorož - Portorose,Obalno-kraška
