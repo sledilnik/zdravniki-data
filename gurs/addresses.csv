@@ -1280,7 +1280,6 @@ postZZZS,addressZZZS,lat,lon,street,streetAlt,housenumber,housenumberAppendix,ci
 9000 MURSKA SOBOTA,CVETKOVA ULICA 34,,,,,,,,,,,,,
 9000 MURSKA SOBOTA,DOLGA ULICA 82,46.66544,16.14308,Dolga ulica,,82,,Černelavci,,KS ČERNELAVCI,Murska Sobota,9000,Murska Sobota,Pomurska
 9000 MURSKA SOBOTA,GRAJSKA ULICA 24,46.66402,16.16066,Grajska ulica,,24,,Murska Sobota,,Ledava,Murska Sobota,9000,Murska Sobota,Pomurska
-9000 MURSKA SOBOTA,GREGORČIČEVA 24 B,46.66194,16.16930,Gregorčičeva ulica,,24,b,Murska Sobota,,Center,Murska Sobota,9000,Murska Sobota,Pomurska
 9000 MURSKA SOBOTA,GREGORČIČEVA ULICA 27 A,46.66099,16.16877,Gregorčičeva ulica,,27,a,Murska Sobota,,Center,Murska Sobota,9000,Murska Sobota,Pomurska
 9000 MURSKA SOBOTA,KOCLJEVA ULICA 10,46.66002,16.16316,Kocljeva ulica,,10,,Murska Sobota,,Center,Murska Sobota,9000,Murska Sobota,Pomurska
 9000 MURSKA SOBOTA,KOCLJEVA ULICA 2,46.66070,16.16317,Kocljeva ulica,,2,,Murska Sobota,,Center,Murska Sobota,9000,Murska Sobota,Pomurska
@@ -1302,14 +1301,11 @@ postZZZS,addressZZZS,lat,lon,street,streetAlt,housenumber,housenumberAppendix,ci
 9000 MURSKA SOBOTA,ULICA GENERALA MAISTRA 23,46.65371,16.15626,Ulica generala Maistra,,23,,Murska Sobota,,Turopolje,Murska Sobota,9000,Murska Sobota,Pomurska
 9000 MURSKA SOBOTA,ULICA PREKMURSKE ČETE 12,46.65297,16.15597,Ulica Prekmurske čete,,12,,Murska Sobota,,Turopolje,Murska Sobota,9000,Murska Sobota,Pomurska
 9000 MURSKA SOBOTA,ULICA STANETA ROZMANA 11 A,46.66162,16.16734,Ulica Staneta Rozmana,,11,a,Murska Sobota,,Center,Murska Sobota,9000,Murska Sobota,Pomurska
-9103 MURSKA SOBOTA RAKIČAN,ULICA DR.VRBNJAKA 1,,,,,,,,,,,,,
 9201 PUCONCI,PUCONCI 150,46.70397,16.15779,Puconci,,150,,Puconci,,Puconci,Puconci,9201,Puconci,Pomurska
 9201 PUCONCI,PUCONCI 251,46.69401,16.17399,Puconci,,251,,Puconci,,Puconci,Puconci,9201,Puconci,Pomurska
 9201 PUCONCI,PUCONCI 79,46.70469,16.15443,Puconci,,79,,Puconci,,Puconci,Puconci,9201,Puconci,Pomurska
-9201 PUCONCI,PUCONCI 80,46.70470,16.15388,Puconci,,80,,Puconci,,Puconci,Puconci,9201,Puconci,Pomurska
 9203 PETROVCI,GORNJI PETROVCI 33 A,46.80527,16.21811,Gornji Petrovci,,33,a,Gornji Petrovci,,Gornji Petrovci,Gornji Petrovci,9203,Petrovci,Pomurska
 9203 PETROVCI,PETROVCI 33,,,,,,,,,,,,,
-9207 PROSENJAKOVCI - PÁRTOSFALVA,PROSENJAKOVCI 70,46.74027,16.31273,Prosenjakovci,Pártosfalva,70,,Prosenjakovci,Pártosfalva,Prosenjakovci,Moravske Toplice,9207,Prosenjakovci - Pártosfalva,Pomurska
 9220 LENDAVA - LENDVA,KIDRIČEVA ULICA 34,46.55821,16.45692,Kidričeva ulica,Kidrič utca,34,,Lendava,Lendva,Lendava / Lendva,Lendava,9220,Lendava - Lendva,Pomurska
 9220 LENDAVA - LENDVA,MLINSKA ULICA 6,,,,,,,,,,,,,
 9220 LENDAVA - LENDVA,MLINSKA ULICA 6 E,46.56214,16.45301,Mlinska ulica,Malom utca,6,e,Lendava,Lendva,Lendava / Lendva,Lendava,9220,Lendava - Lendva,Pomurska
@@ -1360,11 +1356,9 @@ postZZZS,addressZZZS,lat,lon,street,streetAlt,housenumber,housenumberAppendix,ci
 9261 CANKOVA,CANKOVA 65,46.71863,16.01757,Cankova,,65,,Cankova,,,Cankova,9261,Cankova,Pomurska
 9261 CANKOVA,CANKOVA 65 A,46.71884,16.01822,Cankova,,65,a,Cankova,,,Cankova,9261,Cankova,Pomurska
 9261 CANKOVA,CANKOVA 65 B,46.71858,16.01850,Cankova,,65,b,Cankova,,,Cankova,9261,Cankova,Pomurska
-9262 ROGAŠOVCI,ROGAŠEVCI,,,,,,,,,,,,,
 9262 ROGAŠOVCI,ROGAŠOVCI 14 A,46.80513,16.03630,Rogašovci,,14,a,Rogašovci,,Rogašovci,Rogašovci,9262,Rogašovci,Pomurska
 9262 ROGAŠOVCI,ROGAŠOVCI 14A,46.80513,16.03630,Rogašovci,,14,a,Rogašovci,,Rogašovci,Rogašovci,9262,Rogašovci,Pomurska
 9263 KUZMA,KUZMA 60 L,46.83599,16.07729,Kuzma,,60,l,Kuzma,,,Kuzma,9263,Kuzma,Pomurska
-9263 KUZMA,KUZMA 60C,46.83515,16.07828,Kuzma,,60,c,Kuzma,,,Kuzma,9263,Kuzma,Pomurska
 9264 GRAD,GRAD 172 A,46.80244,16.09112,Grad,,172,a,Grad,,,Grad,9264,Grad,Pomurska
 9264 GRAD,GRAD 186,46.80051,16.09230,Grad,,186,,Grad,,,Grad,9264,Grad,Pomurska
 9264 GRAD,GRAD 187,46.80149,16.09203,Grad,,187,,Grad,,,Grad,9264,Grad,Pomurska
