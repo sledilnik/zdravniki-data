@@ -92,8 +92,13 @@ def convert_to_csv(zzzsid_map):
 
         else:
             print("Converting doctors list")
-            if len(df.columns) == 13:
+            if len(df.columns) == 13 or len(df.columns) == 14:
                 print("...version after 2023-02-10")
+
+                if len(df.columns) == 14:
+                    print("...version after 2024-05-10: ignore new 'Specializant' column")
+                    df.drop(columns=['Specializant'], inplace=True)
+
                 df.columns = ['unit', 'institutionID', 'name', 'address', 'city', 'doctorID', 'doctor', 'typeID', 'type', 'availability', 'load', 'mustAccept', 'accepts']
                 df['doctor'] = df['doctor'].str.title()
 
