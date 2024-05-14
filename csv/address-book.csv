@@ -1158,6 +1158,7 @@ rizddzInstitutionContractorId,rizddzInstitutionId,rizddzLocationId,rizddzDoctorI
 7883,7883,16,10024,302001,gp,,"dr. med., spec. družinska medicine",NOVA ULICA 3,,2327 RAČE,02 630 08 77
 7883,7883,16,12643,404101,den,,dr. dent. med.,NOVA ULICA 3,,2327 RAČE,02 630 08 72
 7883,7883,16,12643,404103,den-y,,dr. dent. med.,NOVA ULICA 3,,2327 RAČE,02 630 08 72
+7883,7883,16,13460,302001,gp,,dr.med.spec.,NOVA ULICA 3,,2327 RAČE,02 620 17 68
 7883,7883,17,8116,306007,gyn,,"dr. med., spec. ginekologije in porodništva",STADIONSKA ULICA 4,,2342 RUŠE,02 663 81 11
 7883,7883,17,10140,302001,gp,,"dr. med., spec. družinska medicine",STADIONSKA ULICA 4,,2342 RUŠE,02 663 81 01
 7883,7883,18,15511,404101,den,,dr. dent. med.,SLOVENSKI TRG 4,,2352 SELNICA OB DRAVI,02 630 08 80
@@ -1190,7 +1191,6 @@ rizddzInstitutionContractorId,rizddzInstitutionId,rizddzLocationId,rizddzDoctorI
 7883,7883,25,9825,302001,gp,,"dr. med., spec. družinska medicine",PTUJSKA CESTA 189,,2000 MARIBOR,02 333 31 35
 7883,7883,25,11411,302001,gp,,"dr. med., spec. družinska medicine",PTUJSKA CESTA 189,,2000 MARIBOR,02 333 31 32
 7883,7883,25,12474,302001,gp,,"dr. med., spec. družinska medicine",PTUJSKA CESTA 189,,2000 MARIBOR,02 620 17 70
-7883,7883,30,5545,302001,gp,,"dr. med., spec. splošne medicine",UL. TALCEV 5,,2103 MARIBOR,02 228 63 94
 7883,7883,30,6735,302001,gp,,"dr. med., spec. splošne medicine",UL. TALCEV 5,,2103 MARIBOR,02 228 63 86
 7883,7883,30,7465,302001,gp,,"dr. med., spec. splošne medicine",UL. TALCEV 5,,2103 MARIBOR,02 228 63 77
 7883,7883,30,9824,302001,gp,,"dr. med., spec. družinska medicine",UL. TALCEV 5,,2103 MARIBOR,02 228 63 87
