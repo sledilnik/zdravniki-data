@@ -1,7 +1,7 @@
 numpy==1.26.*
 pandas==2.1.*
 openpyxl==3.1.*
-requests==2.31.*
+requests==2.32.*
 beautifulsoup4==4.12.3
 sheet2csv==1.0.7
 python-dotenv==1.0.1
