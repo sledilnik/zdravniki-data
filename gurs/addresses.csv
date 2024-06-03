@@ -441,6 +441,7 @@ postZZZS,addressZZZS,lat,lon,street,streetAlt,housenumber,housenumberAppendix,ci
 2000 MARIBOR,PEKRSKA CESTA 56,46.55488,15.61140,Pekrska cesta,,56,,Maribor,,Studenci,Maribor,2000,Maribor,Podravska
 2000 MARIBOR,POBREŠKA CESTA 18,46.55397,15.65315,Pobreška cesta,,18,,Maribor,,Magdalena,Maribor,2000,Maribor,Podravska
 2000 MARIBOR,POBREŠKA CESTA 6,46.55441,15.64665,Pobreška cesta,,6,,Maribor,,Magdalena,Maribor,2000,Maribor,Podravska
+2000 MARIBOR,POHORSKA ULICA 21 A,46.53843,15.60483,Pohorska ulica,,21,a,Maribor,,Radvanje,Maribor,2000,Maribor,Podravska
 2000 MARIBOR,POHORSKA ULICA 21 B,46.53831,15.60509,Pohorska ulica,,21,b,Maribor,,Radvanje,Maribor,2000,Maribor,Podravska
 2000 MARIBOR,PRI PARKU 5,46.56385,15.64739,Pri parku,,5,,Maribor,,Center,Maribor,2000,Maribor,Podravska
 2000 MARIBOR,PRVOMAJSKA ULICA 1,46.53682,15.65983,Prvomajska ulica,,1,,Maribor,,Tezno,Maribor,2000,Maribor,Podravska
@@ -473,6 +474,7 @@ postZZZS,addressZZZS,lat,lon,street,streetAlt,housenumber,housenumberAppendix,ci
 2000 MARIBOR,ULICA TALCEV 25,46.55679,15.65152,Ulica talcev,,25,,Maribor,,Center,Maribor,2000,Maribor,Podravska
 2000 MARIBOR,ULICA TALCEV 9,46.55933,15.65183,Ulica talcev,,9,,Maribor,,Center,Maribor,2000,Maribor,Podravska
 2000 MARIBOR,VALVASORJEVA ULICA 38,46.55444,15.63680,Valvasorjeva ulica,,38,,Maribor,,Magdalena,Maribor,2000,Maribor,Podravska
+2000 MARIBOR,VELUŠČKOVA ULICA 7,46.56399,15.65768,Veluščkova ulica,,7,,Maribor,,Ivan Cankar,Maribor,2000,Maribor,Podravska
 2000 MARIBOR,VESELOVA ULICA 3,46.54367,15.62317,Veselova ulica,,3,,Maribor,,Radvanje,Maribor,2000,Maribor,Podravska
 2000 MARIBOR,VEZNA POT 1,46.57373,15.64297,Vezna pot,,1,,Ribniško selo,,Center,Maribor,2000,Maribor,Podravska
 2000 MARIBOR,VINARSKA ULICA 6,46.56527,15.64339,Vinarska ulica,,6,,Maribor,,Koroška vrata,Maribor,2000,Maribor,Podravska
