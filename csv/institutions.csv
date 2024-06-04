@@ -11,7 +11,7 @@ id_inst,zzzsSt,name,unit,address,post,city,municipalityPart,municipality,lat,lon
 8822350,8822350,"AB NASMEH, ZOBOZDRAVSTVENE IN DRUGE STORITVE, D.O.O.",OE MURSKA SOBOTA,CVETKOVA ULICA 10,9000 MURSKA SOBOTA,,,???,,,02 524 19 10,https://www.zobozdravniki-pomurja.si/profil/13/opis.html
 2831490,2831490,"AERODENT, ZOBOZDRAVSTVO, D.O.O.",IZPOSTAVA VRHNIKA,Brigadirska cesta 16,1360 Vrhnika,Verd,Verd,Vrhnika,45.96273,14.30258,(01) 755 73 10,
 3275353,3275353,AHLIN DRAGOTIN - SPLOŠNA AMBULANTA,IZPOSTAVA KAMNIK,Novi trg 26a,1241 Kamnik,Kamnik,Novi trg,Kamnik,46.22082,14.61321,01 839 15 98,https://www.zdravniki-zobozdravniki.net/clan/Dragotin-AHLIN-96/
-9285788,9285788,ALENKA ANTOLINC KOŠAT - AMBULANTA DRUŽINSKE MEDICINE,OE MARIBOR,Pohorska ulica 21a,2000 Maribor,Maribor,Radvanje,Maribor,46.53843,15.60483,031/ 658 350,
+9285788,9285788,ALENKA ANTOLINC KOŠAT - AMBULANTA DRUŽINSKE MEDICINE,OE MARIBOR,Pohorska ulica 21a,2000 Maribor,Maribor,Radvanje,Maribor,46.53843,15.60483,02/ 250 24 76,
 4729449,4729449,ALENKA IVANČIČ DR. DENT. MED. ZASEBNA ZOBNA ORDINACIJA,OE LJUBLJANA,Komenskega ulica 19,1000 Ljubljana,Ljubljana,Četrtna skupnost Center,Ljubljana,46.05341,14.51253,01/434 49 04,http://www.ivancici.si/
 4224371,4224371,"ALENKA NADLER ŽAGAR, DR. MED. SPLOŠNA MEDICINA",IZPOSTAVA RIBNICA,Majnikova ulica 1,1310 Ribnica,Ribnica,Ribnica,Ribnica,45.74238,14.72596,(01) 836 12 68,https://www.zdravniki-zobozdravniki.net/clan/Alenka-NADLER-ZAGAR-937/
 4221509,4221509,AMBROŽ MIHELČIČ MAJDA - ZASEBNA ZDRAVNICA,IZPOSTAVA KAMNIK,Novi trg 26,1241 Kamnik,Kamnik,Novi trg,Kamnik,46.22139,14.61328,,https://www.zdravniki-zobozdravniki.net/clan/Majda-AMBROZ-MIHELCIC-950/
@@ -291,6 +291,7 @@ id_inst,zzzsSt,name,unit,address,post,city,municipalityPart,municipality,lat,lon
 5091800,5091800,"MEDENS, ZOBOZDRAVSTVENA DEJAVNOST IN DRUGE ZDRAVSTVENE DEJAVNOSTI D.O.O.",IZPOSTAVA MOZIRJE,Savinjska cesta 6,3330 Mozirje,Mozirje,Mozirje,Mozirje,46.33885,14.95935,(03) 839 53 40,http://medens.si/
 2681670,2681670,"MEDI CENTER ZDRAVSTVENI CENTER, D.O.O.",OE LJUBLJANA,Topniška ulica 4,1000 Ljubljana,Ljubljana,Četrtna skupnost Bežigrad,Ljubljana,46.0674,14.51179,,
 4224155,4224155,"MEDIARH, PODJETJE ZA ZDRAVSTVENE IN PROJEKTANTSKE STORITVE D.O.O.",OE RAVNE NA KOROŠKEM,Ob Suhodolnici 31,2380 Slovenj Gradec,Slovenj Gradec,Štibuh,Slovenj Gradec,46.50331,15.0727,02 87 23 440,http://www.mediarh.si
+9199622,9199622,"MEDIC-INA EMERŠIČ, AMBULANTA DRUŽINSKE MEDICINE, D.O.O.",IZPOSTAVA PTUJ,Destrnik 9,2253 Destrnik,Destrnik,,Destrnik,46.49296,15.87572,064/ 134 350,
 6038809,6038809,"MEDICA PRIMA, ZDRAVSTVENE STORITVE, SVETOVANJE, TRGOVINA, D.O.O.",OE MARIBOR,Na trati 2,2000 Maribor,Maribor,Brezje-Dogoše-Zrkovci,Maribor,46.53586,15.68739,(02) 461 73 29,http://ambulanta-brezje.si/
 6024723,6024723,"MEDICINA ILJAŽ,STORITVE, D.O.O.",IZPOSTAVA BREŽICE,Bizeljska cesta 104,8259 Bizeljsko,Bizeljsko,Bizeljsko,Brežice,46.02057,15.69163,082 017 494 074 965 032,https://www.iljaz.si/
 8457451,8457451,"MEDICINA MATALN, ZDRAVSTVENE STORITVE IN SVETOVANJE, D.O.O.",IZPOSTAVA TREBNJE,Gubno 10,3261 Lesično,Gubno,Lesično,Kozje,46.11737,15.51784,072 927 210,http://medicina-mataln.si/
@@ -670,7 +671,7 @@ zdlsi,,ZD LJUBLJANA - ŠIŠKA,OE LJUBLJANA,Derčeva ulica 5,1000 Ljubljana,Ljubl
 2817701,2817701,ZDRAVSTVENI DOM IVANČNA GORICA,IZPOSTAVA GROSUPLJE,Cesta 2. grupe odredov 16,1295 Ivančna Gorica,Ivančna Gorica,Ivančna Gorica,Ivančna Gorica,45.93759,14.80558,01 781 90 00,http://sl.zd-ivg.si/
 724180,724180,ZDRAVSTVENI DOM IZOLA,IZPOSTAVA IZOLA,Ulica oktobrske revolucije 11,6310 Izola - Isola,Izola,Haliaetum / Haliaetum,Izola,45.53464,13.66078,05 663 50 50,https://www.zd-izola.si/
 705728,705728,ZDRAVSTVENI DOM KOPER CASA DELLA SANITA CAPODISTRIA,OE KOPER,Dellavallejeva ulica 3,6000 Koper - Capodistria,Koper,Koper - Center,Koper,45.5487,13.73094,05 664 71 00,https://www.zd-koper.si/
-205445,205445,ZDRAVSTVENI DOM KOČEVJE,IZPOSTAVA KOČEVJE,Roška cesta 18,1330 Kočevje,Kočevje,Kočevje-mesto,Kočevje,45.63938,14.86562,(01) 893 90 00,https://www.zdkocevje.si/
+205445,205445,ZDRAVSTVENI DOM KOČEVJE,IZPOSTAVA KOČEVJE,Roška cesta 18,1330 Kočevje,Kočevje,Kočevje-mesto,Kočevje,45.63938,14.86562,01 893 90 00,https://www.zdkocevje.si/
 91770,91770,ZDRAVSTVENI DOM KRŠKO,OE KRŠKO,Cesta krških žrtev 132c,8270 Krško,Krško,Krško,Krško,45.94307,15.48349,074 880 200,http://www.zd-krsko.si/
 664360,664360,ZDRAVSTVENI DOM LAŠKO,IZPOSTAVA LAŠKO,Kidričeva ulica 5b,3270 Laško,Laško,Laško,Laško,46.1545,15.2373,03 734 36 00,http://www.zd-lasko.si
 130345,130345,ZDRAVSTVENI DOM LENART,IZPOSTAVA LENART,Maistrova ulica 22,2230 Lenart v Slov. goricah,Lenart v Slov. goricah,Lenart,Lenart,46.57734,15.82896,02 729 18 12,http://www.zd-lenart.si
@@ -819,7 +820,6 @@ zdlsi,,ZD LJUBLJANA - ŠIŠKA,OE LJUBLJANA,Derčeva ulica 5,1000 Ljubljana,Ljubl
 3155842,3155842,ŠEPIĆ NENAD - ZASEBNA AMBULANTA ZA GINEKOLOGIJO IN PORODNIŠTVO,IZPOSTAVA LJUTOMER,Cesta I. slovenskega tabora 2,9240 Ljutomer,Ljutomer,Ljutomer,Ljutomer,46.52172,16.19326,,http://www.zagp-sepic.si/
 3760248,3760248,ŠMIGOC MOJCA DR.DENT.MED. - ZASEBNA ZOBNA ORDINACIJA,OE CELJE,Lava 7,3000 Celje,Celje,Medlog,Celje,46.24025,15.25318,,http://www.zdravniki-zobozdravniki.net-Mojca Šmigoc dr.dent.med.
 5740792,5740792,"ŠOLMED - ŠOLSKA IN PEDIATRIČNA AMBULANTA, ZDRAVSTVENE STORITVE IN SVETOVANJE, D.O.O.",OE MARIBOR,Lackova cesta 135,2341 Limbuš,Pekre,Pekre,Maribor,46.54667,15.59819,(08) 205 75 70,https://www.zdravniki-zobozdravniki.net/clan/Branka-KVAS-KUCIC-1226/
-3445865,3445865,ŠORLI BRIGITA - DOKTORICA MEDICINE,OE MARIBOR,Pupinova ulica 2,2000 Maribor,Maribor,Magdalena,Maribor,46.55272,15.64503,(02) 250 24 76,https://zdravniki-zobozdravniki.net/Clan/Brigita-SORLI-687
 3121200,3121200,ŠOSTERIČ ALEKSANDER - ORDINACIJA SPLOŠNE MEDICINE,IZPOSTAVA LENART,Maistrova ulica 22,2230 Lenart v Slov. goricah,Lenart v Slov. goricah,Lenart,Lenart,46.57734,15.82896,02 729 18 32,https://zdravniki-zobozdravniki.net/Clan/Aleksander-SOSTERIC-707
 7858751,7858751,"ŠTEFKA GLADEK, DR. DENT. MED. - ZASEBNA ZOBOZDRAVNICA",IZPOSTAVA ŠKOFJA LOKA,Otoki 14,4228 Železniki,Železniki,Železniki,Železniki,46.22414,14.16365,04 514 74 90,http://otroska-zobna-zelezniki.si/
 4109089,4109089,"ŠUBELJ GREGORIČ HELENA - ZOBOZDRAVSTVENA ORDINACIJA, ZASEBNA ZOBOZDRAVNICA",IZPOSTAVA DOMŽALE,Mestni trg 2,1230 Domžale,Domžale,Domžale - Slavka Šlandra,Domžale,46.13975,14.59617,01 724 52 08,http://www.zdravniki-zobozdravniki.net
