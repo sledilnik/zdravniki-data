@@ -418,7 +418,6 @@ postZZZS,addressZZZS,lat,lon,street,streetAlt,housenumber,housenumberAppendix,ci
 2000 MARIBOR,KREKOVA ULICA 5,46.56182,15.64708,Krekova ulica,,5,,Maribor,,Center,Maribor,2000,Maribor,Podravska
 2000 MARIBOR,KRPANOVA ULICA 19,46.55582,15.62276,Krpanova ulica,,19,,Maribor,,Studenci,Maribor,2000,Maribor,Podravska
 2000 MARIBOR,LAVRIČEVA ULICA 1,46.55817,15.63600,Lavričeva ulica,,1,,Maribor,,Koroška vrata,Maribor,2000,Maribor,Podravska
-2000 MARIBOR,LAVRIČEVA ULICA 1 A,46.55814,15.63578,Lavričeva ulica,,1,a,Maribor,,Koroška vrata,Maribor,2000,Maribor,Podravska
 2000 MARIBOR,LEONA ZALAZNIKA ULICA 35,46.57719,15.66905,Leona Zalaznika ulica,,35,,Maribor,,Ivan Cankar,Maribor,2000,Maribor,Podravska
 2000 MARIBOR,LJUBLJANSKA UL.42,46.54588,15.64358,Ljubljanska ulica,,42,,Maribor,,Tabor,Maribor,2000,Maribor,Podravska
 2000 MARIBOR,LJUBLJANSKA ULICA 5,46.55289,15.64858,Ljubljanska ulica,,5,,Maribor,,Magdalena,Maribor,2000,Maribor,Podravska
@@ -447,6 +446,7 @@ postZZZS,addressZZZS,lat,lon,street,streetAlt,housenumber,housenumberAppendix,ci
 2000 MARIBOR,PRVOMAJSKA ULICA 25,46.53329,15.66758,Prvomajska ulica,,25,,Maribor,,Tezno,Maribor,2000,Maribor,Podravska
 2000 MARIBOR,PTUJSKA CESTA 189,,,,,,,,,,,,,
 2000 MARIBOR,PUPINOVA ULICA 2,46.55272,15.64503,Pupinova ulica,,2,,Maribor,,Magdalena,Maribor,2000,Maribor,Podravska
+2000 MARIBOR,PUPINOVA ULICA 4,46.55252,15.64493,Pupinova ulica,,4,,Maribor,,Magdalena,Maribor,2000,Maribor,Podravska
 2000 MARIBOR,RADVANJSKA CESTA 134,46.53554,15.62451,Radvanjska cesta,,134,,Maribor,,Radvanje,Maribor,2000,Maribor,Podravska
 2000 MARIBOR,RAZLAGOVA ULICA 24,46.56193,15.65446,Razlagova ulica,,24,,Maribor,,Ivan Cankar,Maribor,2000,Maribor,Podravska
 2000 MARIBOR,RIBNIŠKA ULICA 5,46.56844,15.64870,Ribniška ulica,,5,,Maribor,,Center,Maribor,2000,Maribor,Podravska
