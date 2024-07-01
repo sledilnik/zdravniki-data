@@ -70,7 +70,6 @@ postOver,addressOver,cityOver,lat,lon,street,streetAlt,housenumber,housenumberAp
 4240 Radovljica,Kopališka cesta 7,,46.34702,14.17201,Kopališka cesta,,7,,Radovljica,,Radovljica,Radovljica,4240,Radovljica,Gorenjska
 4248 Lesce,Železniška ulica 10,,46.36149,14.15765,Železniška ulica,,10,,Lesce,,Lesce,Radovljica,4248,Lesce,Gorenjska
 4264 Bohinjska Bistrica,Triglavska cesta 15,,46.27206,13.95469,Triglavska cesta,,15,,Bohinjska Bistrica,,Bohinjska Bistrica,Bohinj,4264,Bohinjska Bistrica,Gorenjska
-4274 Žirovnica,Selo pri Žirovnici 8a,,46.40034,14.14153,Selo pri Žirovnici,,8,a,Selo pri Žirovnici,,,Žirovnica,4274,Žirovnica,Gorenjska
 5213 Kanal,Morsko 1,,46.08033,13.63544,Morsko,,1,,Morsko,,Kanal,Kanal,5213,Kanal,Goriška
 5230 Bovec,Kot 85,,46.33596,13.54877,Kot,,85,,Bovec,,Bovec,Bovec,5230,Bovec,Goriška
 5231 Kanal,Morsko 1,,46.08033,13.63544,Morsko,,1,,Morsko,,Kanal,Kanal,5213,Kanal,Goriška
@@ -97,6 +96,5 @@ postOver,addressOver,cityOver,lat,lon,street,streetAlt,housenumber,housenumberAp
 9000 Murska Sobota,Cvetkova ulica 10,Murska Sobota,46.66089,16.16751,Cvetkova ulica,,10,,Murska Sobota,,Center,Murska Sobota,9000,Murska Sobota,Pomurska
 9000 Murska Sobota,Lendavska ulica 17a,Murska Sobota,46.66438,16.16739,Lendavska ulica,,17,a,Murska Sobota,,Ledava,Murska Sobota,9000,Murska Sobota,Pomurska
 9000 Murska Sobota,Lendavska ulica 18,Murska Sobota,46.66410,16.16828,Lendavska ulica,,18,,Murska Sobota,,Center,Murska Sobota,9000,Murska Sobota,Pomurska
-9000 Murska Sobota,Mladinska ulica 10,Murska Sobota,46.65754,16.16589,Mladinska ulica,,10,,Murska Sobota,,Center,Murska Sobota,9000,Murska Sobota,Pomurska
 9201 Puconci,Puconci 150,,46.70397,16.15779,Puconci,,150,,Puconci,,Puconci,Puconci,9201,Puconci,Pomurska
 9220 Lendava - Lendva,Mlinska ulica 6,Lendava,46.56183,16.45256,Mlinska ulica,Malom utca,6,,Lendava,Lendva,Lendava / Lendva,Lendava,9220,Lendava - Lendva,Pomurska
