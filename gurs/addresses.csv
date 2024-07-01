@@ -105,6 +105,7 @@ postZZZS,addressZZZS,lat,lon,street,streetAlt,housenumber,housenumberAppendix,ci
 1000 LJUBLJANA,PLEŠIČEVA ULICA 15,46.08009,14.46711,Plešičeva ulica,,15,,Ljubljana,,Četrtna skupnost Dravlje,Ljubljana,1000,Ljubljana,Osrednjeslovenska
 1000 LJUBLJANA,POD JELŠAMI 20,46.03383,14.49319,Pod jelšami,,20,,Ljubljana,,Četrtna skupnost Trnovo,Ljubljana,1000,Ljubljana,Osrednjeslovenska
 1000 LJUBLJANA,PODGORNIKOVA ULICA 1,46.07375,14.47954,Podgornikova ulica,,1,,Ljubljana,,Četrtna skupnost Šiška,Ljubljana,1000,Ljubljana,Osrednjeslovenska
+1000 LJUBLJANA,POT K SAVI 4,46.08121,14.53495,Pot k Savi,,4,,Ljubljana,,Četrtna skupnost Bežigrad,Ljubljana,1000,Ljubljana,Osrednjeslovenska
 1000 LJUBLJANA,POT NA FUŽINE 3,46.05563,14.55129,Pot na Fužine,,3,,Ljubljana,,Četrtna skupnost Moste,Ljubljana,1000,Ljubljana,Osrednjeslovenska
 1000 LJUBLJANA,POT NA HREŠE 10 D,46.06223,14.60872,Pot na Hreše,,10,d,Ljubljana,,Četrtna skupnost Polje,Ljubljana,1000,Ljubljana,Osrednjeslovenska
 1000 LJUBLJANA,POVŠETOVA ULICA 57,46.05333,14.53286,Povšetova ulica,,57,,Ljubljana,,Četrtna skupnost Moste,Ljubljana,1000,Ljubljana,Osrednjeslovenska
@@ -1187,6 +1188,7 @@ postZZZS,addressZZZS,lat,lon,street,streetAlt,housenumber,housenumberAppendix,ci
 8220 ŠMARJEŠKE TOPLICE,ŠMARJETA 70/A,45.88390,15.25023,Šmarjeta,,70,a,Šmarjeta,,,Šmarješke Toplice,8220,Šmarješke Toplice,Jugovzhodna Slovenija
 8222 OTOČEC,DOBRAVA 72,45.83717,15.21974,Dobrava,,72,,Otočec,,Krajevna skupnost Otočec,Novo mesto,8222,Otočec,Jugovzhodna Slovenija
 8230 MOKRONOG,PARADIŽ 14,45.94189,15.14896,Paradiž,,14,,Mokronog,,,Mokronog-Trebelno,8230,Mokronog,Jugovzhodna Slovenija
+8232 ŠENTRUPERT,PRELESJE 34 A,45.96053,15.10159,Prelesje,,34,a,Prelesje,,,Šentrupert,8232,Šentrupert,Jugovzhodna Slovenija
 8232 ŠENTRUPERT,ŠENTRUPERT 124,45.97680,15.08850,Šentrupert,,124,,Šentrupert,,,Šentrupert,8232,Šentrupert,Jugovzhodna Slovenija
 8233 MIRNA,CESTA NA FUŽINE 10,45.95289,15.06032,Cesta na Fužine,,10,,Mirna,,,Mirna,8233,Mirna,Jugovzhodna Slovenija
 8250 BREŽICE,DALMATINOVA ULICA 13,45.91550,15.58866,Dalmatinova ulica,,13,,Brežice,,Šentlenart,Brežice,8250,Brežice,Posavska
