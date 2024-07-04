@@ -750,8 +750,8 @@ rizddzInstitutionContractorId,rizddzInstitutionId,rizddzLocationId,rizddzDoctorI
 2546,2546,2,10083,302002,,,"dr. med., spec. družinska medicine",RAKEŽEVA UL.8,,3240 ŠMARJE PRI JELŠAH,03 817 14 02
 2546,2566,0,5290,327009,ped,,"dr. med., spec. pediatrije",CELJSKA CESTA 10,ROGAŠKA SLATINA,3250 ROGAŠKA SLATINA,03 818 37 70
 2546,2566,0,5631,302001,gp,,"dr. med., spec. splošne medicine",CELJSKA CESTA 10,ROGAŠKA SLATINA,3250 ROGAŠKA SLATINA,03 818 37 64
-2546,2566,0,12874,327009,ped,,"dr. med., spec. pediatrije",CELJSKA CESTA 10,ROGAŠKA SLATINA,3250 ROGAŠKA SLATINA,038183774
 2546,2566,0,12874,327009,ped,,"dr. med., spec. pediatrije",CELJSKA CESTA 10,ROGAŠKA SLATINA,3250 ROGAŠKA SLATINA,03 818 37 74
+2546,2566,0,12874,327009,ped,,"dr. med., spec. pediatrije",CELJSKA CESTA 10,ROGAŠKA SLATINA,3250 ROGAŠKA SLATINA,038183774
 2546,2566,0,13158,302001,gp,,"dr. med., spec. družinska medicine",CELJSKA CESTA 10,ROGAŠKA SLATINA,3250 ROGAŠKA SLATINA,03 818 37 94
 2546,2566,0,14465,404101,den,,dr. dent. med.,CELJSKA CESTA 10,ROGAŠKA SLATINA,3250 ROGAŠKA SLATINA,038183778
 2546,2566,0,14465,404103,den-y,,dr. dent. med.,CELJSKA CESTA 10,ROGAŠKA SLATINA,3250 ROGAŠKA SLATINA,03 818 37 78
@@ -1139,12 +1139,13 @@ rizddzInstitutionContractorId,rizddzInstitutionId,rizddzLocationId,rizddzDoctorI
 7883,7883,2,5353,327009,ped,,"dr. med., spec. pediatrije",GOSPOSVETSKA CESTA 21,,2000 MARIBOR,02 235 66 74
 7883,7883,2,11150,302001,gp,,"dr. med., spec. družinska medicine",GOSPOSVETSKA CESTA 21,,2000 MARIBOR,02 235 66 70
 7883,7883,2,12058,302001,gp,asist.,"dr. med., spec. družinska medicine",GOSPOSVETSKA CESTA 21,,2000 MARIBOR,02 235 66 69
-7883,7883,2,12291,302001,gp,,"dr. med., spec. splošne medicine",GOSPOSVETSKA CESTA 21,,2000 MARIBOR,02 235 66 68
 7883,7883,2,17688,302001,gp,,dr. med.,GOSPOSVETSKA CESTA 21,,2000 MARIBOR,02 235 66 70
 7883,7883,4,4795,302001,gp,,"dr. med., spec. splošne medicine",JEZDARSKA ULICA 11,,2000 MARIBOR,02 333 18 68
 7883,7883,4,7366,327009,ped,,"dr. med., spec. pediatrije",JEZDARSKA ULICA 11,,2000 MARIBOR,02 333 18 12
 7883,7883,4,9267,302001,gp,,"dr. med., spec. splošne medicine",JEZDARSKA ULICA 11,,2000 MARIBOR,02 333 18 67
 7883,7883,4,9434,302001,gp,,"dr. med., spec. družinska medicine",JEZDARSKA ULICA 11,,2000 MARIBOR,02 429 47 52
+7883,7883,4,11850,302001,gp,,"dr. med., spec. družinska medicine",JEZDARSKA ULICA 11,,2000 MARIBOR,02 228 63 66
+7883,7883,4,12291,302001,gp,,"dr. med., spec. družinska medicine",JEZDARSKA ULICA 11,,2000 MARIBOR,02 235 66 68
 7883,7883,4,12911,302001,gp,,"dr. med., spec. splošne medicine",JEZDARSKA ULICA 11,,2000 MARIBOR,02 620 14 45
 7883,7883,5,9011,302001,gp,,"dr. med., spec. družinska medicine",KALOHOVA ULICA 18,MARIBOR,2000 MARIBOR,02 429 47 21
 7883,7883,5,9836,404101,den,,dr. dent. med.,KALOHOVA ULICA 18,MARIBOR,2000 MARIBOR,024294735
@@ -1204,7 +1205,6 @@ rizddzInstitutionContractorId,rizddzInstitutionId,rizddzLocationId,rizddzDoctorI
 7883,7883,30,9824,302001,gp,,"dr. med., spec. družinska medicine",UL. TALCEV 5,,2103 MARIBOR,02 228 63 87
 7883,7883,30,11009,302001,gp,,"dr. med., spec. družinska medicine",UL. TALCEV 5,,2103 MARIBOR,02 228 63 78
 7883,7883,30,11548,302001,gp,,"dr. med., spec. družinska medicine",UL. TALCEV 5,,2103 MARIBOR,02 228 63 93
-7883,7883,30,11850,302001,gp,,"dr. med., spec. družinska medicine",UL. TALCEV 5,,2103 MARIBOR,02 228 63 66
 7883,7883,30,12883,302001,gp,,"dr. med., spec. družinska medicine",UL. TALCEV 5,,2103 MARIBOR,02 228 63 69
 7883,7883,30,13861,302001,gp,,"dr. med., spec. družinska medicine",UL. TALCEV 5,,2103 MARIBOR,02 228 63 60
 7883,7883,30,14346,302001,gp,,"dr. med., spec. družinska medicine",UL. TALCEV 5,,2103 MARIBOR,02 228 63 94
