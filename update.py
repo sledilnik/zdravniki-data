@@ -92,11 +92,17 @@ def convert_to_csv(zzzsid_map):
 
         else:
             print("Converting doctors list")
-            if len(df.columns) == 13 or len(df.columns) == 14:
+            if len(df.columns) == 13 or len(df.columns) == 14 or len(df.columns) == 16:
                 print("...version after 2023-02-10")
 
                 if len(df.columns) == 14:
                     print("...version after 2024-05-10: ignore new 'Specializant' column")
+                    df.drop(columns=['Specializant'], inplace=True)
+
+                if len(df.columns) == 16:
+                    print("...version after 2024-07-19: ignore 3 new columns for now")
+                    df.drop(columns=['Zdravnik še sprejema zavarovane osebe'], inplace=True)
+                    df.drop(columns=['Zdravnik ima v ambulanto družinske medicine vključene dodatne 0,5 diplomirane medicinske sestre in je dolžan sprejemati zavarovane osebe, saj ne dosega dogovorjenega dodatnega števila 300 glavarinskih količnikov na tim (obseg zaposlitve)'], inplace=True)
                     df.drop(columns=['Specializant'], inplace=True)
 
                 df.columns = ['unit', 'institutionID', 'name', 'address', 'city', 'doctorID', 'doctor', 'typeID', 'type', 'availability', 'load', 'mustAccept', 'accepts']
