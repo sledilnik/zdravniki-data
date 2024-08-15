@@ -192,6 +192,7 @@ postZZZS,addressZZZS,lat,lon,street,streetAlt,housenumber,housenumberAppendix,ci
 1210 LJUBLJANA - ŠENTVID,ŠTULA 13 B,46.09649,14.46887,Štula,,13,b,Ljubljana,,Četrtna skupnost Šentvid,Ljubljana,1210,Ljubljana - Šentvid,Osrednjeslovenska
 1211 LJUBLJANA - ŠMARTNO,NA PALCAH 2,46.12111,14.47331,Na Palcah,,2,,Ljubljana,,Četrtna skupnost Šmarna gora,Ljubljana,1211,Ljubljana - Šmartno,Osrednjeslovenska
 1211 LJUBLJANA - ŠMARTNO,SPODNJE GAMELJNE 106,46.11851,14.50439,Spodnje Gameljne,,106,,Spodnje Gameljne,,Četrtna skupnost Šmarna gora,Ljubljana,1211,Ljubljana - Šmartno,Osrednjeslovenska
+1211 LJUBLJANA - ŠMARTNO,SREDNJE GAMELJNE 18 F,46.12407,14.49929,Srednje Gameljne,,18,f,Srednje Gameljne,,Četrtna skupnost Šmarna gora,Ljubljana,1211,Ljubljana - Šmartno,Osrednjeslovenska
 1215 MEDVODE,BIZANTOVA CESTA 14,46.13248,14.41437,Bizantova cesta,,14,,Medvode,,Preska - Žlebe,Medvode,1215,Medvode,Osrednjeslovenska
 1215 MEDVODE,GORENJA VAS - RETEČE 58 B,46.15128,14.38319,Gorenja vas - Reteče,,58,b,Gorenja vas - Reteče,,Reteče - Gorenja vas,Škofja Loka,1215,Medvode,Gorenjska
 1215 MEDVODE,OSTROVRHARJEVA ULICA 6,46.14535,14.40560,Ostrovrharjeva ulica,,6,,Medvode,,Medvode - center,Medvode,1215,Medvode,Osrednjeslovenska
@@ -1011,6 +1012,7 @@ postZZZS,addressZZZS,lat,lon,street,streetAlt,housenumber,housenumberAppendix,ci
 5270 AJDOVŠČINA,TOVARNIŠKA CESTA 3,45.88598,13.90542,Tovarniška cesta,,3,,Ajdovščina,,Krajevna skupnost Ajdovščina,Ajdovščina,5270,Ajdovščina,Goriška
 5270 AJDOVŠČINA,TOVARNIŠKA CESTA 3 E,45.88605,13.90532,Tovarniška cesta,,3,e,Ajdovščina,,Krajevna skupnost Ajdovščina,Ajdovščina,5270,Ajdovščina,Goriška
 5270 AJDOVŠČINA,ULICA MILANA KLEMENČIČA 1,45.88320,13.91390,Ulica Milana Klemenčiča,,1,,Ajdovščina,,Krajevna skupnost Ajdovščina,Ajdovščina,5270,Ajdovščina,Goriška
+5270 AJDOVŠČINA,ULICA MILANA KLEMENČIČA 7,45.88259,13.91447,Ulica Milana Klemenčiča,,7,,Ajdovščina,,Krajevna skupnost Ajdovščina,Ajdovščina,5270,Ajdovščina,Goriška
 5270 AJDOVŠČINA,VIPAVSKA CESTA 4 A,45.88449,13.91053,Vipavska cesta,,4,a,Ajdovščina,,Krajevna skupnost Ajdovščina,Ajdovščina,5270,Ajdovščina,Goriška
 5271 VIPAVA,BEBLERJEVA ULICA 5,45.84724,13.96032,Beblerjeva ulica,,5,,Vipava,,Vipava,Vipava,5271,Vipava,Goriška
 5271 VIPAVA,GLAVNI TRG 16 C,45.84600,13.96138,Glavni trg,,16,c,Vipava,,Vipava,Vipava,5271,Vipava,Goriška
@@ -1040,6 +1042,7 @@ postZZZS,addressZZZS,lat,lon,street,streetAlt,housenumber,housenumberAppendix,ci
 5295 BRANIK,BRANIK 75,45.86003,13.78728,Branik,,75,,Branik,,Krajevna skupnost Branik,Nova Gorica,5295,Branik,Goriška
 6000 KOPER - CAPODISTRIA,BEBLERJEVA ULICA 2 B,45.54074,13.70871,Beblerjeva ulica,Via Aleš Bebler,2,b,Koper,Capodistria,Žusterna,Koper,6000,Koper - Capodistria,Obalno-kraška
 6000 KOPER - CAPODISTRIA,BEBLERJEVA ULICA 7,45.54048,13.70814,Beblerjeva ulica,Via Aleš Bebler,7,,Koper,Capodistria,Žusterna,Koper,6000,Koper - Capodistria,Obalno-kraška
+6000 KOPER - CAPODISTRIA,BELVEDER 8,45.54955,13.72943,Belveder,Belvedere,8,,Koper,Capodistria,Koper - Center,Koper,6000,Koper - Capodistria,Obalno-kraška
 6000 KOPER - CAPODISTRIA,BENČIČEVA ULICA 2 D,45.53848,13.71159,Benčičeva ulica,Via Dragomir Benčič,2,d,Koper,Capodistria,Za gradom,Koper,6000,Koper - Capodistria,Obalno-kraška
 6000 KOPER - CAPODISTRIA,CESTA NA MARKOVEC 31,45.53704,13.71563,Cesta na Markovec,Strada di Monte Marco,31,,Koper,Capodistria,Semedela,Koper,6000,Koper - Capodistria,Obalno-kraška
 6000 KOPER - CAPODISTRIA,CESTA ZORE PERELLO-GODINA 1,45.54256,13.72830,Cesta Zore Perello-Godina,Strada Zora Perello-Godina,1,,Koper,Capodistria,Koper - Center,Koper,6000,Koper - Capodistria,Obalno-kraška
