@@ -1222,7 +1222,6 @@ postZZZS,addressZZZS,lat,lon,street,streetAlt,housenumber,housenumberAppendix,ci
 8270 KRŠKO,CESTA KRŠKIH ŽRTEV 112,45.95115,15.48664,Cesta krških žrtev,,112,,Krško,,Krško,Krško,8270,Krško,Posavska
 8270 KRŠKO,CESTA KRŠKIH ŽRTEV 132 C,45.94307,15.48349,Cesta krških žrtev,,132,c,Krško,,Krško,Krško,8270,Krško,Posavska
 8270 KRŠKO,CESTA KRŠKIH ŽRTEV 43,45.96424,15.48640,Cesta krških žrtev,,43,,Krško,,Krško,Krško,8270,Krško,Posavska
-8270 KRŠKO,CESTA KRŠKIH ŽRTEV 56,45.96163,15.48529,Cesta krških žrtev,,56,,Krško,,Krško,Krško,8270,Krško,Posavska
 8270 KRŠKO,CESTA KRŠKIH ŽRTVEV 132 C,,,,,,,,,,,,,
 8270 KRŠKO,KIDRIČEVA ULICA 12,45.95842,15.50265,Kidričeva ulica,,12,,Krško,,Krško,Krško,8270,Krško,Posavska
 8270 KRŠKO,KOLODVORSKA ULICA 7 A,45.95662,15.49438,Kolodvorska ulica,,7,a,Krško,,Krško,Krško,8270,Krško,Posavska
@@ -1241,6 +1240,7 @@ postZZZS,addressZZZS,lat,lon,street,streetAlt,housenumber,housenumberAppendix,ci
 8274 RAKA,RAKA 36,45.92932,15.38078,Raka,,36,,Raka,,Raka,Krško,8274,Raka,Posavska
 8275 ŠKOCJAN,ŠKOCJAN 67,45.90725,15.28993,Škocjan,,67,,Škocjan,,,Škocjan,8275,Škocjan,Jugovzhodna Slovenija
 8280 BRESTANICA,LIKARJEVA ULICA 12,46.00108,15.48032,Likarjeva ulica,,12,,Brestanica,,Brestanica,Krško,8280,Brestanica,Posavska
+8280 BRESTANICA,ŠOLSKA CESTA 29,45.99996,15.47488,Šolska cesta,,29,,Brestanica,,Brestanica,Krško,8280,Brestanica,Posavska
 8281 SENOVO,BOHORSKA CESTA 2,46.01981,15.47562,Bohorska cesta,,2,,Senovo,,Senovo,Krško,8281,Senovo,Posavska
 8290 SEVNICA,DROŽANJSKA CESTA 68,46.01676,15.31358,Drožanjska cesta,,68,,Sevnica,,Sevnica,Sevnica,8290,Sevnica,Posavska
 8290 SEVNICA,DROŽANJSKA CESTA 90,46.01346,15.31147,Drožanjska cesta,,90,,Sevnica,,Sevnica,Sevnica,8290,Sevnica,Posavska
