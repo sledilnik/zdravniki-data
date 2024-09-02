@@ -728,6 +728,7 @@ postZZZS,addressZZZS,lat,lon,street,streetAlt,housenumber,housenumberAppendix,ci
 3204 DOBRNA,DOBRNA 50,46.33966,15.22417,Dobrna,,50,,Dobrna,,,Dobrna,3204,Dobrna,Savinjska
 3204 DOBRNA,LOKOVINA 13 A,46.33308,15.21503,Lokovina,,13,a,Lokovina,,,Dobrna,3204,Dobrna,Savinjska
 3205 VITANJE,NA VASI 11,46.38261,15.29604,Na vasi,,11,,Vitanje,,Trška skupnost Vitanje,Vitanje,3205,Vitanje,Savinjska
+3210 SLOVENSKE KONJICE,BEZINA 1 D,46.34994,15.43387,Bezina,,1,d,Bezina,,Bezina,Slovenske Konjice,3210,Slovenske Konjice,Savinjska
 3210 SLOVENSKE KONJICE,DOBRAVA PRI KONJICAH 3 B,46.34627,15.41290,Dobrava pri Konjicah,,3,b,Dobrava pri Konjicah,,Dobrava-Gabrovlje,Slovenske Konjice,3210,Slovenske Konjice,Savinjska
 3210 SLOVENSKE KONJICE,MESTNI TRG 17,46.33998,15.42862,Mestni trg,,17,,Slovenske Konjice,,Slovenske Konjice,Slovenske Konjice,3210,Slovenske Konjice,Savinjska
 3210 SLOVENSKE KONJICE,POLJSKA CESTA 1,46.33774,15.42917,Poljska cesta,,1,,Slovenske Konjice,,Slovenske Konjice,Slovenske Konjice,3210,Slovenske Konjice,Savinjska
@@ -916,6 +917,7 @@ postZZZS,addressZZZS,lat,lon,street,streetAlt,housenumber,housenumberAppendix,ci
 4220 ŠKOFJA LOKA,STARA LOKA 31,46.17128,14.29907,Stara Loka,,31,,Stara Loka,,Stara Loka - Podlubnik,Škofja Loka,4220,Škofja Loka,Gorenjska
 4220 ŠKOFJA LOKA,SV. DUH 162,46.18482,14.32198,Sv. Duh,,162,,Sv. Duh,,Sveti Duh,Škofja Loka,4220,Škofja Loka,Gorenjska
 4220 ŠKOFJA LOKA,VISOKO PRI POLJANAH 5,46.12637,14.21316,Visoko pri Poljanah,,5,,Visoko pri Poljanah,,Log,Škofja Loka,4220,Škofja Loka,Gorenjska
+4223 POLJANE NAD ŠKOFJO LOKO,DOLENČICE 9 A,46.15532,14.17450,Dolenčice,,9,a,Dolenčice,,Javorje,Gorenja vas-Poljane,4223,Poljane nad Škofjo Loko,Gorenjska
 4224 GORENJA VAS,TRATA 7,46.10233,14.14218,Trata,,7,,Gorenja vas,,Gorenja vas,Gorenja vas-Poljane,4224,Gorenja vas,Gorenjska
 4224 GORENJA VAS,TRATA 7 A,46.10238,14.14240,Trata,,7,a,Gorenja vas,,Gorenja vas,Gorenja vas-Poljane,4224,Gorenja vas,Gorenjska
 4226 ŽIRI,BEDRIH 34,46.05850,14.11971,Bedrih,,34,,Žiri,,,Žiri,4226,Žiri,Gorenjska
