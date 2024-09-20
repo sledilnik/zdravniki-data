@@ -1,5 +1,5 @@
 id_inst,zzzsSt,name,unit,address,post,city,municipalityPart,municipality,lat,lon,phone,website
-4254688,4254688,"0.4, ZOBOZDRAVSTVENE STORITVE D.O.O.",OE LJUBLJANA,Polhov Gradec 13,1355 Polhov Gradec,Polhov Gradec,Polhov Gradec,Dobrova-Polhov Gradec,46.06521,14.31457,,https://www.zdravniki-zobozdravniki.net/clan/Gregor-KNAFELC-922/
+4254688,4254688,"0.4, ZOBOZDRAVSTVENE STORITVE D.O.O.",OE LJUBLJANA,Polhov Gradec 13,1355 Polhov Gradec,Polhov Gradec,Polhov Gradec,Dobrova-Polhov Gradec,46.06521,14.31457,01/364 03 40,https://www.zdravniki-zobozdravniki.net/clan/Gregor-KNAFELC-922/
 6387872,6387872,1A-DENT ZOBJE ZOBOZDRAVSTVENA DEJAVNOST D.O.O.,IZPOSTAVA RADLJE OB DRAVI,Podgorje 73d,2381 Podgorje pri Slovenj Gradcu,Podgorje,Podgorje,Slovenj Gradec,46.4755,15.0818,(02) 876 48 64,https://www.zdravniki-zobozdravniki.net/clan/Mateja-GORJUP-MEH-1539/
 4483473,4483473,2LEVA DENTALNA MEDICINA IN MEDIJI D.O.O.,OE KRANJ,Vrečkova ulica 3,4000 Kranj,Kranj,Planina,Kranj,46.23503,14.36105,05 904 24 16,http://www.ordinacija-belehar.si
 2780239,2780239,32 D.O.O. ZDRAVSTVO IN ZOBOZDRAVSTVO,IZPOSTAVA GROSUPLJE,Ulica bratov Babnik 10,1000 Ljubljana,Ljubljana,Četrtna skupnost Dravlje,Ljubljana,46.07645,14.466,01/780 72 10,https://www.zdravniki-zobozdravniki.net/clan/Ljubica-SORMAZ-1139/#ordinacija
@@ -9,7 +9,7 @@ id_inst,zzzsSt,name,unit,address,post,city,municipalityPart,municipality,lat,lon
 3269561,3269561,"A. MLINAR, ZOBOZDRAVSTVO, PROJEKTIRANJE IN DRUGE STORITVE D.O.O.",OE KOPER,Frenkova ulica 7,6280 Ankaran - Ancarano,Ankaran,,Ankaran,45.58296,13.73466,040 827 521,http://www.dcmlinar.si
 3079961,3079961,"A.S. LINEA, TRGOVINA, STORITVE, D.O.O.",IZPOSTAVA RADOVLJICA,Pot na Lisice 4,4260 Bled,Bled,Bled,Bled,46.36823,14.1308,04 574 13 66,http://zobozdravstvo-bled.si
 8822350,8822350,"AB NASMEH, ZOBOZDRAVSTVENE IN DRUGE STORITVE, D.O.O.",OE MURSKA SOBOTA,CVETKOVA ULICA 10,9000 MURSKA SOBOTA,,,???,,,02 524 19 10,https://www.zobozdravniki-pomurja.si/profil/13/opis.html
-2831490,2831490,"AERODENT, ZOBOZDRAVSTVO, D.O.O.",IZPOSTAVA VRHNIKA,Brigadirska cesta 16,1360 Vrhnika,Verd,Verd,Vrhnika,45.96273,14.30258,(01) 755 73 10,
+2831490,2831490,"AERODENT, ZOBOZDRAVSTVO, D.O.O.",IZPOSTAVA VRHNIKA,Brigadirska cesta 16,1360 Vrhnika,Verd,Verd,Vrhnika,45.96273,14.30258,(01) 755 73 10,https://www.cakalnedobe.si/zdravstvene-ustanove/aerodent-zobozdravstvo-d-o-o/
 3275353,3275353,AHLIN DRAGOTIN - SPLOŠNA AMBULANTA,IZPOSTAVA KAMNIK,Novi trg 26a,1241 Kamnik,Kamnik,Novi trg,Kamnik,46.22082,14.61321,01 839 15 98,https://www.zdravniki-zobozdravniki.net/clan/Dragotin-AHLIN-96/
 9285788,9285788,ALENKA ANTOLINC KOŠAT - AMBULANTA DRUŽINSKE MEDICINE,OE MARIBOR,Pohorska ulica 21a,2000 Maribor,Maribor,Radvanje,Maribor,46.53843,15.60483,02/ 250 24 76,https://www.zdravniki-zobozdravniki.net/clan/Alenka-ANTOLINC-KOSAT-1737/
 4729449,4729449,ALENKA IVANČIČ DR. DENT. MED. ZASEBNA ZOBNA ORDINACIJA,OE LJUBLJANA,Komenskega ulica 19,1000 Ljubljana,Ljubljana,Četrtna skupnost Center,Ljubljana,46.05341,14.51253,01/434 49 04,http://www.ivancici.si/
@@ -829,6 +829,6 @@ zdlsi,,ZD LJUBLJANA - ŠIŠKA,OE LJUBLJANA,Derčeva ulica 5,1000 Ljubljana,Ljubl
 4109089,4109089,"ŠUBELJ GREGORIČ HELENA - ZOBOZDRAVSTVENA ORDINACIJA, ZASEBNA ZOBOZDRAVNICA",IZPOSTAVA DOMŽALE,Mestni trg 2,1230 Domžale,Domžale,Domžale - Slavka Šlandra,Domžale,46.13975,14.59617,01 724 52 08,http://www.zdravniki-zobozdravniki.net
 3435184,3435184,ŠULER PATRICIJA - ZASEBNA ZOBNA AMBULANTA,IZPOSTAVA MOZIRJE,Luče 106,3334 Luče,Luče,,Luče,46.3564,14.74415,(03) 838 40 40,https://www.zdravniki-zobozdravniki.net/clan/Patricija-SULER-923/
 8620081,8620081,"ŽAGARMED, AMBULANTA DRUŽINSKE MEDICINE, D.O.O.",OE LJUBLJANA,Preserje 41c,1352 Preserje,Preserje,Preserje,Brezovica,45.95412,14.42276,01/363 30 56,
-4447205,4447205,"ŽARGI JURIJ, DR. DENT. MED. ZOBOZDRAVSTVENA ORDINACIJA BEŽIGRAJSKI DVOR",OE LJUBLJANA,Peričeva ulica 31,1000 Ljubljana,Ljubljana,Četrtna skupnost Bežigrad,Ljubljana,46.06686,14.51147,(01)436 30 79,
+4447205,4447205,"ŽARGI JURIJ, DR. DENT. MED. ZOBOZDRAVSTVENA ORDINACIJA BEŽIGRAJSKI DVOR",OE LJUBLJANA,Peričeva ulica 31,1000 Ljubljana,Ljubljana,Četrtna skupnost Bežigrad,Ljubljana,46.06686,14.51147,(01)436 30 79,https://zobna-medicina.si/o-nas
 6119277,6119277,"ŽIVA V PARKU, ZDRAVSTVENE STORITVE D.O.O.",OE MURSKA SOBOTA,Tišina 30,9251 Tišina,Tišina,Tišina,Tišina,46.65356,16.08631,,http://zivavparku.si
 3200456,3200456,ŽNIDARŠIČ KSENIJA - ZASEBNA ORDINACIJA ZA SPLOŠNO MEDICINO,IZPOSTAVA BREŽICE,Černelčeva cesta 8,8250 Brežice,Brežice,Brežice,Brežice,45.90811,15.59415,074 963 451,http://ordinacija.spisarna.si/
