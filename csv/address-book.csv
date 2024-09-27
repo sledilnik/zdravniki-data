@@ -48,6 +48,7 @@ rizddzInstitutionContractorId,rizddzInstitutionId,rizddzLocationId,rizddzDoctorI
 100,100,0,12025,327009,ped,,"dr. med., spec. pediatrije",ČERNELČEVA CESTA 8,BREŽICE,8250 BREŽICE,074991479
 100,100,0,12223,404101,den,,dr. dent. med.,ČERNELČEVA CESTA 8,BREŽICE,8250 BREŽICE,074991407
 100,100,0,12247,302001,gp,,"dr. med., spec. družinske medicine",ČERNELČEVA CESTA 8,BREŽICE,8250 BREŽICE,074991408
+100,100,0,12653,327009,ped,,"dr. med., spec. pediatrije",ČERNELČEVA CESTA 8,BREŽICE,8250 BREŽICE,074991487
 100,100,0,12818,302001,gp,,"dr. med., spec. družinske medicine",ČERNELČEVA CESTA 8,BREŽICE,8250 BREŽICE,074991468
 100,100,0,12878,404101,den,,dr. dent. med.,ČERNELČEVA CESTA 8,BREŽICE,8250 BREŽICE,074991441
 100,100,0,12941,302001,gp,,"dr. med., spec. družinske medicine",ČERNELČEVA CESTA 8,BREŽICE,8250 BREŽICE,074991485
@@ -69,7 +70,7 @@ rizddzInstitutionContractorId,rizddzInstitutionId,rizddzLocationId,rizddzDoctorI
 115,115,0,8753,302001,gp,,dr. med.,LEVSTIKOVA ULICA 2,SEŽANA,6210 SEŽANA,05 75 73 199
 128,128,0,9125,306007,gyn,,"dr. med., spec. ginekologije in porodništva",ČERNELČEVA CESTA 15,BREŽICE,8250 BREŽICE,074668144
 128,128,0,9907,306007,gyn,,"dr. med., spec. ginekologije in porodništva",ČERNELČEVA CESTA 15,BREŽICE,8250 BREŽICE,074668144
-128,128,0,12241,306007,gyn,,"dr. med., spec. ginekologije in porodništva",ČERNELČEVA CESTA 15,BREŽICE,8250 BREŽICE,074668144
+128,128,0,14498,306007,gyn,,"dr. med., spec. ginekologije in porodništva",ČERNELČEVA CESTA 15,BREŽICE,8250 BREŽICE,074668144
 130,130,0,4820,327009,ped,,dr. med. spec. ped.,TOVARNIŠKA CESTA 3,AJDOVŠČINA,5270 AJDOVŠČINA,05 36 93 106
 130,130,0,5010,302001,gp,,"dr. med., spec. družinska medicine",TOVARNIŠKA CESTA 3,AJDOVŠČINA,5270 AJDOVŠČINA,(05) 36 93 110
 130,130,0,5389,306007,gyn,,"dr. med., spec. ginekologije in porodništva",TOVARNIŠKA CESTA 3,AJDOVŠČINA,5270 AJDOVŠČINA,(05) 36 93 125
@@ -915,14 +916,14 @@ rizddzInstitutionContractorId,rizddzInstitutionId,rizddzLocationId,rizddzDoctorI
 6501,6501,4,11160,302001,gp,,"dr. med., spec. splošne medicine",KOLODVORSKA POT 6,NOVA GORICA,5000 NOVA GORICA,
 6501,6501,5,7392,302001,gp,,"dr. med., spec.",ZIDANI MOST 9,ZIDANI MOST,1432 ZIDANI MOST,
 6501,6501,7,8900,302001,gp,,"dr. med., spec.",KOLODVORSKA CESTA 25,POSTOJNA,6230 POSTOJNA,
-6651,6651,0,6967,302001,gp,,,ROŠKA CESTA 18,KOČEVJE,1330 KOČEVJE,
-6651,6651,0,10424,302001,gp,,,ROŠKA CESTA 18,KOČEVJE,1330 KOČEVJE,
+6651,6651,0,6967,302001,gp,,"dr. med., spec. spl. med.",ROŠKA CESTA 18,KOČEVJE,1330 KOČEVJE,
+6651,6651,0,10424,302001,gp,,"dr. med., spec., druž., med.",ROŠKA CESTA 18,KOČEVJE,1330 KOČEVJE,
 6651,6651,0,10545,404101,den,,dr. dent. med.,ROŠKA CESTA 18,KOČEVJE,1330 KOČEVJE,
-6651,6651,0,11218,302001,gp,,,ROŠKA CESTA 18,KOČEVJE,1330 KOČEVJE,
+6651,6651,0,11218,302001,gp,,"dr. med., spec., druž., med.",ROŠKA CESTA 18,KOČEVJE,1330 KOČEVJE,
 6651,6651,0,11803,404101,den,,dr. dent. med.,ROŠKA CESTA 18,KOČEVJE,1330 KOČEVJE,01 893 90 00
 6651,6651,0,11803,404103,den-y,,dr. dent. med.,ROŠKA CESTA 18,KOČEVJE,1330 KOČEVJE,01 893 90 00
-6651,6651,0,11843,306007,gyn,,"dr. med., spec. ginekologije in porodništva",ROŠKA CESTA 18,KOČEVJE,1330 KOČEVJE,01 893 90 00
-6651,6651,0,12799,302001,gp,,,ROŠKA CESTA 18,KOČEVJE,1330 KOČEVJE,
+6651,6651,0,11843,306007,gyn,,"dr. med., spec. ginekologije in porodništva",ROŠKA CESTA 18,KOČEVJE,1330 KOČEVJE,
+6651,6651,0,12799,302001,gp,,"dr. med., spec. druž. med.",ROŠKA CESTA 18,KOČEVJE,1330 KOČEVJE,
 6651,6651,0,12822,404101,den,,dr. dent. med.,ROŠKA CESTA 18,KOČEVJE,1330 KOČEVJE,01 893 90 00
 6651,6651,0,12822,404103,den-y,,dr. dent. med.,ROŠKA CESTA 18,KOČEVJE,1330 KOČEVJE,
 6651,6651,0,13689,404101,den,,dr. dent. med.,ROŠKA CESTA 18,KOČEVJE,1330 KOČEVJE,01 893 90 00
@@ -1466,7 +1467,6 @@ rizddzInstitutionContractorId,rizddzInstitutionId,rizddzLocationId,rizddzDoctorI
 10201,10201,0,17283,404101,den,,dr. dent. med.,MESTNI TRG 2,DOMŽALE,1230 DOMŽALE,01 72 45 169
 10201,10201,0,17519,404101,den,,dr. dent. med.,MESTNI TRG 2,DOMŽALE,1230 DOMŽALE,01 72 45 169
 10201,10201,2,10685,302002,,,"dr. med., spec. družinska medicine",CESTA TALCEV 9,,1230 DOMŽALE,01 / 729 73 20
-10201,10201,7,14511,302068,,,"dr.med., specializantka druž.med.",LJUBLJANSKA CESTA 12 F,,1236 TRZIN,01 / 564 40 50
 10201,10202,0,8275,302001,gp,,"dr. med., spec. družinska medicine",ZORANINA ULICA 3,MENGEŠ,1234 MENGEŠ,01 / 7245 904
 10201,10202,0,9685,302001,gp,,"dr. med., spec. družinska medicine",ZORANINA ULICA 3,MENGEŠ,1234 MENGEŠ,01 / 72 45 906
 10201,10202,0,13797,302002,,,"dr. med., spec. družinska medicine",ZORANINA ULICA 3,MENGEŠ,1234 MENGEŠ,059 365 405
