@@ -558,7 +558,6 @@ Ambulanta za neopredeljene,gp-f,205445,2023-03-24,,,,,,,01 893 90 64,https://www
 Ambulanta za neopredeljene,gp-f,488940,2023-03-24,,,,,,,01 / 72 45 902,https://www.zd-domzale.si/ambulante-in-oddelki/ambulante/ambulanta-za-neopredeljene-paciente,ambulanta.neopredeljeni@zd-domzale.si,
 Ambulanta za neopredeljene,gp-f,604816,2023-03-24,,,,,,,041 480 829,https://www.zd-celje.si/si/osnovno-zdravstvo/2146-druzinska-medicina/4636-ambulanta-za-osebe-brez-ioz,amb.neopredeljeni@zd-celje.si,
 Ambulanta za neopredeljene,gp-f,705728,2023-03-24,,,,Cesta na Markovec 1,,6000 Koper,05 6647 102,https://www.zd-koper.si/si/ambulante/ambulanta-za-neopredeljene/ambulanta-za-neopredeljene,,https://portal.zd-koper.si
-Ambulanta za neopredeljene,gp-f,724180,2023-03-24,,,,,,,070 944 544,https://www.zd-izola.si/ambulante-in-sluzbe/ambulanta-za-neopredeljene/ambulanta-za-neopredeljene,sanzo@zd-izola.si,
 Ambulanta za neopredeljene,gp-f,751640,2023-03-24,,,,,,,05/29 27 172,https://zdib.si/ambulanta/ambulanta-za-neopredeljene-paciente/,,https://www.gospodar-zdravja.si/reservation/patients/service_provider/320/doctor/35409/989
 Ambulanta za neopredeljene,gp-f,789398,2023-03-24,,,,,,,,https://zd-velenje.si/ambulanta-za-neopredeljene-paciente/,,
 Ambulanta za neopredeljene,gp-f,91830,2023-03-24,,,,,,,07 30 61 716,https://zd-crnomelj.si/ambulanta-st-2-jerca-kranjc-dr-med-spec-druz-med/,amb.neopredeljeni@zd-crnomelj.si,
@@ -726,7 +725,6 @@ Vidrih Aleksandra,den,4253787,2024-08-30,Ne sprejema novih pacientov.,n,,Ljublja
 Harl Martina,ped,90255,2024-09-08,Ne dela več pri tem izvajalcu.,n,,,,,,,,
 Marin Jelena,gp,199049,2024-09-08,Sprejema nove paciente.,y,,,,,,,,
 Jeras Petra,gp,478988,2024-09-09,Ne sprejema novih pacientov.,n,,Glavarjeva cesta 61a,,1218 Komenda,,,komenda@skupinskapraksa.si,
-Špiclin Tanja,gp,8569868,2024-09-09,Sprejema nove paciente.,y,,,,,015550170,www.spiclin.net,info@spiclin.net,
 Frelih Aljoša,gyn,102320,2024-09-11,Sprejema nove paciente.,y,,,,,,,,
 Khalil Rot Nadja,gp,478988,2024-09-11,Ne sprejema novih pacientov.,n,,Glavarjeva cesta 61a,,1218 Komenda,,,komenda@skupinskapraksa.si,
 Gaberšček Brina,den,zdlbe,2024-09-29,Sprejema nove paciente.,y,,,,,,,,
@@ -742,3 +740,6 @@ Rihter Ivana,den,zdlce,2024-09-29,Sprejema nove paciente.,y,,,,,,,,
 Artač Meta,den,zdlce,2024-09-29,Sprejema nove paciente.,y,,,,,,,,
 Samba Lea,den,zdlce,2024-09-29,Sprejema nove paciente.,y,,,,,,,,
 Kovačević Robert,den,zdlce,2024-09-29,Sprejema nove paciente.,y,,,,,,,,
+Ignatovska Stefanovska Roza,gp,664356,2024-10-01,Sprejema nove paciente.,y,,,,,,,,
+Ambulanta za neopredeljene,gp-f,724180,2024-10-01,Ne sprejema novih pacientov.,n,,,,,070 944 544,https://www.zd-izola.si/ambulante-in-sluzbe/ambulanta-za-neopredeljene/ambulanta-za-neopredeljene,sanzo@zd-izola.si,
+Špiclin Tanja,gp,8569868,2024-09-09,Ne sprejema novih pacientov.,n,,,,,015550170,www.spiclin.net,info@spiclin.net,
