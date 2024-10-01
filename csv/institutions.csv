@@ -96,6 +96,7 @@ id_inst,zzzsSt,name,unit,address,post,city,municipalityPart,municipality,lat,lon
 5189793,5189793,CYCLOPET RADIOFARMAKI IN DIAGNOSTIKA D.O.O.,OE LJUBLJANA,Martinčeva ulica 30,1000 Ljubljana,Ljubljana,Četrtna skupnost Dravlje,Ljubljana,46.07876,14.46871,01/437 01 61,http://www.zobest.si
 9116474,9116474,"DANCE-DENT, ZOBOZDRAVSTVENE STORITVE, D.O.O.",OE NOVO MESTO,Šmarjeta 66,8220 Šmarješke Toplice,Šmarjeta,,Šmarješke Toplice,45.88826,15.24703,07 38 44 168,https://ordinacija-slajkovec.si/
 3055940,3055940,DAVOR ŠTANFEL DR.DENT.MED.-ZASEBNA STOMATOLOŠKA ORDINACIJA,OE KOPER,Obrtniška ulica 30,6000 Koper - Capodistria,Koper,Škocjan,Koper,45.53069,13.73563,(05) 639 76 26,http://www.slovenski-zobozdraniki.si/davor-stanfel
+9278010,9278010,"DEAMED, ZDRAVSTVENE STORITVE, D.O.O.",IZPOSTAVA ŠMARJE PRI JELŠAH,Trg 5,3252 Rogatec,Rogatec,Rogatec,Rogatec,46.22822,15.69902,,
 3109703,3109703,DEBELAK SIMONA - ZOBOZDRAVSTVENA ORDINACIJA,OE KRANJ,Tekstilna ulica 17,4000 Kranj,Kranj,Primskovo,Kranj,46.24628,14.36588,04 201 53 00,https://www.simona-debelak.si/
 3858762,3858762,DEJAN EBENŠPANGER - ZOBNA ORDINACIJA,OE MURSKA SOBOTA,Lendavska ulica 18,9000 Murska Sobota,Murska Sobota,Center,Murska Sobota,46.6641,16.16828,02 532 15 98,http://www.zobozdravniki-pomurja.si
 7477715,7477715,"DEJAN STOJANOV, DR.DENT.MED. ZASEBNI ZOBOZDRAVNIK",OE LJUBLJANA,Jezero 1,1352 Preserje,Jezero,Preserje,Brezovica,45.97634,14.41959,(01) 363 30 70,https://zobar.eu/
@@ -373,7 +374,6 @@ ozgsl,,"OSNOVNO ZDRAVSTVO GORENJSKE, OE ZDRAVSTVENI DOM ŠKOFJA LOKA",IZPOSTAVA 
 3112959,3112959,PALIČ ANDREJA - ZOBOZDRAVSTVO ODRASLIH,IZPOSTAVA ČRNOMELJ,Ulica Otona Župančiča 3,8340 Črnomelj,Črnomelj,KS Črnomelj,Črnomelj,45.57421,15.19108,07 30 51 453,http://www.cakalnedobe.si/ambulante/palic-andreja-zobozdravstvo-odraslih-zobozdravstvena-dejavnost/
 3122526,3122526,PANJEK EDITA - DOKTOR STOMATOLOGIJE,IZPOSTAVA SLOVENJ GRADEC,Partizanska pot 16,2380 Slovenj Gradec,Slovenj Gradec,Center,Slovenj Gradec,46.50693,15.08202,(02) 884 10 88,https://www.zdravniki-zobozdravniki.net/
 3861500,3861500,"PEDIATRIJA BORŠTNIKOVA, ZDRAVSTVENE STORITVE IN IZOBRAŽEVANJE, D.O.O.",OE MARIBOR,Borštnikova ulica 79,2000 Maribor,Maribor,Radvanje,Maribor,46.53511,15.62851,(02) 429 02 22,http://www.pediatrija.si/
-5708833,5708833,PEDIATRIJA HELENA MOLE,OE LJUBLJANA,Cesta v Mestni log 55,1000 Ljubljana,Ljubljana,Četrtna skupnost Trnovo,Ljubljana,46.0362,14.48957,01 283 96 84,https://www.zdravniki-zobozdravniki.net/clan/Helena-MOLE-1286/
 9150798,9150798,"PEDIATRIJA ŠENTILJ, ZDRAVSTVENE IN DRUGE STORITVE, D.O.O.",OE MARIBOR,Na soseski 14,2000 Maribor,Maribor,Nova vas,Maribor,46.53872,15.63408,(08) 200 26 65,http://www.pediatrija-sentilj.si/
 4519019,4519019,"PEDIATRIJA, DRUŽBA ZA PREVENTIVO IN ZDRAVLJENJE OTROK, D.O.O.",OE MARIBOR,Kalohova ulica 25,2000 Maribor,Maribor,Studenci,Maribor,46.55476,15.61807,02 420 18 87,http://pediatrijakrebs.si/
 5088847,5088847,"PEDIATRINJA SUZANA ŠKORJANC ANTOLIČ, ZDRAVSTVENA DEJAVNOST, D.O.O.",OE MARIBOR,Hrenova ulica 6,2000 Maribor,Maribor,Studenci,Maribor,46.55432,15.62367,(02) 429 09 11,https://pediatrinjasuzana.si/
