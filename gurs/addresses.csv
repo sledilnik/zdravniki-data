@@ -341,6 +341,7 @@ postZZZS,addressZZZS,lat,lon,street,streetAlt,housenumber,housenumberAppendix,ci
 1360 VRHNIKA,POD HRUŠEVCO 33,45.97336,14.29506,Pod Hruševco,,33,,Vrhnika,,Vrhnika Breg,Vrhnika,1360,Vrhnika,Osrednjeslovenska
 1360 VRHNIKA,ROBOVA CESTA 6,45.96751,14.29722,Robova cesta,,6,,Vrhnika,,Vrhnika Breg,Vrhnika,1360,Vrhnika,Osrednjeslovenska
 1360 VRHNIKA,SINJA GORICA 7,45.97963,14.31058,Sinja Gorica,,7,,Sinja Gorica,,Sinja Gorica,Vrhnika,1360,Vrhnika,Osrednjeslovenska
+1360 VRHNIKA,SIVKINA ULICA 15,45.97109,14.29889,Sivkina ulica,,15,,Vrhnika,,Vrhnika Breg,Vrhnika,1360,Vrhnika,Osrednjeslovenska
 1360 VRHNIKA,STARA CESTA 7,45.96563,14.29688,Stara cesta,,7,,Vrhnika,,Vrhnika Breg,Vrhnika,1360,Vrhnika,Osrednjeslovenska
 1360 VRHNIKA,STARA VRHNIKA 31,45.97727,14.28382,Stara Vrhnika,,31,,Stara Vrhnika,,Stara Vrhnika,Vrhnika,1360,Vrhnika,Osrednjeslovenska
 1370 LOGATEC,GUBČEVA 8A,45.91896,14.21734,Gubčeva ulica,,8,a,Logatec,,Naklo,Logatec,1370,Logatec,Osrednjeslovenska
@@ -532,6 +533,7 @@ postZZZS,addressZZZS,lat,lon,street,streetAlt,housenumber,housenumberAppendix,ci
 2241 SPODNJI DUPLEK,KORENSKA CESTA 31,46.50402,15.75597,Korenska cesta,,31,,Spodnji Duplek,,Spodnji Duplek,Duplek,2241,Spodnji Duplek,Podravska
 2241 SPODNJI DUPLEK,SPODNJA KORENA 17,46.50610,15.76268,Spodnja Korena,,17,,Spodnja Korena,,Korena,Duplek,2241,Spodnji Duplek,Podravska
 2242 ZGORNJA KORENA,ŽIKARCE 1 A,46.52291,15.78266,Žikarce,,1,a,Žikarce,,Korena,Duplek,2242,Zgornja Korena,Podravska
+2250 PTUJ,LANGUSOVA ULICA 15 A,46.43207,15.88428,Langusova ulica,,15,a,Ptuj,,Četrt Ljudski vrt,Ptuj,2250,Ptuj,Podravska
 2250 PTUJ,LANGUSOVA ULICA 8,46.43101,15.88301,Langusova ulica,,8,,Ptuj,,Četrt Ljudski vrt,Ptuj,2250,Ptuj,Podravska
 2250 PTUJ,NA TRATAH 4,46.41683,15.87719,Na tratah,,4,,Ptuj,,Četrt Jezero,Ptuj,2250,Ptuj,Podravska
 2250 PTUJ,OSOJNIKOVA CESTA 9,46.42061,15.87558,Osojnikova cesta,,9,,Ptuj,,Četrt Center,Ptuj,2250,Ptuj,Podravska
@@ -656,6 +658,7 @@ postZZZS,addressZZZS,lat,lon,street,streetAlt,housenumber,housenumberAppendix,ci
 2370 DRAVOGRAD,TRG 4. JULIJA 64,46.58913,15.02012,Trg 4. julija,,64,,Dravograd,,Dravograd,Dravograd,2370,Dravograd,Koroška
 2370 DRAVOGRAD,TRG 4. JULIJA 9,46.58921,15.02233,Trg 4. julija,,9,,Dravograd,,Dravograd,Dravograd,2370,Dravograd,Koroška
 2370 DRAVOGRAD,ČRNEČE 146,46.58918,14.99866,Črneče,,146,,Črneče,,Črneče,Dravograd,2370,Dravograd,Koroška
+2373 ŠENTJANŽ PRI DRAVOGRADU,OTIŠKI VRH 53 A,46.56910,15.03697,Otiški Vrh,,53,a,Otiški Vrh,,Šentjanž,Dravograd,2373,Šentjanž pri Dravogradu,Koroška
 2380 SLOVENJ GRADEC,CELJSKA CESTA 24,46.50464,15.08064,Celjska cesta,,24,,Slovenj Gradec,,Polje,Slovenj Gradec,2380,Slovenj Gradec,Koroška
 2380 SLOVENJ GRADEC,FRANCETOVA CESTA 16,46.51331,15.08347,Francetova cesta,,16,,Slovenj Gradec,,Legen-mesto,Slovenj Gradec,2380,Slovenj Gradec,Koroška
 2380 SLOVENJ GRADEC,GOSPOSVETSKA CESTA 1,46.50766,15.08173,Gosposvetska cesta,,1,,Slovenj Gradec,,Center,Slovenj Gradec,2380,Slovenj Gradec,Koroška
@@ -775,6 +778,7 @@ postZZZS,addressZZZS,lat,lon,street,streetAlt,housenumber,housenumberAppendix,ci
 3250 ROGAŠKA SLATINA,ZDRAVILIŠKI TRG 25,46.23650,15.63746,Zdraviliški trg,,25,,Rogaška Slatina,,Rogaška Slatina,Rogaška Slatina,3250,Rogaška Slatina,Savinjska
 3250 ROGAŠKA SLATINA,ZDRAVILIŠKI TRG 9,46.23861,15.64079,Zdraviliški trg,,9,,Rogaška Slatina,,Rogaška Slatina,Rogaška Slatina,3250,Rogaška Slatina,Savinjska
 3252 ROGATEC,STEKLARSKA ULICA 12,46.22450,15.70221,Steklarska ulica,,12,,Rogatec,,Rogatec,Rogatec,3252,Rogatec,Savinjska
+3252 ROGATEC,TRG 5,46.22822,15.69902,Trg,,5,,Rogatec,,Rogatec,Rogatec,3252,Rogatec,Savinjska
 3254 PODČETRTEK,TRŠKA CESTA 67,46.15679,15.59639,Trška cesta,,67,,Podčetrtek,,Podčetrtek,Podčetrtek,3254,Podčetrtek,Savinjska
 3254 PODČETRTEK,TRŠKA CESTA 76,46.15768,15.59547,Trška cesta,,76,,Podčetrtek,,Podčetrtek,Podčetrtek,3254,Podčetrtek,Savinjska
 3254 PODČETRTEK,ZDRAVILIŠKA CESTA 24,46.15826,15.60687,Zdraviliška cesta,,24,,Podčetrtek,,Podčetrtek,Podčetrtek,3254,Podčetrtek,Savinjska
@@ -913,6 +917,7 @@ postZZZS,addressZZZS,lat,lon,street,streetAlt,housenumber,housenumberAppendix,ci
 4220 ŠKOFJA LOKA,STARA LOKA 31,46.17128,14.29907,Stara Loka,,31,,Stara Loka,,Stara Loka - Podlubnik,Škofja Loka,4220,Škofja Loka,Gorenjska
 4220 ŠKOFJA LOKA,SV. DUH 162,46.18482,14.32198,Sv. Duh,,162,,Sv. Duh,,Sveti Duh,Škofja Loka,4220,Škofja Loka,Gorenjska
 4220 ŠKOFJA LOKA,VISOKO PRI POLJANAH 5,46.12637,14.21316,Visoko pri Poljanah,,5,,Visoko pri Poljanah,,Log,Škofja Loka,4220,Škofja Loka,Gorenjska
+4223 POLJANE NAD ŠKOFJO LOKO,DOLENČICE 9 A,46.15532,14.17450,Dolenčice,,9,a,Dolenčice,,Javorje,Gorenja vas-Poljane,4223,Poljane nad Škofjo Loko,Gorenjska
 4224 GORENJA VAS,TRATA 7,46.10233,14.14218,Trata,,7,,Gorenja vas,,Gorenja vas,Gorenja vas-Poljane,4224,Gorenja vas,Gorenjska
 4224 GORENJA VAS,TRATA 7 A,46.10238,14.14240,Trata,,7,a,Gorenja vas,,Gorenja vas,Gorenja vas-Poljane,4224,Gorenja vas,Gorenjska
 4226 ŽIRI,BEDRIH 34,46.05850,14.11971,Bedrih,,34,,Žiri,,,Žiri,4226,Žiri,Gorenjska
@@ -1203,7 +1208,6 @@ postZZZS,addressZZZS,lat,lon,street,streetAlt,housenumber,housenumberAppendix,ci
 8250 BREŽICE,ČERNELČEVA CESTA 15,45.90849,15.59354,Černelčeva cesta,,15,,Brežice,,Brežice,Brežice,8250,Brežice,Posavska
 8250 BREŽICE,ČERNELČEVA CESTA 8,45.90811,15.59415,Černelčeva cesta,,8,,Brežice,,Brežice,Brežice,8250,Brežice,Posavska
 8253 ARTIČE,ARTIČE 39,45.95159,15.58509,Artiče,,39,,Artiče,,Artiče,Brežice,8253,Artiče,Posavska
-8253 ARTIČE,DOLENJA VAS PRI ARTIČAH 8 A,45.94809,15.55853,Dolenja vas pri Artičah,,8,a,Dolenja vas pri Artičah,,Artiče,Brežice,8253,Artiče,Posavska
 8257 DOBOVA,KAPELSKA CESTA 25,45.90152,15.66152,Kapelska cesta,,25,,Dobova,,Dobova,Brežice,8257,Dobova,Posavska
 8259 BIZELJSKO,BIZELJSKA CESTA 104,46.02057,15.69163,Bizeljska cesta,,104,,Bizeljsko,,Bizeljsko,Brežice,8259,Bizeljsko,Posavska
 8259 BIZELJSKO,BIZELJSKA CESTA 49,46.01324,15.69249,Bizeljska cesta,,49,,Bizeljsko,,Bizeljsko,Brežice,8259,Bizeljsko,Posavska
@@ -1211,7 +1215,6 @@ postZZZS,addressZZZS,lat,lon,street,streetAlt,housenumber,housenumberAppendix,ci
 8263 CERKLJE OB KRKI,BORŠT 19,45.88523,15.54740,Boršt,,19,,Boršt,,Cerklje ob Krki,Brežice,8263,Cerklje ob Krki,Posavska
 8263 CERKLJE OB KRKI,CERKLJE OB KRKI 3,45.88456,15.52276,Cerklje ob Krki,,3,,Cerklje ob Krki,,Cerklje ob Krki,Brežice,8263,Cerklje ob Krki,Posavska
 8263 CERKLJE OB KRKI,ŽUPEČA VAS 9,45.88535,15.52834,Župeča vas,,9,,Župeča vas,,Cerklje ob Krki,Brežice,8263,Cerklje ob Krki,Posavska
-8270 KRŠKO,AŠKERČEVA ULICA 2,45.95502,15.49720,Aškerčeva ulica,,2,,Krško,,Krško,Krško,8270,Krško,Posavska
 8270 KRŠKO,CANKARJEVA ULICA 3 A,45.95739,15.49688,Cankarjeva ulica,,3,a,Krško,,Krško,Krško,8270,Krško,Posavska
 8270 KRŠKO,CESTA 4. JULIJA 34,45.95916,15.49160,Cesta 4. julija,,34,,Krško,,Krško,Krško,8270,Krško,Posavska
 8270 KRŠKO,CESTA 4. JULIJA 46,45.95749,15.49369,Cesta 4. julija,,46,,Krško,,Krško,Krško,8270,Krško,Posavska
