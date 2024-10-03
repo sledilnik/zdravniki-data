@@ -238,6 +238,7 @@ postZZZS,addressZZZS,lat,lon,street,streetAlt,housenumber,housenumberAppendix,ci
 1235 RADOMLJE,KAMNIŠKA CESTA 24,,,,,,,,,,,,,
 1235 RADOMLJE,PELECHOVA CESTA 18,46.16801,14.59744,Pelechova cesta,,18,,Preserje pri Radomljah,,Preserje,Domžale,1235,Radomlje,Osrednjeslovenska
 1236 TRZIN,BLATNICA 12,46.12198,14.55191,Blatnica,,12,,Trzin,,,Trzin,1236,Trzin,Osrednjeslovenska
+1236 TRZIN,LJUBLJANSKA CESTA 12 F,46.13304,14.56185,Ljubljanska cesta,,12,f,Trzin,,,Trzin,1236,Trzin,Osrednjeslovenska
 1240 KAMNIK,KOVINARSKA CESTA 4,,,,,,,,,,,,,
 1240 KAMNIK,NEVELJSKA POT 26,,,,,,,,,,,,,
 1241 KAMNIK,LJUBLJANSKA CESTA 33B,46.20338,14.59764,Ljubljanska cesta,,33,b,Kamnik,,Duplica,Kamnik,1241,Kamnik,Osrednjeslovenska
@@ -655,6 +656,7 @@ postZZZS,addressZZZS,lat,lon,street,streetAlt,housenumber,housenumberAppendix,ci
 2367 VUZENICA,MLADINSKA ULICA 17,46.59873,15.16440,Mladinska ulica,,17,,Vuzenica,,,Vuzenica,2367,Vuzenica,Koroška
 2370 DRAVOGRAD,MARIBORSKA CESTA 38,46.59024,15.02867,Mariborska cesta,,38,,Dravograd,,Dravograd,Dravograd,2370,Dravograd,Koroška
 2370 DRAVOGRAD,TRG 4. JULIJA 4,46.58962,15.02470,Trg 4. julija,,4,,Dravograd,,Dravograd,Dravograd,2370,Dravograd,Koroška
+2370 DRAVOGRAD,TRG 4. JULIJA 46,46.59011,15.01914,Trg 4. julija,,46,,Dravograd,,Dravograd,Dravograd,2370,Dravograd,Koroška
 2370 DRAVOGRAD,TRG 4. JULIJA 64,46.58913,15.02012,Trg 4. julija,,64,,Dravograd,,Dravograd,Dravograd,2370,Dravograd,Koroška
 2370 DRAVOGRAD,TRG 4. JULIJA 9,46.58921,15.02233,Trg 4. julija,,9,,Dravograd,,Dravograd,Dravograd,2370,Dravograd,Koroška
 2370 DRAVOGRAD,ČRNEČE 146,46.58918,14.99866,Črneče,,146,,Črneče,,Črneče,Dravograd,2370,Dravograd,Koroška
