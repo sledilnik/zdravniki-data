@@ -302,7 +302,7 @@ def get_zzzs_api_data_by_category():
     apiInstitutions = []
     for key in zzzsApiKeys:
         print(f"Fetching from ZZZS API: {key}")
-        apiUrl = f"https://www.zzzs.si/zzzs-api/izvajalci-zdravstvenih-storitev/po-dejavnosti/?ajax=1&act=get-izvajalci&type=dejavnosti&lang=&kat={key[0]}&key={key[1]}"
+        apiUrl = f"https://www.zzzs.si/zzzs-api/izvajalci-zdravstvenih-storitev/po-dejavnosti/?ajax=1&act=get-izvajalci&type=dejavnosti&lang=0&kat={key[0]}&key={key[1]}"
         r = requests.get(apiUrl)
         r.raise_for_status()
         j = r.json()
