@@ -15,7 +15,6 @@ postOver,addressOver,cityOver
 1236 Trzin,Mengeška 7b,
 1251 Moravče,Vegova ulica 22,
 1292 Ig pri Ljubljani,Banija 4,
-1295 Ivančna Gorica,C. 2. grupe odredov 16,
 1311 Turjak,Laporje 30,
 1312 Videm - Dobrepolje,Videm 37 a,
 1315 Velike Lašče,Javorškova ulica 9,
@@ -24,6 +23,7 @@ postOver,addressOver,cityOver
 1352 Preserje,Jezero 1,
 1353 Borovnica,Mejačeva ulica 3,
 1354 Horjul,Slovenska cesta 17,
+1358 Log pri Brezovici,Loška cesta 12,
 1358 Log pri Brezovici,Šolska ulica 1,
 1360 Vrhnika,Lošca 1,
 1360 Vrhnika,Stara cesta 4a,
@@ -40,6 +40,7 @@ postOver,addressOver,cityOver
 2236 Cerkvenjak,Cerkvenjak 30,
 2283 Zavrč,Goričak 7,
 2311 Hoče,Bohovska cesta 7,
+2319 Poljčane,Bistriška cesta 62,
 2322 Majšperk,Breg 6A,
 2327,Nova ulica 3,Rače
 2344 LOVRENC NA POHORJU,GORNJI TRG 37,
