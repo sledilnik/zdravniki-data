@@ -90,12 +90,28 @@ def convert_to_csv(zzzsid_map):
                 print(f"Unsupported za neopredeljene source columns! count={len(df.columns)}: {df.columns}")
                 raise
 
+        elif group == "za-boljšo-dostopnost":
+            print("Converting za boljšo dostopnost")
+            df.columns = ['unit', 'institutionID', 'name', 'address', 'city', 'doctorID', 'doctor', 'typeID', 'type', 'availability', 'load', 'accepts', 'acceptsOver']
+            df['doctor'] = df['doctor'].str.title()
+
+            # TODO: Use the new ID columns instead of dropping them:
+            df.drop(columns=['institutionID', 'doctorID', 'typeID', 'acceptsOver'], inplace=True)
+
+        elif group == "zobozdravniki":
+            print("Converting dentists list")
+            df.columns = ['unit', 'institutionID', 'name', 'address', 'city', 'doctorID', 'doctor', 'typeID', 'type', 'accepts', 'availability', 'load']
+            df['doctor'] = df['doctor'].str.title()
+
+            # TODO: Use the new ID columns instead of dropping them:
+            df.drop(columns=['institutionID', 'doctorID', 'typeID'], inplace=True)
+
         else:
             print("Converting doctors list")
-            if len(df.columns) == 13 or len(df.columns) == 14 or len(df.columns) == 16:
+            if len(df.columns) == 12 or len(df.columns) == 13 or len(df.columns) == 14 or len(df.columns) == 16:
                 print("...version after 2023-02-10")
 
-                if len(df.columns) == 14:
+                if len(df.columns) == 14 or len(df.columns) == 13:
                     print("...version after 2024-05-10: ignore new 'Specializant' column")
                     df.drop(columns=['Specializant'], inplace=True)
 
@@ -105,21 +121,11 @@ def convert_to_csv(zzzsid_map):
                     df.drop(columns=['Zdravnik ima v ambulanto družinske medicine vključene dodatne 0,5 diplomirane medicinske sestre in je dolžan sprejemati zavarovane osebe, saj ne dosega dogovorjenega dodatnega števila 300 glavarinskih količnikov na tim (obseg zaposlitve)'], inplace=True)
                     df.drop(columns=['Specializant'], inplace=True)
 
-                df.columns = ['unit', 'institutionID', 'name', 'address', 'city', 'doctorID', 'doctor', 'typeID', 'type', 'availability', 'load', 'mustAccept', 'accepts']
+                df.columns = ['unit', 'institutionID', 'name', 'address', 'city', 'doctorID', 'doctor', 'typeID', 'type', 'accepts', 'availability', 'load']
                 df['doctor'] = df['doctor'].str.title()
 
-                diff_accepts_NE_DA=df.loc[(df['mustAccept'] == 'NE') & (df['accepts'] == 'DA'), ['name', 'doctor', 'type', 'mustAccept', 'accepts']]
-                if not diff_accepts_NE_DA.empty:
-                    print("Doctors that accept according to ZZZS even if they don't have to:")
-                    print(diff_accepts_NE_DA)
-
-                diff_accepts_DA_NE=df.loc[(df['mustAccept'] == 'DA') & (df['accepts'] == 'NE'), ['name', 'doctor', 'type', 'mustAccept', 'accepts']]
-                if not diff_accepts_DA_NE.empty:
-                    print("Doctors that don't accept according to ZZZS but they should have to:")
-                    print(diff_accepts_DA_NE)
-
                 # TODO: Use the new ID columns instead of dropping them:
-                df.drop(columns=['institutionID', 'doctorID', 'typeID', 'mustAccept'], inplace=True)
+                df.drop(columns=['institutionID', 'doctorID', 'typeID'], inplace=True)
 
             elif len(df.columns) == 9:
                 print("Detected early version, prior to 2023-02-10")
