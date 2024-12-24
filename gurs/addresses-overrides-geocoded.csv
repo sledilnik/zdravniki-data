@@ -15,7 +15,6 @@ postOver,addressOver,cityOver,lat,lon,street,streetAlt,housenumber,housenumberAp
 1236 Trzin,Mengeška 7b,,46.13394,14.56236,Mengeška cesta,,7,b,Trzin,,,Trzin,1236,Trzin,Osrednjeslovenska
 1251 Moravče,Vegova ulica 22,,46.13743,14.74729,Vegova ulica,,22,,Moravče,,Moravče,Moravče,1251,Moravče,Osrednjeslovenska
 1292 Ig pri Ljubljani,Banija 4,,45.95897,14.52720,Banija,,4,,Ig,,,Ig,1292,Ig,Osrednjeslovenska
-1295 Ivančna Gorica,C. 2. grupe odredov 16,,45.93759,14.80558,Cesta 2. grupe odredov,,16,,Ivančna Gorica,,Ivančna Gorica,Ivančna Gorica,1295,Ivančna Gorica,Osrednjeslovenska
 1311 Turjak,Laporje 30,,45.87088,14.61679,Laporje,,30,,Laporje,,,Velike Lašče,1311,Turjak,Osrednjeslovenska
 1312 Videm - Dobrepolje,Videm 37 a,,45.84819,14.69546,Videm,,37,a,Videm,,Videm,Dobrepolje,1312,Videm - Dobrepolje,Osrednjeslovenska
 1315 Velike Lašče,Javorškova ulica 9,,45.83502,14.63767,Javorškova ulica,,9,,Velike Lašče,,,Velike Lašče,1315,Velike Lašče,Osrednjeslovenska
@@ -24,6 +23,7 @@ postOver,addressOver,cityOver,lat,lon,street,streetAlt,housenumber,housenumberAp
 1352 Preserje,Jezero 1,,45.97634,14.41959,Jezero,,1,,Jezero,,Preserje,Brezovica,1352,Preserje,Osrednjeslovenska
 1353 Borovnica,Mejačeva ulica 3,,45.91998,14.36563,Mejačeva ulica,,3,,Borovnica,,,Borovnica,1353,Borovnica,Osrednjeslovenska
 1354 Horjul,Slovenska cesta 17,,46.02461,14.29536,Slovenska cesta,,17,,Horjul,,,Horjul,1354,Horjul,Osrednjeslovenska
+1358 Log pri Brezovici,Loška cesta 12,,46.00916,14.37187,Loška cesta,,12,,Log pri Brezovici,,,Log-Dragomer,1358,Log pri Brezovici,Osrednjeslovenska
 1358 Log pri Brezovici,Šolska ulica 1,,46.01192,14.37379,Šolska cesta,,1,,Log pri Brezovici,,,Log-Dragomer,1358,Log pri Brezovici,Osrednjeslovenska
 1360 Vrhnika,Lošca 1,,45.96263,14.29674,Lošca,,1,,Vrhnika,,Vrhnika Center,Vrhnika,1360,Vrhnika,Osrednjeslovenska
 1360 Vrhnika,Stara cesta 4a,,45.96590,14.29733,Stara cesta,,4,a,Vrhnika,,Vrhnika Center,Vrhnika,1360,Vrhnika,Osrednjeslovenska
@@ -40,6 +40,7 @@ postOver,addressOver,cityOver,lat,lon,street,streetAlt,housenumber,housenumberAp
 2236 Cerkvenjak,Cerkvenjak 30,,46.56539,15.94333,Cerkvenjak,,30,,Cerkvenjak,,,Cerkvenjak,2236,Cerkvenjak,Podravska
 2283 Zavrč,Goričak 7,,46.37799,16.05617,Goričak,,7,,Goričak,,,Zavrč,2283,Zavrč,Podravska
 2311 Hoče,Bohovska cesta 7,,46.50074,15.64803,Bohovska cesta,,7,,Spodnje Hoče,,Hoče,Hoče-Slivnica,2311,Hoče,Podravska
+2319 Poljčane,Bistriška cesta 62,,46.31290,15.57823,Bistriška cesta,,62,,Poljčane,,,Poljčane,2319,Poljčane,Podravska
 2322 Majšperk,Breg 6A,,46.33947,15.73623,Breg,,6,a,Breg,,Krajevna skupnost Majšperk,Majšperk,2322,Majšperk,Podravska
 2327,Nova ulica 3,Rače,46.45400,15.67480,Nova ulica,,3,,Rače,,Rače,Rače-Fram,2327,Rače,Podravska
 2344 LOVRENC NA POHORJU,GORNJI TRG 37,,46.53780,15.38462,Gornji trg,,37,,Lovrenc na Pohorju,,,Lovrenc na Pohorju,2344,Lovrenc na Pohorju,Podravska
