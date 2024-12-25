@@ -93,7 +93,7 @@ Ažbe Eva,den-y,ozgkr,y,1.0,42.5,,,,,,,,,,,,,,,
 Ažman Uroš,gp,zdlvr,n,1.0,1965.68,2021-12-27,Ne sprejema novih pacientov (nadomeščanje).,n,,,,,,Rakovniška ulica 4,1000 Ljubljana,Ljubljana,Četrtna skupnost Rudnik,Ljubljana,46.03660,14.52361
 Babič Maša,ped,zdlce,n,0.75,2071.55,,,,,,,,,,,,,,,
 Bahor Eva,ped,91784,n,0.77,2640.23,,,,,,,,,,,,,,,
-Bahovec Alenka,gp,199021,n,0.6,1964.47,2024-10-08,Sprejema nove paciente.,y,,,,,,,,,,,,
+Bahovec Alenka,gp,199021,n,0.6,1964.47,2024-10-08,Sprejema nove paciente.,y,,,,,,Loška cesta 12,1358 Log pri Brezovici,Log pri Brezovici,,Log-Dragomer,46.00916,14.37187
 Bahovec Andreja,gp,zdlsi,n,1.0,2427.56,,,,,,,,,,,,,,,
 Bajc Irena,gp,8661983,n,1.15,1958.28,,,,,,,,,,,,,,,
 Baklan Brigita,gp,3454818,n,1.0,2601.12,,,,,,,,,,,,,,,
@@ -1410,7 +1410,7 @@ Lešek Tamara,den,664356,y,1.0,20.32,,,,,,,,,,,,,,,
 Likar Andrej,gp,604816,n,0.8,1995.9,,,,,,,,,,,,,,,
 Likar Ema,ped,199126,y,0.4,1843.3,,,,,,,,,,,,,,,
 Likar Robert,gyn,751745,n,0.3,152.73,2023-05-11,,,,05 700 07 20,,,,,,,,,,
-Limbek Vesna,gp,8457451,n,0.36,6228.44,2024-10-10,Sprejema nove paciente.,y,,028025997,https://mataln.si/,poljcane@mataln.si,,,,,,,,
+Limbek Vesna,gp,8457451,n,0.36,6228.44,2024-10-10,Sprejema nove paciente.,y,,028025997,https://mataln.si/,poljcane@mataln.si,,Bistriška cesta 62,2319 Poljčane,Poljčane,,Poljčane,46.31290,15.57823
 Lipar Meta,den,ozgkr,y,1.0,75.43,,,,,,,,,,,,,,,
 Lipar Nina,ped,zdlvr,n,0.75,2094.51,,,,,,,,,,,,,,,
 Lipičar Vera,gp,821132,n,1.0,1954.12,,,,,,,,,,,,,,,
@@ -2679,7 +2679,7 @@ Vizovišek Irena,ped,90255,y,0.1,0.0,,,,,,,,,,,,,,,
 Vičar Polak Zlatka,ped,92120,n,0.75,2214.85,,,,,,,,,,,,,,,
 Vičić Andrej,den,789398,y,1.0,19.61,,,,,,,,,,,,,,,
 Vičič Ravnik Martina,gp,ozgbb,n,0.8,2373.35,2021-12-27,,,,(04) 57 27 100,https://www.zd-bohinj.si/,,,Triglavska cesta 15,4264 Bohinjska Bistrica,Bohinjska Bistrica,Bohinjska Bistrica,Bohinj,46.27206,13.95469
-Višnar Kokol Galja,gp,8457451,y,0.76,1217.84,2024-10-10,Sprejema nove paciente.,y,,028025997,https://mataln.si/,poljcane2@mataln.si,,,,,,,,
+Višnar Kokol Galja,gp,8457451,y,0.76,1217.84,2024-10-10,Sprejema nove paciente.,y,,028025997,https://mataln.si/,poljcane2@mataln.si,,Bistriška cesta 62,2319 Poljčane,Poljčane,,Poljčane,46.31290,15.57823
 Višnjevec Tuljak Marisa,ped,724180,y,0.75,1755.17,,,,,,,,,,,,,,,
 Vlahović Svetlana,den,91770,y,1.0,65.25,,,,,,,,,,,,,,,
 Vobovnik Grobelnik Polonca,gp,4496920,n,0.68,3936.35,,,,,,,,,,,,,,,
