@@ -276,7 +276,6 @@ Lukanović Adolf,gyn,96838,2022-01-19,,,,,,,,,,https://napotnica.kclj.si
 Lučovnik Miha,gyn,96838,2022-01-19,Sprejema nove paciente.,y,,,,,,,,https://napotnica.kclj.si
 Meglič Leon,gyn,96838,2022-01-19,,,,,,,,,,https://napotnica.kclj.si
 Pečlin Polona,gyn,96838,2022-01-19,,,,,,,,,,https://napotnica.kclj.si
-Pinter Bojana,gyn,96838,2022-01-19,Sprejema nove paciente.,y,,,,,,,,https://napotnica.kclj.si
 Požlep Barbara,gyn,96838,2022-01-19,Sprejema nove paciente.,y,,,,,,,,https://napotnica.kclj.si
 Premru Sršen Tanja,gyn,96838,2022-01-19,,,,,,,,,,https://napotnica.kclj.si
 Rončević Ljubomir,gyn,96838,2022-01-19,,,,,,,,,,https://napotnica.kclj.si
@@ -450,9 +449,6 @@ Zore Slatinšek Daša,gp,789398,2022-11-04,Ne sprejema novih pacientov.,n,,,,,,,
 Kladnik Urška,gp,622008,2022-11-05,Ne sprejema novih pacientov (daljša odsotnost).,n,,,,,,,,
 Čolović Dragiša,gp,4029448,2022-11-07,Ne sprejema novih pacientov.,n,,,,,,,,
 Vostrueva Irina,gyn,7995315,2022-11-07,Ne sprejema novih pacientov.,n,,,,,,,,
-Nowakowska Prezelj Anna Maria,gp,616369,2022-11-08,Sprejema nove paciente.,y,,,,,,,,
-Pušnik Domen,gp,616369,2022-11-08,Sprejema nove paciente.,y,,,,,,,,
-Tasić Ilić Melita,gp,616369,2022-11-08,Sprejema nove paciente.,y,,,,,,,,
 Lesar Petra,gp,141992,2022-11-13,Ne sprejema novih pacientov.,n,,,,,,,,
 Lozar Lara,gp,141819,2022-11-13,,,,Čepovan 90,,5253 Čepovan,,,,
 Zaletel Urška,gp,141819,2022-11-13,Ne sprejema novih pacientov.,n,,Trg 25,,5292 Renče,,,,
@@ -712,12 +708,10 @@ Trkaj Tinkara,ped,2817672,2024-07-03,Ne sprejema novih pacientov.,n,,,,,,,,
 Suljkanović Enisa,gp,90255,2024-07-12,Ne sprejema novih pacientov.,n,,,,,,,,
 Ivankovič Kacjan Mojca,ped,9128332,2024-07-15,Sprejema nove paciente.,y,0.75,,,,(02) 729 18 27,,pediatrijaivankovickacjan@gmail.com,
 Pernek Barbara,gp,90255,2024-07-15,,,,Nova ulica 3,Rače,2327,+38626201768,,,https://prizdravniku.si/#/ambulanta/07883/3532222
-Rožič Nives,gyn,724180,2024-08-01,Sprejema nove paciente.,y,,,,,,,,
 Luzar Fink Maja,den,9345532,2024-08-08,Sprejema nove paciente.,y,,,,,031368025,majaluzarfinkdrdentmed.si,majaluzarfinkdrdentmed@gmail.com,
 Luzar Fink Maja,den-y,9345532,2024-08-08,Sprejema nove paciente.,y,,,,,031368025,majaluzarfinkdrdentmed.si,majaluzarfinkdrdentmed@gmail.com,
 Gaceva Anelija,gp,223507,2024-08-08,Sprejema nove paciente.,y,,Savinjska cesta 6,,3330 Mozirje,,,,
 Lah Nina,ped,223507,2024-08-08,Sprejema nove paciente.,y,,,,,,,,
-Karlin Sambolec Mateja,den,3137763,2024-08-19,Ne sprejema novih pacientov.,n,,,,,,,,
 Ambulanta za neopredeljene,gp-f,zdlce,2024-08-28,Ne sprejema novih pacientov.,n,,,,,01 555 2162 ,https://www.zd-lj.si/zdlj/index.php?option=com_content&view=article&id=1178:zdl-center&catid=266&Itemid=2945&lang=sl,,
 Vidrih Aleksandra,den,4253787,2024-08-30,Ne sprejema novih pacientov.,n,,Ljubljanska cesta 24A,,4000 Kranj,04-2072862,,,
 Harl Martina,ped,90255,2024-09-08,Ne dela več pri tem izvajalcu.,n,,,,,,,,
@@ -792,4 +786,13 @@ Višnar Kokol Galja,gp,8457451,2024-10-10,Sprejema nove paciente.,y,,Bistriška 
 Limbek Vesna,gp,8457451,2024-10-10,Sprejema nove paciente.,y,,Bistriška cesta 62,,2319 Poljčane,028025997,https://mataln.si/,poljcane@mataln.si,
 Kulaš Mario,ped,8951316,2024-10-10,Sprejema nove paciente.,y,,,,,(01) 70 50 153,,,
 Mataln Mitja,gp,8457451,2024-10-17,,,0.6,Šentrupert 124,,8232 Šentrupert,(07)2927211,http://mataln.si,sentrupert@mataln.si,
-Mlinar Valerija,ped,ozgbb,2024-11-18,SPrejema nove paciente.,y,,,,,,,,
+Mlinar Valerija,ped,ozgbb,2024-11-18,Sprejema nove paciente.,y,,,,,,,,
+Becker Mia,ped,90255,2024-12-25,,,,Bohovska cesta 7,,2311 Hoče,,,,
+Tasić Ilić Melita,gp,616369,2024-12-25,Ne sprejema novih pacientov.,n,,,,,,,,
+Pušnik Domen,gp,616369,2024-12-25,Ne sprejema novih pacientov.,n,,,,,,,,
+Nowakowska Prezelj Anna Maria,gp,616369,2024-12-25,Ne dela več pri tem izvajalcu,n,,,,,,,,
+Rožič Nives,gyn,724180,2024-12-25,Ne sprejema novih pacientov.,n,,,,,,,,
+Pinter Bojana,gyn,96838,2024-12-25,Ne sprejema novih pacientov.,n,,,,,,,,https://napotnica.kclj.si
+Šitum Rečnik Urška,den,4135271,2024-12-25,,,,,,,,,Info.rozhkova@gmail.com,
+Karlin Sambolec Mateja,den,3137763,2024-12-25,Sprejema nove paciente.,y,,,,,,,,
+Božiček Franc,gp,616386,2024-12-25,,,,Bistrica ob Sotli 7,,3256 Bistrica ob Sotli,,,,
