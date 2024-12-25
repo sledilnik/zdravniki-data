@@ -305,6 +305,7 @@ postZZZS,addressZZZS,lat,lon,street,streetAlt,housenumber,housenumberAppendix,ci
 1330 KOČEVJE,ROŠKA CESTA 16,45.63880,14.86553,Roška cesta,,16,,Kočevje,,Kočevje-mesto,Kočevje,1330,Kočevje,Jugovzhodna Slovenija
 1330 KOČEVJE,ROŠKA CESTA 17,45.63932,14.86400,Roška cesta,,17,,Kočevje,,Kočevje-mesto,Kočevje,1330,Kočevje,Jugovzhodna Slovenija
 1330 KOČEVJE,ROŠKA CESTA 18,45.63938,14.86562,Roška cesta,,18,,Kočevje,,Kočevje-mesto,Kočevje,1330,Kočevje,Jugovzhodna Slovenija
+1330 KOČEVJE,ROŠKA CESTA 20,45.63970,14.86653,Roška cesta,,20,,Kočevje,,Kočevje-mesto,Kočevje,1330,Kočevje,Jugovzhodna Slovenija
 1330 KOČEVJE,ROŠKA CESTA 22,45.64005,14.86716,Roška cesta,,22,,Kočevje,,Kočevje-mesto,Kočevje,1330,Kočevje,Jugovzhodna Slovenija
 1330 KOČEVJE,VAS FARA,,,,,,,,,,,,,
 1337 OSILNICA,OSILNICA,,,,,,,,,,,,,
@@ -767,12 +768,10 @@ postZZZS,addressZZZS,lat,lon,street,streetAlt,housenumber,housenumberAppendix,ci
 3231 GROBELNO,GROBELNO - DEL 114,46.21426,15.43745,Grobelno - del,,114,,Grobelno - del,,Grobelno,Šentjur,3231,Grobelno,Savinjska
 3240 ŠMARJE PRI JELŠAH,CELJSKA CESTA 14,46.22925,15.51630,Celjska cesta,,14,,Šmarje pri Jelšah,,Šmarje pri Jelšah,Šmarje pri Jelšah,3240,Šmarje pri Jelšah,Savinjska
 3240 ŠMARJE PRI JELŠAH,CELJSKA CESTA 16,46.22926,15.51610,Celjska cesta,,16,,Šmarje pri Jelšah,,Šmarje pri Jelšah,Šmarje pri Jelšah,3240,Šmarje pri Jelšah,Savinjska
-3240 ŠMARJE PRI JELŠAH,RAKEŽEVA UL.8,46.22684,15.51715,Rakeževa ulica,,8,,Šmarje pri Jelšah,,Šmarje pri Jelšah,Šmarje pri Jelšah,3240,Šmarje pri Jelšah,Savinjska
 3240 ŠMARJE PRI JELŠAH,RAKEŽEVA ULICA 8,46.22684,15.51715,Rakeževa ulica,,8,,Šmarje pri Jelšah,,Šmarje pri Jelšah,Šmarje pri Jelšah,3240,Šmarje pri Jelšah,Savinjska
 3240 ŠMARJE PRI JELŠAH,ROGAŠKA CESTA 21,46.22985,15.52162,Rogaška cesta,,21,,Šmarje pri Jelšah,,Šmarje pri Jelšah,Šmarje pri Jelšah,3240,Šmarje pri Jelšah,Savinjska
 3240 ŠMARJE PRI JELŠAH,VEGOVA 26,46.23226,15.51721,Vegova ulica,,26,,Šmarje pri Jelšah,,Šmarje pri Jelšah,Šmarje pri Jelšah,3240,Šmarje pri Jelšah,Savinjska
 3250 ROGAŠKA SLATINA,CELJSKA CESTA 10,46.23916,15.63420,Celjska cesta,,10,,Rogaška Slatina,,Rogaška Slatina,Rogaška Slatina,3250,Rogaška Slatina,Savinjska
-3250 ROGAŠKA SLATINA,CELJSKA CESTA 11,46.23973,15.63206,Celjska cesta,,11,,Rogaška Slatina,,Rogaška Slatina,Rogaška Slatina,3250,Rogaška Slatina,Savinjska
 3250 ROGAŠKA SLATINA,CELJSKA CESTA 7,46.23915,15.63321,Celjska cesta,,7,,Rogaška Slatina,,Rogaška Slatina,Rogaška Slatina,3250,Rogaška Slatina,Savinjska
 3250 ROGAŠKA SLATINA,OB PROGI 3,46.24403,15.62204,Ob progi,,3,,Rogaška Slatina,,Rogaška Slatina,Rogaška Slatina,3250,Rogaška Slatina,Savinjska
 3250 ROGAŠKA SLATINA,PARTIZANSKA CESTA 10,46.24323,15.64276,Partizanska cesta,,10,,Rogaška Slatina,,Rogaška Slatina,Rogaška Slatina,3250,Rogaška Slatina,Savinjska
