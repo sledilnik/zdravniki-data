@@ -32,7 +32,6 @@ postOver,addressOver,cityOver,lat,lon,street,streetAlt,housenumber,housenumberAp
 2000 Maribor,Kalohova ulica 18,,46.55507,15.61747,Kalohova ulica,,18,,Maribor,,Studenci,Maribor,2000,Maribor,Podravska
 2000 Maribor,Turnerjeva ulica 33,,46.56489,15.63232,Turnerjeva ulica,,33,,Maribor,,Koroška vrata,Maribor,2000,Maribor,Podravska
 2000 Maribor,Ulica Kneza Koclja 10,,46.55691,15.64903,Ulica kneza Koclja,,10,,Maribor,,Center,Maribor,2000,Maribor,Podravska
-2000 Maribor,Ulica kneza Koclja 11,,46.55769,15.65032,Ulica kneza Koclja,,11,,Maribor,,Center,Maribor,2000,Maribor,Podravska
 2000 Maribor,Zagrebška cesta 84a,,46.52839,15.66801,Zagrebška cesta,,84,a,Maribor,,Tezno,Maribor,2000,Maribor,Podravska
 2205,Starše 78c,Starše,46.46822,15.76448,Starše,,78,c,Starše,,Starše,Starše,2205,Starše,Podravska
 2231 Pernica,Pernica 8,,46.57849,15.72624,Pernica,,8,,Pernica,,Pernica,Pesnica,2231,Pernica,Podravska
@@ -82,7 +81,6 @@ postOver,addressOver,cityOver,lat,lon,street,streetAlt,housenumber,housenumberAp
 5290 Šempeter pri Gorici,Cesta prekomorskih brigad 25,,45.93053,13.63792,Cesta Prekomorskih brigad,,25,,Šempeter pri Gorici,,,Šempeter-Vrtojba,5290,Šempeter pri Gorici,Goriška
 5291 Miren,Miren 137,,45.89199,13.60618,Miren,,137,,Miren,,Miren,Miren-Kostanjevica,5291,Miren,Goriška
 5292 Renče,Trg 25,,45.88980,13.67010,Trg,,25,,Renče,,Renče,Renče-Vogrsko,5292,Renče,Goriška
-6000 Koper,Cesta na Markovec 1,,45.53529,13.72805,Cesta na Markovec,Strada di Monte Marco,1,,Koper,Capodistria,Olmo-Prisoje,Koper,6000,Koper - Capodistria,Obalno-kraška
 6210 Sežana,Partizanska cesta 73b,,45.70429,13.85573,Partizanska cesta,,73,b,Sežana,,Sežana,Sežana,6210,Sežana,Obalno-kraška
 6210 Sežana,Ulica Ivana Turšiča 6,,45.70826,13.86425,Ulica Ivana Turšiča,,6,,Sežana,,Sežana,Sežana,6210,Sežana,Obalno-kraška
 6215 Divača,Ulica 1. maja 1,,45.68253,13.97086,Ulica 1. maja,,1,,Divača,,Divača,Divača,6215,Divača,Obalno-kraška

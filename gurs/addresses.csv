@@ -410,7 +410,6 @@ postZZZS,addressZZZS,lat,lon,street,streetAlt,housenumber,housenumberAppendix,ci
 2000 MARIBOR,KARDELJEVA CESTA 76,46.54170,15.63274,Kardeljeva cesta,,76,,Maribor,,Nova vas,Maribor,2000,Maribor,Podravska
 2000 MARIBOR,KARDELJEVA CESTA 77,46.54122,15.63336,Kardeljeva cesta,,77,,Maribor,,Nova vas,Maribor,2000,Maribor,Podravska
 2000 MARIBOR,KARDELJEVA CESTA 84,46.54116,15.63252,Kardeljeva cesta,,84,,Maribor,,Nova vas,Maribor,2000,Maribor,Podravska
-2000 MARIBOR,KETTEJEVA ULICA 14,46.54801,15.63859,Kettejeva ulica,,14,,Maribor,,Tabor,Maribor,2000,Maribor,Podravska
 2000 MARIBOR,KNAFELČEVA ULICA 31,46.53891,15.63321,Knafelčeva ulica,,31,,Maribor,,Nova vas,Maribor,2000,Maribor,Podravska
 2000 MARIBOR,KOPITARJEVA ULICA 2,46.56326,15.65746,Kopitarjeva ulica,,2,,Maribor,,Ivan Cankar,Maribor,2000,Maribor,Podravska
 2000 MARIBOR,KOROŠKA CESTA 113 C,46.56093,15.62844,Koroška cesta,,113,c,Maribor,,Koroška vrata,Maribor,2000,Maribor,Podravska
@@ -767,10 +766,12 @@ postZZZS,addressZZZS,lat,lon,street,streetAlt,housenumber,housenumberAppendix,ci
 3231 GROBELNO,GROBELNO - DEL 114,46.21426,15.43745,Grobelno - del,,114,,Grobelno - del,,Grobelno,Šentjur,3231,Grobelno,Savinjska
 3240 ŠMARJE PRI JELŠAH,CELJSKA CESTA 14,46.22925,15.51630,Celjska cesta,,14,,Šmarje pri Jelšah,,Šmarje pri Jelšah,Šmarje pri Jelšah,3240,Šmarje pri Jelšah,Savinjska
 3240 ŠMARJE PRI JELŠAH,CELJSKA CESTA 16,46.22926,15.51610,Celjska cesta,,16,,Šmarje pri Jelšah,,Šmarje pri Jelšah,Šmarje pri Jelšah,3240,Šmarje pri Jelšah,Savinjska
+3240 ŠMARJE PRI JELŠAH,RAKEŽEVA UL.8,46.22684,15.51715,Rakeževa ulica,,8,,Šmarje pri Jelšah,,Šmarje pri Jelšah,Šmarje pri Jelšah,3240,Šmarje pri Jelšah,Savinjska
 3240 ŠMARJE PRI JELŠAH,RAKEŽEVA ULICA 8,46.22684,15.51715,Rakeževa ulica,,8,,Šmarje pri Jelšah,,Šmarje pri Jelšah,Šmarje pri Jelšah,3240,Šmarje pri Jelšah,Savinjska
 3240 ŠMARJE PRI JELŠAH,ROGAŠKA CESTA 21,46.22985,15.52162,Rogaška cesta,,21,,Šmarje pri Jelšah,,Šmarje pri Jelšah,Šmarje pri Jelšah,3240,Šmarje pri Jelšah,Savinjska
 3240 ŠMARJE PRI JELŠAH,VEGOVA 26,46.23226,15.51721,Vegova ulica,,26,,Šmarje pri Jelšah,,Šmarje pri Jelšah,Šmarje pri Jelšah,3240,Šmarje pri Jelšah,Savinjska
 3250 ROGAŠKA SLATINA,CELJSKA CESTA 10,46.23916,15.63420,Celjska cesta,,10,,Rogaška Slatina,,Rogaška Slatina,Rogaška Slatina,3250,Rogaška Slatina,Savinjska
+3250 ROGAŠKA SLATINA,CELJSKA CESTA 11,46.23973,15.63206,Celjska cesta,,11,,Rogaška Slatina,,Rogaška Slatina,Rogaška Slatina,3250,Rogaška Slatina,Savinjska
 3250 ROGAŠKA SLATINA,CELJSKA CESTA 7,46.23915,15.63321,Celjska cesta,,7,,Rogaška Slatina,,Rogaška Slatina,Rogaška Slatina,3250,Rogaška Slatina,Savinjska
 3250 ROGAŠKA SLATINA,OB PROGI 3,46.24403,15.62204,Ob progi,,3,,Rogaška Slatina,,Rogaška Slatina,Rogaška Slatina,3250,Rogaška Slatina,Savinjska
 3250 ROGAŠKA SLATINA,PARTIZANSKA CESTA 10,46.24323,15.64276,Partizanska cesta,,10,,Rogaška Slatina,,Rogaška Slatina,Rogaška Slatina,3250,Rogaška Slatina,Savinjska
