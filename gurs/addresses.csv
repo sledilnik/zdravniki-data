@@ -485,7 +485,6 @@ postZZZS,addressZZZS,lat,lon,street,streetAlt,housenumber,housenumberAppendix,ci
 2000 MARIBOR,ZRKOVSKA CESTA 188 D,46.54943,15.68951,Zrkovska cesta,,188,d,Maribor,,Pobrežje,Maribor,2000,Maribor,Podravska
 2000 MARIBOR,ZRKOVSKA CESTA 67,46.55598,15.67174,Zrkovska cesta,,67,,Maribor,,Pobrežje,Maribor,2000,Maribor,Podravska
 2000 MARIBOR,ČUFARJEVA CESTA 9,46.55499,15.66939,Čufarjeva cesta,,9,,Maribor,,Pobrežje,Maribor,2000,Maribor,Podravska
-2000 MARIBOR,ŠENTILJSKA CESTA 9,46.56690,15.65897,Šentiljska cesta,,9,,Maribor,,Ivan Cankar,Maribor,2000,Maribor,Podravska
 2000 MARIBOR,ŽELEZNIKOVA ULICA 4,46.55037,15.66738,Železnikova ulica,,4,,Maribor,,Pobrežje,Maribor,2000,Maribor,Podravska
 2000 MARIBOR,ŽIDOVSKA ULICA 2,46.55703,15.64754,Židovska ulica,,2,,Maribor,,Center,Maribor,2000,Maribor,Podravska
 2000 MARIBOR,ŽOLGARJEVA ULICA 14,46.54949,15.64170,Žolgarjeva ulica,,14,,Maribor,,Magdalena,Maribor,2000,Maribor,Podravska
@@ -866,9 +865,9 @@ postZZZS,addressZZZS,lat,lon,street,streetAlt,housenumber,housenumberAppendix,ci
 4000 KRANJ,GOSPOSVETSKA ULICA 12,46.24804,14.35409,Gosposvetska ulica,,12,,Kranj,,Zlato polje,Kranj,4000,Kranj,Gorenjska
 4000 KRANJ,GOSPOSVETSKA ULICA 9,46.24863,14.35278,Gosposvetska ulica,,9,,Kranj,,Zlato polje,Kranj,4000,Kranj,Gorenjska
 4000 KRANJ,GREGORČIČEVA ULICA 10,46.24313,14.35717,Gregorčičeva ulica,,10,,Kranj,,Center,Kranj,4000,Kranj,Gorenjska
-4000 KRANJ,HRASTJE 30,46.22197,14.38201,Hrastje,,30,,Hrastje,,Hrastje,Kranj,4000,Kranj,Gorenjska
 4000 KRANJ,JELENČEVA ULICA 24,46.24832,14.36780,Jelenčeva ulica,,24,,Kranj,,Primskovo,Kranj,4000,Kranj,Gorenjska
 4000 KRANJ,KIDRIČEVA CESTA 38 A,46.24863,14.35402,Kidričeva cesta,,38,a,Kranj,,Zlato polje,Kranj,4000,Kranj,Gorenjska
+4000 KRANJ,KIDRIČEVA CESTA 47 A,46.25078,14.35186,Kidričeva cesta,,47,a,Kranj,,Zlato polje,Kranj,4000,Kranj,Gorenjska
 4000 KRANJ,KIDRIČEVA CESTA 51,46.25138,14.35198,Kidričeva cesta,,51,,Kranj,,Zlato polje,Kranj,4000,Kranj,Gorenjska
 4000 KRANJ,KIDRIČEVA CESTA 53,46.25199,14.34933,Kidričeva cesta,,53,,Kranj,,Zlato polje,Kranj,4000,Kranj,Gorenjska
 4000 KRANJ,MLAŠKA CESTA 109,46.27666,14.35313,Mlaška cesta,,109,,Mlaka pri Kranju,,Kokrica,Kranj,4000,Kranj,Gorenjska
@@ -1242,7 +1241,6 @@ postZZZS,addressZZZS,lat,lon,street,streetAlt,housenumber,housenumberAppendix,ci
 8272 ZDOLE,PLETERJE 24,45.97319,15.53447,Pleterje,,24,,Pleterje,,Zdole,Krško,8272,Zdole,Posavska
 8273 LESKOVEC PRI KRŠKEM,ULICA STANETA ŽAGARJA 4,45.94179,15.47753,Ulica Staneta Žagarja,,4,,Leskovec pri Krškem,,Leskovec pri Krškem,Krško,8273,Leskovec pri Krškem,Posavska
 8273 LESKOVEC PRI KRŠKEM,VELIKI PODLOG 20,45.89843,15.45553,Veliki Podlog,,20,,Veliki Podlog,,Veliki Podlog,Krško,8273,Leskovec pri Krškem,Posavska
-8274 RAKA,DOLGA RAKA 19,45.91758,15.38025,Dolga Raka,,19,,Dolga Raka,,Raka,Krško,8274,Raka,Posavska
 8274 RAKA,RAKA 36,45.92932,15.38078,Raka,,36,,Raka,,Raka,Krško,8274,Raka,Posavska
 8275 ŠKOCJAN,ŠKOCJAN 67,45.90725,15.28993,Škocjan,,67,,Škocjan,,,Škocjan,8275,Škocjan,Jugovzhodna Slovenija
 8280 BRESTANICA,LIKARJEVA ULICA 12,46.00108,15.48032,Likarjeva ulica,,12,,Brestanica,,Brestanica,Krško,8280,Brestanica,Posavska
