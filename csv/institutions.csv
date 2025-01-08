@@ -3,7 +3,6 @@ id_inst,zzzsSt,name,unit,address,post,city,municipalityPart,municipality,lat,lon
 6387872,6387872,1A-DENT ZOBJE ZOBOZDRAVSTVENA DEJAVNOST D.O.O.,IZPOSTAVA RADLJE OB DRAVI,Podgorje 73d,2381 Podgorje pri Slovenj Gradcu,Podgorje,Podgorje,Slovenj Gradec,46.4755,15.0818,(02) 876 48 64,https://www.zdravniki-zobozdravniki.net/clan/Mateja-GORJUP-MEH-1539/
 4483473,4483473,2LEVA DENTALNA MEDICINA IN MEDIJI D.O.O.,OE KRANJ,Vrečkova ulica 3,4000 Kranj,Kranj,Planina,Kranj,46.23503,14.36105,05 904 24 16,http://www.ordinacija-belehar.si
 2780239,2780239,32 D.O.O. ZDRAVSTVO IN ZOBOZDRAVSTVO,IZPOSTAVA GROSUPLJE,Ulica bratov Babnik 10,1000 Ljubljana,Ljubljana,Četrtna skupnost Dravlje,Ljubljana,46.07645,14.466,01/780 72 10,https://www.zdravniki-zobozdravniki.net/clan/Ljubica-SORMAZ-1139/#ordinacija
-4290312,4290312,"32BISEROV, D.O.O., ZOBNA AMBULANTA ALENKA GRAHEK MIHOVEC, DR. DENT. MED.",OE LJUBLJANA,Gorenja vas - Reteče 58b,1215 Medvode,Gorenja vas - Reteče,Reteče - Gorenja vas,Škofja Loka,46.15128,14.38319,059 059 001,
 507343,507343,"A DENT, TRGOVINA IN STORITVE, D.O.O.",IZPOSTAVA SEŽANA,Partizanska cesta 63,6210 Sežana,Sežana,Sežana,Sežana,45.70583,13.86426,05 734 13 03,https://adent.si/
 5660079,5660079,A-DENS ZOBOZDRAVSTVENE STORITVE D.O.O.,OE NOVO MESTO,Trg 27,8216 Mirna Peč,Mirna Peč,,Mirna Peč,45.85842,15.08385,07 307 85 19,http://www.zobna-ambulanta.com
 3269561,3269561,"A. MLINAR, ZOBOZDRAVSTVO, PROJEKTIRANJE IN DRUGE STORITVE D.O.O.",OE KOPER,Frenkova ulica 7,6280 Ankaran - Ancarano,Ankaran,,Ankaran,45.58296,13.73466,040 827 521,http://www.dcmlinar.si
@@ -81,7 +80,6 @@ id_inst,zzzsSt,name,unit,address,post,city,municipalityPart,municipality,lat,lon
 3181438,3181438,BOLJKA DUŠA - ZOBNA ORDINACIJA,OE LJUBLJANA,Litijska cesta 43,1000 Ljubljana,Ljubljana,Četrtna skupnost Golovec,Ljubljana,46.04812,14.54356,01/548 01 05,http://www.slovenski-zobozdravniki.si/dusa-boljka
 89582,89582,BOLNIŠNICA ZA GINEKOLOGIJO IN PORODNIŠTVO KRANJ,OE KRANJ,Kidričeva cesta 38a,4000 Kranj,Kranj,Zlato polje,Kranj,46.24863,14.35402,04 208 28 00,https://www.bolnisnica-kranj.si/
 751745,751745,BOLNIŠNICA ZA ŽENSKE BOLEZNI IN PORODNIŠTVO POSTOJNA,IZPOSTAVA POSTOJNA,Prečna ulica 4,6230 Postojna,Postojna,Postojna,Postojna,45.77151,14.2102,05 700 07 25,http://www.bolnisnica-po.si
-4463791,4463791,BP ZOBOZDRAVSTVENA IN ZDRAVSTVENA DEJAVNOST D.O.O.,IZPOSTAVA GORNJA RADGONA,Police 96,9250 Gornja Radgona,Police,KS ČREŠNJEVCI-ZBIGOVCI,Gornja Radgona,46.66371,15.96145,,http://www.zobozdravniki-pomurja.si/profil/2/opis.html
 5807207,5807207,"CASERMAN, ZASEBNA PEDIATRIČNA AMBULANTA, D.O.O.",IZPOSTAVA VRHNIKA,Cesta 6. maja 11,1360 Vrhnika,Vrhnika,Vrhnika Center,Vrhnika,45.96278,14.29358,01 755 48 32,http://moj-pediater.si
 3208659,3208659,CHUM - ZIERER VESNA - ZOBNA AMBULANTA,OE MARIBOR,Vrbanska cesta 97,2351 Kamnica,Kamnica,Kamnica,Maribor,46.57322,15.61582,(02) 624 03 20,https://www.zdravniki-zobozdravniki.net/clan/Vesna-CHUM-ZIERER-668/
 2990899,2990899,CIGLER MARIJA - DOKTOR STOMATOLOGIJE,IZPOSTAVA SLOVENJ GRADEC,Partizanska pot 16,2380 Slovenj Gradec,Slovenj Gradec,Center,Slovenj Gradec,46.50693,15.08202,(02) 882 12 02,https://ordinacijacigler.si/
@@ -424,7 +422,6 @@ ozgsl,,"OSNOVNO ZDRAVSTVO GORENJSKE, OE ZDRAVSTVENI DOM ŠKOFJA LOKA",IZPOSTAVA 
 4315836,4315836,"SANJA RAŠIĆ, DDM ZASEBNA ZOBOZDRAVSTVENA ORDINACIJA",IZPOSTAVA ŽALEC,Graščinska cesta 11,3312 Prebold,Prebold,,Prebold,46.23604,15.09094,(03) 705 34 90,https://www.zdravniki-zobozdravniki.net/clan/Sanja-RASIC-1085/
 4980058,4980058,SANJA SLADE - ZASEBNA ZOBNA AMBULANTA,OE MARIBOR,Valvasorjeva ulica 38,2000 Maribor,Maribor,Magdalena,Maribor,46.55444,15.6368,(02) 320 13 40,https://www.zdravniki-zobozdravniki.net/clan/Sanja-SLADE-79/
 797024,797024,"SANOS, ZOBOZDRAVSTVENE STORITVE, D.O.O.",IZPOSTAVA ŠKOFJA LOKA,Gregorčičeva ulica 10,4000 Kranj,Kranj,Center,Kranj,46.24313,14.35717,(04) 511 33 12,http://www.sanjakrajnik.si
-2661740,2661740,SARIĆ DUBRAVKO - ZASEBNI ZOBOZDRAVNIK,IZPOSTAVA RIBNICA,Majnikova ulica 1,1310 Ribnica,Ribnica,Ribnica,Ribnica,45.74238,14.72596,(01) 836 17 08,https://www.cakalnedobe.si/ambulante/saric-dubravko-zasebni-zobozdravnik-zobozdravstvena-dejavnost/
 5746932,5746932,"SAVA MED, ZDRAVSTVENE STORITVE IN SVETOVANJE, D.O.O.",OE MARIBOR,Cesta k Dravi 8,2241 Spodnji Duplek,Spodnji Duplek,Spodnji Duplek,Duplek,46.50113,15.74875,02 620 24 90,http://savamed.si/
 8234860,8234860,"SAVEMO, ZDRAVSTVENE STORITVE D.O.O.",OE LJUBLJANA,Karlovška cesta 10,1000 Ljubljana,Ljubljana,Četrtna skupnost Center,Ljubljana,46.04457,14.50967,,http://www.savemo.eu
 5937785,5937785,"SAŠO HRIBAR, DR. DENT. MED. - ZASEBNA ZOBNA AMBULANTA",IZPOSTAVA ŽALEC,Prešernova ulica 6,3310 Žalec,Žalec,Mestna skupnost Žalec,Žalec,46.25093,15.16216,(03) 713 43 74,http://zobozdravstvo-hribar.si
