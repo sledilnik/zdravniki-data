@@ -26,7 +26,6 @@ postZZZS,addressZZZS,lat,lon,street,streetAlt,housenumber,housenumberAppendix,ci
 1000 LJUBLJANA,DOLENJSKA CESTA 43,46.03585,14.52471,Dolenjska cesta,,43,,Ljubljana,,Četrtna skupnost Rudnik,Ljubljana,1000,Ljubljana,Osrednjeslovenska
 1000 LJUBLJANA,DOLENJSKA CESTA 46,46.03749,14.51913,Dolenjska cesta,,46,,Ljubljana,,Četrtna skupnost Rudnik,Ljubljana,1000,Ljubljana,Osrednjeslovenska
 1000 LJUBLJANA,DUNAJSKA CESTA 109,46.07429,14.51020,Dunajska cesta,,109,,Ljubljana,,Četrtna skupnost Bežigrad,Ljubljana,1000,Ljubljana,Osrednjeslovenska
-1000 LJUBLJANA,DUNAJSKA CESTA 129,46.07794,14.51189,Dunajska cesta,,129,,Ljubljana,,Četrtna skupnost Bežigrad,Ljubljana,1000,Ljubljana,Osrednjeslovenska
 1000 LJUBLJANA,DUNAJSKA CESTA 152,46.08125,14.51349,Dunajska cesta,,152,,Ljubljana,,Četrtna skupnost Bežigrad,Ljubljana,1000,Ljubljana,Osrednjeslovenska
 1000 LJUBLJANA,DUNAJSKA CESTA 186,46.08667,14.51460,Dunajska cesta,,186,,Ljubljana,,Četrtna skupnost Posavje,Ljubljana,1000,Ljubljana,Osrednjeslovenska
 1000 LJUBLJANA,DUNAJSKA CESTA 198,46.08740,14.51458,Dunajska cesta,,198,,Ljubljana,,Četrtna skupnost Posavje,Ljubljana,1000,Ljubljana,Osrednjeslovenska
@@ -193,7 +192,6 @@ postZZZS,addressZZZS,lat,lon,street,streetAlt,housenumber,housenumberAppendix,ci
 1211 LJUBLJANA - ŠMARTNO,SPODNJE GAMELJNE 106,46.11851,14.50439,Spodnje Gameljne,,106,,Spodnje Gameljne,,Četrtna skupnost Šmarna gora,Ljubljana,1211,Ljubljana - Šmartno,Osrednjeslovenska
 1211 LJUBLJANA - ŠMARTNO,SREDNJE GAMELJNE 18 F,46.12407,14.49929,Srednje Gameljne,,18,f,Srednje Gameljne,,Četrtna skupnost Šmarna gora,Ljubljana,1211,Ljubljana - Šmartno,Osrednjeslovenska
 1215 MEDVODE,BIZANTOVA CESTA 14,46.13248,14.41437,Bizantova cesta,,14,,Medvode,,Preska - Žlebe,Medvode,1215,Medvode,Osrednjeslovenska
-1215 MEDVODE,GORENJA VAS - RETEČE 58 B,46.15128,14.38319,Gorenja vas - Reteče,,58,b,Gorenja vas - Reteče,,Reteče - Gorenja vas,Škofja Loka,1215,Medvode,Gorenjska
 1215 MEDVODE,OSTROVRHARJEVA ULICA 6,46.14535,14.40560,Ostrovrharjeva ulica,,6,,Medvode,,Medvode - center,Medvode,1215,Medvode,Osrednjeslovenska
 1215 MEDVODE,ZBILJE 1 K,46.15600,14.40016,Zbilje,,1,k,Zbilje,,Zbilje,Medvode,1215,Medvode,Osrednjeslovenska
 1217 VODICE,KOPITARJEV TRG 1,46.18729,14.49116,Kopitarjev trg,,1,,Vodice,,,Vodice,1217,Vodice,Osrednjeslovenska
