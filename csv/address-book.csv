@@ -521,6 +521,7 @@ rizddzInstitutionContractorId,rizddzInstitutionId,rizddzLocationId,rizddzDoctorI
 437,437,2,11537,302001,gp,,"dr. med., spec. družinska medicine",ŠENTRUPERT 124,ŠENTRUPERT,8232 ŠENTRUPERT,072927211
 437,437,2,12588,302001,gp,,"dr. med., spec. družinska medicine",ŠENTRUPERT 124,ŠENTRUPERT,8232 ŠENTRUPERT,072927210
 437,437,3,12881,302001,gp,,"dr. med., spec. družinska medicine",BISTRIŠKA CESTA 62,POLJČANE,2319 POLJČANE,028025997
+437,437,3,13095,302001,gp,,"dr. med., spec. družinska medicine",BISTRIŠKA CESTA 62,POLJČANE,2319 POLJČANE,022928300
 437,437,4,12586,302002,,,,POTRČEVA ULICA 1,ZGORNJE POLJČANE,2319 POLJČANE,
 515,515,0,5130,306007,gyn,,"dr. med., spec. ginekologije in porodništva",ROBOVA CESTA 6,VRHNIKA,1360 VRHNIKA,01 7504539
 531,531,0,7154,302001,gp,,"dr. med., spec. splošne medicine",BLEJSKA CESTA 10,TRŽIČ,4290 TRŽIČ,04 592 51 31
@@ -531,7 +532,8 @@ rizddzInstitutionContractorId,rizddzInstitutionId,rizddzLocationId,rizddzDoctorI
 769,769,0,12174,327009,ped,,"dr. med., spec. pediatrije",BLEJSKA CESTA 10,TRŽIČ,4290 TRŽIČ,04 596 1064
 769,769,0,12447,327009,ped,,"dr. med., spec. pediatrije",BLEJSKA CESTA 10,TRŽIČ,4290 TRŽIČ,045925134
 775,775,0,13545,302001,gp,,"dr. med., spec. družinska medicine",PREŠERNOVA ULICA 11,DOB,1233 DOB,017242786
-781,781,1,3792,302001,gp,,"dr. med., spec. splošne medicine",KALOHOVA ULICA 18,MARIBOR,2000 MARIBOR,02/ 42 90 090
+781,781,1,5455,302001,gp,,"dr. med., spec. splošne medicine",KALOHOVA ULICA 18,MARIBOR,2000 MARIBOR,02/ 42 90 090
+781,781,1,12899,302001,gp,,"dr. med., spec. družinska medicine",KALOHOVA ULICA 18,MARIBOR,2000 MARIBOR,02/ 42 90 090
 801,801,0,12557,302001,gp,,"dr. med., spec. splošne medicine",ZADRUŽNA CESTA 33,ČRNOMELJ,8340 ČRNOMELJ,073053930
 805,805,1,5941,404101,den,,dr. dent. med.,CESTA XIV. DIVIZIJE 30,MARIBOR,2000 MARIBOR,02/ 429 47 47
 809,809,0,4011,404101,den,,dr. dent. med.,RADGONSKA CESTA 2,RADENCI,9252 RADENCI,041 686 583
@@ -603,7 +605,6 @@ rizddzInstitutionContractorId,rizddzInstitutionId,rizddzLocationId,rizddzDoctorI
 1591,1591,0,8936,302001,gp,,"dr. med., spec. družinska medicine",TRNOVSKA VAS 42 A,TRNOVSKA VAS,2254 TRNOVSKA VAS,031223628
 1591,1591,0,12778,302001,gp,,"dr. med., spec. družinska medicine",TRNOVSKA VAS 42 A,TRNOVSKA VAS,2254 TRNOVSKA VAS,040549937
 1591,1591,1,8936,302001,gp,,"dr. med., spec. družinska medicine",VITOMARCI 71,VITOMARCI,2255 VITOMARCI,031223628
-1591,1591,1,12778,302001,gp,,"dr. med., spec. družinska medicine",VITOMARCI 71,VITOMARCI,2255 VITOMARCI,040549937
 1592,1592,1,8187,327009,ped,,"dr. med., spec. pediatrije",BANIJA 4,IG,1292 IG,013307236
 1597,1597,1,12706,302001,gp,,"dr. med., spec. družinska medicine",SEČOVLJE 44,SEČOVLJE,6333 SEČOVLJE - SICCIOLE,
 1598,1598,1,12369,302001,gp,,"dr. med., spec. družinska medicine",TRG 4. JULIJA 46,DRAVOGRAD,2370 DRAVOGRAD,02 82 80 340
@@ -612,6 +613,8 @@ rizddzInstitutionContractorId,rizddzInstitutionId,rizddzLocationId,rizddzDoctorI
 1602,1602,1,14738,302001,gp,,"dr. med., spec. družinska medicine",PREŠERNOVA ULICA 6,ŽALEC,3310 ŽALEC,041743922
 1605,1605,1,7674,327009,ped,mag,"dr. med., spec. pediatrije",ZORANINA ULICA 3,MENGEŠ,1234 MENGEŠ,
 1620,1620,1,10606,302001,gp,,"dr. med., spec. družinska medicine",KOLODVORSKA CESTA 24,PIVKA,6257 PIVKA,057572561
+1623,1623,0,13158,302001,gp,,"dr. med., spec. družinska medicine",MAKOLE 28,MAKOLE,2321 MAKOLE,
+1627,1627,0,17927,404101,den,dr.,dr. dent. med.,KREMBERK 36 A,KREMBERK,2233 SV. ANA V SLOV. GORICAH,069955724
 2131,2131,0,5078,327009,ped,,"dr. med., spec. pediatrije",GREGORČIČEVA ULICA 5,CELJE,3000 CELJE,035434050
 2131,2131,0,5119,302001,gp,,"dr. med., spec. družinska medicine",GREGORČIČEVA ULICA 5,CELJE,3000 CELJE,03 543 44 13
 2131,2131,0,5940,302001,gp,,"dr. med., spec. družinska medicine",GREGORČIČEVA ULICA 5,CELJE,3000 CELJE,03 543 42 21
@@ -1147,6 +1150,7 @@ rizddzInstitutionContractorId,rizddzInstitutionId,rizddzLocationId,rizddzDoctorI
 7501,7501,0,13175,327009,ped,,"dr. med., spec.",ULICA DR. HROVATA 4,ORMOŽ,2270 ORMOŽ,02 741 09 16
 7501,7501,0,13194,327009,ped,,"dr. med., spec.",ULICA DR. HROVATA 4,ORMOŽ,2270 ORMOŽ,02/ 741 09 66
 7501,7501,0,14428,404103,den-y,,dr. dent. med.,ULICA DR. HROVATA 4,ORMOŽ,2270 ORMOŽ,02/ 741 09 68
+7501,7501,0,18467,404101,den,,dr. dent. med.,ULICA DR. HROVATA 4,ORMOŽ,2270 ORMOŽ,
 7501,7501,1,12564,302001,gp,,"dr. med., spec. družinska medicine",SLOVENSKA CESTA 44,SREDIŠČE OB DRAVI,2277 SREDIŠČE OB DRAVI,02/ 741 09 72
 7501,7501,1,12764,302001,gp,,"dr. med., spec. družinska medicine",SLOVENSKA CESTA 44,SREDIŠČE OB DRAVI,2277 SREDIŠČE OB DRAVI,02 7410 972
 7501,7501,1,13615,404101,den,,dr. dent. med.,SLOVENSKA CESTA 44,SREDIŠČE OB DRAVI,2277 SREDIŠČE OB DRAVI,02/ 741 09 71
@@ -1662,6 +1666,7 @@ rizddzInstitutionContractorId,rizddzInstitutionId,rizddzLocationId,rizddzDoctorI
 14141,14141,3,7978,302001,gp,,dr. med.,TRG 58A,,2391 PREVALJE,02 823 41 64
 14141,14141,3,8655,302001,gp,,"dr. med., spec. družinska medicine",TRG 58A,,2391 PREVALJE,02 823 41 69
 14141,14141,3,13019,327009,ped,,"dr. med., spec. pediatrije",TRG 58A,,2391 PREVALJE,02 823 41 69
+14141,14141,3,17159,404101,den,,dr. dent. med.,TRG 58A,,2391 PREVALJE,028705200
 14141,14141,5,11106,404103,den-y,,dr. dent. med.,ČEČOVJE,,2390 RAVNE NA KOROŠKEM,02 870 53 20
 14141,14141,6,7112,302002,,,"dr. med., spec. splošne medicine",NA FARI 50,,2391 PREVALJE,02 824 09 20
 14141,14141,6,9679,404101,den,,dr. dent. med.,NA FARI 50,,2391 PREVALJE,
@@ -1917,7 +1922,7 @@ rizddzInstitutionContractorId,rizddzInstitutionId,rizddzLocationId,rizddzDoctorI
 20652,20652,1,11696,404101,den,,dr. dent. med.,PEKRSKA CESTA 56,MARIBOR,2000 MARIBOR,031/ 536 970
 20652,20652,2,12490,302002,,,dr.med.spec.druž.med.,PEKRSKA CESTA 56,MARIBOR,2000 MARIBOR,
 20652,20652,3,12490,302001,gp,,"dr. med., spec. družinska medicine",PEKRSKA CESTA 56,MARIBOR,2000 MARIBOR,041/420 301
-20652,20652,4,11740,302001,gp,,"dr. med., spec. družinska medicine",KALOHOVA ULICA 18,MARIBOR,2000 MARIBOR,"041 746 025, 02/ 421 56 12"
+20652,20652,4,11740,302001,gp,,"dr. med., spec. družinska medicine",KALOHOVA ULICA 18,MARIBOR,2000 MARIBOR,02/ 421 56 12
 20652,20652,7,12127,404101,den,,dr. dent. med.,ULICA SAŠE DEVA 16,MARIBOR,2000 MARIBOR,070/ 459 202
 20656,20656,0,9352,404101,den,,dr. dent. med.,DESTRNIK 9,DESTRNIK,2253 DESTRNIK,02/ 753 01 24
 20656,20656,0,9352,404103,den-y,,dr. dent. med.,DESTRNIK 9,DESTRNIK,2253 DESTRNIK,02/ 753 01 24
