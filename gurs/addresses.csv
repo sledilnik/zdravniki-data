@@ -1290,7 +1290,6 @@ postZZZS,addressZZZS,lat,lon,street,streetAlt,housenumber,housenumberAppendix,ci
 9000 MURSKA SOBOTA,KOCLJEVA ULICA 9,46.65945,16.16360,Kocljeva ulica,,9,,Murska Sobota,,Center,Murska Sobota,9000,Murska Sobota,Pomurska
 9000 MURSKA SOBOTA,LENDAVSKA ULICA 1 A,46.66456,16.16441,Lendavska ulica,,1,a,Murska Sobota,,Ledava,Murska Sobota,9000,Murska Sobota,Pomurska
 9000 MURSKA SOBOTA,LENDAVSKA ULICA 16,46.66408,16.16819,Lendavska ulica,,16,,Murska Sobota,,Center,Murska Sobota,9000,Murska Sobota,Pomurska
-9000 MURSKA SOBOTA,LENDAVSKA ULICA 17 A,,,,,,,,,,,,,
 9000 MURSKA SOBOTA,LENDAVSKA ULICA 18,46.66410,16.16828,Lendavska ulica,,18,,Murska Sobota,,Center,Murska Sobota,9000,Murska Sobota,Pomurska
 9000 MURSKA SOBOTA,MLADINSKA ULICA 10,,,,,,,,,,,,,
 9000 MURSKA SOBOTA,PLESE 2,46.65833,16.17610,Plese,,2,,Murska Sobota,,Ledava,Murska Sobota,9000,Murska Sobota,Pomurska
@@ -1344,7 +1343,6 @@ postZZZS,addressZZZS,lat,lon,street,streetAlt,housenumber,housenumberAppendix,ci
 9246 RAZKRIŽJE,ŠAFARSKO 24 D,46.52012,16.28685,Šafarsko,,24,d,Šafarsko,,,Razkrižje,9246,Razkrižje,Pomurska
 9250 GORNJA RADGONA,CANKARJEVA CESTA 2,46.67295,15.99299,Cankarjeva cesta,,2,,Gornja Radgona,,KS GORNJA RADGONA,Gornja Radgona,9250,Gornja Radgona,Pomurska
 9250 GORNJA RADGONA,PARTIZANSKA CESTA 40,46.67340,15.99302,Partizanska cesta,,40,,Gornja Radgona,,KS GORNJA RADGONA,Gornja Radgona,9250,Gornja Radgona,Pomurska
-9250 GORNJA RADGONA,POLICE 96,46.66371,15.96145,Police,,96,,Police,,KS ČREŠNJEVCI-ZBIGOVCI,Gornja Radgona,9250,Gornja Radgona,Pomurska
 9250 GORNJA RADGONA,TRATE 40,46.67787,15.99940,Trate,,40,,Gornja Radgona,,KS GORNJA RADGONA,Gornja Radgona,9250,Gornja Radgona,Pomurska
 9251 TIŠINA,TIŠINA 30,46.65356,16.08631,Tišina,,30,,Tišina,,Tišina,Tišina,9251,Tišina,Pomurska
 9252 RADENCI,GUBČEVA CESTA 22,46.63940,16.04156,Gubčeva cesta,,22,,Radenci,,KS RADENCI,Radenci,9252,Radenci,Pomurska
