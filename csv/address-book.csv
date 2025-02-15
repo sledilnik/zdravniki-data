@@ -1149,8 +1149,8 @@ rizddzInstitutionContractorId,rizddzInstitutionId,rizddzLocationId,rizddzDoctorI
 7501,7501,0,10599,404101,den,,dr. dent. med.,ULICA DR. HROVATA 4,ORMOŽ,2270 ORMOŽ,02/ 741 09 49
 7501,7501,0,12367,302001,gp,,"dr. med., spec. družinska medicine",ULICA DR. HROVATA 4,ORMOŽ,2270 ORMOŽ,02/ 741 09 10
 7501,7501,0,12409,404103,den-y,,,ULICA DR. HROVATA 4,ORMOŽ,2270 ORMOŽ,
-7501,7501,0,12724,302001,gp,,"dr. med., spec. družinska medicine",ULICA DR. HROVATA 4,ORMOŽ,2270 ORMOŽ,02 / 741 09 00
 7501,7501,0,12724,302001,gp,,"dr. med., spec. družinska medicine",ULICA DR. HROVATA 4,ORMOŽ,2270 ORMOŽ,
+7501,7501,0,12724,302001,gp,,"dr. med., spec. družinska medicine",ULICA DR. HROVATA 4,ORMOŽ,2270 ORMOŽ,02 / 741 09 00
 7501,7501,0,12764,302001,gp,,"dr. med., spec. družinska medicine",ULICA DR. HROVATA 4,ORMOŽ,2270 ORMOŽ,02 741 0900
 7501,7501,0,12996,302001,gp,,"dr. med., spec. družinska medicine",ULICA DR. HROVATA 4,ORMOŽ,2270 ORMOŽ,02/ 741 09 86
 7501,7501,0,13175,327009,ped,,"dr. med., spec.",ULICA DR. HROVATA 4,ORMOŽ,2270 ORMOŽ,02 741 09 16
@@ -1664,6 +1664,7 @@ rizddzInstitutionContractorId,rizddzInstitutionId,rizddzLocationId,rizddzDoctorI
 14141,14141,2,10191,302002,,,"dr. med., spec. družinska medicine",CENTER 144,,2393 ČRNA NA KOROŠKEM,02 870 40 57
 14141,14141,2,11106,404101,den,,dr. dent. med.,CENTER 144,,2393 ČRNA NA KOROŠKEM,028704116
 14141,14141,2,11106,404103,den-y,,dr. dent. med.,CENTER 144,,2393 ČRNA NA KOROŠKEM,02 870 41 16
+14141,14141,2,13402,302001,gp,,"dr. med., spec. družinska medicine",CENTER 144,,2393 ČRNA NA KOROŠKEM,
 14141,14141,2,13402,302068,,,dr. med.,CENTER 144,,2393 ČRNA NA KOROŠKEM,02 87 04 111
 14141,14141,2,13933,327009,ped,,"dr. med., spec. pediatrije",CENTER 144,,2393 ČRNA NA KOROŠKEM,
 14141,14141,3,7112,302001,gp,,"dr. med., spec. splošne medicine",TRG 58A,,2391 PREVALJE,02 823 41 64
