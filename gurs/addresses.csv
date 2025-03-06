@@ -193,6 +193,7 @@ postZZZS,addressZZZS,lat,lon,street,streetAlt,housenumber,housenumberAppendix,ci
 1215 MEDVODE,OSTROVRHARJEVA ULICA 6,46.14535,14.40560,Ostrovrharjeva ulica,,6,,Medvode,,Medvode - center,Medvode,1215,Medvode,Osrednjeslovenska
 1215 MEDVODE,ZBILJE 1 K,46.15600,14.40016,Zbilje,,1,k,Zbilje,,Zbilje,Medvode,1215,Medvode,Osrednjeslovenska
 1217 VODICE,KOPITARJEV TRG 1,46.18729,14.49116,Kopitarjev trg,,1,,Vodice,,,Vodice,1217,Vodice,Osrednjeslovenska
+1217 VODICE,NOVA ULICA 4,46.19000,14.49373,Nova ulica,,4,,Vodice,,,Vodice,1217,Vodice,Osrednjeslovenska
 1217 VODICE,UTIK 52,46.16785,14.50143,Utik,,52,,Utik,,,Vodice,1217,Vodice,Osrednjeslovenska
 1218 KOMENDA,GLAVARJEVA CESTA 61 A,46.20453,14.53935,Glavarjeva cesta,,61,a,Komenda,,,Komenda,1218,Komenda,Osrednjeslovenska
 1218 KOMENDA,JUHANTOVA POT 9,46.20214,14.54436,Juhantova pot,,9,,Komenda,,,Komenda,1218,Komenda,Osrednjeslovenska
@@ -295,7 +296,6 @@ postZZZS,addressZZZS,lat,lon,street,streetAlt,housenumber,housenumberAppendix,ci
 1315 VELIKE LAŠČE,ŠOLSKA ULICA 11,45.83285,14.63442,Šolska ulica,,11,,Velike Lašče,,,Velike Lašče,1315,Velike Lašče,Osrednjeslovenska
 1317 SODRAŽICA,C.NOTRANJ. ODREDA 16,,,,,,,,,,,,,
 1318 LOŠKI POTOK,HRIB 102,,,,,,,,,,,,,
-1330 KOČEVJE,KEKČEVA ULICA 3,45.64144,14.85424,Kekčeva ulica,,3,,Kočevje,,Kočevje-mesto,Kočevje,1330,Kočevje,Jugovzhodna Slovenija
 1330 KOČEVJE,LJUBLJANSKA CESTA 19,45.64149,14.85688,Ljubljanska cesta,,19,,Kočevje,,Kočevje-mesto,Kočevje,1330,Kočevje,Jugovzhodna Slovenija
 1330 KOČEVJE,ROŠKA CESTA 16,45.63880,14.86553,Roška cesta,,16,,Kočevje,,Kočevje-mesto,Kočevje,1330,Kočevje,Jugovzhodna Slovenija
 1330 KOČEVJE,ROŠKA CESTA 17,45.63932,14.86400,Roška cesta,,17,,Kočevje,,Kočevje-mesto,Kočevje,1330,Kočevje,Jugovzhodna Slovenija
@@ -350,6 +350,7 @@ postZZZS,addressZZZS,lat,lon,street,streetAlt,housenumber,housenumberAppendix,ci
 1380 CERKNICA,CESTA POD SLIVNICO 1,45.79969,14.36794,Cesta pod Slivnico,,1,,Cerknica,,Cerknica,Cerknica,1380,Cerknica,Primorsko-notranjska
 1380 CERKNICA,CESTA POD SLIVNICO 21,45.79663,14.36783,Cesta pod Slivnico,,21,,Cerknica,,Cerknica,Cerknica,1380,Cerknica,Primorsko-notranjska
 1385 NOVA VAS,NOVA VAS 4 A,45.77374,14.50657,Nova vas,,4,a,Nova vas,,,Bloke,1385,Nova Vas,Primorsko-notranjska
+1385 NOVA VAS,NOVA VAS 4 C,45.77356,14.50649,Nova vas,,4,c,Nova vas,,,Bloke,1385,Nova Vas,Primorsko-notranjska
 1386 STARI TRG PRI LOŽU,CESTA NOTRANJSKEGA ODREDA 36,45.71325,14.47221,Cesta Notranjskega odreda,,36,,Stari trg pri Ložu,,,Loška dolina,1386,Stari trg pri Ložu,Primorsko-notranjska
 1410 ZAGORJE OB SAVI,CESTA 9. AVGUSTA 59 C,46.13569,15.00237,Cesta 9. avgusta,,59,c,Zagorje ob Savi,,Franc Farčnik,Zagorje ob Savi,1410,Zagorje ob Savi,Zasavska
 1410 ZAGORJE OB SAVI,CESTA ZMAGE 1,46.13384,14.99570,Cesta zmage,,1,,Zagorje ob Savi,,Jože Marn,Zagorje ob Savi,1410,Zagorje ob Savi,Zasavska
@@ -766,6 +767,7 @@ postZZZS,addressZZZS,lat,lon,street,streetAlt,housenumber,housenumberAppendix,ci
 3250 ROGAŠKA SLATINA,CELJSKA CESTA 10,46.23916,15.63420,Celjska cesta,,10,,Rogaška Slatina,,Rogaška Slatina,Rogaška Slatina,3250,Rogaška Slatina,Savinjska
 3250 ROGAŠKA SLATINA,CELJSKA CESTA 11,46.23973,15.63206,Celjska cesta,,11,,Rogaška Slatina,,Rogaška Slatina,Rogaška Slatina,3250,Rogaška Slatina,Savinjska
 3250 ROGAŠKA SLATINA,CELJSKA CESTA 7,46.23915,15.63321,Celjska cesta,,7,,Rogaška Slatina,,Rogaška Slatina,Rogaška Slatina,3250,Rogaška Slatina,Savinjska
+3250 ROGAŠKA SLATINA,IVANOV HRIB 4,46.24126,15.64470,Ivanov hrib,,4,,Rogaška Slatina,,Rogaška Slatina,Rogaška Slatina,3250,Rogaška Slatina,Savinjska
 3250 ROGAŠKA SLATINA,OB PROGI 3,46.24403,15.62204,Ob progi,,3,,Rogaška Slatina,,Rogaška Slatina,Rogaška Slatina,3250,Rogaška Slatina,Savinjska
 3250 ROGAŠKA SLATINA,PARTIZANSKA CESTA 10,46.24323,15.64276,Partizanska cesta,,10,,Rogaška Slatina,,Rogaška Slatina,Rogaška Slatina,3250,Rogaška Slatina,Savinjska
 3250 ROGAŠKA SLATINA,SPODNJE NEGONJE 16 C,46.25074,15.62346,Spodnje Negonje,,16,c,Spodnje Negonje,,Rogaška Slatina,Rogaška Slatina,3250,Rogaška Slatina,Savinjska
@@ -999,7 +1001,7 @@ postZZZS,addressZZZS,lat,lon,street,streetAlt,housenumber,housenumberAppendix,ci
 5243 PODBRDO,PODBRDO 33,46.21396,13.97220,Podbrdo,,33,,Podbrdo,,Podbrdo,Tolmin,5243,Podbrdo,Goriška
 5243 PODBRDO,PODBRDO 67,46.20558,13.95963,Podbrdo,,67,,Podbrdo,,Podbrdo,Tolmin,5243,Podbrdo,Goriška
 5243 PODBRDO,PODBRDO 73A,46.21090,13.96798,Podbrdo,,73,a,Podbrdo,,Podbrdo,Tolmin,5243,Podbrdo,Goriška
-5250 SOLKAN,ULICA MATIJE DOLJAKA 12,45.97005,13.64545,Ulica Matije Doljaka,,12,,Solkan,,Krajevna skupnost Solkan,Nova Gorica,5250,Solkan,Goriška
+5250 SOLKAN,SOŠKA CESTA 1 A,45.97375,13.64862,Soška cesta,,1,a,Solkan,,Krajevna skupnost Solkan,Nova Gorica,5250,Solkan,Goriška
 5250 SOLKAN,ŠOLSKA 25,45.96906,13.64982,Šolska ulica,,25,,Solkan,,Krajevna skupnost Solkan,Nova Gorica,5250,Solkan,Goriška
 5253 ČEPOVAN,ČEPOVAN 90,46.04984,13.79420,Čepovan,,90,,Čepovan,,Krajevna skupnost Čepovan,Nova Gorica,5253,Čepovan,Goriška
 5253 ČEPOVAN,ČEPOVAN 90E,,,,,,,,,,,,,
