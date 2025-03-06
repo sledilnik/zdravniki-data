@@ -22,8 +22,9 @@ RANGE_OVERRIDES = "Overrides!A1:AA"
 
 type_map = {
     'SPLOŠNA DEJAVNOST - SPLOŠNA AMBULANTA': 'gp',
-    'SPLOŠNA AMB. - BOLJŠA DOSTOPNOST DO IOZ': 'gp-x',
-    'SPLOŠNA AMB. ZA NEOPREDELJENE ZAV. OSEBE': 'gp-f', 
+    # 'SPLOŠNA AMB. - BOLJŠA DOSTOPNOST DO IOZ': 'gp-x',
+    'SPLOŠNA AMBULANTA - DODATNA AMBULANTA': 'gp-f',
+    # 'SPLOŠNA AMB. ZA NEOPREDELJENE ZAV. OSEBE': 'gp-f', 
     'SPLOŠNA DEJ.-OTROŠKI IN ŠOLSKI DISPANZER': 'ped',
     'OTR. ŠOL. DISP.-BOLJŠA DOSTOPNOST DO IOZ': 'ped-x',
     'ZOBOZDR. DEJAVNOST-ZDRAVLJENJE ODRASLIH': 'den',
@@ -67,7 +68,7 @@ def write_timestamp_file(filename: str, old_hash: str):
 
 def convert_to_csv(zzzsid_map):
     doctors = []
-    for group in ["zdravniki", "zobozdravniki", "ginekologi", "za-boljšo-dostopnost", "za-neopredeljene"]:
+    for group in ["zdravniki", "zobozdravniki", "ginekologi", "v-dodatnih-ambulantah"]:
         filename = max(glob.glob(f"zzzs/????/??/????-??-??_{group}.xlsx"))
         # temporary workaround for last supported zdravniki file:
         if group == "zdravniki":
@@ -76,8 +77,8 @@ def convert_to_csv(zzzsid_map):
 
         df = pd.read_excel(io=filename, sheet_name='Podatki', skiprows=9).dropna()
 
-        if group == "za-neopredeljene":
-            print("Converting za neopredeljene")
+        if group == "v-dodatnih-ambulantah":
+            print("Converting v dodatnih ambulantah")
             if len(df.columns) == 8:
                 print("...introduced with 2023-02-10")
                 df.columns = ['unit', 'institutionID', 'name', 'address', 'city', 'typeID', 'type', 'load']
@@ -85,12 +86,12 @@ def convert_to_csv(zzzsid_map):
                 df.drop(columns=['institutionID', 'typeID'], inplace=True)
 
                 # add missing columns with default values
-                df['doctor'] = 'Ambulanta za neopredeljene'
+                df['doctor'] = 'Dodatna ambulanta'
                 df['availability'] = None
                 df['accepts'] = 'DA'
                 
             else:
-                print(f"Unsupported za neopredeljene source columns! count={len(df.columns)}: {df.columns}")
+                print(f"Unsupported v-dodatnih-ambulantah source columns! count={len(df.columns)}: {df.columns}")
                 raise
 
         elif group == "za-boljšo-dostopnost":
@@ -395,12 +396,13 @@ def add_zzzs_api_data():
 
 
 def download_zzzs_xlsx_files():
-    # 28.03.2023, Število opredeljenih v ambulantah za neopredeljene (za osebe nad 19 let brez splošnega zdravnika)
+    # 28.03.2023 - 2025-01-03, Število opredeljenih v ambulantah za neopredeljene (za osebe nad 19 let brez splošnega zdravnika)
     # 28.03.2023, Število opredeljenih v ambulantah za boljšo dostopnost (splošni zdravnik)
     # 28.03.2023, Število opredeljenih pri ginekologih
     # 28.03.2023, Število opredeljenih pri zobozdravnikih
     # 28.03.2023, Število opredeljenih pri splošnih zdravnikih (družinski, otroški oz. šolski zdravniki)
-    nameRegex= r".* (zobozdravniki|zdravniki|ginekologi|za boljšo dostopnost|za neopredeljene).*"
+    # 2025-03-06: Število opredeljenih v dodatnih ambulantah (za osebe nad 19 let brez splošnega zdravnika) # prej neopredeljeni
+    nameRegex= r".* (zobozdravniki|zdravniki|ginekologi|za boljšo dostopnost|v dodatnih ambulantah).*"
 
     BaseURL = "https://zavarovanec.zzzs.si/izbira-in-zamenjava-osebnega-zdravnika/seznami-zdravnikov/"    
     page = requests.get(BaseURL)
