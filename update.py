@@ -67,7 +67,8 @@ def write_timestamp_file(filename: str, old_hash: str):
 
 def convert_to_csv(zzzsid_map):
     doctors = []
-    for group in ["zdravniki", "zobozdravniki", "ginekologi", "za-boljšo-dostopnost", "za-neopredeljene"]:
+    # for group in ["zdravniki", "zobozdravniki", "ginekologi", "za-boljšo-dostopnost", "za-neopredeljene"]:
+    for group in ["zobozdravniki", "ginekologi", "za-boljšo-dostopnost", "za-neopredeljene"]:
         filename = max(glob.glob(f"zzzs/????/??/????-??-??_{group}.xlsx"))
         print(f"Source: {group} - {filename}")
 
