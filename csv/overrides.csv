@@ -544,16 +544,6 @@ Vombergar Monika,gp,96292,2023-03-22,Ne sprejema novih pacientov.,n,,,,,,,,
 Poplas Susič Antonija,gp,4979124,2023-03-22,Ne sprejema novih pacientov.,n,,,,,,,,
 Klobučar Kamala,gp,zdlmp,2023-03-22,Ne sprejema novih pacientov.,n,,,,,,,,
 Kasjak Vračko Andreja,den,90255,2023-03-24,,,,GORNJI TRG 37,,2344 LOVRENC NA POHORJU,,,,
-Dodatna ambulanta,gp-f,96292,2023-03-24,,,,,,,01/8318-616,https://www.zdkamnik.si/urniki-ambulant/splosna-druzinska-medicina/ambulanta-za-neopredeljene-zavarovane-osebe,,
-Dodatna ambulanta,gp-f,141762,2023-03-24,,,,,,,051 666 602,https://www.zd-sezana.si/obvestilo.php?obvestilo=319,,https://www.gospodar-zdravja.si/reservation/patients/service_provider/330/doctor/798/991
-Dodatna ambulanta,gp-f,205431,2023-03-24,,,,,,,01/837-22-00,https://www.zdribnica.si/ribnica/,ambulanta.neopredeljeni@zdribnica.si,
-Dodatna ambulanta,gp-f,205445,2023-03-24,,,,,,,01 893 90 64,https://www.zdkocevje.si/obvestila/2023/ambulanta-neopredeljene,ambulanta.neopredeljeni@zdkocevje.si,
-Dodatna ambulanta,gp-f,488940,2023-03-24,,,,,,,01 / 72 45 902,https://www.zd-domzale.si/ambulante-in-oddelki/ambulante/ambulanta-za-neopredeljene-paciente,ambulanta.neopredeljeni@zd-domzale.si,
-Dodatna ambulanta,gp-f,604816,2023-03-24,,,,,,,041 480 829,https://www.zd-celje.si/si/osnovno-zdravstvo/2146-druzinska-medicina/4636-ambulanta-za-osebe-brez-ioz,amb.neopredeljeni@zd-celje.si,
-Dodatna ambulanta,gp-f,705728,2023-03-24,,,,Cesta na Markovec 1,,6000 Koper,05 6647 102,https://www.zd-koper.si/si/ambulante/ambulanta-za-neopredeljene/ambulanta-za-neopredeljene,,https://portal.zd-koper.si
-Dodatna ambulanta,gp-f,751640,2024-11-18,Ne sprejema novih pacientov.,n,,,,,05/29 27 172,https://zdib.si/ambulanta/ambulanta-za-neopredeljene-paciente/,,https://www.gospodar-zdravja.si/reservation/patients/service_provider/320/doctor/35409/989
-Dodatna ambulanta,gp-f,789398,2023-03-24,,,,,,,,https://zd-velenje.si/ambulanta-za-neopredeljene-paciente/,,
-Dodatna ambulanta,gp-f,91830,2023-03-24,,,,,,,07 30 61 716,https://zd-crnomelj.si/ambulanta-st-2-jerca-kranjc-dr-med-spec-druz-med/,amb.neopredeljeni@zd-crnomelj.si,
 Lazić Aleksandar,gp,92501,2023-03-27,Ne sprejema novih pacientov.,n,,,,,,,,
 Vovk Maša,gp,91784,2023-03-29,Ne sprejema novih pacientov.,n,,,,,,,,
 Kos Jaka,gp,6861492,2023-03-29,Ne sprejema novih pacientov.,n,,,,,,,,
@@ -599,10 +589,7 @@ Kranjec Leon,gp,zdlsi,2023-06-16,Ne sprejema novih pacientov.,n,,,,,,,,
 Vogrin Bernarda,ped,4709079,2023-06-13,Sprejema nove paciente,y,,,,,,,pediatrija.vogrin@gmail.com,
 Žakelj Samo,gp,zdlmp,2023-06-27,Ne dela več pri tem izvajalcu.,n,,,,,,,,
 Berić Zorica,gp,5647290,2023-06-28,Ne sprejema novih pacientov.,n,,,,,,,,
-Dodatna ambulanta,gp-f,90255,2023-07-05,,,,Ulica kneza Koclja 11,,2000 Maribor,02 62 01 536,https://www.zd-mb.si/Storitve/Enote/Splo%C5%A1no-zdravstveno-varstvo/Slu%C5%BEba-splo%C5%A1ne-medicinske-dejavnosti/Ambulanta-za-neopredeljene-paciente-1,,https://prizdravniku.si/#/ambulanta/07883/1652222
 Kuzmanoski Marko,den,91918,2023-07-11,Ne dela več pri tem izvajalcu.,n,,,,,,,,
-Dodatna ambulanta,gp-f,ozgkr,2023-07-14,Ukinjena z majem 2023.,n,,,,,04 208 2427,https://www.zd-kranj.si/?subpageid=22&ordid=137,,https://www.gospodar-zdravja.si/reservation/patients/service_provider/4241/doctor/92218/990
-Dodatna ambulanta,gp-f,zdlvr,2023-07-14,Ne sprejema novih pacientov.,n,,,,,,https://www.zd-lj.si/zdlj/index.php?option=com_content&view=article&id=1033:zdl-vic-rudnik&catid=266&Itemid=2906&lang=sl,,
 Vezjak Veronika,gp,199021,2023-07-24,Ne sprejema novih pacientov.,n,,,,,01 810 66 63,https://zd-vrhnika.si,,https://zd-vrhnika.si/ambulante/splosne-ambulante/veronika-vezjak-dr-med-spec-druz-med/
 Verdnik Žilavec Katarina,gp,199021,2023-07-24,,,,,,,01 810 66 66,https://zd-vrhnika.si,,https://zd-vrhnika.si/ambulante/splosne-ambulante/katarina-verdnik-dr-med-spec-druz-med/
 Ratej Marko,gp,622056,2023-07-29,Ne sprejema novih pacientov.,n,,,,,,,,
@@ -617,7 +604,6 @@ Roščić Irena,gp,223507,2023-08-23,,,,Foršt 55,,3333 Ljubno ob Savinji,,,,
 Polanec Janja,gp,96292,2023-09-12,Ne sprejema novih pacientov.,n,,,,,,,,
 Janež Ivanc Andreja,gp,zdlmp,2023-09-18,Ne dela več pri tem izvajalcu.,n,,,,,,,,
 Sotirov Andriana,gp-x,7590259,2023-09-19,Ne sprejema novih pacientov.,n,,Cesta v Mestni log 55,,1000 Ljubljana,051 400 080,https://www.humano.si/,murgle@skupinskapraksa.si,
-Dodatna ambulanta,gp-f,zdlmp,2023-09-20,Ne sprejema novih pacientov.,n,,,,,,https://www.zd-lj.si/zdlj/index.php?option=com_content&view=article&id=1031:zdl-moste-polje&catid=266&Itemid=2904&lang=sl,,
 Rus Primož,gp,478988,2023-09-20,Ne sprejema novih pacientov.,n,,Stara cesta 4a,,1360 Vrhnika,051 400 080,,vrhnika@skupinskapraksa.si,
 Norčič Berce Andreja,den,8822350,2023-09-22,Popravek dvoumnega naslova,,,Cvetkova ulica 10,Murska Sobota,9000 Murska Sobota,,,,
 Šoln Darinka,gp,zdlmp,2023-09-22,Daljša odsotnost.,n,,,,,,,,
@@ -647,14 +633,12 @@ Zupančič Pridgar Alenka,gyn,490314,2023-12-02,Ne sprejema novih pacientov.,n,,
 Blaščanin Danijela,den,90255,2023-12-04,,,,Ulica Kneza Koclja 10,,2000 Maribor,02 23 56 608,,zobna.odrasli.blascanin@zd-mb.si,
 Spirovski Dragan,den,4539852,2023-12-10,,,,,,,070826171,,ds.dental@krs.net,
 Dražetić Nives,gp,6186000,2023-12-15,Sprejema nove paciente.,y,,,,,,,,
-Dodatna ambulanta,gp-f,zdlsi,2023-12-20,Ne sprejema novih pacientov.,n,,,,,,https://www.zd-lj.si/zdlj/index.php?option=com_content&view=article&id=1032:zdl-siska&catid=266&Itemid=2905&lang=sl,,https://portal.zd-lj.si
 Leskovec Domen,gp,9096234,2024-01-08,Ne sprejema novih pacientov.,n,,,,,,,,
 Hostnik Domen,den,656012,2024-01-08,Ne sprejema novih pacientov.,n,,,,,,,,
 Ogrin Rehberger Petra,gp-x,8234860,2024-01-11,Ne sprejema novih pacientov.,n,,,,,069765645,,opredelitev@adm.si,narocanje@adm.si
 Rifel Janez,gp-x,8234860,2024-01-11,Ne sprejema novih pacientov.,n,,,,,069765645,,opredelitev@adm.si,narocanje@adm.si
 Zajc Kraševec Mojca,gp,3122955,2024-01-25,Ne sprejema novih pacientov.,n,,,,,,,,
 Reš Lucija,den,616450,2024-01-30,Ne sprejema novih pacientov.,n,,,,,,,,
-Dodatna ambulanta,gp-f,zdlbe,2024-02-02,Ne sprejema novih pacientov.,n,,,,,,https://www.zd-lj.si/zdlj/index.php?option=com_content&view=article&id=1030:zdl-bezigrad&catid=266&Itemid=2903&lang=sl,,
 Palinkaš Ingrid,gp,90255,2024-02-07,Ne sprejema novih pacientov.,n,,,,,,,,
 Kežar Jožefa,gyn,96292,2024-02-07,Ne sprejema novih pacientov.,n,,,,,,,,
 Fras Stefan Tamara,gp,579548,2024-02-12,Ne sprejema novih pacientov.,n,,,,,,,,
@@ -711,7 +695,6 @@ Luzar Fink Maja,den,9345532,2024-08-08,Sprejema nove paciente.,y,,,,,031368025,m
 Luzar Fink Maja,den-y,9345532,2024-08-08,Sprejema nove paciente.,y,,,,,031368025,majaluzarfinkdrdentmed.si,majaluzarfinkdrdentmed@gmail.com,
 Gaceva Anelija,gp,223507,2024-08-08,Sprejema nove paciente.,y,,Savinjska cesta 6,,3330 Mozirje,,,,
 Lah Nina,ped,223507,2024-08-08,Sprejema nove paciente.,y,,,,,,,,
-Dodatna ambulanta,gp-f,zdlce,2024-08-28,Ne sprejema novih pacientov.,n,,,,,01 555 2162 ,https://www.zd-lj.si/zdlj/index.php?option=com_content&view=article&id=1178:zdl-center&catid=266&Itemid=2945&lang=sl,,
 Vidrih Aleksandra,den,4253787,2024-08-30,Ne sprejema novih pacientov.,n,,Ljubljanska cesta 24A,,4000 Kranj,04-2072862,,,
 Harl Martina,ped,90255,2024-09-08,Ne dela več pri tem izvajalcu.,n,,,,,,,,
 Jeras Petra,gp,478988,2024-09-09,Ne sprejema novih pacientov.,n,,Glavarjeva cesta 61a,,1218 Komenda,,,komenda@skupinskapraksa.si,
@@ -731,7 +714,6 @@ Artač Meta,den,zdlce,2024-09-29,Sprejema nove paciente.,y,,,,,,,,
 Samba Lea,den,zdlce,2024-09-29,Sprejema nove paciente.,y,,,,,,,,
 Kovačević Robert,den,zdlce,2024-09-29,Sprejema nove paciente.,y,,,,,,,,
 Ignatovska Stefanovska Roza,gp,664356,2024-10-01,Sprejema nove paciente.,y,,,,,,,,
-Dodatna ambulanta,gp-f,724180,2024-10-01,Ne sprejema novih pacientov.,n,,,,,070 944 544,https://www.zd-izola.si/ambulante-in-sluzbe/ambulanta-za-neopredeljene/ambulanta-za-neopredeljene,sanzo@zd-izola.si,
 Špiclin Tanja,gp,8569868,2024-09-09,Ne sprejema novih pacientov.,n,,,,,015550170,www.spiclin.net,info@spiclin.net,
 Bratina Matija,den,zdlmp,2024-10-03,Sprejema nove paciente.,y,,,,,,,,
 Aljančič Mojca,den,zdlvr,2024-10-03,Sprejema nove paciente.,y,,,,,,,,
@@ -829,3 +811,29 @@ Imširović Azra,gp,90255,2025-02-19,Sprejema nove paciente.,y,,,,,,,,
 Mlinar Marjetka,gp,146418,2025-03-04,Ne sprejema novih pacientov.,n,,,,,,,,
 Prelog Hozjan Anja,gp,616386,2025-03-04,,,,MAKOLE 28,2321 Makole,,02 / 803 05 70,https://ambulanta-makole.si/,,
 Prelog Hozjan Anja,gp,9472287,2025-03-04,Ne sprejema novih pacientov.,n,,MAKOLE 28,2321 Makole,,02 / 803 05 70,https://ambulanta-makole.si/,,
+Dodatna ambulanta,gp-f,zdlvr,2025-03-09,Ne sprejema novih pacientov.,n,,,,,,https://www.zd-lj.si/zdlj/index.php?option=com_content&view=article&id=1033:zdl-vic-rudnik&catid=266&Itemid=2906&lang=sl,,
+Dodatna ambulanta,gp-f,zdlsi,2025-03-09,Ne sprejema novih pacientov.,n,,,,,,https://www.zd-lj.si/zdlj/index.php?option=com_content&view=article&id=1032:zdl-siska&catid=266&Itemid=2905&lang=sl,,https://portal.zd-lj.si
+Dodatna ambulanta,gp-f,zdlmp,2025-03-09,Ne sprejema novih pacientov.,n,,,,,,https://www.zd-lj.si/zdlj/index.php?option=com_content&view=article&id=1031:zdl-moste-polje&catid=266&Itemid=2904&lang=sl,,
+Dodatna ambulanta,gp-f,zdlce,2025-03-09,Ne sprejema novih pacientov.,n,,,,,01 555 2162 ,https://www.zd-lj.si/zdlj/index.php?option=com_content&view=article&id=1178:zdl-center&catid=266&Itemid=2945&lang=sl,,
+Dodatna ambulanta,gp-f,zdlbe,2025-03-09,Ne sprejema novih pacientov.,n,,,,,,https://www.zd-lj.si/zdlj/index.php?option=com_content&view=article&id=1030:zdl-bezigrad&catid=266&Itemid=2903&lang=sl,,
+Dodatna ambulanta,gp-f,ozgkr,2025-03-09,Sprejema nove paciente.,y,,,,,(04) 208 2257,,,https://narocanje.ezdrav.si/
+Dodatna ambulanta,gp-f,789398,2025-03-09,,,,,,,03 8995 519,https://zd-velenje.si/ambulanta-za-neopredeljene-paciente/,,
+Dodatna ambulanta,gp-f,751640,2025-03-09,Ne sprejema novih pacientov.,n,,,,,(05) 71 12 123,https://zdib.si/ambulanta/ambulanta-za-neopredeljene-paciente/,adm.neopredeljeni@zdib.si,https://www.gospodar-zdravja.si/reservation/patients/service_provider/320/doctor/35409/989
+Dodatna ambulanta,gp-f,724180,2025-03-09,Ne sprejema novih pacientov.,n,,,,,070 944 544,https://www.zd-izola.si/ambulante-in-sluzbe/dodatna%20ambulanta%20dru%C5%BEinske%20medicine/dodatna%20ambulanta-dru%C5%BEinske%20medicine%20za%20zavarovane%20osebe,sanzo@zd-izola.si,
+Dodatna ambulanta,gp-f,710804,2025-03-09,,,,,,,030/702582,https://zd-piran.si/index.php/ambulante-druzinske-medicine/spolsne_ambulante/neopredeljeni/,,
+Dodatna ambulanta,gp-f,705728,2025-03-09,,,,Cesta na Markovec 1,,6000 Koper,05 6647 102,https://www.zd-koper.si/si/ambulante/ambulanta-za-neopredeljene/ambulanta-za-neopredeljene,,https://portal.zd-koper.si
+Dodatna ambulanta,gp-f,604816,2025-03-09,,,,,,,(03) 543 4128,https://www.zd-celje.si/si/osnovno-zdravstvo/2146-druzinska-medicina/4636-ambulanta-za-osebe-brez-ioz,amb.neopredeljeni@zd-celje.si,
+Dodatna ambulanta,gp-f,488940,2025-03-09,,,,,,,01 / 72 45 902,https://www.zd-domzale.si/ambulante-in-oddelki/dodatna-ambulanta-druzinske-medicine,ambulanta.neopredeljeni@zd-domzale.si,https://www.zd-nm.si/elektronsko-narocanje
+Dodatna ambulanta,gp-f,205445,2025-03-09,,,,,,,01 893 90 64,https://www.zdkocevje.si/obvestila/2023/ambulanta-neopredeljene,ambulanta.neopredeljeni@zdkocevje.si,
+Dodatna ambulanta,gp-f,205431,2025-03-09,,,,,,,01/837-22-00,https://www.zdribnica.si/ribnica/,"ambulanta.neopredeljeni@zdribnica.si, ambulanta.neopredeljeni2@zdribnica.si",https://www.gospodar-zdravja.si/reservation/patients/service_provider/436/doctor/97307/1139
+Dodatna ambulanta,gp-f,199109,2025-03-09,,,,,,,(05) 37 34 215,https://www.zd-idrija.si/splosna-ambulanta1/,,
+Dodatna ambulanta,gp-f,146418,2025-03-09,,,,,,,(02) 843 27 43,https://www.zd-sb.si/sl/ambulante/splosna-ambulanta-za-neopredeljene-osebe,ambulanta.neo@zd-sb.si,
+Dodatna ambulanta,gp-f,141900,2025-03-09,,,,,,, (05) 620 33 60,https://www.zd-tolmin.si/vzpostavljena-dodatna-ambulanta-druzinske-medicine/,,https://www.gospodar-zdravja.si/reservation/patients/service_provider/17/doctor/35390/478?q=&type=0&region=0&page=None
+Dodatna ambulanta,gp-f,141819,2025-03-09,,,,,,,05 338 32 68,https://www.zd-go.si/sl/ambulante-in-sluzbe/ambulante-splosne-in-druzinske-medicine/dodatna-ambulanta-druzinske-medicine-ambulanta-za-neopredeljene-zavarovane-osebe/,,
+Dodatna ambulanta,gp-f,141762,2025-03-09,,,,,,,051 666 602,https://zd-sezana.si/doctor/ambulanta-za-neopredeljene-zavarovane-osebe/,,https://www.gospodar-zdravja.si/reservation/patients/service_provider/330/doctor/798/991
+Dodatna ambulanta,gp-f,130345,2025-03-09,,,,,,,02 729 18 55,https://www.zd-lenart.si/ambulante-druzinske-medicine,neopredeljeni@zd-lenart.si,https://dozdravnika.si/
+Dodatna ambulanta,gp-f,96292,2025-03-09,,,,,,,01/8318-616,https://www.zdkamnik.si/urniki-ambulant/splosna-druzinska-medicina/splosna-ambulanta-dodatna-ambulanta,,
+Dodatna ambulanta,gp-f,92260,2025-03-09,,,,,,,(02) 87-23-409,https://www.zd-dravograd.si/dejavnosti/splosna-amulanta-1/,sa.anp@zd-dravograd.si,https://www.zd-nm.si/elektronsko-narocanje
+Dodatna ambulanta,gp-f,91918,2025-03-09,,,,,,,07 39 16 786,https://www.zd-nm.si/popup/popup.php?content=zdravnik&id=157,,
+Dodatna ambulanta,gp-f,91830,2025-03-09,,,,,,,07 30 61 716,https://zd-crnomelj.si/ambulanta-st-2-jerca-kranjc-dr-med-spec-druz-med/,amb.neopredeljeni@zd-crnomelj.si,
+Dodatna ambulanta,gp-f,90255,2025-03-09,,,,Ulica kneza Koclja 11,,2000 Maribor,02 62 01 536,https://www.zd-mb.si/Storitve/Enote/Splo%C5%A1no-zdravstveno-varstvo/Slu%C5%BEba-splo%C5%A1ne-medicinske-dejavnosti/Ambulanta-za-neopredeljene-paciente-1,,https://prizdravniku.si/#/ambulanta/07883/1652222
