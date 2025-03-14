@@ -307,7 +307,6 @@ postZZZS,addressZZZS,lat,lon,street,streetAlt,housenumber,housenumberAppendix,ci
 1351 BREZOVICA PRI LJUBLJANI,NOVA POT 5,46.00970,14.41547,Nova pot,,5,,Vnanje Gorice,,Vnanje Gorice,Brezovica,1351,Brezovica pri Ljubljani,Osrednjeslovenska
 1351 BREZOVICA PRI LJUBLJANI,PODPEŠKA CESTA 14,46.02162,14.41607,Podpeška cesta,,14,,Brezovica pri Ljubljani,,Brezovica,Brezovica,1351,Brezovica pri Ljubljani,Osrednjeslovenska
 1351 BREZOVICA PRI LJUBLJANI,PODPEŠKA CESTA 208,46.00242,14.41325,Podpeška cesta,,208,,Vnanje Gorice,,Vnanje Gorice,Brezovica,1351,Brezovica pri Ljubljani,Osrednjeslovenska
-1351 BREZOVICA PRI LJUBLJANI,POŽARNICE 90,46.00371,14.42125,Požarnice,,90,,Vnanje Gorice,,Vnanje Gorice,Brezovica,1351,Brezovica pri Ljubljani,Osrednjeslovenska
 1351 BREZOVICA PRI LJUBLJANI,ŠOLSKA ULICA 1,46.01330,14.37678,Šolska ulica,,1,,Dragomer,,,Log-Dragomer,1351,Brezovica pri Ljubljani,Osrednjeslovenska
 1351 BREZOVICA PRI LJUBLJANI,ŠOLSKA ULICA 3,46.01260,14.37666,Šolska ulica,,3,,Dragomer,,,Log-Dragomer,1351,Brezovica pri Ljubljani,Osrednjeslovenska
 1352 PRESERJE,DOLENJA BREZOVICA 11,45.94773,14.42655,Dolenja Brezovica,,11,,Dolenja Brezovica,,Preserje,Brezovica,1352,Preserje,Osrednjeslovenska
@@ -323,6 +322,7 @@ postZZZS,addressZZZS,lat,lon,street,streetAlt,housenumber,housenumberAppendix,ci
 1355 POLHOV GRADEC,PRAPROČE 3,46.05929,14.29500,Praproče,,3,,Praproče,,Polhov Gradec,Dobrova-Polhov Gradec,1355,Polhov Gradec,Osrednjeslovenska
 1356 DOBROVA,BREZJE PRI DOBROVI 11,46.02784,14.34540,Brezje pri Dobrovi,,11,,Brezje pri Dobrovi,,Dobrova,Dobrova-Polhov Gradec,1356,Dobrova,Osrednjeslovenska
 1356 DOBROVA,HRUŠEVO 153,46.06823,14.39990,Hruševo,,153,,Hruševo,,Dobrova,Dobrova-Polhov Gradec,1356,Dobrova,Osrednjeslovenska
+1356 DOBROVA,HRUŠEVO 26 A,46.07204,14.39858,Hruševo,,26,a,Hruševo,,Dobrova,Dobrova-Polhov Gradec,1356,Dobrova,Osrednjeslovenska
 1356 DOBROVA,POLHOGRAJSKA CESTA 37,46.05477,14.41679,Polhograjska cesta,,37,,Dobrova,,Dobrova,Dobrova-Polhov Gradec,1356,Dobrova,Osrednjeslovenska
 1356 DOBROVA,ULICA VLADIMIRJA DOLNIČARJA 11,46.05355,14.41726,Ulica Vladimirja Dolničarja,,11,,Dobrova,,Dobrova,Dobrova-Polhov Gradec,1356,Dobrova,Osrednjeslovenska
 1357 NOTRANJE GORICE,GMAJNA 7,45.99556,14.40795,Gmajna,,7,,Notranje Gorice,,Notranje Gorice,Brezovica,1357,Notranje Gorice,Osrednjeslovenska
