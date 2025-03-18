@@ -313,7 +313,7 @@ postZZZS,addressZZZS,lat,lon,street,streetAlt,housenumber,housenumberAppendix,ci
 1352 PRESERJE,DOLENJA BREZOVICA 11,45.94773,14.42655,Dolenja Brezovica,,11,,Dolenja Brezovica,,Preserje,Brezovica,1352,Preserje,Osrednjeslovenska
 1352 PRESERJE,JEZERO 1,45.97634,14.41959,Jezero,,1,,Jezero,,Preserje,Brezovica,1352,Preserje,Osrednjeslovenska
 1352 PRESERJE,PRESERJE 41 C,45.95412,14.42276,Preserje,,41,c,Preserje,,Preserje,Brezovica,1352,Preserje,Osrednjeslovenska
-1352 PRESERJE,RAKITNA 96,45.89044,14.44624,Rakitna,,96,,Rakitna,,Rakitna,Brezovica,1352,Preserje,Osrednjeslovenska
+1352 PRESERJE,RAKITNA 96,45.89035,14.44601,Rakitna,,96,,Rakitna,,Rakitna,Brezovica,1352,Preserje,Osrednjeslovenska
 1353 BOROVNICA,MEJAČEVA ULICA 3,45.91998,14.36563,Mejačeva ulica,,3,,Borovnica,,,Borovnica,1353,Borovnica,Osrednjeslovenska
 1354 HORJUL,SLOVENSKA CESTA 17,46.02461,14.29536,Slovenska cesta,,17,,Horjul,,,Horjul,1354,Horjul,Osrednjeslovenska
 1354 HORJUL,ŠENTJOŠT NAD HORJULOM 49 A,46.03859,14.22049,Šentjošt nad Horjulom,,49,a,Šentjošt nad Horjulom,,Šentjošt,Dobrova-Polhov Gradec,1354,Horjul,Osrednjeslovenska
@@ -350,7 +350,7 @@ postZZZS,addressZZZS,lat,lon,street,streetAlt,housenumber,housenumberAppendix,ci
 1380 CERKNICA,CESTA 4. MAJA 17,45.79122,14.36578,Cesta 4. maja,,17,,Cerknica,,Cerknica,Cerknica,1380,Cerknica,Primorsko-notranjska
 1380 CERKNICA,CESTA POD SLIVNICO 1,45.79969,14.36794,Cesta pod Slivnico,,1,,Cerknica,,Cerknica,Cerknica,1380,Cerknica,Primorsko-notranjska
 1380 CERKNICA,CESTA POD SLIVNICO 21,45.79663,14.36783,Cesta pod Slivnico,,21,,Cerknica,,Cerknica,Cerknica,1380,Cerknica,Primorsko-notranjska
-1385 NOVA VAS,NOVA VAS 4 A,45.77374,14.50657,Nova vas,,4,a,Nova vas,,,Bloke,1385,Nova Vas,Primorsko-notranjska
+1385 NOVA VAS,NOVA VAS 4 A,45.77382,14.50653,Nova vas,,4,a,Nova vas,,,Bloke,1385,Nova Vas,Primorsko-notranjska
 1385 NOVA VAS,NOVA VAS 4 C,45.77356,14.50649,Nova vas,,4,c,Nova vas,,,Bloke,1385,Nova Vas,Primorsko-notranjska
 1386 STARI TRG PRI LOŽU,CESTA NOTRANJSKEGA ODREDA 36,45.71325,14.47221,Cesta Notranjskega odreda,,36,,Stari trg pri Ložu,,,Loška dolina,1386,Stari trg pri Ložu,Primorsko-notranjska
 1410 ZAGORJE OB SAVI,CESTA 9. AVGUSTA 59 C,46.13569,15.00237,Cesta 9. avgusta,,59,c,Zagorje ob Savi,,Franc Farčnik,Zagorje ob Savi,1410,Zagorje ob Savi,Zasavska
@@ -518,7 +518,7 @@ postZZZS,addressZZZS,lat,lon,street,streetAlt,housenumber,housenumberAppendix,ci
 2230 LENART V SLOV. GORICAH,HRASTOVEC V SLOV. GORICAH 22,46.56511,15.78691,Hrastovec v Slov. goricah,,22,,Hrastovec v Slov. goricah,,Lenart,Lenart,2230,Lenart v Slov. goricah,Podravska
 2230 LENART V SLOV. GORICAH,ILAUNIGOVA ULICA 15,46.57697,15.82809,Ilaunigova ulica,,15,,Lenart v Slov. goricah,,Lenart,Lenart,2230,Lenart v Slov. goricah,Podravska
 2230 LENART V SLOV. GORICAH,MAISTROVA ULICA 22,46.57734,15.82896,Maistrova ulica,,22,,Lenart v Slov. goricah,,Lenart,Lenart,2230,Lenart v Slov. goricah,Podravska
-2230 LENART V SLOV. GORICAH,OB POLENI 30,,,,,,,,,,,,,
+2230 LENART V SLOV. GORICAH,OB POLENI 30,46.57395,15.82674,Ob Poleni,,30,,Lenart v Slov. goricah,,Lenart,Lenart,2230,Lenart v Slov. goricah,Podravska
 2230 LENART V SLOV. GORICAH,RADEHOVA 5 C,46.56767,15.84591,Radehova,,5,c,Radehova,,Lenart,Lenart,2230,Lenart v Slov. goricah,Podravska
 2230 LENART V SLOV.GORICAH,HRASTOVEC 22,,,,,,,,,,,,,
 2231 PERNICA,PERNICA,,,,,,,,,,,,,
@@ -568,7 +568,7 @@ postZZZS,addressZZZS,lat,lon,street,streetAlt,housenumber,housenumberAppendix,ci
 2270 ORMOŽ,ULICA DR.HROVATA 10 A,46.40632,16.14308,Ulica dr. Hrovata,,10,a,Ormož,,Ormož,Ormož,2270,Ormož,Podravska
 2272 GORIŠNICA,GORIŠNICA 54,46.41156,16.01372,Gorišnica,,54,,Gorišnica,,,Gorišnica,2272,Gorišnica,Podravska
 2272 GORIŠNICA,GORIŠNICA 65,46.41047,16.01167,Gorišnica,,65,,Gorišnica,,,Gorišnica,2272,Gorišnica,Podravska
-2272 GORIŠNICA,ZAGOJIČI 12 D,,,,,,,,,,,,,
+2272 GORIŠNICA,ZAGOJIČI 12 D,46.40324,15.97525,Zagojiči,,12,d,Zagojiči,,,Gorišnica,2272,Gorišnica,Podravska
 2273 PODGORCI,PODGORCI 48,46.42049,16.04944,Podgorci,,48,,Podgorci,,Podgorci,Ormož,2273,Podgorci,Podravska
 2274 VELIKA NEDELJA,VIČANCI 16,46.44350,16.07500,Vičanci,,16,,Vičanci,,Velika Nedelja,Ormož,2274,Velika Nedelja,Podravska
 2277 SREDIŠČE OB DRAVI,SLOVENSKA CESTA 44,46.39571,16.27063,Slovenska cesta,,44,,Središče ob Dravi,,,Središče ob Dravi,2277,Središče ob Dravi,Podravska
@@ -972,7 +972,7 @@ postZZZS,addressZZZS,lat,lon,street,streetAlt,housenumber,housenumberAppendix,ci
 5000 NOVA GORICA,LEDINE 169,45.96203,13.64202,Ledine,,169,,Nova Gorica,,Krajevna skupnost Nova Gorica,Nova Gorica,5000,Nova Gorica,Goriška
 5000 NOVA GORICA,LISKUR 23,45.93414,13.65800,Liskur,,23,,Rožna Dolina,,Krajevna skupnost Rožna Dolina,Nova Gorica,5000,Nova Gorica,Goriška
 5000 NOVA GORICA,REJČEVA ULICA 2,45.95782,13.64582,Rejčeva ulica,,2,,Nova Gorica,,Krajevna skupnost Nova Gorica,Nova Gorica,5000,Nova Gorica,Goriška
-5000 NOVA GORICA,REJČEVA ULICA 4,45.95794,13.64553,Rejčeva ulica,,4,,Nova Gorica,,Krajevna skupnost Nova Gorica,Nova Gorica,5000,Nova Gorica,Goriška
+5000 NOVA GORICA,REJČEVA ULICA 4,45.95793,13.64539,Rejčeva ulica,,4,,Nova Gorica,,Krajevna skupnost Nova Gorica,Nova Gorica,5000,Nova Gorica,Goriška
 5000 NOVA GORICA,SEDEJEVA ULICA 10,45.96044,13.65288,Sedejeva ulica,,10,,Nova Gorica,,Krajevna skupnost Nova Gorica,Nova Gorica,5000,Nova Gorica,Goriška
 5000 NOVA GORICA,STRELIŠKA POT 2,45.95104,13.63447,Streliška pot,,2,,Nova Gorica,,Krajevna skupnost Nova Gorica,Nova Gorica,5000,Nova Gorica,Goriška
 5000 NOVA GORICA,ULICA GRADNIKOVE BRIGADE 47,45.96276,13.64769,Ulica Gradnikove brigade,,47,,Nova Gorica,,Krajevna skupnost Nova Gorica,Nova Gorica,5000,Nova Gorica,Goriška
