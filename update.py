@@ -72,13 +72,7 @@ def convert_to_csv(zzzsid_map):
         filename = max(glob.glob(f"zzzs/????/??/????-??-??_{group}.xlsx"))
         print(f"Source: {group} - {filename}")
 
-        if group == "zdravniki":
-            sheet="Splošna dejavnost"
-            skipr=3
-        else:
-            sheet="Podatki"
-            skipr=9
-        df = pd.read_excel(io=filename, sheet_name=sheet, skiprows=skipr).dropna()
+        df = pd.read_excel(io=filename, sheet_name='Podatki', skiprows=9).dropna()
 
         if group == "v-dodatnih-ambulantah":
             print("Converting v dodatnih ambulantah")
