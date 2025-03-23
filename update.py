@@ -70,6 +70,9 @@ def convert_to_csv(zzzsid_map):
     doctors = []
     for group in ["zdravniki", "zobozdravniki", "ginekologi", "v-dodatnih-ambulantah"]:
         filename = max(glob.glob(f"zzzs/????/??/????-??-??_{group}.xlsx"))
+        # temporary workaround for last supported zdravniki file:
+        if group == "zdravniki":
+            filename = "zzzs/2025/02/2025-02-01_zdravniki.xlsx"
         print(f"Source: {group} - {filename}")
 
         df = pd.read_excel(io=filename, sheet_name='Podatki', skiprows=9).dropna()
