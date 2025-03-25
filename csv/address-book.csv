@@ -420,7 +420,6 @@ rizddzInstitutionContractorId,rizddzInstitutionId,rizddzLocationId,rizddzDoctorI
 372,372,0,8132,302001,gp,,"dr. med., spec. družinska medicine",KANDIJSKA CESTA 4,NOVO MESTO,8000 NOVO MESTO,07 39 16 761
 372,372,0,8425,302001,gp,,"dr. med., spec. družinska medicine",KANDIJSKA CESTA 4,NOVO MESTO,8000 NOVO MESTO,07 39 16 788
 372,372,0,8520,306007,gyn,,"dr. med., spec. ginekologije in porodništva",KANDIJSKA CESTA 4,NOVO MESTO,8000 NOVO MESTO,07 39 16 863
-372,372,0,8801,327009,ped,,"dr. med., spec.",KANDIJSKA CESTA 4,NOVO MESTO,8000 NOVO MESTO,
 372,372,0,9107,404101,den,,dr. dent. med.,KANDIJSKA CESTA 4,NOVO MESTO,8000 NOVO MESTO,07 39 16 744
 372,372,0,9716,302001,gp,,"dr. med., spec. družinska medicine",KANDIJSKA CESTA 4,NOVO MESTO,8000 NOVO MESTO,07 39 16 779
 372,372,0,9750,327009,ped,,"dr. med., spec.",KANDIJSKA CESTA 4,NOVO MESTO,8000 NOVO MESTO,07 39 16 841
@@ -708,6 +707,7 @@ rizddzInstitutionContractorId,rizddzInstitutionId,rizddzLocationId,rizddzDoctorI
 2326,2326,0,14548,404101,den,,dr. dent. med.,KIDRIČEVA ULICA 5 B,LAŠKO,3270 LAŠKO,(03) 734 36 14
 2326,2345,0,8451,302001,gp,,"dr. med., spec. družinske medicine",AŠKERČEVA CESTA 4,RIMSKE TOPLICE,3272 RIMSKE TOPLICE,(03) 734 08 40
 2326,2345,0,12932,302001,gp,,"dr. med., spec. družinske medicine",AŠKERČEVA CESTA 4,RIMSKE TOPLICE,3272 RIMSKE TOPLICE,(03) 734 08 43
+2326,2345,0,17010,404101,den,,dr. dent. med.,AŠKERČEVA CESTA 4,RIMSKE TOPLICE,3272 RIMSKE TOPLICE,(03) 734 08 45
 2326,2345,0,17010,404103,den-y,,dr. dent. med.,AŠKERČEVA CESTA 4,RIMSKE TOPLICE,3272 RIMSKE TOPLICE,(03) 734 08 45
 2326,2345,1,8451,302001,gp,,"dr. med., spec. splošne medicine",JURKLOŠTER,,3273 JURKLOŠTER,(03) 734 08 40
 2371,2371,0,3605,404101,den,,dr. dent. med.,TRG SVOBODE 14,SEVNICA,8290 SEVNICA,078161519
@@ -1156,8 +1156,8 @@ rizddzInstitutionContractorId,rizddzInstitutionId,rizddzLocationId,rizddzDoctorI
 7501,7501,0,10599,404101,den,,dr. dent. med.,ULICA DR. HROVATA 4,ORMOŽ,2270 ORMOŽ,02/ 741 09 49
 7501,7501,0,12367,302001,gp,,"dr. med., spec. družinska medicine",ULICA DR. HROVATA 4,ORMOŽ,2270 ORMOŽ,02/ 741 09 10
 7501,7501,0,12409,404103,den-y,,,ULICA DR. HROVATA 4,ORMOŽ,2270 ORMOŽ,
-7501,7501,0,12724,302001,gp,,"dr. med., spec. družinska medicine",ULICA DR. HROVATA 4,ORMOŽ,2270 ORMOŽ,02 / 741 09 00
 7501,7501,0,12724,302001,gp,,"dr. med., spec. družinska medicine",ULICA DR. HROVATA 4,ORMOŽ,2270 ORMOŽ,
+7501,7501,0,12724,302001,gp,,"dr. med., spec. družinska medicine",ULICA DR. HROVATA 4,ORMOŽ,2270 ORMOŽ,02 / 741 09 00
 7501,7501,0,12764,302001,gp,,"dr. med., spec. družinska medicine",ULICA DR. HROVATA 4,ORMOŽ,2270 ORMOŽ,02 741 0900
 7501,7501,0,12996,302001,gp,,"dr. med., spec. družinska medicine",ULICA DR. HROVATA 4,ORMOŽ,2270 ORMOŽ,02/ 741 09 86
 7501,7501,0,13175,327009,ped,,"dr. med., spec.",ULICA DR. HROVATA 4,ORMOŽ,2270 ORMOŽ,02 741 09 16
