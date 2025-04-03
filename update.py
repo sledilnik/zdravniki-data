@@ -22,10 +22,13 @@ RANGE_OVERRIDES = "Overrides!A1:AA"
 
 type_map = {
     'SPLOŠNA DEJAVNOST - SPLOŠNA AMBULANTA': 'gp',
+    'Splošna dejavnost - splošna ambulanta': 'gp',
+    'Amb. specializanta družinske medicine': 'gp',
     # 'SPLOŠNA AMB. - BOLJŠA DOSTOPNOST DO IOZ': 'gp-x',
     'SPLOŠNA AMBULANTA - DODATNA AMBULANTA': 'gp-f',
     # 'SPLOŠNA AMB. ZA NEOPREDELJENE ZAV. OSEBE': 'gp-f', 
     'SPLOŠNA DEJ.-OTROŠKI IN ŠOLSKI DISPANZER': 'ped',
+    'Splošna dej.-otroški in šolski dispanzer': 'ped',
     'OTR. ŠOL. DISP.-BOLJŠA DOSTOPNOST DO IOZ': 'ped-x',
     'ZOBOZDR. DEJAVNOST-ZDRAVLJENJE ODRASLIH': 'den',
     'ZOBOZDR. DEJAVNOST-ZDRAVLJENJE MLADINE': 'den-y',
@@ -70,12 +73,15 @@ def convert_to_csv(zzzsid_map):
     doctors = []
     for group in ["zdravniki", "zobozdravniki", "ginekologi", "v-dodatnih-ambulantah"]:
         filename = max(glob.glob(f"zzzs/????/??/????-??-??_{group}.xlsx"))
-        # temporary workaround for last supported zdravniki file:
-        if group == "zdravniki":
-            filename = "zzzs/2025/02/2025-02-01_zdravniki.xlsx"
         print(f"Source: {group} - {filename}")
 
-        df = pd.read_excel(io=filename, sheet_name='Podatki', skiprows=9).dropna()
+        if group == "zdravniki":
+            sheet="Splošna dejavnost"
+            skipr=3
+        else:
+            sheet="Podatki"
+            skipr=9
+        df = pd.read_excel(io=filename, sheet_name=sheet, skiprows=skipr).dropna()
 
         if group == "v-dodatnih-ambulantah":
             print("Converting v dodatnih ambulantah")
