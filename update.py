@@ -22,10 +22,13 @@ RANGE_OVERRIDES = "Overrides!A1:AA"
 
 type_map = {
     'SPLOŠNA DEJAVNOST - SPLOŠNA AMBULANTA': 'gp',
+    'Splošna dejavnost - splošna ambulanta': 'gp',
+    'Amb. specializanta družinske medicine': 'gp',
     # 'SPLOŠNA AMB. - BOLJŠA DOSTOPNOST DO IOZ': 'gp-x',
     'SPLOŠNA AMBULANTA - DODATNA AMBULANTA': 'gp-f',
     # 'SPLOŠNA AMB. ZA NEOPREDELJENE ZAV. OSEBE': 'gp-f', 
     'SPLOŠNA DEJ.-OTROŠKI IN ŠOLSKI DISPANZER': 'ped',
+    'Splošna dej.-otroški in šolski dispanzer': 'ped',
     'OTR. ŠOL. DISP.-BOLJŠA DOSTOPNOST DO IOZ': 'ped-x',
     'ZOBOZDR. DEJAVNOST-ZDRAVLJENJE ODRASLIH': 'den',
     'ZOBOZDR. DEJAVNOST-ZDRAVLJENJE MLADINE': 'den-y',

@@ -1103,8 +1103,8 @@ postZZZS,addressZZZS,lat,lon,street,streetAlt,housenumber,housenumberAppendix,ci
 6232 PLANINA,PLANINA 211,45.82390,14.23975,Planina,,211,,Planina,,Planina,Postojna,6232,Planina,Primorsko-notranjska
 6240 KOZINA,BOROVA ULICA 2,45.60732,13.94328,Borova ulica,,2,,Hrpelje,,Hrpelje,Hrpelje-Kozina,6240,Kozina,Obalno-kraška
 6244 PODGRAD,PODGRAD 12 B,45.52063,14.14665,Podgrad,,12,b,Podgrad,,Podgrad,Ilirska Bistrica,6244,Podgrad,Primorsko-notranjska
+6250 ILIRSKA BISTRICA,GREGORČIČEVA CESTA 6,45.56852,14.24293,Gregorčičeva cesta,,6,,Ilirska Bistrica,,Ilirska Bistrica,Ilirska Bistrica,6250,Ilirska Bistrica,Primorsko-notranjska
 6250 ILIRSKA BISTRICA,GREGORČIČEVA CESTA 8,45.56848,14.24324,Gregorčičeva cesta,,8,,Ilirska Bistrica,,Ilirska Bistrica,Ilirska Bistrica,6250,Ilirska Bistrica,Primorsko-notranjska
-6250 ILIRSKA BISTRICA,GREGORČIČEVA CESTA 8 A,45.56931,14.24266,Gregorčičeva cesta,,8,a,Ilirska Bistrica,,Ilirska Bistrica,Ilirska Bistrica,6250,Ilirska Bistrica,Primorsko-notranjska
 6250 ILIRSKA BISTRICA,GREGORČIČEVA CESTA 8 D,45.56884,14.24303,Gregorčičeva cesta,,8,d,Ilirska Bistrica,,Ilirska Bistrica,Ilirska Bistrica,6250,Ilirska Bistrica,Primorsko-notranjska
 6250 ILIRSKA BISTRICA,GREGORČIČEVA ULICA 8,45.56848,14.24324,Gregorčičeva cesta,,8,,Ilirska Bistrica,,Ilirska Bistrica,Ilirska Bistrica,6250,Ilirska Bistrica,Primorsko-notranjska
 6250 ILIRSKA BISTRICA,KIDRIČEVA ULICA 15,45.56738,14.24815,Kidričeva ulica,,15,,Ilirska Bistrica,,Ilirska Bistrica,Ilirska Bistrica,6250,Ilirska Bistrica,Primorsko-notranjska
@@ -1294,7 +1294,6 @@ postZZZS,addressZZZS,lat,lon,street,streetAlt,housenumber,housenumberAppendix,ci
 9000 MURSKA SOBOTA,KOCLJEVA ULICA 2,46.66070,16.16317,Kocljeva ulica,,2,,Murska Sobota,,Center,Murska Sobota,9000,Murska Sobota,Pomurska
 9000 MURSKA SOBOTA,KOCLJEVA ULICA 9,46.65945,16.16360,Kocljeva ulica,,9,,Murska Sobota,,Center,Murska Sobota,9000,Murska Sobota,Pomurska
 9000 MURSKA SOBOTA,LENDAVSKA ULICA 1 A,46.66456,16.16441,Lendavska ulica,,1,a,Murska Sobota,,Ledava,Murska Sobota,9000,Murska Sobota,Pomurska
-9000 MURSKA SOBOTA,LENDAVSKA ULICA 16,46.66408,16.16819,Lendavska ulica,,16,,Murska Sobota,,Center,Murska Sobota,9000,Murska Sobota,Pomurska
 9000 MURSKA SOBOTA,LENDAVSKA ULICA 18,46.66410,16.16828,Lendavska ulica,,18,,Murska Sobota,,Center,Murska Sobota,9000,Murska Sobota,Pomurska
 9000 MURSKA SOBOTA,MLADINSKA ULICA 10,,,,,,,,,,,,,
 9000 MURSKA SOBOTA,PLESE 2,46.65833,16.17610,Plese,,2,,Murska Sobota,,Ledava,Murska Sobota,9000,Murska Sobota,Pomurska
