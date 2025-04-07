@@ -471,7 +471,6 @@ Hachem Amira,gp,490314,2022-12-13,Ne sprejema novih pacientov.,n,,,,,,,,
 Lazić Aleksandar,gp,789398,2022-12-13,Ne dela več pri tem izvajalcu od 1.1.2023.,n,,,,,(02) 872 34 14,,,
 Oražem Vozelj Špela,den,488940,2022-12-13,Ne sprejema novih pacientov.,n,,,,,,,,
 Haring Aleksandra,gp,zdlmp,2022-12-15,Ne dela več pri tem izvajalcu.,n,,,,,,,,
-Truden Andrejka,den,4493543,2022-12-15,Ne sprejema novih pacientov.,n,,,,,,,,
 Sorč Lucija,gyn,199021,2022-12-18,,,,,,,01 810 66 40,,,https://zd-vrhnika.si/ambulante/dispanzer-za-zenske/#
 Smrtnik Marijan,den,3072352,2022-12-18,,,,Stara cesta 7,,1360 Vrhnika,"01 755-34-44, 041 58-58-00",http://www.zob.si/,vrhnika@zob.si,
 Kumer Kos Tjaša,den-y,199021,2022-12-18,,,,Šolska ulica 1,,1358 Log pri Brezovici,01 75 66 414,,,
@@ -814,7 +813,7 @@ Dodatna ambulanta,gp-f,zdlsi,2025-03-09,Ne sprejema novih pacientov.,n,,,,,,http
 Dodatna ambulanta,gp-f,zdlmp,2025-03-09,Ne sprejema novih pacientov.,n,,,,,,https://www.zd-lj.si/zdlj/index.php?option=com_content&view=article&id=1031:zdl-moste-polje&catid=266&Itemid=2904&lang=sl,,
 Dodatna ambulanta,gp-f,zdlce,2025-03-09,Ne sprejema novih pacientov.,n,,,,,01 555 2162 ,https://www.zd-lj.si/zdlj/index.php?option=com_content&view=article&id=1178:zdl-center&catid=266&Itemid=2945&lang=sl,,
 Dodatna ambulanta,gp-f,zdlbe,2025-03-09,Ne sprejema novih pacientov.,n,,,,,,https://www.zd-lj.si/zdlj/index.php?option=com_content&view=article&id=1030:zdl-bezigrad&catid=266&Itemid=2903&lang=sl,,
-Dodatna ambulanta,gp-f,ozgkr,2025-03-09,Sprejema nove paciente.,y,,,,,(04) 208 2257,,,https://narocanje.ezdrav.si/
+Dodatna ambulanta,gp-f,ozgkr,2025-03-09,Ne sprejema novih pacientov.,n,,,,,(04) 208 2257,,,https://narocanje.ezdrav.si/
 Dodatna ambulanta,gp-f,789398,2025-03-09,,,,,,,03 8995 519,https://zd-velenje.si/ambulanta-za-neopredeljene-paciente/,,
 Dodatna ambulanta,gp-f,751640,2025-03-09,Ne sprejema novih pacientov.,n,,,,,(05) 71 12 123,https://zdib.si/ambulanta/ambulanta-za-neopredeljene-paciente/,adm.neopredeljeni@zdib.si,https://www.gospodar-zdravja.si/reservation/patients/service_provider/320/doctor/35409/989
 Dodatna ambulanta,gp-f,724180,2025-03-09,Ne sprejema novih pacientov.,n,,,,,070 944 544,https://www.zd-izola.si/ambulante-in-sluzbe/dodatna%20ambulanta%20dru%C5%BEinske%20medicine/dodatna%20ambulanta-dru%C5%BEinske%20medicine%20za%20zavarovane%20osebe,sanzo@zd-izola.si,
@@ -841,3 +840,6 @@ Gračner Barbara,den,4110908,2025-03-19,,,,Stara cesta 10,,4220 Škofja Loka,,,i
 Šestanj Puklavec Katja,den,5688170,2025-03-19,,,,Maistrova 22,,2230 Lenart v Slov. goricah,041 350 222,,zobozdravstvo.sestanj@gmail.com,
 Gazvoda Damijan,gp,3742323,2025-03-21,,,,Seidlova cesta 44,,8000 Novo mesto,,,,
 Lobe Barbara,ped,zdlsi,2025-03-27,Ne sprejema novih pacientov.,n,,,,,,,,
+Pišljar Mehle Mateja,gp,6083150,2025-04-07,Trajno zaprto,n,,,,,,,,
+Truden Andrejka,den,4493543,2022-12-15,Sprejema nove paciente,y,,,,,,,,
+Jemec Mojca,gyn,488940,2022-12-15,Ne sprejema novih pacientov.,n,,,,,,,,
