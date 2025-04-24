@@ -1,11 +1,13 @@
 postOver,addressOver,cityOver,lat,lon,street,streetAlt,housenumber,housenumberAppendix,city,cityAlt,municipalityPart,municipality,zipCode,zipName,statisticalRegion
 1000 Ljubljana,Cesta v Mestni log 55,,46.03620,14.48957,Cesta v Mestni log,,55,,Ljubljana,,Četrtna skupnost Trnovo,Ljubljana,1000,Ljubljana,Osrednjeslovenska
 1000 Ljubljana,Metelkova 15,,46.05705,14.51547,Metelkova ulica,,15,,Ljubljana,,Četrtna skupnost Center,Ljubljana,1000,Ljubljana,Osrednjeslovenska
+1000 Ljubljana,Preglov trg 14,,46.05348,14.55878,Preglov trg,,14,,Ljubljana,,Četrtna skupnost Moste,Ljubljana,1000,Ljubljana,Osrednjeslovenska
 1000 Ljubljana,Rakovniška ulica 4,,46.03660,14.52361,Rakovniška ulica,,4,,Ljubljana,,Četrtna skupnost Rudnik,Ljubljana,1000,Ljubljana,Osrednjeslovenska
 1000 Ljubljana,Ulica bratov Babnik 10,,46.07645,14.46600,Ulica bratov Babnik,,10,,Ljubljana,,Četrtna skupnost Dravlje,Ljubljana,1000,Ljubljana,Osrednjeslovenska
 1000 Ljubljana,Zdravstvena pot 1,,46.04729,14.51594,Zdravstvena pot,,1,,Ljubljana,,Četrtna skupnost Center,Ljubljana,1000,Ljubljana,Osrednjeslovenska
 1000 Ljubljana,Čufarjeva ulica 11,,46.05516,14.51021,Čufarjeva ulica,,11,,Ljubljana,,Četrtna skupnost Center,Ljubljana,1000,Ljubljana,Osrednjeslovenska
 1218 Komenda,Glavarjeva cesta 61a,,46.20453,14.53935,Glavarjeva cesta,,61,a,Komenda,,,Komenda,1218,Komenda,Osrednjeslovenska
+1231 Ljubljana-Črnuče,Primožičeva ulica 2,,46.10339,14.53178,Primožičeva ulica,,2,,Ljubljana,,Četrtna skupnost Črnuče,Ljubljana,1231,Ljubljana - Črnuče,Osrednjeslovenska
 1235 Radomlje,Kamniška cesta 24,Zgornje Jarše,46.16452,14.59442,Kamniška cesta,,24,,Zgornje Jarše,,Jarše - Rodica,Domžale,1235,Radomlje,Osrednjeslovenska
 1235 Radomlje,Kamniška cesta 24d,Zgornje Jarše,46.16455,14.59455,Kamniška cesta,,24,d,Zgornje Jarše,,Jarše - Rodica,Domžale,1235,Radomlje,Osrednjeslovenska
 1236 Trzin,Ljubljanska cesta 12,,46.13255,14.56242,Ljubljanska cesta,,12,,Trzin,,,Trzin,1236,Trzin,Osrednjeslovenska
