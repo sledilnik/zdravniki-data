@@ -60,7 +60,6 @@ postOver,addressOver,cityOver,lat,lon,street,streetAlt,housenumber,housenumberAp
 3333 Ljubno ob Savinji,Foršt 55,,46.34459,14.83299,Foršt,,55,,Ljubno ob Savinji,,,Ljubno,3333,Ljubno ob Savinji,Savinjska
 3334 Luče ob Savinji,Luče 106,,46.35640,14.74415,Luče,,106,,Luče,,,Luče,3334,Luče,Savinjska
 3342 Gornji Grad,Tlaka 10,,46.29728,14.80953,Tlaka,,10,,Gornji Grad,,Gornji Grad,Gornji Grad,3342,Gornji Grad,Savinjska
-4000 Kranj,Ljubljanska cesta 24A,,46.22457,14.35459,Ljubljanska cesta,,24,a,Kranj,,Stražišče,Kranj,4000,Kranj,Gorenjska
 4000 Kranj,Škofjeloška cesta 6,,46.22819,14.35325,Škofjeloška cesta,,6,,Kranj,,Stražišče,Kranj,4000,Kranj,Gorenjska
 4000 Kranj,Žanova ulica 3,,46.24570,14.36350,Žanova ulica,,3,,Kranj,,Primskovo,Kranj,4000,Kranj,Gorenjska
 4204 Golnik,Golnik 36,,46.32966,14.33178,Golnik,,36,,Golnik,,Golnik,Kranj,4204,Golnik,Gorenjska
@@ -71,7 +70,6 @@ postOver,addressOver,cityOver,lat,lon,street,streetAlt,housenumber,housenumberAp
 4226 Žiri,Trg svobode 9,,46.04754,14.11159,Trg svobode,,9,,Žiri,,,Žiri,4226,Žiri,Gorenjska
 4228 Železniki,Racovnik 29,,46.22219,14.15786,Racovnik,,29,,Železniki,,Železniki,Železniki,4228,Železniki,Gorenjska
 4240 Radovljica,Kopališka cesta 7,,46.34702,14.17201,Kopališka cesta,,7,,Radovljica,,Radovljica,Radovljica,4240,Radovljica,Gorenjska
-4248 Lesce,Železniška ulica 10,,46.36149,14.15765,Železniška ulica,,10,,Lesce,,Lesce,Radovljica,4248,Lesce,Gorenjska
 4264 Bohinjska Bistrica,Triglavska cesta 15,,46.27206,13.95469,Triglavska cesta,,15,,Bohinjska Bistrica,,Bohinjska Bistrica,Bohinj,4264,Bohinjska Bistrica,Gorenjska
 5213 Kanal,Morsko 1,,46.08033,13.63544,Morsko,,1,,Morsko,,Kanal,Kanal,5213,Kanal,Goriška
 5230 Bovec,Kot 85,,46.33596,13.54877,Kot,,85,,Bovec,,Bovec,Bovec,5230,Bovec,Goriška
@@ -89,7 +87,6 @@ postOver,addressOver,cityOver,lat,lon,street,streetAlt,housenumber,housenumberAp
 6223 Komen,Komen 94,,45.81793,13.74670,Komen,,94,,Komen,,Komen,Komen,6223,Komen,Obalno-kraška
 6230 Postojna,Kolodvorska cesta 25,,45.77308,14.22128,Kolodvorska cesta,,25,,Postojna,,Postojna,Postojna,6230,Postojna,Primorsko-notranjska
 6257 Pivka,Kolodvorska cesta 24,,45.68043,14.19460,Kolodvorska cesta,,24,,Pivka,,Pivka,Pivka,6257,Pivka,Primorsko-notranjska
-6333 Sečovlje,Sečovlje 44,,45.47541,13.61973,Sečovlje,Sicciole,44,,Sečovlje,Sicciole,Sečovlje,Piran,6333,Sečovlje - Sicciole,Obalno-kraška
 8000 Novo mesto,Seidlova cesta 44,,45.81249,15.17404,Seidlova cesta,,44,,Novo mesto,,Krajevna skupnost Ločna-Mačkovec,Novo mesto,8000,Novo mesto,Jugovzhodna Slovenija
 8000 Novo mesto,Šmarješka cesta 44,,45.82141,15.18482,Šmarješka cesta,,44,,Novo mesto,,Krajevna skupnost Ločna-Mačkovec,Novo mesto,8000,Novo mesto,Jugovzhodna Slovenija
 8216 Mirna Peč,Trg 2,,45.85907,15.08377,Trg,,2,,Mirna Peč,,,Mirna Peč,8216,Mirna Peč,Jugovzhodna Slovenija
@@ -100,4 +97,3 @@ postOver,addressOver,cityOver,lat,lon,street,streetAlt,housenumber,housenumberAp
 9000 Murska Sobota,Lendavska ulica 18,Murska Sobota,46.66410,16.16828,Lendavska ulica,,18,,Murska Sobota,,Center,Murska Sobota,9000,Murska Sobota,Pomurska
 9000 Murska Sobota,Mladinska ulica 10,Murska Sobota,46.65754,16.16589,Mladinska ulica,,10,,Murska Sobota,,Center,Murska Sobota,9000,Murska Sobota,Pomurska
 9201 Puconci,Puconci 150,,46.70397,16.15779,Puconci,,150,,Puconci,,Puconci,Puconci,9201,Puconci,Pomurska
-9220 Lendava - Lendva,Mlinska ulica 6,Lendava,46.56183,16.45256,Mlinska ulica,Malom utca,6,,Lendava,Lendva,Lendava / Lendva,Lendava,9220,Lendava - Lendva,Pomurska
