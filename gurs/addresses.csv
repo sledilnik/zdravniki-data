@@ -406,7 +406,6 @@ postZZZS,addressZZZS,lat,lon,street,streetAlt,housenumber,housenumberAppendix,ci
 2000 MARIBOR,KALOHOVA ULICA 18,46.55507,15.61747,Kalohova ulica,,18,,Maribor,,Studenci,Maribor,2000,Maribor,Podravska
 2000 MARIBOR,KALOHOVA ULICA 25,46.55476,15.61807,Kalohova ulica,,25,,Maribor,,Studenci,Maribor,2000,Maribor,Podravska
 2000 MARIBOR,KARDELJEVA CESTA 76,46.54170,15.63274,Kardeljeva cesta,,76,,Maribor,,Nova vas,Maribor,2000,Maribor,Podravska
-2000 MARIBOR,KARDELJEVA CESTA 77,46.54122,15.63336,Kardeljeva cesta,,77,,Maribor,,Nova vas,Maribor,2000,Maribor,Podravska
 2000 MARIBOR,KARDELJEVA CESTA 84,46.54116,15.63252,Kardeljeva cesta,,84,,Maribor,,Nova vas,Maribor,2000,Maribor,Podravska
 2000 MARIBOR,KETTEJEVA ULICA 14,46.54801,15.63859,Kettejeva ulica,,14,,Maribor,,Tabor,Maribor,2000,Maribor,Podravska
 2000 MARIBOR,KNAFELČEVA ULICA 31,46.53891,15.63321,Knafelčeva ulica,,31,,Maribor,,Nova vas,Maribor,2000,Maribor,Podravska
@@ -424,6 +423,7 @@ postZZZS,addressZZZS,lat,lon,street,streetAlt,housenumber,housenumberAppendix,ci
 2000 MARIBOR,LJUBLJANSKA UL.42,46.54588,15.64358,Ljubljanska ulica,,42,,Maribor,,Tabor,Maribor,2000,Maribor,Podravska
 2000 MARIBOR,LJUBLJANSKA ULICA 5,46.55289,15.64858,Ljubljanska ulica,,5,,Maribor,,Magdalena,Maribor,2000,Maribor,Podravska
 2000 MARIBOR,LJUBLJANSKA ULICA 9,46.55337,15.64665,Ljubljanska ulica,,9,,Maribor,,Magdalena,Maribor,2000,Maribor,Podravska
+2000 MARIBOR,MAJCIGERJEVA ULICA 21,46.54345,15.62181,Majcigerjeva ulica,,21,,Maribor,,Radvanje,Maribor,2000,Maribor,Podravska
 2000 MARIBOR,MASARYKOVA ULICA 26,46.55161,15.64827,Masarykova ulica,,26,,Maribor,,Magdalena,Maribor,2000,Maribor,Podravska
 2000 MARIBOR,MEJNA ULICA 6,46.55388,15.65783,Mejna ulica,,6,,Maribor,,Pobrežje,Maribor,2000,Maribor,Podravska
 2000 MARIBOR,MELJSKI DOL 36,46.57005,15.66523,Meljski dol,,36,,Maribor,,Center,Maribor,2000,Maribor,Podravska
