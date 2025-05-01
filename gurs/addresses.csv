@@ -592,6 +592,7 @@ postZZZS,addressZZZS,lat,lon,street,streetAlt,housenumber,housenumberAppendix,ci
 2310 SLOVENSKA BISTRICA,PARTIZANSKA ULICA 30,46.39552,15.56233,Partizanska ulica,,30,,Slovenska Bistrica,,Pohorski odred,Slovenska Bistrica,2310,Slovenska Bistrica,Podravska
 2310 SLOVENSKA BISTRICA,TRG ALFONZA ŠARHA 18,46.39443,15.57367,Trg Alfonza Šarha,,18,,Slovenska Bistrica,,Alfonz Šarh,Slovenska Bistrica,2310,Slovenska Bistrica,Podravska
 2310 SLOVENSKA BISTRICA,TRG SVOBODE 26,46.39244,15.57267,Trg svobode,,26,,Slovenska Bistrica,,Dr. Jagodiča,Slovenska Bistrica,2310,Slovenska Bistrica,Podravska
+2310 SLOVENSKA BISTRICA,TRG SVOBODE 26 C,46.39286,15.57212,Trg svobode,,26,c,Slovenska Bistrica,,Dr. Jagodiča,Slovenska Bistrica,2310,Slovenska Bistrica,Podravska
 2310 SLOVENSKA BISTRICA,ULICA BORISA WINTERJA 10,46.38857,15.57340,Ulica Borisa Winterja,,10,,Slovenska Bistrica,,Dr. Jagodiča,Slovenska Bistrica,2310,Slovenska Bistrica,Podravska
 2310 SLOVENSKA BISTRICA,VISOLE 166 A,46.39751,15.52669,Visole,,166,a,Visole,,Impol,Slovenska Bistrica,2310,Slovenska Bistrica,Podravska
 2311 HOČE,BOHOVSKA CESTA 9,46.50072,15.64689,Bohovska cesta,,9,,Spodnje Hoče,,Hoče,Hoče-Slivnica,2311,Hoče,Podravska
@@ -1278,6 +1279,7 @@ postZZZS,addressZZZS,lat,lon,street,streetAlt,housenumber,housenumberAppendix,ci
 8340 ČRNOMELJ,ULICA NA PRISTAVAH 1,45.57823,15.19245,Ulica na Pristavah,,1,,Črnomelj,,KS Črnomelj,Črnomelj,8340,Črnomelj,Jugovzhodna Slovenija
 8340 ČRNOMELJ,ULICA OTONA ŽUPANČIČA 3,45.57421,15.19108,Ulica Otona Župančiča,,3,,Črnomelj,,KS Črnomelj,Črnomelj,8340,Črnomelj,Jugovzhodna Slovenija
 8340 ČRNOMELJ,ZADRUŽNA CESTA 33,45.57914,15.19513,Zadružna cesta,,33,,Črnomelj,,KS Črnomelj,Črnomelj,8340,Črnomelj,Jugovzhodna Slovenija
+8342 STARI TRG OB KOLPI,PREDGRAD,,,,,,,,,,,,,
 8344 VINICA,VINICA 39 A,45.46053,15.25291,Vinica,,39,a,Vinica,,KS Vinica,Črnomelj,8344,Vinica,Jugovzhodna Slovenija
 8350 DOLENJSKE TOPLICE,KELTSKA ULICA 9,45.75288,15.05415,Keltska ulica,,9,,Dolenjske Toplice,,,Dolenjske Toplice,8350,Dolenjske Toplice,Jugovzhodna Slovenija
 8350 DOLENJSKE TOPLICE,PIONIRSKA CESTA 35,45.75721,15.05350,Pionirska cesta,,35,,Dolenjske Toplice,,,Dolenjske Toplice,8350,Dolenjske Toplice,Jugovzhodna Slovenija
