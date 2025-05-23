@@ -1168,8 +1168,8 @@ rizddzInstitutionContractorId,rizddzInstitutionId,rizddzLocationId,rizddzDoctorI
 7501,7501,0,10599,404101,den,,dr. dent. med.,ULICA DR. HROVATA 4,ORMOŽ,2270 ORMOŽ,02/ 741 09 49
 7501,7501,0,12367,302001,gp,,"dr. med., spec. družinska medicine",ULICA DR. HROVATA 4,ORMOŽ,2270 ORMOŽ,02/ 741 09 10
 7501,7501,0,12409,404103,den-y,,,ULICA DR. HROVATA 4,ORMOŽ,2270 ORMOŽ,
-7501,7501,0,12724,302001,gp,,"dr. med., spec. družinska medicine",ULICA DR. HROVATA 4,ORMOŽ,2270 ORMOŽ,
 7501,7501,0,12724,302001,gp,,"dr. med., spec. družinska medicine",ULICA DR. HROVATA 4,ORMOŽ,2270 ORMOŽ,02 / 741 09 00
+7501,7501,0,12724,302001,gp,,"dr. med., spec. družinska medicine",ULICA DR. HROVATA 4,ORMOŽ,2270 ORMOŽ,
 7501,7501,0,12764,302001,gp,,"dr. med., spec. družinska medicine",ULICA DR. HROVATA 4,ORMOŽ,2270 ORMOŽ,02 741 0900
 7501,7501,0,12996,302001,gp,,"dr. med., spec. družinska medicine",ULICA DR. HROVATA 4,ORMOŽ,2270 ORMOŽ,02/ 741 09 86
 7501,7501,0,13175,327009,ped,,"dr. med., spec.",ULICA DR. HROVATA 4,ORMOŽ,2270 ORMOŽ,02 741 09 16
@@ -1658,6 +1658,7 @@ rizddzInstitutionContractorId,rizddzInstitutionId,rizddzLocationId,rizddzDoctorI
 14041,14041,0,10548,404103,den-y,,dr. dent. med.,MARIBORSKA CESTA 37,RADLJE OB DRAVI,2360 RADLJE OB DRAVI,02 877 08 19
 14041,14041,0,12177,306007,gyn,,"dr. med., spec. ginekologije in porodništva",MARIBORSKA CESTA 37,RADLJE OB DRAVI,2360 RADLJE OB DRAVI,02 877 08 32
 14041,14041,0,12619,302001,gp,,"dr. med., spec. splošne medicine",MARIBORSKA CESTA 37,RADLJE OB DRAVI,2360 RADLJE OB DRAVI,02 88 73 232
+14041,14041,0,14191,302001,gp,,"dr. med., spec. družinska medicine",MARIBORSKA CESTA 37,RADLJE OB DRAVI,2360 RADLJE OB DRAVI,
 14041,14041,1,2280,302001,gp,,"dr. med., spec. splošne medicine",MLADINSKA ULICA 17,VUZENICA,2367 VUZENICA,02 877 08 40
 14041,14041,1,12033,302001,gp,,"dr. med., spec. družinska medicine",MLADINSKA ULICA 17,VUZENICA,2367 VUZENICA,02 877 08 45
 14041,14041,2,12531,302001,gp,,"dr. med., spec. družinska medicine",RIBNICA NA POHORJU 1,RIBNICA NA POHORJU,2364 RIBNICA NA POHORJU,02 888 02 76
