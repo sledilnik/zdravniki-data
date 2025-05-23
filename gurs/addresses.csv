@@ -72,6 +72,7 @@ postZZZS,addressZZZS,lat,lon,street,streetAlt,housenumber,housenumberAppendix,ci
 1000 LJUBLJANA,KOTNIKOVA ULICA 30,46.05676,14.51406,Kotnikova ulica,,30,,Ljubljana,,Četrtna skupnost Center,Ljubljana,1000,Ljubljana,Osrednjeslovenska
 1000 LJUBLJANA,KRŽIČEVA ULICA 10,46.06465,14.51105,Kržičeva ulica,,10,,Ljubljana,,Četrtna skupnost Bežigrad,Ljubljana,1000,Ljubljana,Osrednjeslovenska
 1000 LJUBLJANA,KUNAVERJEVA ULICA 15,46.07940,14.47495,Kunaverjeva ulica,,15,,Ljubljana,,Četrtna skupnost Dravlje,Ljubljana,1000,Ljubljana,Osrednjeslovenska
+1000 LJUBLJANA,KUSOLDOVA ULICA 2,46.02942,14.50318,Kusoldova ulica,,2,,Ljubljana,,Četrtna skupnost Trnovo,Ljubljana,1000,Ljubljana,Osrednjeslovenska
 1000 LJUBLJANA,LEPI POT 14,46.04460,14.49488,Lepi pot,,14,,Ljubljana,,Četrtna skupnost Vič,Ljubljana,1000,Ljubljana,Osrednjeslovenska
 1000 LJUBLJANA,LEPODVORSKA ULICA 2,46.06241,14.49627,Lepodvorska ulica,,2,,Ljubljana,,Četrtna skupnost Šiška,Ljubljana,1000,Ljubljana,Osrednjeslovenska
 1000 LJUBLJANA,LINHARTOVA CESTA 15,46.06480,14.51444,Linhartova cesta,,15,,Ljubljana,,Četrtna skupnost Bežigrad,Ljubljana,1000,Ljubljana,Osrednjeslovenska
@@ -102,6 +103,7 @@ postZZZS,addressZZZS,lat,lon,street,streetAlt,housenumber,housenumberAppendix,ci
 1000 LJUBLJANA,PETKOVŠKOVO NABREŽJE 57,46.05204,14.51312,Petkovškovo nabrežje,,57,,Ljubljana,,Četrtna skupnost Center,Ljubljana,1000,Ljubljana,Osrednjeslovenska
 1000 LJUBLJANA,PLEŠIČEVA ULICA 15,46.08009,14.46711,Plešičeva ulica,,15,,Ljubljana,,Četrtna skupnost Dravlje,Ljubljana,1000,Ljubljana,Osrednjeslovenska
 1000 LJUBLJANA,POD JELŠAMI 20,46.03383,14.49319,Pod jelšami,,20,,Ljubljana,,Četrtna skupnost Trnovo,Ljubljana,1000,Ljubljana,Osrednjeslovenska
+1000 LJUBLJANA,PODUTIŠKA CESTA 40 A,46.07027,14.47244,Podutiška cesta,,40,a,Ljubljana,,Četrtna skupnost Šiška,Ljubljana,1000,Ljubljana,Osrednjeslovenska
 1000 LJUBLJANA,POT K SAVI 4,46.08121,14.53495,Pot k Savi,,4,,Ljubljana,,Četrtna skupnost Bežigrad,Ljubljana,1000,Ljubljana,Osrednjeslovenska
 1000 LJUBLJANA,POT NA FUŽINE 3,46.05563,14.55129,Pot na Fužine,,3,,Ljubljana,,Četrtna skupnost Moste,Ljubljana,1000,Ljubljana,Osrednjeslovenska
 1000 LJUBLJANA,POT NA HREŠE 10 D,46.06223,14.60872,Pot na Hreše,,10,d,Ljubljana,,Četrtna skupnost Polje,Ljubljana,1000,Ljubljana,Osrednjeslovenska
@@ -203,7 +205,6 @@ postZZZS,addressZZZS,lat,lon,street,streetAlt,housenumber,housenumberAppendix,ci
 1218 KOMENDA,KRANJSKA POT 5,46.20605,14.53743,Kranjska pot,,5,,Komenda,,,Komenda,1218,Komenda,Osrednjeslovenska
 1218 KOMENDA,ZADRUŽNA ULICA 9,46.20483,14.53649,Zadružna ulica,,9,,Komenda,,,Komenda,1218,Komenda,Osrednjeslovenska
 1219 LAZE V TUHINJU,LAZE V TUHINJU 29,46.21946,14.75656,Laze v Tuhinju,,29,,Laze v Tuhinju,,Tuhinj,Kamnik,1219,Laze v Tuhinju,Osrednjeslovenska
-1222 TROJANE,TROJANE 27,46.18794,14.88875,Trojane,,27,,Trojane,,Trojane,Lukovica,1222,Trojane,Osrednjeslovenska
 1225 LUKOVICA,LUKOVICA PRI DOMŽALAH 52,,,,,,,,,,,,,
 1225 LUKOVICA,TROJANSKA CESTA 13,46.17023,14.69393,Trojanska cesta,,13,,Lukovica pri Domžalah,,Lukovica,Lukovica,1225,Lukovica,Osrednjeslovenska
 1230 DOMŽALE,CESTA TALCEV 10,46.13789,14.60258,Cesta talcev,,10,,Domžale,,Domžale - Slavka Šlandra,Domžale,1230,Domžale,Osrednjeslovenska
@@ -418,7 +419,6 @@ postZZZS,addressZZZS,lat,lon,street,streetAlt,housenumber,housenumberAppendix,ci
 2000 MARIBOR,KOSOVA ULICA 9,46.54104,15.59950,Kosova ulica,,9,,Maribor,,Radvanje,Maribor,2000,Maribor,Podravska
 2000 MARIBOR,KREKOVA ULICA 14 A,46.56236,15.64548,Krekova ulica,,14,a,Maribor,,Center,Maribor,2000,Maribor,Podravska
 2000 MARIBOR,KREKOVA ULICA 5,46.56182,15.64708,Krekova ulica,,5,,Maribor,,Center,Maribor,2000,Maribor,Podravska
-2000 MARIBOR,KRPANOVA ULICA 19,46.55582,15.62276,Krpanova ulica,,19,,Maribor,,Studenci,Maribor,2000,Maribor,Podravska
 2000 MARIBOR,LAVRIČEVA ULICA 1,46.55817,15.63600,Lavričeva ulica,,1,,Maribor,,Koroška vrata,Maribor,2000,Maribor,Podravska
 2000 MARIBOR,LEONA ZALAZNIKA ULICA 35,46.57719,15.66905,Leona Zalaznika ulica,,35,,Maribor,,Ivan Cankar,Maribor,2000,Maribor,Podravska
 2000 MARIBOR,LJUBLJANSKA UL.42,46.54588,15.64358,Ljubljanska ulica,,42,,Maribor,,Tabor,Maribor,2000,Maribor,Podravska
@@ -471,7 +471,6 @@ postZZZS,addressZZZS,lat,lon,street,streetAlt,housenumber,housenumberAppendix,ci
 2000 MARIBOR,ULICA KNEZA KOCLJA 10,46.55691,15.64903,Ulica kneza Koclja,,10,,Maribor,,Center,Maribor,2000,Maribor,Podravska
 2000 MARIBOR,ULICA MOŠE PIJADA 21 B,46.55325,15.64301,Ulica Moše Pijada,,21,b,Maribor,,Magdalena,Maribor,2000,Maribor,Podravska
 2000 MARIBOR,ULICA PARIŠKE KOMUNE 42,46.54732,15.64697,Ulica Pariške komune,,42,,Maribor,,Tabor,Maribor,2000,Maribor,Podravska
-2000 MARIBOR,ULICA SAŠE DEVA 16,46.53934,15.61276,Ulica Saše Deva,,16,,Maribor,,Radvanje,Maribor,2000,Maribor,Podravska
 2000 MARIBOR,ULICA STANETA SEVERJA 7,46.53749,15.63301,Ulica Staneta Severja,,7,,Maribor,,Nova vas,Maribor,2000,Maribor,Podravska
 2000 MARIBOR,ULICA TALCEV 25,46.55679,15.65152,Ulica talcev,,25,,Maribor,,Center,Maribor,2000,Maribor,Podravska
 2000 MARIBOR,ULICA TALCEV 9,46.55933,15.65183,Ulica talcev,,9,,Maribor,,Center,Maribor,2000,Maribor,Podravska
