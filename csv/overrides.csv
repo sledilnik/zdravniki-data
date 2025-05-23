@@ -250,7 +250,6 @@ Tile Mine,den,90255,2022-01-15,Ne sprejema novih pacientov.,n,,,,,,,,
 Kovačič Dmitrović Vida,ped,zdlmp,2022-01-17,V pokoju.,n,,,,,,,,
 Kocijančič Snežana,gp,724054,2022-01-19,,,,,,,01 235 50 10,,splosna@md-medicina.si,
 Barbič Matija,gyn,96838,2022-01-19,,,,,,,,,,https://napotnica.kclj.si
-Blaganje Mija,gyn,96838,2022-01-19,,,,,,,,,,https://napotnica.kclj.si
 Bržan Šimenc Gabrijela,gyn,96838,2022-01-19,,,,,,,,,,https://napotnica.kclj.si
 Culetto Marko,gyn,96838,2022-01-19,,,,,,,,,,https://napotnica.kclj.si
 Cvjetićanin Branko,gyn,96838,2022-01-19,,,,,,,,,,https://napotnica.kclj.si
@@ -773,7 +772,6 @@ Pinter Bojana,gyn,96838,2024-12-25,Ne sprejema novih pacientov.,n,,,,,,,,https:/
 Božiček Franc,gp,616386,2024-12-25,,,,Bistrica ob Sotli 7,,3256 Bistrica ob Sotli,,,,
 Kramberger Vladimir,den,9019840,2024-12-25,Popravek dvoumnega naslova,,,Mladinska ulica 10,Murska Sobota,9000 Murska Sobota,,,,
 Šimenko Barbara,gp,6038809,2025-01-02,Ne sprejema novih pacientov.,n,,,,,,,,
-Bahovec Alenka,gp,199021,2025-01-03,Ne sprejema novih pacientov.,n,,Loška cesta 12,,1358 Log pri Brezovici,,,,
 Samec Barbara,gp,zdlsi,2025-01-03,Ne sprejema novih pacientov.,n,,,,,,,,
 Munih Alenka Emanuela,gp,8125523,2025-01-03,Ne dela več pri tem izvajalcu.,n,,,,,,,,
 Tanasić Tatjana,ped,zdlce,2025-01-07,Ne dela več pri tem izvajalcu.,n,,,,,,,,
@@ -850,3 +848,9 @@ Dimčić Tjaša,gp,6038809,2025-05-05,Ne sprejema novih pacientov.,n,,,,,,,,
 Dobraš Branislava,gp,705728,2025-05-05,Ne sprejema novih pacientov.,n,,,,,,,,
 Klim Janusz,ped,zdlsi,2025-05-05,Ne sprejema novih pacientov.,n,,,,,,,,
 Gostinčar Aljaž,gp,656012,2025-05-06,Ne sprejema novih pacientov.,n,,,,,,,,
+Bahovec Alenka,gp,199021,2025-05-07,Sprejema nove paciente,y,,Loška cesta 12,,1358 Log pri Brezovici,,,,
+Šalda Zdenko,gp,91784,2025-05-07,Ne sprejema novih pacientov.,n,,,,,,,,
+Blaganje Mija,gyn,96838,2025-05-07,,,,,,,01 522 60 60,,,https://napotnica.kclj.si
+Kaiser Karmen,gp,130345,2025-05-22,Ne sprejema novih pacientov.,n,,,,,,,,
+Marinič Fišer Nataša,ped,zdlvr,2025-05-22,Ne sprejema novih pacientov.,n,,,,,,,,
+Kastelic Nina,ped,488940,2025-05-22,Ne sprejema novih pacientov.,n,,,,,,,,
