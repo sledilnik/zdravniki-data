@@ -1,6 +1,6 @@
 rizddzInstitutionContractorId,rizddzInstitutionId,rizddzLocationId,rizddzDoctorId,zzzsTypeId,zzzsType,doctorTitleScientific,doctorTitleProfessional,address,city,post,phone
-7,7,0,5811,302001,gp,,"dr. med., spec.",HRUŠEVSKA CESTA 6 A,LJUBLJANA,1000 LJUBLJANA,
-7,7,0,12089,302001,gp,,"dr. med., spec.",HRUŠEVSKA CESTA 6 A,LJUBLJANA,1000 LJUBLJANA,
+7,7,1,5811,302070,,,,BANIJA 4,IG,1292 IG,
+7,7,1,12089,302001,gp,,,BANIJA 4,IG,1292 IG,
 11,11,1,9232,404101,den,,dr. dent. med.,TURNERJEVA ULICA 33,MARIBOR,2000 MARIBOR,02/ 250 12 80
 13,13,0,9343,306007,gyn,,"dr. med., spec. ginekologije in porodništva",DELAVSKA POT 4,ČRNOMELJ,8340 ČRNOMELJ,07 356 79 20
 14,14,0,13011,404101,den,,dr. dent. med.,SLOVENSKA CESTA 17,HORJUL,1354 HORJUL,01 330 30 80
