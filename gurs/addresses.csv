@@ -395,6 +395,7 @@ postZZZS,addressZZZS,lat,lon,street,streetAlt,housenumber,housenumberAppendix,ci
 2000 MARIBOR,CESTA XIV.DIVIZIJE 34,46.55115,15.66257,Cesta XIV. divizije,,34,,Maribor,,Pobrežje,Maribor,2000,Maribor,Podravska
 2000 MARIBOR,CESTA ZMAGE 98,46.54312,15.63496,Cesta zmage,,98,,Maribor,,Tabor,Maribor,2000,Maribor,Podravska
 2000 MARIBOR,DVOŘAKOVA ULICA 10,46.55362,15.64424,Dvořakova ulica,,10,,Maribor,,Magdalena,Maribor,2000,Maribor,Podravska
+2000 MARIBOR,GLAVNI TRG 17 B,46.55770,15.64642,Glavni trg,,17,b,Maribor,,Center,Maribor,2000,Maribor,Podravska
 2000 MARIBOR,GLAVNI TRG 4,46.55729,15.64522,Glavni trg,,4,,Maribor,,Center,Maribor,2000,Maribor,Podravska
 2000 MARIBOR,GORKEGA ULICA 18,46.55341,15.64215,Gorkega ulica,,18,,Maribor,,Magdalena,Maribor,2000,Maribor,Podravska
 2000 MARIBOR,GOSPEJNA ULICA 11,46.55957,15.64234,Gospejna ulica,,11,,Maribor,,Center,Maribor,2000,Maribor,Podravska
@@ -674,6 +675,7 @@ postZZZS,addressZZZS,lat,lon,street,streetAlt,housenumber,housenumberAppendix,ci
 2380 SLOVENJ GRADEC,ŠERCERJEVA ULICA 7,46.50437,15.07820,Šercerjeva ulica,,7,,Slovenj Gradec,,Štibuh,Slovenj Gradec,2380,Slovenj Gradec,Koroška
 2381 PODGORJE PRI SLOVENJ GRADCU,PODGORJE 73 D,46.47550,15.08180,Podgorje,,73,d,Podgorje,,Podgorje,Slovenj Gradec,2381,Podgorje pri Slovenj Gradcu,Koroška
 2382 MISLINJA,ŠOLSKA CESTA 55,46.44475,15.19541,Šolska cesta,,55,,Mislinja,,,Mislinja,2382,Mislinja,Koroška
+2383 ŠMARTNO PRI SLOVENJ GRADCU,ŠMARTNO PRI SLOVENJ GRADCU 73 D,,,,,,,,,,,,,
 2383 ŠMARTNO PRI SLOVENJ GRADCU,ŠMARTNO PRI SLOVENJ GRADCU 82,46.49279,15.11095,Šmartno pri Slovenj Gradcu,,82,,Šmartno pri Slovenj Gradcu,,Šmartno,Slovenj Gradec,2383,Šmartno pri Slovenj Gradcu,Koroška
 2390 RAVNE NA KOROŠKEM,GAČNIKOVA POT 3,46.54417,14.96289,Gačnikova pot,,3,,Ravne na Koroškem,,TRG,Ravne na Koroškem,2390,Ravne na Koroškem,Koroška
 2390 RAVNE NA KOROŠKEM,JAVORNIK 11,46.54523,14.96880,Javornik,,11,,Ravne na Koroškem,,JAVORNIK - ŠANCE,Ravne na Koroškem,2390,Ravne na Koroškem,Koroška
@@ -682,7 +684,6 @@ postZZZS,addressZZZS,lat,lon,street,streetAlt,housenumber,housenumberAppendix,ci
 2390 RAVNE NA KOROŠKEM,OB SUHI 11,46.54286,14.96765,Ob Suhi,,11,,Ravne na Koroškem,,TRG,Ravne na Koroškem,2390,Ravne na Koroškem,Koroška
 2390 RAVNE NA KOROŠKEM,OB SUHI 11 A,46.54267,14.96782,Ob Suhi,,11,a,Ravne na Koroškem,,TRG,Ravne na Koroškem,2390,Ravne na Koroškem,Koroška
 2390 RAVNE NA KOROŠKEM,OB SUHI 5,46.54372,14.96774,Ob Suhi,,5,,Ravne na Koroškem,,TRG,Ravne na Koroškem,2390,Ravne na Koroškem,Koroška
-2390 RAVNE NA KOROŠKEM,OB SUHI 5 B,46.54319,14.96729,Ob Suhi,,5,b,Ravne na Koroškem,,TRG,Ravne na Koroškem,2390,Ravne na Koroškem,Koroška
 2390 RAVNE NA KOROŠKEM,OB SUHI 9,46.54334,14.96795,Ob Suhi,,9,,Ravne na Koroškem,,TRG,Ravne na Koroškem,2390,Ravne na Koroškem,Koroška
 2390 RAVNE NA KOROŠKEM,PARTIZANSKA CESTA 4,46.54452,14.96530,Partizanska cesta,,4,,Ravne na Koroškem,,TRG,Ravne na Koroškem,2390,Ravne na Koroškem,Koroška
 2390 RAVNE NA KOROŠKEM,TRG SVOBODE 18 A,46.54428,14.96559,Trg svobode,,18,a,Ravne na Koroškem,,TRG,Ravne na Koroškem,2390,Ravne na Koroškem,Koroška
@@ -1052,6 +1053,7 @@ postZZZS,addressZZZS,lat,lon,street,streetAlt,housenumber,housenumberAppendix,ci
 6000 KOPER - CAPODISTRIA,BEBLERJEVA ULICA 2 B,45.54074,13.70871,Beblerjeva ulica,Via Aleš Bebler,2,b,Koper,Capodistria,Žusterna,Koper,6000,Koper - Capodistria,Obalno-kraška
 6000 KOPER - CAPODISTRIA,BEBLERJEVA ULICA 7,45.54048,13.70814,Beblerjeva ulica,Via Aleš Bebler,7,,Koper,Capodistria,Žusterna,Koper,6000,Koper - Capodistria,Obalno-kraška
 6000 KOPER - CAPODISTRIA,BELVEDER 8,45.54955,13.72943,Belveder,Belvedere,8,,Koper,Capodistria,Koper - Center,Koper,6000,Koper - Capodistria,Obalno-kraška
+6000 KOPER - CAPODISTRIA,BENČIČEVA ULICA 15,45.53776,13.71306,Benčičeva ulica,Via Dragomir Benčič,15,,Koper,Capodistria,Za gradom,Koper,6000,Koper - Capodistria,Obalno-kraška
 6000 KOPER - CAPODISTRIA,BENČIČEVA ULICA 2 D,45.53848,13.71159,Benčičeva ulica,Via Dragomir Benčič,2,d,Koper,Capodistria,Za gradom,Koper,6000,Koper - Capodistria,Obalno-kraška
 6000 KOPER - CAPODISTRIA,CESTA NA MARKOVEC 31,45.53704,13.71563,Cesta na Markovec,Strada di Monte Marco,31,,Koper,Capodistria,Semedela,Koper,6000,Koper - Capodistria,Obalno-kraška
 6000 KOPER - CAPODISTRIA,CESTA ZORE PERELLO-GODINA 1,45.54256,13.72830,Cesta Zore Perello-Godina,Strada Zora Perello-Godina,1,,Koper,Capodistria,Koper - Center,Koper,6000,Koper - Capodistria,Obalno-kraška
