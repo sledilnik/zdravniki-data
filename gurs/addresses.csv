@@ -782,7 +782,6 @@ postZZZS,addressZZZS,lat,lon,street,streetAlt,housenumber,housenumberAppendix,ci
 3250 ROGAŠKA SLATINA,PARTIZANSKA CESTA 10,46.24323,15.64276,Partizanska cesta,,10,,Rogaška Slatina,,Rogaška Slatina,Rogaška Slatina,3250,Rogaška Slatina,Savinjska
 3250 ROGAŠKA SLATINA,SPODNJE NEGONJE 16 C,46.25074,15.62346,Spodnje Negonje,,16,c,Spodnje Negonje,,Rogaška Slatina,Rogaška Slatina,3250,Rogaška Slatina,Savinjska
 3250 ROGAŠKA SLATINA,STRITARJEVA ULICA 4,46.24244,15.64020,Stritarjeva ulica,,4,,Rogaška Slatina,,Rogaška Slatina,Rogaška Slatina,3250,Rogaška Slatina,Savinjska
-3250 ROGAŠKA SLATINA,SV. FLORIJAN 120,46.24842,15.68475,Sv. Florijan,,120,,Sv. Florijan,,Sv. Florijan,Rogaška Slatina,3250,Rogaška Slatina,Savinjska
 3250 ROGAŠKA SLATINA,ZDRAVILIŠKI TRG 25,46.23650,15.63746,Zdraviliški trg,,25,,Rogaška Slatina,,Rogaška Slatina,Rogaška Slatina,3250,Rogaška Slatina,Savinjska
 3250 ROGAŠKA SLATINA,ZDRAVILIŠKI TRG 9,46.23861,15.64079,Zdraviliški trg,,9,,Rogaška Slatina,,Rogaška Slatina,Rogaška Slatina,3250,Rogaška Slatina,Savinjska
 3252 ROGATEC,STEKLARSKA ULICA 12,46.22450,15.70221,Steklarska ulica,,12,,Rogatec,,Rogatec,Rogatec,3252,Rogatec,Savinjska
@@ -921,7 +920,6 @@ postZZZS,addressZZZS,lat,lon,street,streetAlt,housenumber,housenumberAppendix,ci
 4220 ŠKOFJA LOKA,SPODNJI TRG 8,46.16529,14.30835,Spodnji trg,,8,,Škofja Loka,,Škofja Loka - mesto,Škofja Loka,4220,Škofja Loka,Gorenjska
 4220 ŠKOFJA LOKA,STARA CESTA 10,46.16618,14.31281,Stara cesta,,10,,Škofja Loka,,Kamnitnik,Škofja Loka,4220,Škofja Loka,Gorenjska
 4220 ŠKOFJA LOKA,STARA CESTA 16,46.16609,14.31402,Stara cesta,,16,,Škofja Loka,,Kamnitnik,Škofja Loka,4220,Škofja Loka,Gorenjska
-4220 ŠKOFJA LOKA,STARA CESTA 21,46.16629,14.31470,Stara cesta,,21,,Škofja Loka,,Kamnitnik,Škofja Loka,4220,Škofja Loka,Gorenjska
 4220 ŠKOFJA LOKA,STARA LOKA 31,46.17128,14.29907,Stara Loka,,31,,Stara Loka,,Stara Loka - Podlubnik,Škofja Loka,4220,Škofja Loka,Gorenjska
 4220 ŠKOFJA LOKA,SV. DUH 162,46.18482,14.32198,Sv. Duh,,162,,Sv. Duh,,Sveti Duh,Škofja Loka,4220,Škofja Loka,Gorenjska
 4220 ŠKOFJA LOKA,SV. DUH 61 A,46.18207,14.32313,Sv. Duh,,61,a,Sv. Duh,,Sveti Duh,Škofja Loka,4220,Škofja Loka,Gorenjska
@@ -1041,6 +1039,7 @@ postZZZS,addressZZZS,lat,lon,street,streetAlt,housenumber,housenumberAppendix,ci
 5290 ŠEMPETER PRI GORICI,CESTA PREKOMORSKIH BRIGAD 3,45.93034,13.63913,Cesta Prekomorskih brigad,,3,,Šempeter pri Gorici,,,Šempeter-Vrtojba,5290,Šempeter pri Gorici,Goriška
 5290 ŠEMPETER PRI GORICI,CESTA PREKOMORSKIH BRIGAD 3 B,45.93016,13.63891,Cesta Prekomorskih brigad,,3,b,Šempeter pri Gorici,,,Šempeter-Vrtojba,5290,Šempeter pri Gorici,Goriška
 5290 ŠEMPETER PRI GORICI,ULICA 9. SEPTEMBRA 140,45.91119,13.63405,Ulica 9. septembra,,140,,Vrtojba,,,Šempeter-Vrtojba,5290,Šempeter pri Gorici,Goriška
+5290 ŠEMPETER PRI GORICI,ULICA 9. SEPTEMBRA 240,45.90668,13.62811,Ulica 9. septembra,,240,,Vrtojba,,,Šempeter-Vrtojba,5290,Šempeter pri Gorici,Goriška
 5290 ŠEMPETER PRI GORICI,ULICA PADLIH BORCEV 13 A,45.93020,13.64083,Ulica padlih borcev,,13,a,Šempeter pri Gorici,,,Šempeter-Vrtojba,5290,Šempeter pri Gorici,Goriška
 5290 ŠEMPETER PRI GORICI,ŽNIDARČIČEVA ULICA 21,45.92606,13.63130,Žnidarčičeva ulica,,21,,Šempeter pri Gorici,,,Šempeter-Vrtojba,5290,Šempeter pri Gorici,Goriška
 5291 MIREN,MIREN 137,45.89199,13.60618,Miren,,137,,Miren,,Miren,Miren-Kostanjevica,5291,Miren,Goriška
