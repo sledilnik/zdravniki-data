@@ -29,6 +29,7 @@ postOver,addressOver,cityOver,lat,lon,street,streetAlt,housenumber,housenumberAp
 1360 Vrhnika,Stara cesta 7,,45.96563,14.29688,Stara cesta,,7,,Vrhnika,,Vrhnika Breg,Vrhnika,1360,Vrhnika,Osrednjeslovenska
 1432 Zidani Most,Zidani most 9,,46.08562,15.17046,Zidani Most,,9,,Zidani Most,,Zidani Most,Laško,1432,Zidani Most,Savinjska
 2000 Maribor,Kalohova ulica 18,,46.55507,15.61747,Kalohova ulica,,18,,Maribor,,Studenci,Maribor,2000,Maribor,Podravska
+2000 Maribor,Pohorska ulica 21a,,46.53843,15.60483,Pohorska ulica,,21,a,Maribor,,Radvanje,Maribor,2000,Maribor,Podravska
 2000 Maribor,Turnerjeva ulica 33,,46.56489,15.63232,Turnerjeva ulica,,33,,Maribor,,Koroška vrata,Maribor,2000,Maribor,Podravska
 2000 Maribor,Ulica Kneza Koclja 10,,46.55691,15.64903,Ulica kneza Koclja,,10,,Maribor,,Center,Maribor,2000,Maribor,Podravska
 2000 Maribor,Ulica kneza Koclja 11,,46.55769,15.65032,Ulica kneza Koclja,,11,,Maribor,,Center,Maribor,2000,Maribor,Podravska
@@ -54,6 +55,7 @@ postOver,addressOver,cityOver,lat,lon,street,streetAlt,housenumber,housenumberAp
 3272 Rimske Toplice,Aškerčeva cesta 4,,46.12412,15.19462,Aškerčeva cesta,,4,,Rimske Toplice,,Rimske Toplice,Laško,3272,Rimske Toplice,Savinjska
 3301 Petrovče,Petrovče 33,,46.24494,15.18813,Petrovče,,33,,Petrovče,,Petrovče,Žalec,3301,Petrovče,Savinjska
 3305 Vransko,Vransko 130d,,46.24591,14.95101,Vransko,,130,d,Vransko,,,Vransko,3305,Vransko,Savinjska
+3310 Žalec,Prešernova ulica 6,,46.25093,15.16216,Prešernova ulica,,6,,Žalec,,Mestna skupnost Žalec,Žalec,3310,Žalec,Savinjska
 3314 Braslovče,Braslovče 29,,46.28774,15.03991,Braslovče,,29,,Braslovče,,Braslovče,Braslovče,3314,Braslovče,Savinjska
 3330 Mozirje,Savinjska cesta 6,,46.33885,14.95935,Savinjska cesta,,6,,Mozirje,,Mozirje,Mozirje,3330,Mozirje,Savinjska
 3333 Ljubno ob Savinji,Foršt 28,,46.34498,14.83276,Foršt,,28,,Ljubno ob Savinji,,,Ljubno,3333,Ljubno ob Savinji,Savinjska
