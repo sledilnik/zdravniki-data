@@ -813,7 +813,6 @@ Dodatna ambulanta,gp-f,ozgkr,2025-03-09,Ne sprejema novih pacientov.,n,,,,,(04) 
 Dodatna ambulanta,gp-f,789398,2025-03-09,,,,,,,03 8995 519,https://zd-velenje.si/ambulanta-za-neopredeljene-paciente/,,
 Dodatna ambulanta,gp-f,751640,2025-03-09,Ne sprejema novih pacientov.,n,,,,,(05) 71 12 123,https://zdib.si/ambulanta/ambulanta-za-neopredeljene-paciente/,adm.neopredeljeni@zdib.si,https://www.gospodar-zdravja.si/reservation/patients/service_provider/320/doctor/35409/989
 Dodatna ambulanta,gp-f,724180,2025-03-09,Ne sprejema novih pacientov.,n,,,,,070 944 544,https://www.zd-izola.si/ambulante-in-sluzbe/dodatna%20ambulanta%20dru%C5%BEinske%20medicine/dodatna%20ambulanta-dru%C5%BEinske%20medicine%20za%20zavarovane%20osebe,sanzo@zd-izola.si,
-Dodatna ambulanta,gp-f,710804,2025-03-09,,,,,,,030/702582,https://zd-piran.si/index.php/ambulante-druzinske-medicine/spolsne_ambulante/neopredeljeni/,,
 Dodatna ambulanta,gp-f,705728,2025-03-09,,,,Cesta na Markovec 1,,6000 Koper,05 6647 102,https://www.zd-koper.si/si/ambulante/ambulanta-za-neopredeljene/ambulanta-za-neopredeljene,,https://portal.zd-koper.si
 Dodatna ambulanta,gp-f,604816,2025-03-09,,,,,,,(03) 543 4128,https://www.zd-celje.si/si/osnovno-zdravstvo/2146-druzinska-medicina/4636-ambulanta-za-osebe-brez-ioz,amb.neopredeljeni@zd-celje.si,
 Dodatna ambulanta,gp-f,488940,2025-03-09,,,,,,,01 / 72 45 902,https://www.zd-domzale.si/ambulante-in-oddelki/dodatna-ambulanta-druzinske-medicine,ambulanta.neopredeljeni@zd-domzale.si,https://www.zd-nm.si/elektronsko-narocanje
@@ -865,4 +864,7 @@ Krstevski Vladimir,gp,9261124,2025-06-13,Ne sprejema novih pacientov.,n,,,,,03-5
 Antolinc Košat Alenka,gp,9253393,2025-06-13,Posodobitev naslova.,,,Pohorska ulica 21a,,2000 Maribor,,,,
 Bahovec Alenka,gp,199021,2025-06-13,Ne sprejema novih pacientov.,n,,Loška cesta 12,,1358 Log pri Brezovici,,,,
 Pekarović Džakulin Vesna,gp,9288659,2025-06-13,Posodobitev naslova.,,,Prešernova ulica 6,,3310 Žalec,,,,
-Dodatna ambulanta,gp-f,130345,2025-05-18,Ne sprejema novih pacientov.,n,,,,,02 729 18 55,https://www.zd-lenart.si/ambulante-druzinske-medicine,neopredeljeni@zd-lenart.si,https://dozdravnika.si/
+Dodatna ambulanta,gp-f,130345,2025-06-18,Ne sprejema novih pacientov.,n,,,,,02 729 18 55,https://www.zd-lenart.si/ambulante-druzinske-medicine,neopredeljeni@zd-lenart.si,https://dozdravnika.si/
+Naglič Daša,gyn,ozgkr,2025-06-20,Ne sprejema novih pacientov.,n,,,,,,,,
+Eržen Rupnik Urška,gyn,89582,2025-06-20,Ne sprejema novih pacientov.,n,,,,,,,,
+Dodatna ambulanta,gp-f,710804,2025-03-09,Ne sprejema novih pacientov.,n,,,,,030/702582,https://zd-piran.si/index.php/ambulante-druzinske-medicine/spolsne_ambulante/neopredeljeni/,,
