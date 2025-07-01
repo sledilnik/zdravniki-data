@@ -1054,6 +1054,7 @@ postZZZS,addressZZZS,lat,lon,street,streetAlt,housenumber,housenumberAppendix,ci
 6000 KOPER - CAPODISTRIA,BELVEDER 8,45.54955,13.72943,Belveder,Belvedere,8,,Koper,Capodistria,Koper - Center,Koper,6000,Koper - Capodistria,Obalno-kraška
 6000 KOPER - CAPODISTRIA,BENČIČEVA ULICA 15,45.53776,13.71306,Benčičeva ulica,Via Dragomir Benčič,15,,Koper,Capodistria,Za gradom,Koper,6000,Koper - Capodistria,Obalno-kraška
 6000 KOPER - CAPODISTRIA,BENČIČEVA ULICA 2 D,45.53848,13.71159,Benčičeva ulica,Via Dragomir Benčič,2,d,Koper,Capodistria,Za gradom,Koper,6000,Koper - Capodistria,Obalno-kraška
+6000 KOPER - CAPODISTRIA,CESTA NA MARKOVEC 19 D,45.53572,13.72125,Cesta na Markovec,Strada di Monte Marco,19,d,Koper,Capodistria,Semedela,Koper,6000,Koper - Capodistria,Obalno-kraška
 6000 KOPER - CAPODISTRIA,CESTA NA MARKOVEC 31,45.53704,13.71563,Cesta na Markovec,Strada di Monte Marco,31,,Koper,Capodistria,Semedela,Koper,6000,Koper - Capodistria,Obalno-kraška
 6000 KOPER - CAPODISTRIA,CESTA ZORE PERELLO-GODINA 1,45.54256,13.72830,Cesta Zore Perello-Godina,Strada Zora Perello-Godina,1,,Koper,Capodistria,Koper - Center,Koper,6000,Koper - Capodistria,Obalno-kraška
 6000 KOPER - CAPODISTRIA,DELLAVALLEJEVA ULICA 3,45.54870,13.73094,Dellavallejeva ulica,Via Luciano Dellavalle,3,,Koper,Capodistria,Koper - Center,Koper,6000,Koper - Capodistria,Obalno-kraška
@@ -1125,7 +1126,9 @@ postZZZS,addressZZZS,lat,lon,street,streetAlt,housenumber,housenumberAppendix,ci
 6272 GRAČIŠČE,BREZOVICA PRI GRADINU 1,45.45478,13.85562,Brezovica pri Gradinu,,1,,Brezovica pri Gradinu,,Gradin,Koper,6272,Gračišče,Obalno-kraška
 6272 GRAČIŠČE,GRAČIŠČE 1,45.50267,13.87370,Gračišče,,1,,Gračišče,,Gračišče,Koper,6272,Gračišče,Obalno-kraška
 6273 MAREZIGE,ČENTUR 23,45.50993,13.77048,Čentur,,23,,Čentur,,Vanganel,Koper,6273,Marezige,Obalno-kraška
+6276 POBEGI,CESTA I. ISTRSKE BRIGADE 59,45.53911,13.79952,Cesta I. Istrske brigade,,59,,Pobegi,,Pobegi-Čežarji,Koper,6276,Pobegi,Obalno-kraška
 6276 POBEGI,CESTA NA ŽANEJ 1,45.53913,13.78824,Cesta na Žanej,,1,,Pobegi,,Pobegi-Čežarji,Koper,6276,Pobegi,Obalno-kraška
+6276 POBEGI,FRENKOVA CESTA 1 B,45.53816,13.79701,Frenkova cesta,,1,b,Pobegi,,Pobegi-Čežarji,Koper,6276,Pobegi,Obalno-kraška
 6280 ANKARAN - ANCARANO,FRENKOVA ULICA 7,45.58296,13.73466,Frenkova ulica,Via Franc Planinc-Frenk,7,,Ankaran,Ancarano,,Ankaran,6280,Ankaran - Ancarano,Obalno-kraška
 6280 ANKARAN - ANCARANO,JADRANSKA CESTA 31,45.58116,13.72755,Jadranska cesta,Strada dell'Adriatico,31,,Ankaran,Ancarano,,Ankaran,6280,Ankaran - Ancarano,Obalno-kraška
 6280 ANKARAN - ANCARANO,KOLOMBAN 38 F,45.58875,13.74737,Kolomban,Colombano,38,f,Kolomban,Colombano,Hrvatini,Koper,6280,Ankaran - Ancarano,Obalno-kraška
@@ -1245,7 +1248,6 @@ postZZZS,addressZZZS,lat,lon,street,streetAlt,housenumber,housenumberAppendix,ci
 8270 KRŠKO,ULICA ILIJE GREGORIČA 18 A,45.95890,15.50201,Ulica Ilije Gregoriča,,18,a,Krško,,Krško,Krško,8270,Krško,Posavska
 8270 KRŠKO,VRBINA 12,45.93799,15.51713,Vrbina,,12,,Vrbina,,Krško,Krško,8270,Krško,Posavska
 8270 KRŠKO,ŠOLSKA UL.1,45.95989,15.49411,Šolska ulica,,1,,Krško,,Krško,Krško,8270,Krško,Posavska
-8270 KRŠKO,ŠOLSKA ULICA 1,45.95989,15.49411,Šolska ulica,,1,,Krško,,Krško,Krško,8270,Krško,Posavska
 8272 ZDOLE,PLETERJE 24,45.97319,15.53447,Pleterje,,24,,Pleterje,,Zdole,Krško,8272,Zdole,Posavska
 8273 LESKOVEC PRI KRŠKEM,ULICA STANETA ŽAGARJA 4,45.94179,15.47753,Ulica Staneta Žagarja,,4,,Leskovec pri Krškem,,Leskovec pri Krškem,Krško,8273,Leskovec pri Krškem,Posavska
 8273 LESKOVEC PRI KRŠKEM,VELIKI PODLOG 20,45.89843,15.45553,Veliki Podlog,,20,,Veliki Podlog,,Veliki Podlog,Krško,8273,Leskovec pri Krškem,Posavska
