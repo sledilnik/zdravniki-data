@@ -1227,6 +1227,7 @@ postZZZS,addressZZZS,lat,lon,street,streetAlt,housenumber,housenumberAppendix,ci
 8257 DOBOVA,KAPELSKA CESTA 25,45.90152,15.66152,Kapelska cesta,,25,,Dobova,,Dobova,Brežice,8257,Dobova,Posavska
 8259 BIZELJSKO,BIZELJSKA CESTA 104,46.02057,15.69163,Bizeljska cesta,,104,,Bizeljsko,,Bizeljsko,Brežice,8259,Bizeljsko,Posavska
 8259 BIZELJSKO,BIZELJSKA CESTA 49,46.01324,15.69249,Bizeljska cesta,,49,,Bizeljsko,,Bizeljsko,Brežice,8259,Bizeljsko,Posavska
+8261 JESENICE NA DOLENJSKEM,NOVA VAS PRI MOKRICAH 37,45.85105,15.68121,Nova vas pri Mokricah,,37,,Nova vas pri Mokricah,,Jesenice na Dolenjskem,Brežice,8261,Jesenice na Dolenjskem,Posavska
 8261 JESENICE NA DOLENJSKEM,VELIKA DOLINA 34,45.85218,15.66268,Velika Dolina,,34,,Velika Dolina,,Velika Dolina,Brežice,8261,Jesenice na Dolenjskem,Posavska
 8263 CERKLJE OB KRKI,BORŠT 19,45.88523,15.54740,Boršt,,19,,Boršt,,Cerklje ob Krki,Brežice,8263,Cerklje ob Krki,Posavska
 8263 CERKLJE OB KRKI,CERKLJE OB KRKI 3,45.88456,15.52276,Cerklje ob Krki,,3,,Cerklje ob Krki,,Cerklje ob Krki,Brežice,8263,Cerklje ob Krki,Posavska
@@ -1248,6 +1249,7 @@ postZZZS,addressZZZS,lat,lon,street,streetAlt,housenumber,housenumberAppendix,ci
 8270 KRŠKO,ULICA ILIJE GREGORIČA 18 A,45.95890,15.50201,Ulica Ilije Gregoriča,,18,a,Krško,,Krško,Krško,8270,Krško,Posavska
 8270 KRŠKO,VRBINA 12,45.93799,15.51713,Vrbina,,12,,Vrbina,,Krško,Krško,8270,Krško,Posavska
 8270 KRŠKO,ŠOLSKA UL.1,45.95989,15.49411,Šolska ulica,,1,,Krško,,Krško,Krško,8270,Krško,Posavska
+8270 KRŠKO,ŠOLSKA ULICA 1,45.95989,15.49411,Šolska ulica,,1,,Krško,,Krško,Krško,8270,Krško,Posavska
 8272 ZDOLE,PLETERJE 24,45.97319,15.53447,Pleterje,,24,,Pleterje,,Zdole,Krško,8272,Zdole,Posavska
 8273 LESKOVEC PRI KRŠKEM,ULICA STANETA ŽAGARJA 4,45.94179,15.47753,Ulica Staneta Žagarja,,4,,Leskovec pri Krškem,,Leskovec pri Krškem,Krško,8273,Leskovec pri Krškem,Posavska
 8273 LESKOVEC PRI KRŠKEM,VELIKI PODLOG 20,45.89843,15.45553,Veliki Podlog,,20,,Veliki Podlog,,Veliki Podlog,Krško,8273,Leskovec pri Krškem,Posavska
