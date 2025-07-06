@@ -4,8 +4,11 @@ postOver,addressOver,cityOver,lat,lon,street,streetAlt,housenumber,housenumberAp
 1000 Ljubljana,Preglov trg 14,,46.05348,14.55878,Preglov trg,,14,,Ljubljana,,Četrtna skupnost Moste,Ljubljana,1000,Ljubljana,Osrednjeslovenska
 1000 Ljubljana,Rakovniška ulica 4,,46.03660,14.52361,Rakovniška ulica,,4,,Ljubljana,,Četrtna skupnost Rudnik,Ljubljana,1000,Ljubljana,Osrednjeslovenska
 1000 Ljubljana,Ulica bratov Babnik 10,,46.07645,14.46600,Ulica bratov Babnik,,10,,Ljubljana,,Četrtna skupnost Dravlje,Ljubljana,1000,Ljubljana,Osrednjeslovenska
+1000 Ljubljana,Zdravstvena pot 1,,46.04729,14.51594,Zdravstvena pot,,1,,Ljubljana,,Četrtna skupnost Center,Ljubljana,1000,Ljubljana,Osrednjeslovenska
+1000 Ljubljana,Čufarjeva ulica 11,,46.05516,14.51021,Čufarjeva ulica,,11,,Ljubljana,,Četrtna skupnost Center,Ljubljana,1000,Ljubljana,Osrednjeslovenska
 1218 Komenda,Glavarjeva cesta 61a,,46.20453,14.53935,Glavarjeva cesta,,61,a,Komenda,,,Komenda,1218,Komenda,Osrednjeslovenska
 1231 Ljubljana-Črnuče,Primožičeva ulica 2,,46.10339,14.53178,Primožičeva ulica,,2,,Ljubljana,,Četrtna skupnost Črnuče,Ljubljana,1231,Ljubljana - Črnuče,Osrednjeslovenska
+1235 Radomlje,Kamniška cesta 24,Zgornje Jarše,46.16452,14.59442,Kamniška cesta,,24,,Zgornje Jarše,,Jarše - Rodica,Domžale,1235,Radomlje,Osrednjeslovenska
 1235 Radomlje,Kamniška cesta 24d,Zgornje Jarše,46.16455,14.59455,Kamniška cesta,,24,d,Zgornje Jarše,,Jarše - Rodica,Domžale,1235,Radomlje,Osrednjeslovenska
 1236 Trzin,Ljubljanska cesta 12,,46.13255,14.56242,Ljubljanska cesta,,12,,Trzin,,,Trzin,1236,Trzin,Osrednjeslovenska
 1236 Trzin,Mengeška 7b,,46.13394,14.56236,Mengeška cesta,,7,b,Trzin,,,Trzin,1236,Trzin,Osrednjeslovenska
@@ -23,6 +26,7 @@ postOver,addressOver,cityOver,lat,lon,street,streetAlt,housenumber,housenumberAp
 1358 Log pri Brezovici,Šolska ulica 1,,46.01192,14.37379,Šolska cesta,,1,,Log pri Brezovici,,,Log-Dragomer,1358,Log pri Brezovici,Osrednjeslovenska
 1360 Vrhnika,Lošca 1,,45.96263,14.29674,Lošca,,1,,Vrhnika,,Vrhnika Center,Vrhnika,1360,Vrhnika,Osrednjeslovenska
 1360 Vrhnika,Stara cesta 4a,,45.96590,14.29733,Stara cesta,,4,a,Vrhnika,,Vrhnika Center,Vrhnika,1360,Vrhnika,Osrednjeslovenska
+1360 Vrhnika,Stara cesta 7,,45.96563,14.29688,Stara cesta,,7,,Vrhnika,,Vrhnika Breg,Vrhnika,1360,Vrhnika,Osrednjeslovenska
 1432 Zidani Most,Zidani most 9,,46.08562,15.17046,Zidani Most,,9,,Zidani Most,,Zidani Most,Laško,1432,Zidani Most,Savinjska
 2000 Maribor,Kalohova ulica 18,,46.55507,15.61747,Kalohova ulica,,18,,Maribor,,Studenci,Maribor,2000,Maribor,Podravska
 2000 Maribor,Pohorska ulica 21a,,46.53843,15.60483,Pohorska ulica,,21,a,Maribor,,Radvanje,Maribor,2000,Maribor,Podravska
@@ -33,9 +37,12 @@ postOver,addressOver,cityOver,lat,lon,street,streetAlt,housenumber,housenumberAp
 2205,Starše 78c,Starše,46.46822,15.76448,Starše,,78,c,Starše,,Starše,Starše,2205,Starše,Podravska
 2230 Lenart v Slov. goricah,Maistrova 22,,46.57734,15.82896,Maistrova ulica,,22,,Lenart v Slov. goricah,,Lenart,Lenart,2230,Lenart v Slov. goricah,Podravska
 2231 Pernica,Pernica 8,,46.57849,15.72624,Pernica,,8,,Pernica,,Pernica,Pesnica,2231,Pernica,Podravska
+2235 Sv. Trojica,Trojiški trg 26,,46.57605,15.87610,Trojiški trg,,26,,Sv. Trojica v Slov. goricah,,,Sveta Trojica v Slovenskih goricah,2235,Sv. Trojica v Slov. goricah,Podravska
+2236 Cerkvenjak,Cerkvenjak 30,,46.56539,15.94333,Cerkvenjak,,30,,Cerkvenjak,,,Cerkvenjak,2236,Cerkvenjak,Podravska
 2283 Zavrč,Goričak 7,,46.37799,16.05617,Goričak,,7,,Goričak,,,Zavrč,2283,Zavrč,Podravska
 2311 Hoče,Bohovska cesta 7,,46.50074,15.64803,Bohovska cesta,,7,,Spodnje Hoče,,Hoče,Hoče-Slivnica,2311,Hoče,Podravska
 2319 Poljčane,Bistriška cesta 62,,46.31290,15.57823,Bistriška cesta,,62,,Poljčane,,,Poljčane,2319,Poljčane,Podravska
+2321 Makole,MAKOLE 28,,46.31735,15.66729,Makole,,28,,Makole,,Vaška skupnost Makole,Makole,2321,Makole,Podravska
 2322 Majšperk,Breg 6A,,46.33947,15.73623,Breg,,6,a,Breg,,Krajevna skupnost Majšperk,Majšperk,2322,Majšperk,Podravska
 2327,Nova ulica 3,Rače,46.45400,15.67480,Nova ulica,,3,,Rače,,Rače,Rače-Fram,2327,Rače,Podravska
 2344 LOVRENC NA POHORJU,GORNJI TRG 37,,46.53780,15.38462,Gornji trg,,37,,Lovrenc na Pohorju,,,Lovrenc na Pohorju,2344,Lovrenc na Pohorju,Podravska
