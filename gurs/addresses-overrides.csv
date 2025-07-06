@@ -4,8 +4,11 @@ postOver,addressOver,cityOver
 1000 Ljubljana,Preglov trg 14,
 1000 Ljubljana,Rakovniška ulica 4,
 1000 Ljubljana,Ulica bratov Babnik 10,
+1000 Ljubljana,Zdravstvena pot 1,
+1000 Ljubljana,Čufarjeva ulica 11,
 1218 Komenda,Glavarjeva cesta 61a,
 1231 Ljubljana-Črnuče,Primožičeva ulica 2,
+1235 Radomlje,Kamniška cesta 24,Zgornje Jarše
 1235 Radomlje,Kamniška cesta 24d,Zgornje Jarše
 1236 Trzin,Ljubljanska cesta 12,
 1236 Trzin,Mengeška 7b,
@@ -23,6 +26,7 @@ postOver,addressOver,cityOver
 1358 Log pri Brezovici,Šolska ulica 1,
 1360 Vrhnika,Lošca 1,
 1360 Vrhnika,Stara cesta 4a,
+1360 Vrhnika,Stara cesta 7,
 1432 Zidani Most,Zidani most 9,
 2000 Maribor,Kalohova ulica 18,
 2000 Maribor,Pohorska ulica 21a,
@@ -33,9 +37,12 @@ postOver,addressOver,cityOver
 2205,Starše 78c,Starše
 2230 Lenart v Slov. goricah,Maistrova 22,
 2231 Pernica,Pernica 8,
+2235 Sv. Trojica,Trojiški trg 26,
+2236 Cerkvenjak,Cerkvenjak 30,
 2283 Zavrč,Goričak 7,
 2311 Hoče,Bohovska cesta 7,
 2319 Poljčane,Bistriška cesta 62,
+2321 Makole,MAKOLE 28,
 2322 Majšperk,Breg 6A,
 2327,Nova ulica 3,Rače
 2344 LOVRENC NA POHORJU,GORNJI TRG 37,
