@@ -26,7 +26,6 @@ postOver,addressOver,cityOver,lat,lon,street,streetAlt,housenumber,housenumberAp
 1358 Log pri Brezovici,Šolska ulica 1,,46.01192,14.37379,Šolska cesta,,1,,Log pri Brezovici,,,Log-Dragomer,1358,Log pri Brezovici,Osrednjeslovenska
 1360 Vrhnika,Lošca 1,,45.96263,14.29674,Lošca,,1,,Vrhnika,,Vrhnika Center,Vrhnika,1360,Vrhnika,Osrednjeslovenska
 1360 Vrhnika,Stara cesta 4a,,45.96590,14.29733,Stara cesta,,4,a,Vrhnika,,Vrhnika Center,Vrhnika,1360,Vrhnika,Osrednjeslovenska
-1360 Vrhnika,Stara cesta 7,,45.96563,14.29688,Stara cesta,,7,,Vrhnika,,Vrhnika Breg,Vrhnika,1360,Vrhnika,Osrednjeslovenska
 1432 Zidani Most,Zidani most 9,,46.08562,15.17046,Zidani Most,,9,,Zidani Most,,Zidani Most,Laško,1432,Zidani Most,Savinjska
 2000 Maribor,Kalohova ulica 18,,46.55507,15.61747,Kalohova ulica,,18,,Maribor,,Studenci,Maribor,2000,Maribor,Podravska
 2000 Maribor,Pohorska ulica 21a,,46.53843,15.60483,Pohorska ulica,,21,a,Maribor,,Radvanje,Maribor,2000,Maribor,Podravska
@@ -48,7 +47,6 @@ postOver,addressOver,cityOver,lat,lon,street,streetAlt,housenumber,housenumberAp
 2344 LOVRENC NA POHORJU,GORNJI TRG 37,,46.53780,15.38462,Gornji trg,,37,,Lovrenc na Pohorju,,,Lovrenc na Pohorju,2344,Lovrenc na Pohorju,Podravska
 2351 Kamnica,Vrbanska cesta 97,,46.57322,15.61582,Vrbanska cesta,,97,,Kamnica,,Kamnica,Maribor,2351,Kamnica,Podravska
 2363 Podvelka,Podvelka 13,,46.59010,15.33028,Podvelka,,13,,Podvelka,,Podvelka,Podvelka,2363,Podvelka,Koroška
-2370 Dravograd,Trg 4. julija 9,,46.58921,15.02233,Trg 4. julija,,9,,Dravograd,,Dravograd,Dravograd,2370,Dravograd,Koroška
 2391 Prevalje,Trg 58a,,46.54639,14.91692,Trg,,58,a,Prevalje,,,Prevalje,2391,Prevalje,Koroška
 3000 Celje,Gregorčičeva ulica 5,,46.23224,15.26227,Gregorčičeva ulica,,5,,Celje,,Dolgo polje,Celje,3000,Celje,Savinjska
 3256 Bistrica ob Sotli,Bistrica ob Sotli 7,,46.05669,15.66124,Bistrica ob Sotli,,7,,Bistrica ob Sotli,,,Bistrica ob Sotli,3256,Bistrica ob Sotli,Posavska
@@ -76,7 +74,6 @@ postOver,addressOver,cityOver,lat,lon,street,streetAlt,housenumber,housenumberAp
 4248 Lesce,Železniška ulica 10,,46.36149,14.15765,Železniška ulica,,10,,Lesce,,Lesce,Radovljica,4248,Lesce,Gorenjska
 4264 Bohinjska Bistrica,Triglavska cesta 15,,46.27206,13.95469,Triglavska cesta,,15,,Bohinjska Bistrica,,Bohinjska Bistrica,Bohinj,4264,Bohinjska Bistrica,Gorenjska
 5213 Kanal,Morsko 1,,46.08033,13.63544,Morsko,,1,,Morsko,,Kanal,Kanal,5213,Kanal,Goriška
-5230 Bovec,Kot 85,,46.33596,13.54877,Kot,,85,,Bovec,,Bovec,Bovec,5230,Bovec,Goriška
 5231 Kanal,Morsko 1,,46.08033,13.63544,Morsko,,1,,Morsko,,Kanal,Kanal,5213,Kanal,Goriška
 5253 Čepovan,Čepovan 90,,46.04984,13.79420,Čepovan,,90,,Čepovan,,Krajevna skupnost Čepovan,Nova Gorica,5253,Čepovan,Goriška
 5271 Vipava,Beblerjeva ulica 5,,45.84724,13.96032,Beblerjeva ulica,,5,,Vipava,,Vipava,Vipava,5271,Vipava,Goriška
