@@ -544,6 +544,7 @@ rizddzInstitutionContractorId,rizddzInstitutionId,rizddzLocationId,rizddzDoctorI
 531,531,0,13571,302001,gp,,"dr. med., spec. družinska medicine",BLEJSKA CESTA 10,TRŽIČ,4290 TRŽIČ,042928240
 582,582,1,9535,302001,gp,,"dr. med., spec. splošne medicine",TRG JOŽETA LAMPRETA 1,ŠOŠTANJ,3325 ŠOŠTANJ,
 601,601,0,11547,404101,den,,dr. dent. med.,KUSOLDOVA ULICA 2,LJUBLJANA,1000 LJUBLJANA,059/054 343
+706,706,1,13733,404101,den,,dr. dent. med.,SPODNJE ŠKOFIJE 174 A,SPODNJE ŠKOFIJE,6281 ŠKOFIJE,031371070
 769,769,0,5997,327009,ped,,"dr. med., spec. pediatrije",BLEJSKA CESTA 10,TRŽIČ,4290 TRŽIČ,04 596 10 64
 769,769,0,12174,327009,ped,,"dr. med., spec. pediatrije",BLEJSKA CESTA 10,TRŽIČ,4290 TRŽIČ,04 596 1064
 769,769,0,12447,327009,ped,,"dr. med., spec. pediatrije",BLEJSKA CESTA 10,TRŽIČ,4290 TRŽIČ,045925134
@@ -981,6 +982,7 @@ rizddzInstitutionContractorId,rizddzInstitutionId,rizddzLocationId,rizddzDoctorI
 6501,6501,4,11160,302001,gp,,"dr. med., spec. splošne medicine",KOLODVORSKA POT 6,NOVA GORICA,5000 NOVA GORICA,
 6501,6501,5,7392,302001,gp,,"dr. med., spec.",ZIDANI MOST 9,ZIDANI MOST,1432 ZIDANI MOST,
 6501,6501,7,8900,302001,gp,,"dr. med., spec.",KOLODVORSKA CESTA 25,POSTOJNA,6230 POSTOJNA,
+6501,6501,8,17939,404101,den,,"dr. dent. med., spec.",KOLODVORSKA CESTA 27,PIVKA,6257 PIVKA,
 6651,6651,0,6967,302001,gp,,"dr. med., spec. spl. med.",ROŠKA CESTA 18,KOČEVJE,1330 KOČEVJE,
 6651,6651,0,10424,302001,gp,,"dr. med., spec., druž., med.",ROŠKA CESTA 18,KOČEVJE,1330 KOČEVJE,
 6651,6651,0,11843,306007,gyn,,"dr. med., spec. ginekologije in porodništva",ROŠKA CESTA 18,KOČEVJE,1330 KOČEVJE,
