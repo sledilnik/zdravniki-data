@@ -409,7 +409,7 @@ Dodatna ambulanta,gp-f,205445,y,,910.0,2025-03-09,,,,01 893 90 64,https://www.zd
 Dodatna ambulanta,gp-f,488940,y,,691.0,2025-03-09,,,,01 / 72 45 902,https://www.zd-domzale.si/ambulante-in-oddelki/dodatna-ambulanta-druzinske-medicine,ambulanta.neopredeljeni@zd-domzale.si,https://www.zd-nm.si/elektronsko-narocanje,,,,,,,
 Dodatna ambulanta,gp-f,604816,y,,1731.0,2025-03-09,,,,(03) 543 4128,https://www.zd-celje.si/si/osnovno-zdravstvo/2146-druzinska-medicina/4636-ambulanta-za-osebe-brez-ioz,amb.neopredeljeni@zd-celje.si,,,,,,,,
 Dodatna ambulanta,gp-f,616386,y,,837.0,,,,,,,,,,,,,,,
-Dodatna ambulanta,gp-f,705728,y,,646.0,2025-03-09,,,,05 6647 102,https://www.zd-koper.si/si/ambulante/ambulanta-za-neopredeljene/ambulanta-za-neopredeljene,,https://portal.zd-koper.si,Cesta na Markovec 1,6000 Koper - Capodistria,Koper,Olmo-Prisoje,Koper,45.53529,13.72805
+Dodatna ambulanta,gp-f,705728,y,,646.0,2025-07-24,Ne sprejema novih pacientov.,n,,05 6647 102,https://www.zd-koper.si/si/ambulante/ambulanta-za-neopredeljene/ambulanta-za-neopredeljene,,https://portal.zd-koper.si,Cesta na Markovec 1,6000 Koper - Capodistria,Koper,Olmo-Prisoje,Koper,45.53529,13.72805
 Dodatna ambulanta,gp-f,710804,y,,205.0,2025-06-29,Ne sprejema novih pacientov.,n,,030/702582,https://zd-piran.si/index.php/ambulante-druzinske-medicine/spolsne_ambulante/neopredeljeni/,,,,,,,,,
 Dodatna ambulanta,gp-f,724180,y,,277.0,2025-03-09,Ne sprejema novih pacientov.,n,,070 944 544,https://www.zd-izola.si/ambulante-in-sluzbe/dodatna%20ambulanta%20dru%C5%BEinske%20medicine/dodatna%20ambulanta-dru%C5%BEinske%20medicine%20za%20zavarovane%20osebe,sanzo@zd-izola.si,,,,,,,,
 Dodatna ambulanta,gp-f,751640,y,,352.0,2025-03-09,Ne sprejema novih pacientov.,n,,(05) 71 12 123,https://zdib.si/ambulanta/ambulanta-za-neopredeljene-paciente/,adm.neopredeljeni@zdib.si,https://www.gospodar-zdravja.si/reservation/patients/service_provider/320/doctor/35409/989,,,,,,,
@@ -731,7 +731,7 @@ Heber Lona,ped,92260,n,0.75,1645.96,,,,,,,,,,,,,,,
 Hedžet Bojana,den,4519040,n,1.0,121.0,,,,,,,,,,,,,,,
 Hegedič Ina,gp,5364003,n,1.0,1516.79,,,,,,,,,,,,,,,
 Hekić Goran,gp,92120,n,1.0,1428.16,,,,,,,,,,,,,,,
-Henigman Julija,gp,724180,y,0.75,1116.37,,,,,,,,,,,,,,,
+Henigman Julija,gp,724180,y,0.75,1116.37,2025-07-24,Ne sprejema novih pacientov.,n,,,,,,,,,,,,
 Hercegovac Lejla,ped,724180,y,0.75,789.55,,,,,,,,,,,,,,,
 Herlah Urška,gp,789398,n,1.0,1748.41,,,,,,,,,,,,,,,
 Herlec Šturm Tina,den-y,4348572,n,1.0,110.62,,,,,,,,,,,,,,,
