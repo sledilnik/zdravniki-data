@@ -790,7 +790,7 @@ rizddzInstitutionContractorId,rizddzInstitutionId,rizddzLocationId,rizddzDoctorI
 2416,2416,4,16501,404103,den-y,,dr. dent. med.,ŠOLSKA ULICA 5,LOČE,3215 LOČE,(03) 752 35 55
 2416,2416,6,9875,302001,gp,,"dr. med., spec. družinska medicine",SLOMŠKOVA ULICA 8,LOČE,3215 LOČE,03 752 34 21
 2416,2416,6,17309,404101,den,,dr. dent. med.,SLOMŠKOVA ULICA 8,LOČE,3215 LOČE,(03) 752 34 23
-2416,2416,7,17523,404101,den,,dr. dent. med.,KOVAŠKA CESTA 22,ZREČE,3214 ZREČE,(03) 576 22 50
+2416,2416,7,18526,404101,den,,dr. dent. med.,KOVAŠKA CESTA 22,ZREČE,3214 ZREČE,(03) 576 22 50
 2486,2486,0,4287,404101,den,,dr. dent. med.,CESTA LEONA DOBROTINŠKA 3 B,ŠENTJUR,3230 ŠENTJUR,(03) 746 24 02
 2486,2486,0,6105,302001,gp,,"dr. med., spec. splošne medicine",CESTA LEONA DOBROTINŠKA 3 B,ŠENTJUR,3230 ŠENTJUR,(03) 746 24 31
 2486,2486,0,6668,302001,gp,,"dr. med., spec. oftalmologije",CESTA LEONA DOBROTINŠKA 3 B,ŠENTJUR,3230 ŠENTJUR,(03) 746 24 21
@@ -1193,8 +1193,8 @@ rizddzInstitutionContractorId,rizddzInstitutionId,rizddzLocationId,rizddzDoctorI
 7501,7501,0,10599,404101,den,,dr. dent. med.,ULICA DR. HROVATA 4,ORMOŽ,2270 ORMOŽ,02/ 741 09 49
 7501,7501,0,12367,302001,gp,,"dr. med., spec. družinska medicine",ULICA DR. HROVATA 4,ORMOŽ,2270 ORMOŽ,02/ 741 09 10
 7501,7501,0,12409,404103,den-y,,,ULICA DR. HROVATA 4,ORMOŽ,2270 ORMOŽ,
-7501,7501,0,12724,302001,gp,,"dr. med., spec. družinska medicine",ULICA DR. HROVATA 4,ORMOŽ,2270 ORMOŽ,02 / 741 09 00
 7501,7501,0,12724,302001,gp,,"dr. med., spec. družinska medicine",ULICA DR. HROVATA 4,ORMOŽ,2270 ORMOŽ,
+7501,7501,0,12724,302001,gp,,"dr. med., spec. družinska medicine",ULICA DR. HROVATA 4,ORMOŽ,2270 ORMOŽ,02 / 741 09 00
 7501,7501,0,12764,302001,gp,,"dr. med., spec. družinska medicine",ULICA DR. HROVATA 4,ORMOŽ,2270 ORMOŽ,02 741 0900
 7501,7501,0,12996,302001,gp,,"dr. med., spec. družinska medicine",ULICA DR. HROVATA 4,ORMOŽ,2270 ORMOŽ,02/ 741 09 86
 7501,7501,0,13175,327009,ped,,"dr. med., spec.",ULICA DR. HROVATA 4,ORMOŽ,2270 ORMOŽ,02 741 09 16
