@@ -156,7 +156,6 @@ postZZZS,addressZZZS,lat,lon,street,streetAlt,housenumber,housenumberAppendix,ci
 1000 LJUBLJANA,ULICA LOJZETA SPACALA 10,46.06747,14.47210,Ulica Lojzeta Spacala,,10,,Ljubljana,,Četrtna skupnost Šiška,Ljubljana,1000,Ljubljana,Osrednjeslovenska
 1000 LJUBLJANA,URANIČEVA ULICA 4 A,46.07105,14.47191,Uraničeva ulica,,4,a,Ljubljana,,Četrtna skupnost Šiška,Ljubljana,1000,Ljubljana,Osrednjeslovenska
 1000 LJUBLJANA,V KLADEH 9,46.10876,14.45930,V Kladeh,,9,,Ljubljana,,Četrtna skupnost Šentvid,Ljubljana,1000,Ljubljana,Osrednjeslovenska
-1000 LJUBLJANA,VANDOTOVA ULICA 27,46.03305,14.52414,Vandotova ulica,,27,,Ljubljana,,Četrtna skupnost Rudnik,Ljubljana,1000,Ljubljana,Osrednjeslovenska
 1000 LJUBLJANA,VILHARJEV PODHOD 1,46.06032,14.51507,Vilharjev podhod,,1,,Ljubljana,,Četrtna skupnost Bežigrad,Ljubljana,1000,Ljubljana,Osrednjeslovenska
 1000 LJUBLJANA,VILHARJEV PODHOD 18,46.06015,14.51605,Vilharjev podhod,,18,,Ljubljana,,Četrtna skupnost Bežigrad,Ljubljana,1000,Ljubljana,Osrednjeslovenska
 1000 LJUBLJANA,VILHARJEV PODHOD 7,46.06035,14.51578,Vilharjev podhod,,7,,Ljubljana,,Četrtna skupnost Bežigrad,Ljubljana,1000,Ljubljana,Osrednjeslovenska
@@ -196,7 +195,6 @@ postZZZS,addressZZZS,lat,lon,street,streetAlt,housenumber,housenumberAppendix,ci
 1210 LJUBLJANA - ŠENTVID,ŠTULA 23,46.09687,14.47110,Štula,,23,,Ljubljana,,Četrtna skupnost Šentvid,Ljubljana,1210,Ljubljana - Šentvid,Osrednjeslovenska
 1211 LJUBLJANA - ŠMARTNO,NA PALCAH 2,46.12111,14.47331,Na Palcah,,2,,Ljubljana,,Četrtna skupnost Šmarna gora,Ljubljana,1211,Ljubljana - Šmartno,Osrednjeslovenska
 1211 LJUBLJANA - ŠMARTNO,SPODNJE GAMELJNE 106,46.11851,14.50439,Spodnje Gameljne,,106,,Spodnje Gameljne,,Četrtna skupnost Šmarna gora,Ljubljana,1211,Ljubljana - Šmartno,Osrednjeslovenska
-1211 LJUBLJANA - ŠMARTNO,SREDNJE GAMELJNE 18 F,46.12407,14.49929,Srednje Gameljne,,18,f,Srednje Gameljne,,Četrtna skupnost Šmarna gora,Ljubljana,1211,Ljubljana - Šmartno,Osrednjeslovenska
 1215 MEDVODE,BIZANTOVA CESTA 14,46.13248,14.41437,Bizantova cesta,,14,,Medvode,,Preska - Žlebe,Medvode,1215,Medvode,Osrednjeslovenska
 1215 MEDVODE,OSTROVRHARJEVA ULICA 6,46.14535,14.40560,Ostrovrharjeva ulica,,6,,Medvode,,Medvode - center,Medvode,1215,Medvode,Osrednjeslovenska
 1215 MEDVODE,ZBILJE 1 K,46.15600,14.40016,Zbilje,,1,k,Zbilje,,Zbilje,Medvode,1215,Medvode,Osrednjeslovenska
@@ -1370,6 +1368,7 @@ postZZZS,addressZZZS,lat,lon,street,streetAlt,housenumber,housenumberAppendix,ci
 9252 RADENCI,PRISOJNA CESTA 4 A,46.64084,16.03900,Prisojna cesta,,4,a,Radenci,,KS RADENCI,Radenci,9252,Radenci,Pomurska
 9252 RADENCI,RADGONSKA CESTA 2,46.64125,16.04391,Radgonska cesta,,2,,Radenci,,KS RADENCI,Radenci,9252,Radenci,Pomurska
 9252 RADENCI,TITOVA CESTA 1,46.64540,16.03866,Titova cesta,,1,,Radenci,,KS RADENCI,Radenci,9252,Radenci,Pomurska
+9252 RADENCI,TRSTENJAKOVA ULICA 5 A,46.64374,16.03789,Trstenjakova ulica,,5,a,Radenci,,KS RADENCI,Radenci,9252,Radenci,Pomurska
 9253 APAČE,APAČE 4,46.69650,15.90144,Apače,,4,,Apače,,KRAJEVNA SKUPNOST APAČE,Apače,9253,Apače,Pomurska
 9261 CANKOVA,CANKOVA 65,46.71863,16.01757,Cankova,,65,,Cankova,,,Cankova,9261,Cankova,Pomurska
 9261 CANKOVA,CANKOVA 65 A,46.71884,16.01822,Cankova,,65,a,Cankova,,,Cankova,9261,Cankova,Pomurska
