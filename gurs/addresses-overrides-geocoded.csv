@@ -1,22 +1,30 @@
 postOver,addressOver,cityOver,lat,lon,street,streetAlt,housenumber,housenumberAppendix,city,cityAlt,municipalityPart,municipality,zipCode,zipName,statisticalRegion
+1000 Ljubljana,Cesta v Mestni log 55,,46.03620,14.48957,Cesta v Mestni log,,55,,Ljubljana,,Četrtna skupnost Trnovo,Ljubljana,1000,Ljubljana,Osrednjeslovenska
 1000 Ljubljana,Metelkova 15,,46.05705,14.51547,Metelkova ulica,,15,,Ljubljana,,Četrtna skupnost Center,Ljubljana,1000,Ljubljana,Osrednjeslovenska
 1000 Ljubljana,Preglov trg 14,,46.05348,14.55878,Preglov trg,,14,,Ljubljana,,Četrtna skupnost Moste,Ljubljana,1000,Ljubljana,Osrednjeslovenska
 1000 Ljubljana,Rakovniška ulica 4,,46.03660,14.52361,Rakovniška ulica,,4,,Ljubljana,,Četrtna skupnost Rudnik,Ljubljana,1000,Ljubljana,Osrednjeslovenska
 1000 Ljubljana,Ulica bratov Babnik 10,,46.07645,14.46600,Ulica bratov Babnik,,10,,Ljubljana,,Četrtna skupnost Dravlje,Ljubljana,1000,Ljubljana,Osrednjeslovenska
 1000 Ljubljana,Čufarjeva ulica 11,,46.05516,14.51021,Čufarjeva ulica,,11,,Ljubljana,,Četrtna skupnost Center,Ljubljana,1000,Ljubljana,Osrednjeslovenska
+1218 Komenda,Glavarjeva cesta 61a,,46.20453,14.53935,Glavarjeva cesta,,61,a,Komenda,,,Komenda,1218,Komenda,Osrednjeslovenska
 1231 Ljubljana-Črnuče,Primožičeva ulica 2,,46.10339,14.53178,Primožičeva ulica,,2,,Ljubljana,,Četrtna skupnost Črnuče,Ljubljana,1231,Ljubljana - Črnuče,Osrednjeslovenska
 1235 Radomlje,Kamniška cesta 24,Zgornje Jarše,46.16452,14.59442,Kamniška cesta,,24,,Zgornje Jarše,,Jarše - Rodica,Domžale,1235,Radomlje,Osrednjeslovenska
+1235 Radomlje,Kamniška cesta 24d,Zgornje Jarše,46.16455,14.59455,Kamniška cesta,,24,d,Zgornje Jarše,,Jarše - Rodica,Domžale,1235,Radomlje,Osrednjeslovenska
+1236 Trzin,Ljubljanska cesta 12,,46.13255,14.56242,Ljubljanska cesta,,12,,Trzin,,,Trzin,1236,Trzin,Osrednjeslovenska
 1236 Trzin,Mengeška 7b,,46.13394,14.56236,Mengeška cesta,,7,b,Trzin,,,Trzin,1236,Trzin,Osrednjeslovenska
 1251 Moravče,Vegova ulica 22,,46.13743,14.74729,Vegova ulica,,22,,Moravče,,Moravče,Moravče,1251,Moravče,Osrednjeslovenska
 1292 Ig pri Ljubljani,Banija 4,,45.95897,14.52720,Banija,,4,,Ig,,,Ig,1292,Ig,Osrednjeslovenska
 1311 Turjak,Laporje 30,,45.87088,14.61679,Laporje,,30,,Laporje,,,Velike Lašče,1311,Turjak,Osrednjeslovenska
+1312 Videm - Dobrepolje,Videm 37 a,,45.84819,14.69546,Videm,,37,a,Videm,,Videm,Dobrepolje,1312,Videm - Dobrepolje,Osrednjeslovenska
 1315 Velike Lašče,Javorškova ulica 9,,45.83502,14.63767,Javorškova ulica,,9,,Velike Lašče,,,Velike Lašče,1315,Velike Lašče,Osrednjeslovenska
 1317 Sodražica,Cesta Notranjskega odreda 16,,45.76343,14.63376,Cesta Notranjskega odreda,,16,,Sodražica,,,Sodražica,1317,Sodražica,Jugovzhodna Slovenija
 1318 Loški Potok,Hrib-Loški Potok 102,,45.70030,14.59115,Hrib-Loški Potok,,102,,Hrib-Loški Potok,,Loški potok,Loški Potok,1318,Loški Potok,Jugovzhodna Slovenija
+1352 Preserje,Jezero 1,,45.97634,14.41959,Jezero,,1,,Jezero,,Preserje,Brezovica,1352,Preserje,Osrednjeslovenska
 1353 Borovnica,Mejačeva ulica 3,,45.91998,14.36563,Mejačeva ulica,,3,,Borovnica,,,Borovnica,1353,Borovnica,Osrednjeslovenska
+1354 Horjul,Slovenska cesta 17,,46.02461,14.29536,Slovenska cesta,,17,,Horjul,,,Horjul,1354,Horjul,Osrednjeslovenska
 1358 Log pri Brezovici,Loška cesta 12,,46.00916,14.37187,Loška cesta,,12,,Log pri Brezovici,,,Log-Dragomer,1358,Log pri Brezovici,Osrednjeslovenska
 1358 Log pri Brezovici,Šolska ulica 1,,46.01192,14.37379,Šolska cesta,,1,,Log pri Brezovici,,,Log-Dragomer,1358,Log pri Brezovici,Osrednjeslovenska
 1360 Vrhnika,Lošca 1,,45.96263,14.29674,Lošca,,1,,Vrhnika,,Vrhnika Center,Vrhnika,1360,Vrhnika,Osrednjeslovenska
+1360 Vrhnika,Stara cesta 4a,,45.96590,14.29733,Stara cesta,,4,a,Vrhnika,,Vrhnika Center,Vrhnika,1360,Vrhnika,Osrednjeslovenska
 1360 Vrhnika,Stara cesta 7,,45.96563,14.29688,Stara cesta,,7,,Vrhnika,,Vrhnika Breg,Vrhnika,1360,Vrhnika,Osrednjeslovenska
 1432 Zidani Most,Zidani most 9,,46.08562,15.17046,Zidani Most,,9,,Zidani Most,,Zidani Most,Laško,1432,Zidani Most,Savinjska
 2000 Maribor,Kalohova ulica 18,,46.55507,15.61747,Kalohova ulica,,18,,Maribor,,Studenci,Maribor,2000,Maribor,Podravska
