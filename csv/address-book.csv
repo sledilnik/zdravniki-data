@@ -1552,7 +1552,6 @@ rizddzInstitutionContractorId,rizddzInstitutionId,rizddzLocationId,rizddzDoctorI
 10201,10201,0,8540,327009,ped,,"dr. med., spec. pediatrije",MESTNI TRG 2,DOMŽALE,1230 DOMŽALE,01 / 72 45 275
 10201,10201,0,8665,302001,gp,,"dr. med., spec. družinska medicine",MESTNI TRG 2,DOMŽALE,1230 DOMŽALE,01 / 72 45 130
 10201,10201,0,8793,302001,gp,,"dr. med., spec. družinska medicine",MESTNI TRG 2,DOMŽALE,1230 DOMŽALE,01 / 72 45 188
-10201,10201,0,8932,327009,ped,,"dr. med., spec. pediatrije",MESTNI TRG 2,DOMŽALE,1230 DOMŽALE,01 / 72 45 273
 10201,10201,0,9097,404103,den-y,,dr. dent. med.,MESTNI TRG 2,DOMŽALE,1230 DOMŽALE,01 72 45 159
 10201,10201,0,9455,306007,gyn,,"dr.med., spec. ginek.in porod.",MESTNI TRG 2,DOMŽALE,1230 DOMŽALE,01 72 45 224
 10201,10201,0,9585,302001,gp,,"dr. med., spec. družinska medicine",MESTNI TRG 2,DOMŽALE,1230 DOMŽALE,01 / 72 45 290
@@ -1571,13 +1570,14 @@ rizddzInstitutionContractorId,rizddzInstitutionId,rizddzLocationId,rizddzDoctorI
 10201,10201,0,13326,404103,den-y,,dr. dent. med.,MESTNI TRG 2,DOMŽALE,1230 DOMŽALE,
 10201,10201,0,13417,302001,gp,,"dr. med., spec. družinska medicine",MESTNI TRG 2,DOMŽALE,1230 DOMŽALE,01/72 45 281
 10201,10201,0,13426,306007,gyn,,dr.med. spec.ginek. in porod.,MESTNI TRG 2,DOMŽALE,1230 DOMŽALE,01 / 72 45 222
-10201,10201,0,13792,327009,ped,,"dr.med., specializantka pediatrije",MESTNI TRG 2,DOMŽALE,1230 DOMŽALE,01 72 45 263
+10201,10201,0,13792,327009,ped,,"dr.med., spec.pediater",MESTNI TRG 2,DOMŽALE,1230 DOMŽALE,01 72 45 263
 10201,10201,0,13797,302001,gp,,"dr. med., spec. družinska medicine",MESTNI TRG 2,DOMŽALE,1230 DOMŽALE,01 / 72 45 239
 10201,10201,0,13944,404101,den,,dr. dent. med.,MESTNI TRG 2,DOMŽALE,1230 DOMŽALE,
 10201,10201,0,14897,404103,den-y,,dr. dent. med.,MESTNI TRG 2,DOMŽALE,1230 DOMŽALE,01/72 45 159
 10201,10201,0,17283,404101,den,,dr. dent. med.,MESTNI TRG 2,DOMŽALE,1230 DOMŽALE,01 72 45 169
 10201,10201,0,17519,404101,den,,dr. dent. med.,MESTNI TRG 2,DOMŽALE,1230 DOMŽALE,01 72 45 169
 10201,10201,2,10685,302002,,,"dr. med., spec. družinska medicine",CESTA TALCEV 9,,1230 DOMŽALE,01 / 729 73 20
+10201,10201,7,8932,327009,ped,,"dr.med., spec. pediater",LJUBLJANSKA CESTA 12 F,,1236 TRZIN,01 / 72 45 273
 10201,10201,7,14511,302001,gp,,"dr. med., spec. družinska medicine",LJUBLJANSKA CESTA 12 F,,1236 TRZIN,01 / 564 40 50
 10201,10201,7,17135,302068,,,"dr.med., specializantka družinske medicine",LJUBLJANSKA CESTA 12 F,,1236 TRZIN,01 / 724 59 38
 10201,10202,0,7405,302002,,,"dr. med., spec. družinska medicine",ZORANINA ULICA 3,MENGEŠ,1234 MENGEŠ,059 365 405
