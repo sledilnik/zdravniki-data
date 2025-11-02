@@ -49,8 +49,13 @@ postOver,addressOver,cityOver,lat,lon,street,streetAlt,housenumber,housenumberAp
 2351 Kamnica,Vrbanska cesta 97,,46.57322,15.61582,Vrbanska cesta,,97,,Kamnica,,Kamnica,Maribor,2351,Kamnica,Podravska
 2352 Selnica ob Dravi,Slovenski trg 4a,,46.55157,15.49335,Slovenski trg,,4,a,Selnica ob Dravi,,,Selnica ob Dravi,2352,Selnica ob Dravi,Podravska
 2363 Podvelka,Podvelka 13,,46.59010,15.33028,Podvelka,,13,,Podvelka,,Podvelka,Podvelka,2363,Podvelka,Koroška
+2370 Dravograd,Trg 4. julija 9,,46.58921,15.02233,Trg 4. julija,,9,,Dravograd,,Dravograd,Dravograd,2370,Dravograd,Koroška
 2391 Prevalje,Trg 58a,,46.54639,14.91692,Trg,,58,a,Prevalje,,,Prevalje,2391,Prevalje,Koroška
 3000 Celje,Gregorčičeva ulica 5,,46.23224,15.26227,Gregorčičeva ulica,,5,,Celje,,Dolgo polje,Celje,3000,Celje,Savinjska
+3256 Bistrica ob Sotli,Bistrica ob Sotli 7,,46.05669,15.66124,Bistrica ob Sotli,,7,,Bistrica ob Sotli,,,Bistrica ob Sotli,3256,Bistrica ob Sotli,Posavska
+3272 Rimske Toplice,Aškerčeva cesta 4,,46.12412,15.19462,Aškerčeva cesta,,4,,Rimske Toplice,,Rimske Toplice,Laško,3272,Rimske Toplice,Savinjska
+3301 Petrovče,Petrovče 33,,46.24494,15.18813,Petrovče,,33,,Petrovče,,Petrovče,Žalec,3301,Petrovče,Savinjska
+3305 Vransko,Vransko 130d,,46.24591,14.95101,Vransko,,130,d,Vransko,,,Vransko,3305,Vransko,Savinjska
 3310 Žalec,Prešernova ulica 6,,46.25093,15.16216,Prešernova ulica,,6,,Žalec,,Mestna skupnost Žalec,Žalec,3310,Žalec,Savinjska
 3314 Braslovče,Braslovče 29,,46.28774,15.03991,Braslovče,,29,,Braslovče,,Braslovče,Braslovče,3314,Braslovče,Savinjska
 3330 Mozirje,Savinjska cesta 6,,46.33885,14.95935,Savinjska cesta,,6,,Mozirje,,Mozirje,Mozirje,3330,Mozirje,Savinjska
@@ -80,6 +85,11 @@ postOver,addressOver,cityOver,lat,lon,street,streetAlt,housenumber,housenumberAp
 5290 Šempeter pri Gorici,Cesta prekomorskih brigad 25,,45.93053,13.63792,Cesta Prekomorskih brigad,,25,,Šempeter pri Gorici,,,Šempeter-Vrtojba,5290,Šempeter pri Gorici,Goriška
 5291 Miren,Miren 137,,45.89199,13.60618,Miren,,137,,Miren,,Miren,Miren-Kostanjevica,5291,Miren,Goriška
 5292 Renče,Trg 25,,45.88980,13.67010,Trg,,25,,Renče,,Renče,Renče-Vogrsko,5292,Renče,Goriška
+6000 Koper,Cesta na Markovec 1,,45.53529,13.72805,Cesta na Markovec,Strada di Monte Marco,1,,Koper,Capodistria,Olmo-Prisoje,Koper,6000,Koper - Capodistria,Obalno-kraška
+6210 Sežana,Partizanska cesta 73b,,45.70429,13.85573,Partizanska cesta,,73,b,Sežana,,Sežana,Sežana,6210,Sežana,Obalno-kraška
+6210 Sežana,Ulica Ivana Turšiča 6,,45.70826,13.86425,Ulica Ivana Turšiča,,6,,Sežana,,Sežana,Sežana,6210,Sežana,Obalno-kraška
+6215 Divača,Ulica 1. maja 1,,45.68253,13.97086,Ulica 1. maja,,1,,Divača,,Divača,Divača,6215,Divača,Obalno-kraška
+6223 Komen,Komen 94,,45.81793,13.74670,Komen,,94,,Komen,,Komen,Komen,6223,Komen,Obalno-kraška
 6230 Postojna,Kolodvorska cesta 25,,45.77308,14.22128,Kolodvorska cesta,,25,,Postojna,,Postojna,Postojna,6230,Postojna,Primorsko-notranjska
 6257 Pivka,Kolodvorska cesta 24,,45.68043,14.19460,Kolodvorska cesta,,24,,Pivka,,Pivka,Pivka,6257,Pivka,Primorsko-notranjska
 6333 Sečovlje,Sečovlje 44,,45.47541,13.61973,Sečovlje,Sicciole,44,,Sečovlje,Sicciole,Sečovlje,Piran,6333,Sečovlje - Sicciole,Obalno-kraška
