@@ -58,6 +58,7 @@ postZZZS,addressZZZS,lat,lon,street,streetAlt,housenumber,housenumberAppendix,ci
 1000 LJUBLJANA,HRENOVA ULICA 19,46.04438,14.50677,Hrenova ulica,,19,,Ljubljana,,Četrtna skupnost Center,Ljubljana,1000,Ljubljana,Osrednjeslovenska
 1000 LJUBLJANA,HRUŠEVSKA CESTA 6 A,46.04676,14.54206,Hruševska cesta,,6,a,Ljubljana,,Četrtna skupnost Golovec,Ljubljana,1000,Ljubljana,Osrednjeslovenska
 1000 LJUBLJANA,HUBADOVA ULICA 31,46.07760,14.50897,Hubadova ulica,,31,,Ljubljana,,Četrtna skupnost Bežigrad,Ljubljana,1000,Ljubljana,Osrednjeslovenska
+1000 LJUBLJANA,IGRIŠKA ULICA 12,46.04827,14.49930,Igriška ulica,,12,,Ljubljana,,Četrtna skupnost Center,Ljubljana,1000,Ljubljana,Osrednjeslovenska
 1000 LJUBLJANA,KARLOVŠKA CESTA 10,46.04457,14.50967,Karlovška cesta,,10,,Ljubljana,,Četrtna skupnost Center,Ljubljana,1000,Ljubljana,Osrednjeslovenska
 1000 LJUBLJANA,KLANČARJEVA ULICA 13,46.02575,14.54048,Klančarjeva ulica,,13,,Ljubljana,,Četrtna skupnost Rudnik,Ljubljana,1000,Ljubljana,Osrednjeslovenska
 1000 LJUBLJANA,KLOPČIČEVA 1,46.08015,14.47740,Klopčičeva ulica,,1,,Ljubljana,,Četrtna skupnost Dravlje,Ljubljana,1000,Ljubljana,Osrednjeslovenska
@@ -1105,6 +1106,7 @@ postZZZS,addressZZZS,lat,lon,street,streetAlt,housenumber,housenumberAppendix,ci
 6230 POSTOJNA,JAMSKA CESTA 23,45.77731,14.20921,Jamska cesta,,23,,Postojna,,Postojna,Postojna,6230,Postojna,Primorsko-notranjska
 6230 POSTOJNA,KOLODVORSKA CESTA 25,45.77308,14.22128,Kolodvorska cesta,,25,,Postojna,,Postojna,Postojna,6230,Postojna,Primorsko-notranjska
 6230 POSTOJNA,LJUBLJANSKA CESTA 28,45.77710,14.21606,Ljubljanska cesta,,28,,Postojna,,Postojna,Postojna,6230,Postojna,Primorsko-notranjska
+6230 POSTOJNA,PARK POD JAVORNIKI 4,45.78074,14.21750,Park pod Javorniki,,4,,Postojna,,Postojna,Postojna,6230,Postojna,Primorsko-notranjska
 6230 POSTOJNA,POT K PIVKI 2 B,45.77518,14.20715,Pot k Pivki,,2,b,Postojna,,Postojna,Postojna,6230,Postojna,Primorsko-notranjska
 6230 POSTOJNA,PREČNA ULICA 2,45.77205,14.21042,Prečna ulica,,2,,Postojna,,Postojna,Postojna,6230,Postojna,Primorsko-notranjska
 6230 POSTOJNA,PREČNA ULICA 4,45.77151,14.21020,Prečna ulica,,4,,Postojna,,Postojna,Postojna,6230,Postojna,Primorsko-notranjska
@@ -1177,6 +1179,7 @@ postZZZS,addressZZZS,lat,lon,street,streetAlt,housenumber,housenumberAppendix,ci
 8000 NOVO MESTO,KANDIJSKA CESTA 62,45.79919,15.17787,Kandijska cesta,,62,,Novo mesto,,Krajevna skupnost Žabja vas,Novo mesto,8000,Novo mesto,Jugovzhodna Slovenija
 8000 NOVO MESTO,KOČEVARJEVA ULICA 40,45.81626,15.15821,Kočevarjeva ulica,,40,,Novo mesto,,Krajevna skupnost Bršljin,Novo mesto,8000,Novo mesto,Jugovzhodna Slovenija
 8000 NOVO MESTO,KOŠENICE 13,45.78462,15.16131,Košenice,,13,,Novo mesto,,Krajevna skupnost Šmihel,Novo mesto,8000,Novo mesto,Jugovzhodna Slovenija
+8000 NOVO MESTO,LIPNICA 8,45.76294,15.24715,Lipnica,,8,,Dolž,,Krajevna skupnost Dolž,Novo mesto,8000,Novo mesto,Jugovzhodna Slovenija
 8000 NOVO MESTO,LJUBLJANSKA CESTA 26,45.81489,15.15479,Ljubljanska cesta,,26,,Novo mesto,,Krajevna skupnost Bršljin,Novo mesto,8000,Novo mesto,Jugovzhodna Slovenija
 8000 NOVO MESTO,LJUBLJANSKA CESTA 3,45.81215,15.15591,Ljubljanska cesta,,3,,Novo mesto,,Krajevna skupnost Bršljin,Novo mesto,8000,Novo mesto,Jugovzhodna Slovenija
 8000 NOVO MESTO,LJUBLJANSKA CESTA 96,45.83002,15.15740,Ljubljanska cesta,,96,,Novo mesto,,Krajevna skupnost Bučna vas,Novo mesto,8000,Novo mesto,Jugovzhodna Slovenija
