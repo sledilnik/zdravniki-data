@@ -437,8 +437,13 @@ ozgsl,,"OSNOVNO ZDRAVSTVO GORENJSKE, OE ZDRAVSTVENI DOM ŠKOFJA LOKA",IZPOSTAVA 
 4706513,4706513,"SPLOŠNA AMBULANTA SLADKI VRH VLADO MARČINKO, DR. MED.",OE MARIBOR,Sladki Vrh 5,2214 Sladki Vrh,Sladki Vrh,Sladki Vrh,Šentilj,46.69756,15.7368,02 644 61 20,http://www.splosna-ambulanta-sladkivrh.si
 140506,140506,SPLOŠNA BOLNIŠNICA BREŽICE,IZPOSTAVA BREŽICE,Černelčeva cesta 15,8250 Brežice,Brežice,Brežice,Brežice,45.90849,15.59354,074 668 100,https://www.sb-brezice.si/
 104396,104396,SPLOŠNA BOLNIŠNICA CELJE,OE CELJE,Oblakova ulica 5,3000 Celje,Celje,Dolgo polje,Celje,46.23463,15.26257,03 423 30 00,https://www.sb-celje.si
+93984,93984,SPLOŠNA BOLNIŠNICA DR. FRANCA DERGANCA NOVA GORICA,OE NOVA GORICA,Ulica padlih borcev 13a,5290 Šempeter pri Gorici,Šempeter pri Gorici,,Šempeter-Vrtojba,45.9302,13.64083,,http://www.sbng-go.si/
+92182,92182,SPLOŠNA BOLNIŠNICA DR. JOŽETA POTRČA PTUJ,IZPOSTAVA PTUJ,Potrčeva cesta 23,2250 Ptuj,Ptuj,Četrt Center,Ptuj,46.42609,15.87709,02 749 14 00,http://www.sb-ptuj.si
 3180983,3180983,SPLOŠNA BOLNIŠNICA IZOLA OSPEDALE GENERALE ISOLA,IZPOSTAVA IZOLA,Polje 40,6310 Izola - Isola,Izola,Livade,Izola,45.54442,13.68709,05 660 60 00,https://www.sb-izola.si/
 89383,89383,SPLOŠNA BOLNIŠNICA JESENICE,IZPOSTAVA JESENICE,Cesta maršala Tita 112,4270 Jesenice,Jesenice,Plavž,Jesenice,46.443,14.03697,04 586 80 00,http://www.sb-je.si
+217823,217823,SPLOŠNA BOLNIŠNICA MURSKA SOBOTA,OE MURSKA SOBOTA,Ulica dr. Vrbnjaka 6,9000 Murska Sobota,Rakičan,KS RAKIČAN,Murska Sobota,46.65013,16.18727,02 512 31 09,https://www.sb-ms.si/
+92103,92103,SPLOŠNA BOLNIŠNICA NOVO MESTO,OE NOVO MESTO,Šmihelska cesta 1,8000 Novo mesto,Novo mesto,Krajevna skupnost Drska,Novo mesto,45.79995,15.16385,073 916 100,http://www.sb-nm.si
+92637,92637,SPLOŠNA BOLNIŠNICA SLOVENJ GRADEC,IZPOSTAVA SLOVENJ GRADEC,Gosposvetska cesta 1,2380 Slovenj Gradec,Slovenj Gradec,Center,Slovenj Gradec,46.50766,15.08173,02 882 34 00,https://www.sb-sg.si/
 92699,92699,SPLOŠNA BOLNIŠNICA TRBOVLJE,IZPOSTAVA TRBOVLJE,Rudarska cesta 9,1420 Trbovlje,Trbovlje,Trbovlje - center,Trbovlje,46.15398,15.0471,03 565 25 00,http://www.sb-trbovlje.si/
 8130250,8130250,"SPLOŠNA IN DRUŽINSKA MEDICINA GORDANA ŠĆEPANOVIĆ, DR. MED.",IZPOSTAVA RADOVLJICA,Kopališka cesta 7,4240 Radovljica,Radovljica,Radovljica,Radovljica,46.34702,14.17201,059 751 750,https://scepanovic.si/
 4344627,4344627,SPLOŠNA MEDICINA JURIJ PESJAK D.O.O.,IZPOSTAVA SEVNICA,Drožanjska cesta 90,8290 Sevnica,Sevnica,Sevnica,Sevnica,46.01346,15.31147,(07) 816 15 37,https://www.zd-sevnica.si/druzinska-medicina/jurij-pesjak-dr-med
@@ -494,6 +499,7 @@ ozgsl,,"OSNOVNO ZDRAVSTVO GORENJSKE, OE ZDRAVSTVENI DOM ŠKOFJA LOKA",IZPOSTAVA 
 4563680,4563680,"TRŽAN-MAKOVEC ZOBOZDRAVSTVENA ORDINACIJA, D.O.O.",OE LJUBLJANA,Ulica Vladimirja Dolničarja 11,1356 Dobrova,Dobrova,Dobrova,Dobrova-Polhov Gradec,46.05355,14.41726,01 364 24 50 (51),https://www.zdravniki-zobozdravniki.net/clan/Breda-TRZAN-GROZDANOV-1271/
 3631659,3631659,UKMAR SONJA - ORDINACIJA DRUŽINSKE MEDICINE,OE LJUBLJANA,Cesta na Brdo 63,1000 Ljubljana,Ljubljana,Četrtna skupnost Rožnik,Ljubljana,46.04564,14.46976,01 257 66 90,http://www.ordinacija-ukmar.si/
 96838,96838,UNIVERZITETNI KLINIČNI CENTER LJUBLJANA,OE LJUBLJANA,Zaloška cesta 2,1000 Ljubljana,Ljubljana,Četrtna skupnost Center,Ljubljana,46.05221,14.52078,01 522 50 50,http://www.kclj.si
+91432,91432,UNIVERZITETNI KLINIČNI CENTER MARIBOR,OE MARIBOR,Ljubljanska ulica 5,2000 Maribor,Maribor,Magdalena,Maribor,46.55289,15.64858,(02) 321 10 00,http://www.ukc-mb.si
 3122236,3122236,UNUK- KLANČNIK IRENA - ZASEBNA ORDINACIJA,IZPOSTAVA SLOVENSKE KONJICE,Mestni trg 17,3210 Slovenske Konjice,Slovenske Konjice,Slovenske Konjice,Slovenske Konjice,46.33998,15.42862,03 759 31 70,https://www.zdravniki-zobozdravniki.net/clan/Irena-UNUK-KLANCNIK-18/
 3440928,3440928,URBANČIČ PEVC ANDREJKA -ZOBOZDRAVSTVENA ORDINACIJA,OE LJUBLJANA,Vodovodna cesta 109,1000 Ljubljana,Ljubljana,Četrtna skupnost Šiška,Ljubljana,46.07871,14.50194,(01) 565 40 02,https://www.zdravniki-zobozdravniki.net/
 4746766,4746766,"URBANČIČ POLONCA, DR. DENT. MED. ZOBOZDRAVSTVO",OE LJUBLJANA,Vodovodna cesta 109,1000 Ljubljana,Ljubljana,Četrtna skupnost Šiška,Ljubljana,46.07871,14.50194,031/609 400,http://www.urbancicstudiodent.com/
@@ -628,21 +634,58 @@ zdlsi,,ZD LJUBLJANA - ŠIŠKA,OE LJUBLJANA,Derčeva ulica 5,1000 Ljubljana,Ljubl
 3668582,3668582,ZDRAVSTVENI CENTER DRAVLJE D.O.O.,OE LJUBLJANA,Cesta na Poljane 24,1210 Ljubljana - Šentvid,Ljubljana,Četrtna skupnost Šentvid,Ljubljana,46.09337,14.47463,051 336 847,"http://www.noseca.com , www.neplodnost.com"
 2663479,2663479,ZDRAVSTVENI CENTER LORENA D.O.O,OE LJUBLJANA,Dunajska cesta 405,1231 Ljubljana - Črnuče,Ljubljana,Četrtna skupnost Črnuče,Ljubljana,46.10448,14.53545,,http://www.lorena.si
 8664533,8664533,"ZDRAVSTVENI CENTER VITANJE, ZDRAVSTVENA DEJAVNOST IN STORITVE, D.O.O.",IZPOSTAVA SLOVENSKE KONJICE,Na vasi 11,3205 Vitanje,Vitanje,Trška skupnost Vitanje,Vitanje,46.38261,15.29604,03 752 50 16,
+141992,141992,ZDRAVSTVENI DOM AJDOVŠČINA,IZPOSTAVA AJDOVŠČINA,Tovarniška cesta 3,5270 Ajdovščina,Ajdovščina,Krajevna skupnost Ajdovščina,Ajdovščina,45.88598,13.90542,,https://www.zd-ajdovscina.si/
 95801,95801,ZDRAVSTVENI DOM BREŽICE,IZPOSTAVA BREŽICE,Černelčeva cesta 8,8250 Brežice,Brežice,Brežice,Brežice,45.90811,15.59415,074 991 400,https://www.zd-brezice.si/
 604816,604816,ZDRAVSTVENI DOM CELJE,OE CELJE,Gregorčičeva ulica 5,3000 Celje,Celje,Dolgo polje,Celje,46.23224,15.26227,(03) 543 40 00,http://www.zd-celje.si
+488940,488940,ZDRAVSTVENI DOM DOMŽALE,IZPOSTAVA DOMŽALE,Mestni trg 2,1230 Domžale,Domžale,Domžale - Slavka Šlandra,Domžale,46.13975,14.59617,,https://www.zd-domzale.si
+90255,90255,ZDRAVSTVENI DOM DR. ADOLFA DROLCA MARIBOR,OE MARIBOR,Ulica talcev 9,2000 Maribor,Maribor,Center,Maribor,46.55933,15.65183,02 228 62 00,http://www.zd-mb.si
+199049,199049,ZDRAVSTVENI DOM DR. BOŽIDARJA LAVRIČA - CERKNICA,IZPOSTAVA CERKNICA,Cesta 4. maja 17,1380 Cerknica,Cerknica,Cerknica,Cerknica,45.79122,14.36578,(01) 70 50 100,http://www.zd-cerknica.si/
 751699,751699,"ZDRAVSTVENI DOM DR. FRANCA AMBROŽIČA, POSTOJNA",IZPOSTAVA POSTOJNA,Prečna ulica 2,6230 Postojna,Postojna,Postojna,Postojna,45.77205,14.21042,05 700 04 00,http://www.zd-po.si
+205431,205431,ZDRAVSTVENI DOM DR. JANEZA ORAŽMA RIBNICA,IZPOSTAVA RIBNICA,Majnikova ulica 1,1310 Ribnica,Ribnica,Ribnica,Ribnica,45.74238,14.72596,(01) 837 22 00,https://www.zdribnica.si/
 622008,622008,ZDRAVSTVENI DOM DR. JOŽETA POTRATE ŽALEC,IZPOSTAVA ŽALEC,Prešernova ulica 6,3310 Žalec,Žalec,Mestna skupnost Žalec,Žalec,46.25093,15.16216,03 713 43 00,http://www.zd-zalec.si
+96292,96292,ZDRAVSTVENI DOM DR. JULIJA POLCA KAMNIK,IZPOSTAVA KAMNIK,Novi trg 26,1241 Kamnik,Kamnik,Novi trg,Kamnik,46.22139,14.61328,,http://www.zdkamnik.si
+92260,92260,ZDRAVSTVENI DOM DRAVOGRAD,OE RAVNE NA KOROŠKEM,Trg 4. julija 4,2370 Dravograd,Dravograd,Dravograd,Dravograd,46.58962,15.0247,(02) 872 34 00,http://www.zd-dravograd.si
+821132,821132,ZDRAVSTVENI DOM GORNJA RADGONA,IZPOSTAVA GORNJA RADGONA,Partizanska cesta 40,9250 Gornja Radgona,Gornja Radgona,KS GORNJA RADGONA,Gornja Radgona,46.6734,15.99302,,https://www.zd-gr.si/
+2817672,2817672,ZDRAVSTVENI DOM GROSUPLJE,IZPOSTAVA GROSUPLJE,Pod gozdom cesta I 14,1290 Grosuplje,Grosuplje,Grosuplje,Grosuplje,45.95943,14.65315,,http://sl.zd-grosuplje.si/
+102182,102182,ZDRAVSTVENI DOM HRASTNIK,IZPOSTAVA HRASTNIK,Novi dom 11,1430 Hrastnik,Hrastnik,Rudnik,Hrastnik,46.1403,15.08513,03 565 44 50,http://zd-hrastnik.si/
+199109,199109,ZDRAVSTVENI DOM IDRIJA,IZPOSTAVA IDRIJA,Ulica Otona Župančiča 3,5280 Idrija,Idrija,Idrija,Idrija,46.00239,14.03016,,http://www.zd-idrija.si
 751640,751640,ZDRAVSTVENI DOM ILIRSKA BISTRICA,IZPOSTAVA ILIRSKA BISTRICA,Gregorčičeva cesta 8,6250 Ilirska Bistrica,Ilirska Bistrica,Ilirska Bistrica,Ilirska Bistrica,45.56848,14.24324,05 711 21 00,http://www.zdib.si
+2817701,2817701,ZDRAVSTVENI DOM IVANČNA GORICA,IZPOSTAVA GROSUPLJE,Cesta 2. grupe odredov 16,1295 Ivančna Gorica,Ivančna Gorica,Ivančna Gorica,Ivančna Gorica,45.93759,14.80558,01 781 90 00,http://sl.zd-ivg.si/
 724180,724180,ZDRAVSTVENI DOM IZOLA,IZPOSTAVA IZOLA,Ulica oktobrske revolucije 11,6310 Izola - Isola,Izola,Haliaetum / Haliaetum,Izola,45.53464,13.66078,05 663 50 50,https://www.zd-izola.si/
 705728,705728,ZDRAVSTVENI DOM KOPER CASA DELLA SANITA CAPODISTRIA,OE KOPER,Dellavallejeva ulica 3,6000 Koper - Capodistria,Koper,Koper - Center,Koper,45.5487,13.73094,05 664 71 00,https://www.zd-koper.si/
+205445,205445,ZDRAVSTVENI DOM KOČEVJE,IZPOSTAVA KOČEVJE,Roška cesta 18,1330 Kočevje,Kočevje,Kočevje-mesto,Kočevje,45.63938,14.86562,01 893 90 00,https://www.zdkocevje.si/
 91770,91770,ZDRAVSTVENI DOM KRŠKO,OE KRŠKO,Cesta krških žrtev 132c,8270 Krško,Krško,Krško,Krško,45.94307,15.48349,074 880 200,http://www.zd-krsko.si/
 664360,664360,ZDRAVSTVENI DOM LAŠKO,IZPOSTAVA LAŠKO,Kidričeva ulica 5b,3270 Laško,Laško,Laško,Laško,46.1545,15.2373,03 734 36 00,http://www.zd-lasko.si
+130345,130345,ZDRAVSTVENI DOM LENART,IZPOSTAVA LENART,Maistrova ulica 22,2230 Lenart v Slov. goricah,Lenart v Slov. goricah,Lenart,Lenart,46.57734,15.82896,02 729 18 12,http://www.zd-lenart.si
+772419,772419,ZDRAVSTVENI DOM LENDAVA - EGESZSEGHAZ LENDVA,IZPOSTAVA LENDAVA,Kidričeva ulica 34,9220 Lendava - Lendva,Lendava,Lendava / Lendva,Lendava,46.55821,16.45692,,https://www.zd-lendava.si
+96289,96289,ZDRAVSTVENI DOM LITIJA,IZPOSTAVA LITIJA,Partizanska pot 8a,1270 Litija,Litija,Mestna skupnost Litija,Litija,46.05389,14.83656,,http://www.zd-litija.si
+786482,786482,ZDRAVSTVENI DOM LJUTOMER,IZPOSTAVA LJUTOMER,Cesta I. slovenskega tabora 2,9240 Ljutomer,Ljutomer,Ljutomer,Ljutomer,46.52172,16.19326,02 585 14 00,http://www.zd-lju.si
+199126,199126,ZDRAVSTVENI DOM LOGATEC,IZPOSTAVA LOGATEC,Notranjska cesta 2,1370 Logatec,Logatec,Naklo,Logatec,45.91681,14.22768,(01) 750 82 20,https://zd-logatec.si/
+3259412,3259412,ZDRAVSTVENI DOM MEDVODE,OE LJUBLJANA,Ostrovrharjeva ulica 6,1215 Medvode,Medvode,Medvode - center,Medvode,46.14535,14.4056,,http://www.zd-medvode.si/
+91813,91813,ZDRAVSTVENI DOM METLIKA,IZPOSTAVA METLIKA,Cesta bratstva in enotnosti 71,8330 Metlika,Metlika,Mestna skupnost Metlika,Metlika,45.64848,15.31814,073 691 400,https://www.zd-metlika.si
+772405,772405,ZDRAVSTVENI DOM MURSKA SOBOTA,OE MURSKA SOBOTA,Grajska ulica 24,9000 Murska Sobota,Murska Sobota,Ledava,Murska Sobota,46.66402,16.16066,,http://www.zd-ms.si
+91918,91918,ZDRAVSTVENI DOM NOVO MESTO,OE NOVO MESTO,Kandijska cesta 4,8000 Novo mesto,Novo mesto,Krajevna skupnost Drska,Novo mesto,45.80129,15.1627,073 916 700,http://www.zd-nm.si
+92120,92120,ZDRAVSTVENI DOM ORMOŽ,IZPOSTAVA ORMOŽ,Ulica dr. Hrovata 4,2270 Ormož,Ormož,Ormož,Ormož,46.40724,16.14333,02 741 09 00,http://www.zd-ormoz.si/
+141819,141819,ZDRAVSTVENI DOM OSNOVNO VARSTVO NOVA GORICA,OE NOVA GORICA,Rejčeva ulica 4,5000 Nova Gorica,Nova Gorica,Krajevna skupnost Nova Gorica,Nova Gorica,45.95793,13.64539,,http://www.zd-go.si
 710804,710804,ZDRAVSTVENI DOM PIRAN POLIAMBULATORIO PIRANO,IZPOSTAVA PIRAN,Cesta solinarjev 1,6320 Portorož - Portorose,Lucija,Lucija,Piran,45.50452,13.60205,05 620 72 32,http://www.zd-piran.si
+490314,490314,ZDRAVSTVENI DOM PTUJ,IZPOSTAVA PTUJ,Potrčeva cesta 19a,2250 Ptuj,Ptuj,Četrt Center,Ptuj,46.42513,15.87566,02/787-15-00,http://www.zd-ptuj.si
 664356,664356,ZDRAVSTVENI DOM RADEČE,IZPOSTAVA LAŠKO,Ulica OF 8,1433 Radeče,Radeče,Radeče,Radeče,46.06587,15.18065,03 568 02 00,http://www.zd-radece.si
+92290,92290,ZDRAVSTVENI DOM RADLJE OB DRAVI,IZPOSTAVA RADLJE OB DRAVI,Mariborska cesta 37,2360 Radlje ob Dravi,Radlje ob Dravi,Radlje ob Dravi,Radlje ob Dravi,46.61372,15.23075,02 877 08 01,http://www.zd-radlje.si
+92407,92407,ZDRAVSTVENI DOM RAVNE NA KOROŠKEM,OE RAVNE NA KOROŠKEM,Ob Suhi 11,2390 Ravne na Koroškem,Ravne na Koroškem,TRG,Ravne na Koroškem,46.54286,14.96765,02 870 52 00,http://www.zd-ravne.si
 622056,622056,ZDRAVSTVENI DOM SEVNICA,IZPOSTAVA SEVNICA,Trg svobode 14,8290 Sevnica,Sevnica,Sevnica,Sevnica,46.0106,15.30248,078 161 500,https://www.zd-sevnica.si/
 141762,141762,ZDRAVSTVENI DOM SEŽANA,IZPOSTAVA SEŽANA,Partizanska cesta 24,6210 Sežana,Sežana,Sežana,Sežana,45.70858,13.87152,05 731 14 00,https://www.zd-sezana.si/
+92501,92501,ZDRAVSTVENI DOM SLOVENJ GRADEC,IZPOSTAVA SLOVENJ GRADEC,Partizanska pot 16,2380 Slovenj Gradec,Slovenj Gradec,Center,Slovenj Gradec,46.50693,15.08202,(02) 885 79 40,http://www.zd-sg.si
+146418,146418,ZDRAVSTVENI DOM SLOVENSKA BISTRICA,IZPOSTAVA SLOVENSKA BISTRICA,Partizanska ulica 30,2310 Slovenska Bistrica,Slovenska Bistrica,Pohorski odred,Slovenska Bistrica,46.39552,15.56233,(02) 843 27 00,http://www.zd-sb.si
 616450,616450,ZDRAVSTVENI DOM SLOVENSKE KONJICE,IZPOSTAVA SLOVENSKE KONJICE,Mestni trg 17,3210 Slovenske Konjice,Slovenske Konjice,Slovenske Konjice,Slovenske Konjice,46.33998,15.42862,03 758 17 00,http://www.zd-slovenskekonjice.si
+141900,141900,ZDRAVSTVENI DOM TOLMIN,IZPOSTAVA TOLMIN,Prešernova ulica 6a,5220 Tolmin,Tolmin,Tolmin,Tolmin,46.18376,13.73472,,https://www.zd-tolmin.si
+102320,102320,ZDRAVSTVENI DOM TRBOVLJE,IZPOSTAVA TRBOVLJE,Rudarska cesta 12,1420 Trbovlje,Trbovlje,Trbovlje - center,Trbovlje,46.1551,15.04796,(03) 562 41 00,https://www.zd-trbovlje.si/
+91784,91784,ZDRAVSTVENI DOM TREBNJE,IZPOSTAVA TREBNJE,Goliev trg 3,8210 Trebnje,Trebnje,Trebnje,Trebnje,45.9083,15.00666,073 481 740,http://www.zd-tr.si
 789398,789398,ZDRAVSTVENI DOM VELENJE,IZPOSTAVA VELENJE,Vodnikova cesta 1,3320 Velenje,Velenje,Velenje - desni breg,Velenje,46.36151,15.11636,03 899 54 00,http://www.zd-velenje.si
+199021,199021,ZDRAVSTVENI DOM VRHNIKA,IZPOSTAVA VRHNIKA,Cesta 6. maja 11,1360 Vrhnika,Vrhnika,Vrhnika Center,Vrhnika,45.96278,14.29358,,http://www.zd-vrhnika.si
+680829,680829,ZDRAVSTVENI DOM ZA ŠTUDENTE UNIVERZE V LJUBLJANI,OE LJUBLJANA,Aškerčeva cesta 4,1000 Ljubljana,Ljubljana,Četrtna skupnost Center,Ljubljana,46.04687,14.49913,,https://www.zdstudenti.si/
+102699,102699,ZDRAVSTVENI DOM ZAGORJE OB SAVI CESTA ZMAGE 1,IZPOSTAVA ZAGORJE,Cesta zmage 1,1410 Zagorje ob Savi,Zagorje ob Savi,Jože Marn,Zagorje ob Savi,46.13384,14.9957,(03) 565 50 00,http://www.zd-zagorje.si
+142070,142070,ZDRAVSTVENI DOM ZOBOZDRAVSTVENO VARSTVO NOVA GORICA,OE NOVA GORICA,Ulica Gradnikove brigade 7,5000 Nova Gorica,Nova Gorica,Krajevna skupnost Nova Gorica,Nova Gorica,45.95843,13.64623,,https://www.zdzv-ng.si/
+91830,91830,ZDRAVSTVENI DOM ČRNOMELJ,IZPOSTAVA ČRNOMELJ,Delavska pot 4,8340 Črnomelj,Črnomelj,KS Črnomelj,Črnomelj,45.57549,15.18753,073 061 700,http://www.zd-crnomelj.si
 616369,616369,ZDRAVSTVENI DOM ŠENTJUR,IZPOSTAVA ŠENTJUR PRI CELJU,Cesta Leona Dobrotinška 3b,3230 Šentjur,Šentjur,Šentjur-mesto,Šentjur,46.21453,15.39378,(03) 746 24 00,http://www.zd-sentjur.si
 616386,616386,ZDRAVSTVENI DOM ŠMARJE PRI JELŠAH,IZPOSTAVA ŠMARJE PRI JELŠAH,Celjska cesta 16,3240 Šmarje pri Jelšah,Šmarje pri Jelšah,Šmarje pri Jelšah,Šmarje pri Jelšah,46.22926,15.5161,03 818 37 00,http://www.zd-smarje.si
 3964335,3964335,ZDRAVSTVENI IN ZOBOZDRAVSTVENI ZAVOD DR. MALE,OE MARIBOR,Gospejna ulica 11,2000 Maribor,Maribor,Center,Maribor,46.55957,15.64234,(02) 228 15 00,http://www.renemale.com/index.php/sl/
