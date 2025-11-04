@@ -72,6 +72,8 @@ postOver,addressOver,cityOver,lat,lon,street,streetAlt,housenumber,housenumberAp
 4224 Gorenja vas,Trata 7,,46.10233,14.14218,Trata,,7,,Gorenja vas,,Gorenja vas,Gorenja vas-Poljane,4224,Gorenja vas,Gorenjska
 4224 Gorenja vas,Trata 7a,,46.10238,14.14240,Trata,,7,a,Gorenja vas,,Gorenja vas,Gorenja vas-Poljane,4224,Gorenja vas,Gorenjska
 4226 Žiri,Trg svobode 9,,46.04754,14.11159,Trg svobode,,9,,Žiri,,,Žiri,4226,Žiri,Gorenjska
+4228 Železniki,Racovnik 29,,46.22219,14.15786,Racovnik,,29,,Železniki,,Železniki,Železniki,4228,Železniki,Gorenjska
+4240 Radovljica,Kopališka cesta 7,,46.34702,14.17201,Kopališka cesta,,7,,Radovljica,,Radovljica,Radovljica,4240,Radovljica,Gorenjska
 4248 Lesce,Železniška ulica 10,,46.36149,14.15765,Železniška ulica,,10,,Lesce,,Lesce,Radovljica,4248,Lesce,Gorenjska
 4264 Bohinjska Bistrica,Triglavska cesta 15,,46.27206,13.95469,Triglavska cesta,,15,,Bohinjska Bistrica,,Bohinjska Bistrica,Bohinj,4264,Bohinjska Bistrica,Gorenjska
 5213 Kanal,Morsko 1,,46.08033,13.63544,Morsko,,1,,Morsko,,Kanal,Kanal,5213,Kanal,Goriška
@@ -90,6 +92,7 @@ postOver,addressOver,cityOver,lat,lon,street,streetAlt,housenumber,housenumberAp
 6223 Komen,Komen 94,,45.81793,13.74670,Komen,,94,,Komen,,Komen,Komen,6223,Komen,Obalno-kraška
 6230 Postojna,Kolodvorska cesta 25,,45.77308,14.22128,Kolodvorska cesta,,25,,Postojna,,Postojna,Postojna,6230,Postojna,Primorsko-notranjska
 6257 Pivka,Kolodvorska cesta 24,,45.68043,14.19460,Kolodvorska cesta,,24,,Pivka,,Pivka,Pivka,6257,Pivka,Primorsko-notranjska
+6333 Sečovlje,Sečovlje 44,,45.47541,13.61973,Sečovlje,Sicciole,44,,Sečovlje,Sicciole,Sečovlje,Piran,6333,Sečovlje - Sicciole,Obalno-kraška
 8000 Novo mesto,Seidlova cesta 44,,45.81249,15.17404,Seidlova cesta,,44,,Novo mesto,,Krajevna skupnost Ločna-Mačkovec,Novo mesto,8000,Novo mesto,Jugovzhodna Slovenija
 8000 Novo mesto,Šmarješka cesta 44,,45.82141,15.18482,Šmarješka cesta,,44,,Novo mesto,,Krajevna skupnost Ločna-Mačkovec,Novo mesto,8000,Novo mesto,Jugovzhodna Slovenija
 8216 Mirna Peč,Trg 2,,45.85907,15.08377,Trg,,2,,Mirna Peč,,,Mirna Peč,8216,Mirna Peč,Jugovzhodna Slovenija
