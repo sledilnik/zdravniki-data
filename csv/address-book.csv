@@ -736,7 +736,6 @@ rizddzInstitutionContractorId,rizddzInstitutionId,rizddzLocationId,rizddzDoctorI
 2326,2326,0,9108,302001,gp,,"dr. med., spec. družinske medicine",KIDRIČEVA ULICA 5 B,LAŠKO,3270 LAŠKO,(03) 734 36 36
 2326,2326,0,9151,306007,gyn,,"dr. med., spec. ginekologije in porodništva",KIDRIČEVA ULICA 5 B,LAŠKO,3270 LAŠKO,(03) 734 36 12
 2326,2326,0,9359,306007,gyn,,"dr. med., spec. ginekologije in porodništva",KIDRIČEVA ULICA 5 B,LAŠKO,3270 LAŠKO,(03) 734 36 12
-2326,2326,0,9851,327009,ped,,"dr. med., spec. pediatrije",KIDRIČEVA ULICA 5 B,LAŠKO,3270 LAŠKO,(03) 734 08 40
 2326,2326,0,10507,327009,ped,,"dr. med., spec. pediatrije",KIDRIČEVA ULICA 5 B,LAŠKO,3270 LAŠKO,(03) 734 08 40
 2326,2326,0,10757,327009,ped,,"dr. med., spec. pediatrije",KIDRIČEVA ULICA 5 B,LAŠKO,3270 LAŠKO,(03) 734 36 40
 2326,2326,0,12099,302001,gp,,"dr. med., spec. družinske medicine",KIDRIČEVA ULICA 5 B,LAŠKO,3270 LAŠKO,(03) 734 36 32
@@ -1210,8 +1209,8 @@ rizddzInstitutionContractorId,rizddzInstitutionId,rizddzLocationId,rizddzDoctorI
 7501,7501,0,10599,404101,den,,dr. dent. med.,ULICA DR. HROVATA 4,ORMOŽ,2270 ORMOŽ,02/ 741 09 49
 7501,7501,0,12367,302001,gp,,"dr. med., spec. družinska medicine",ULICA DR. HROVATA 4,ORMOŽ,2270 ORMOŽ,02/ 741 09 10
 7501,7501,0,12409,404103,den-y,,,ULICA DR. HROVATA 4,ORMOŽ,2270 ORMOŽ,
-7501,7501,0,12724,302001,gp,,"dr. med., spec. družinska medicine",ULICA DR. HROVATA 4,ORMOŽ,2270 ORMOŽ,
 7501,7501,0,12724,302001,gp,,"dr. med., spec. družinska medicine",ULICA DR. HROVATA 4,ORMOŽ,2270 ORMOŽ,02 / 741 09 00
+7501,7501,0,12724,302001,gp,,"dr. med., spec. družinska medicine",ULICA DR. HROVATA 4,ORMOŽ,2270 ORMOŽ,
 7501,7501,0,12764,302001,gp,,"dr. med., spec. družinska medicine",ULICA DR. HROVATA 4,ORMOŽ,2270 ORMOŽ,02 741 0900
 7501,7501,0,12996,302001,gp,,"dr. med., spec. družinska medicine",ULICA DR. HROVATA 4,ORMOŽ,2270 ORMOŽ,02/ 741 09 86
 7501,7501,0,13175,327009,ped,,"dr. med., spec.",ULICA DR. HROVATA 4,ORMOŽ,2270 ORMOŽ,02 741 09 16
@@ -2527,7 +2526,9 @@ rizddzInstitutionContractorId,rizddzInstitutionId,rizddzLocationId,rizddzDoctorI
 50501,50501,0,14614,302001,gp,,"dr. med., spec.",OSTROVRHARJEVA ULICA 6,MEDVODE,1215 MEDVODE,01 361 99 63
 50501,50501,0,17271,404101,den,,dr. dent. med.,OSTROVRHARJEVA ULICA 6,MEDVODE,1215 MEDVODE,01 361 99 47
 55013,55013,0,7371,302001,gp,,"dr. med., spec. splošne medicine",BOHORIČEVA ULICA 5,LJUBLJANA,1000 LJUBLJANA,
+55013,55013,0,9670,302001,gp,,"dr. med., spec. splošne medicine",BOHORIČEVA ULICA 5,LJUBLJANA,1000 LJUBLJANA,
 55013,55013,0,13190,306007,gyn,,"dr. med., spec. ginekologije in porodništva",BOHORIČEVA ULICA 5,LJUBLJANA,1000 LJUBLJANA,
+55013,55013,0,16665,302001,gp,,"dr. med., spec. družinska medicine",BOHORIČEVA ULICA 5,LJUBLJANA,1000 LJUBLJANA,
 55020,55020,0,8607,404101,den,,dr. dent. med.,GABRŠČKOVA ULICA 91,LJUBLJANA,1000 LJUBLJANA,04 207 28 62
 55025,55025,0,8876,404101,den,,dr. dent. med.,MAJNIKOVA ULICA 1,RIBNICA,1310 RIBNICA,01/836 21 89
 55028,55028,0,8261,404101,den,,dr. dent. med.,BLATNICA 12,TRZIN,1236 TRZIN,03/565 50 27
