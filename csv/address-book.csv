@@ -73,6 +73,7 @@ rizddzInstitutionContractorId,rizddzInstitutionId,rizddzLocationId,rizddzDoctorI
 128,128,0,9125,306007,gyn,,"dr. med., spec. ginekologije in porodništva",ČERNELČEVA CESTA 15,BREŽICE,8250 BREŽICE,074668144
 128,128,0,9907,306007,gyn,,"dr. med., spec. ginekologije in porodništva",ČERNELČEVA CESTA 15,BREŽICE,8250 BREŽICE,074668144
 128,128,0,14498,306007,gyn,,"dr. med., spec. ginekologije in porodništva",ČERNELČEVA CESTA 15,BREŽICE,8250 BREŽICE,074668144
+128,128,0,14596,306007,gyn,,"dr. med., spec. ginekologije in porodništva",ČERNELČEVA CESTA 15,BREŽICE,8250 BREŽICE,074668144
 130,130,0,5389,306007,gyn,,"dr. med., spec. ginekologije in porodništva",TOVARNIŠKA CESTA 3,AJDOVŠČINA,5270 AJDOVŠČINA,(05) 36 93 125
 130,130,0,6788,404101,den,,dr. dent. med.,TOVARNIŠKA CESTA 3,AJDOVŠČINA,5270 AJDOVŠČINA,(05) 36 93 128
 130,130,0,6788,404103,den-y,,dr. dent. med.,TOVARNIŠKA CESTA 3,AJDOVŠČINA,5270 AJDOVŠČINA,(05) 36 93 128
@@ -2001,6 +2002,7 @@ rizddzInstitutionContractorId,rizddzInstitutionId,rizddzLocationId,rizddzDoctorI
 20667,20667,0,12819,327009,ped,,"dr. med., spec. družinska medicine",ROGOZNIŠKA CESTA 32 A,PTUJ,2250 PTUJ,02/ 787 80 40
 20669,20669,0,6861,327009,ped,,"dr. med., spec. pediatrije",HRENOVA ULICA 6,MARIBOR,2000 MARIBOR,02/ 429 09 11
 20670,20670,6,9987,404101,den,,dr. dent. med.,ULICA VITA KRAIGHERJA 15,MARIBOR,2000 MARIBOR,
+20670,20670,6,18685,404101,den,,dr. dent. med.,ULICA VITA KRAIGHERJA 15,MARIBOR,2000 MARIBOR,
 20672,20672,0,9827,404101,den,,dr. dent. med.,ULICA PARIŠKE KOMUNE 42,MARIBOR,2000 MARIBOR,02/ 331 57 41
 20673,20673,1,8210,327009,ped,,"dr. med., spec. pediatrije",ZAGREBŠKA CESTA 103,MARIBOR,2000 MARIBOR,08/ 205 75 30
 20674,20674,1,6740,327009,ped,,"dr. med., spec. pediatrije",ZAGREBŠKA CESTA 103,MARIBOR,2000 MARIBOR,08/ 205 75 70
