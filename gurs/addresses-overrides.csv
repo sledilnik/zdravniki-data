@@ -64,6 +64,9 @@ postOver,addressOver,cityOver
 3334 Luče ob Savinji,Luče 106,
 3342 Gornji Grad,Tlaka 10,
 3342 Gornji Grad ,Tlaka 10,
+4000 Kranj,Ljubljanska cesta 24A,
+4000 Kranj,Škofjeloška cesta 6,
+4000 Kranj,Žanova ulica 3,
 4204 Golnik,Golnik 36,
 4206 Zgornje Jezersko,Zgornje Jezersko 82,
 4220 Škofja Loka,Stara cesta 10,
@@ -72,6 +75,7 @@ postOver,addressOver,cityOver
 4226 Žiri,Trg svobode 9,
 4228 Železniki,Racovnik 29,
 4240 Radovljica,Kopališka cesta 7,
+4248 Lesce,Železniška ulica 10,
 4264 Bohinjska Bistrica,Triglavska cesta 15,
 5213 Kanal,Morsko 1,
 5230 Bovec,Kot 85,
@@ -95,6 +99,7 @@ postOver,addressOver,cityOver
 8216 Mirna Peč,Trg 2,
 8232 Šentrupert,Šentrupert 124,
 8233 Mirna,Cesta na Fužine 10,
+8270 Krško,Cesta krških žrtev 132C,
 9000 Murska Sobota,Cvetkova ulica 10,Murska Sobota
 9000 Murska Sobota,Lendavska ulica 18,Murska Sobota
 9000 Murska Sobota,Mladinska ulica 10,Murska Sobota
