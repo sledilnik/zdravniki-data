@@ -64,6 +64,9 @@ postOver,addressOver,cityOver,lat,lon,street,streetAlt,housenumber,housenumberAp
 3334 Luče ob Savinji,Luče 106,,46.35640,14.74415,Luče,,106,,Luče,,,Luče,3334,Luče,Savinjska
 3342 Gornji Grad,Tlaka 10,,46.29728,14.80953,Tlaka,,10,,Gornji Grad,,Gornji Grad,Gornji Grad,3342,Gornji Grad,Savinjska
 3342 Gornji Grad ,Tlaka 10,,46.29728,14.80953,Tlaka,,10,,Gornji Grad,,Gornji Grad,Gornji Grad,3342,Gornji Grad,Savinjska
+4000 Kranj,Ljubljanska cesta 24A,,46.22457,14.35459,Ljubljanska cesta,,24,a,Kranj,,Stražišče,Kranj,4000,Kranj,Gorenjska
+4000 Kranj,Škofjeloška cesta 6,,46.22819,14.35325,Škofjeloška cesta,,6,,Kranj,,Stražišče,Kranj,4000,Kranj,Gorenjska
+4000 Kranj,Žanova ulica 3,,46.24570,14.36350,Žanova ulica,,3,,Kranj,,Primskovo,Kranj,4000,Kranj,Gorenjska
 4204 Golnik,Golnik 36,,46.32966,14.33178,Golnik,,36,,Golnik,,Golnik,Kranj,4204,Golnik,Gorenjska
 4206 Zgornje Jezersko,Zgornje Jezersko 82,,46.39357,14.49840,Zgornje Jezersko,,82,,Zgornje Jezersko,,,Jezersko,4206,Zgornje Jezersko,Gorenjska
 4220 Škofja Loka,Stara cesta 10,,46.16618,14.31281,Stara cesta,,10,,Škofja Loka,,Kamnitnik,Škofja Loka,4220,Škofja Loka,Gorenjska
@@ -72,6 +75,7 @@ postOver,addressOver,cityOver,lat,lon,street,streetAlt,housenumber,housenumberAp
 4226 Žiri,Trg svobode 9,,46.04754,14.11159,Trg svobode,,9,,Žiri,,,Žiri,4226,Žiri,Gorenjska
 4228 Železniki,Racovnik 29,,46.22219,14.15786,Racovnik,,29,,Železniki,,Železniki,Železniki,4228,Železniki,Gorenjska
 4240 Radovljica,Kopališka cesta 7,,46.34702,14.17201,Kopališka cesta,,7,,Radovljica,,Radovljica,Radovljica,4240,Radovljica,Gorenjska
+4248 Lesce,Železniška ulica 10,,46.36149,14.15765,Železniška ulica,,10,,Lesce,,Lesce,Radovljica,4248,Lesce,Gorenjska
 4264 Bohinjska Bistrica,Triglavska cesta 15,,46.27206,13.95469,Triglavska cesta,,15,,Bohinjska Bistrica,,Bohinjska Bistrica,Bohinj,4264,Bohinjska Bistrica,Gorenjska
 5213 Kanal,Morsko 1,,46.08033,13.63544,Morsko,,1,,Morsko,,Kanal,Kanal,5213,Kanal,Goriška
 5230 Bovec,Kot 85,,46.33596,13.54877,Kot,,85,,Bovec,,Bovec,Bovec,5230,Bovec,Goriška
@@ -95,6 +99,7 @@ postOver,addressOver,cityOver,lat,lon,street,streetAlt,housenumber,housenumberAp
 8216 Mirna Peč,Trg 2,,45.85907,15.08377,Trg,,2,,Mirna Peč,,,Mirna Peč,8216,Mirna Peč,Jugovzhodna Slovenija
 8232 Šentrupert,Šentrupert 124,,45.97680,15.08850,Šentrupert,,124,,Šentrupert,,,Šentrupert,8232,Šentrupert,Jugovzhodna Slovenija
 8233 Mirna,Cesta na Fužine 10,,45.95289,15.06032,Cesta na Fužine,,10,,Mirna,,,Mirna,8233,Mirna,Jugovzhodna Slovenija
+8270 Krško,Cesta krških žrtev 132C,,45.94307,15.48349,Cesta krških žrtev,,132,c,Krško,,Krško,Krško,8270,Krško,Posavska
 9000 Murska Sobota,Cvetkova ulica 10,Murska Sobota,46.66089,16.16751,Cvetkova ulica,,10,,Murska Sobota,,Center,Murska Sobota,9000,Murska Sobota,Pomurska
 9000 Murska Sobota,Lendavska ulica 18,Murska Sobota,46.66410,16.16828,Lendavska ulica,,18,,Murska Sobota,,Center,Murska Sobota,9000,Murska Sobota,Pomurska
 9000 Murska Sobota,Mladinska ulica 10,Murska Sobota,46.65754,16.16589,Mladinska ulica,,10,,Murska Sobota,,Center,Murska Sobota,9000,Murska Sobota,Pomurska
