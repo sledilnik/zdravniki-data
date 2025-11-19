@@ -483,6 +483,7 @@ rizddzInstitutionContractorId,rizddzInstitutionId,rizddzLocationId,rizddzDoctorI
 372,9376,0,10859,404103,den-y,,dr. dent. med.,PRVOMAJSKA CESTA 5,ŠENTJERNEJ,8310 ŠENTJERNEJ,07 37 19 526
 372,9376,0,12256,302001,gp,,"dr. med., spec. družinska medicine",PRVOMAJSKA CESTA 5,ŠENTJERNEJ,8310 ŠENTJERNEJ,07 37 19 521
 372,9376,0,17420,404101,den,,dr. dent. med.,PRVOMAJSKA CESTA 5,ŠENTJERNEJ,8310 ŠENTJERNEJ,07 62 09 401
+372,9376,0,18178,302001,gp,,"dr. med., spec.",PRVOMAJSKA CESTA 5,ŠENTJERNEJ,8310 ŠENTJERNEJ,07 37 19 523
 373,373,0,6600,302001,gp,,"dr. med., spec. splošne medicine",GOLIEV TRG 3,TREBNJE,8210 TREBNJE,07 34 81 763
 373,373,0,6684,302001,gp,,"dr. med., spec. medicine dela, prometa in športa",GOLIEV TRG 3,TREBNJE,8210 TREBNJE,07 34 81 775
 373,373,0,8100,306007,gyn,,"dr. med., spec. ginekologije in porodništva",GOLIEV TRG 3,TREBNJE,8210 TREBNJE,07 34 81 778
@@ -520,7 +521,6 @@ rizddzInstitutionContractorId,rizddzInstitutionId,rizddzLocationId,rizddzDoctorI
 374,374,0,8509,306007,gyn,,"dr. med., spec. ginekologije in porodništva",ŠMIHELSKA CESTA 1,NOVO MESTO,8000 NOVO MESTO,07/ 39 16 205
 374,374,0,8925,306007,gyn,,"dr. med., spec. ginekologije in porodništva",ŠMIHELSKA CESTA 1,NOVO MESTO,8000 NOVO MESTO,07/ 39 16 205
 374,374,0,9300,306007,gyn,,"dr. med., spec. ginekologije in porodništva",ŠMIHELSKA CESTA 1,NOVO MESTO,8000 NOVO MESTO,07/ 39 16 205
-374,374,0,9586,306007,gyn,,"dr. med., spec. ginekologije in porodništva",ŠMIHELSKA CESTA 1,NOVO MESTO,8000 NOVO MESTO,07/ 39 16 205
 374,374,0,11369,306007,gyn,,"dr. med., spec. ginekologije in porodništva",ŠMIHELSKA CESTA 1,NOVO MESTO,8000 NOVO MESTO,07/ 39 16 205
 374,374,0,12292,306007,gyn,,"dr. med., spec. ginekologije in porodništva",ŠMIHELSKA CESTA 1,NOVO MESTO,8000 NOVO MESTO,
 374,374,0,12750,306007,gyn,,"dr. med., spec. ginekologije in porodništva",ŠMIHELSKA CESTA 1,NOVO MESTO,8000 NOVO MESTO,
@@ -1210,8 +1210,8 @@ rizddzInstitutionContractorId,rizddzInstitutionId,rizddzLocationId,rizddzDoctorI
 7501,7501,0,10599,404101,den,,dr. dent. med.,ULICA DR. HROVATA 4,ORMOŽ,2270 ORMOŽ,02/ 741 09 49
 7501,7501,0,12367,302001,gp,,"dr. med., spec. družinska medicine",ULICA DR. HROVATA 4,ORMOŽ,2270 ORMOŽ,02/ 741 09 10
 7501,7501,0,12409,404103,den-y,,,ULICA DR. HROVATA 4,ORMOŽ,2270 ORMOŽ,
-7501,7501,0,12724,302001,gp,,"dr. med., spec. družinska medicine",ULICA DR. HROVATA 4,ORMOŽ,2270 ORMOŽ,
 7501,7501,0,12724,302001,gp,,"dr. med., spec. družinska medicine",ULICA DR. HROVATA 4,ORMOŽ,2270 ORMOŽ,02 / 741 09 00
+7501,7501,0,12724,302001,gp,,"dr. med., spec. družinska medicine",ULICA DR. HROVATA 4,ORMOŽ,2270 ORMOŽ,
 7501,7501,0,12764,302001,gp,,"dr. med., spec. družinska medicine",ULICA DR. HROVATA 4,ORMOŽ,2270 ORMOŽ,02 741 0900
 7501,7501,0,12996,302001,gp,,"dr. med., spec. družinska medicine",ULICA DR. HROVATA 4,ORMOŽ,2270 ORMOŽ,02/ 741 09 86
 7501,7501,0,13175,327009,ped,,"dr. med., spec.",ULICA DR. HROVATA 4,ORMOŽ,2270 ORMOŽ,02 741 09 16
