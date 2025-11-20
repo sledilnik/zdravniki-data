@@ -637,7 +637,7 @@ postZZZS,addressZZZS,lat,lon,street,streetAlt,housenumber,housenumberAppendix,ci
 2342 RUŠE,ULICA RUŠKE ČETE 14,46.53997,15.51611,Ulica Ruške čete,,14,,Ruše,,,Ruše,2342,Ruše,Podravska
 2344 LOVRENC NA POHORJU,GORNJI TRG 37,46.53780,15.38462,Gornji trg,,37,,Lovrenc na Pohorju,,,Lovrenc na Pohorju,2344,Lovrenc na Pohorju,Podravska
 2344 LOVRENC NA POHORJU,OB RADOLJNI 47,46.53252,15.38504,Ob Radoljni,,47,,Lovrenc na Pohorju,,,Lovrenc na Pohorju,2344,Lovrenc na Pohorju,Podravska
-2345 BISTRICA OB DRAVI,INDUSTRIJSKA ULICA 33,46.55630,15.54903,Industrijska ulica,,33,,Bistrica ob Dravi,,,Ruše,2345,Bistrica ob Dravi,Podravska
+2345 BISTRICA OB DRAVI,INDUSTRIJSKA ULICA 33,46.55612,15.54878,Industrijska ulica,,33,,Bistrica ob Dravi,,,Ruše,2345,Bistrica ob Dravi,Podravska
 2351 KAMNICA,CESTA V ROŠPOH 24 A,46.57287,15.61260,Cesta v Rošpoh,,24,a,Kamnica,,Kamnica,Maribor,2351,Kamnica,Podravska
 2351 KAMNICA,VRBANSKA CESTA 97,46.57322,15.61582,Vrbanska cesta,,97,,Kamnica,,Kamnica,Maribor,2351,Kamnica,Podravska
 2352 SELNICA OB DRAVI,GASILSKA ULICA 3,46.55124,15.49124,Gasilska ulica,,3,,Selnica ob Dravi,,,Selnica ob Dravi,2352,Selnica ob Dravi,Podravska
@@ -1155,7 +1155,7 @@ postZZZS,addressZZZS,lat,lon,street,streetAlt,housenumber,housenumberAppendix,ci
 6310 IZOLA - ISOLA,PREŠERNOVA CESTA 53,45.53019,13.65195,Prešernova cesta,Strada France Prešeren,53,,Izola,Isola,Livade,Izola,6310,Izola - Isola,Obalno-kraška
 6310 IZOLA - ISOLA,TOMAŽIČEVA ULICA 10,45.53293,13.65051,Tomažičeva ulica,Via Pinko Tomažič,10,,Izola,Isola,Haliaetum / Haliaetum,Izola,6310,Izola - Isola,Obalno-kraška
 6310 IZOLA - ISOLA,ULICA OKTOBRSKE REVOLUCIJE 11,45.53464,13.66078,Ulica oktobrske revolucije,Via Rivoluzione d'Ottobre,11,,Izola,Isola,Haliaetum / Haliaetum,Izola,6310,Izola - Isola,Obalno-kraška
-6310 IZOLA - ISOLA,ŠARED 51,45.51187,13.65781,Šared,,51,,Šared,,Korte,Izola,6310,Izola - Isola,Obalno-kraška
+6310 IZOLA - ISOLA,ŠARED 51,45.51187,13.65781,Šared,,51,,Šared,,Šared - Baredi,Izola,6310,Izola - Isola,Obalno-kraška
 6320 PORTOROŽ - PORTOROSE,CESTA SOLINARJEV 1,45.50452,13.60205,Cesta solinarjev,Strada dei Salinari,1,,Lucija,Lucia,Lucija,Piran,6320,Portorož - Portorose,Obalno-kraška
 6320 PORTOROŽ - PORTOROSE,FAZAN 1,45.50642,13.60720,Fazan,Fasano,1,,Lucija,Lucia,Lucija,Piran,6320,Portorož - Portorose,Obalno-kraška
 6320 PORTOROŽ - PORTOROSE,KAMPOLIN 45 A,45.51111,13.61244,Kampolin,Campolino,45,a,Lucija,Lucia,Lucija,Piran,6320,Portorož - Portorose,Obalno-kraška
@@ -1332,7 +1332,7 @@ postZZZS,addressZZZS,lat,lon,street,streetAlt,housenumber,housenumberAppendix,ci
 9220 LENDAVA - LENDVA,MLINSKA ULICA 6 E,46.56214,16.45301,Mlinska ulica,Malom utca,6,e,Lendava,Lendva,Lendava / Lendva,Lendava,9220,Lendava - Lendva,Pomurska
 9220 LENDAVA - LENDVA,MLINSKA ULICA 7,,,,,,,,,,,,,
 9220 LENDAVA - LENDVA,SLOMŠKOVO NASELJE 7,46.56780,16.44899,Slomškovo naselje,Slomšek - lakótelep,7,,Lendava,Lendva,Lendava / Lendva,Lendava,9220,Lendava - Lendva,Pomurska
-9220 LENDAVA - LENDVA,TRIMLINI 56 A,46.54414,16.46532,Trimlini,Hármasmalom,56,a,Trimlini,Hármasmalom,Trimlini,Lendava,9220,Lendava - Lendva,Pomurska
+9220 LENDAVA - LENDVA,TRIMLINI 56 A,46.54414,16.46532,Trimlini,Hármasmalom,56,a,Trimlini,Hármasmalom,Trimlini / Hármasmalom,Lendava,9220,Lendava - Lendva,Pomurska
 9221 MARTJANCI,MARTJANCI 13,46.68564,16.18812,Martjanci,,13,,Martjanci,,Martjanci,Moravske Toplice,9221,Martjanci,Pomurska
 9221 MARTJANCI,MARTJANCI 29 A,46.68523,16.19015,Martjanci,,29,a,Martjanci,,Martjanci,Moravske Toplice,9221,Martjanci,Pomurska
 9221 MARTJANCI,MARTJANCI 35,46.68503,16.19115,Martjanci,,35,,Martjanci,,Martjanci,Moravske Toplice,9221,Martjanci,Pomurska
