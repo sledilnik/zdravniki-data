@@ -178,7 +178,7 @@ id_inst,zzzsSt,name,unit,address,post,city,municipalityPart,municipality,lat,lon
 3759558,3759558,GORENC MOJCA - ZASEBNA ZOBNA AMBULANTA,IZPOSTAVA ZAGORJE,Cesta zmage 1,1410 Zagorje ob Savi,Zagorje ob Savi,Jože Marn,Zagorje ob Savi,46.13384,14.9957,03/565 50 23,https://www.cakalnedobe.si/ambulante/gorenc-mojca-zasebna-zobna-ambulanta-zobozdravstvena-dejavnost/
 3036090,3036090,"GPD GINEKOLOGIJA IN PORODNIŠTVO, POSREDNIŠTVO IN STORITVE, D.O.O.",IZPOSTAVA VELENJE,Sončni grič 7,3320 Velenje,Velenje,Gorica,Velenje,46.35393,15.12586,064 261 390,https://www.medicalfabjan.si/ginekologija-zzzs
 3445987,3445987,GRAND-RABIČ SIMONA - ZOBNA AMBULANTA,OE MARIBOR,Ribniška ulica 5,2000 Maribor,Maribor,Center,Maribor,46.56844,15.6487,02 251 52 14,https://www.zdravniki-zobozdravniki.net/clan/Simona-GRAND-RABIC-678/
-3770639,3770639,GRANDOŠEK KSENIJA - ZASEBNA ZOBOZDRAVNICA,OE MARIBOR,Slovenski trg 4,2352 Selnica ob Dravi,Selnica ob Dravi,,Selnica ob Dravi,46.5515,15.49303,(02) 671 11 10,https://www.cakalnedobe.si/ambulante/grandosek-ksenija-zasebna-zobozdravnica
+3770639,3770639,GRANDOŠEK KSENIJA - ZASEBNA ZOBOZDRAVNICA,OE MARIBOR,Slovenski trg 4,2352 Selnica ob Dravi,Selnica ob Dravi,,Selnica ob Dravi,46.5515,15.49303,02 671 11 10,http://www.slovenski-zobozdravniki.si/ksenija-grandosek
 3126087,3126087,GRILEC JANEZ - ZOBOZDRAVSTVO,OE KRANJ,Poslovna cona A 10,4208 Šenčur,Šenčur,Šenčur,Šenčur,46.23803,14.40783,,
 3444933,3444933,GROBOLJŠEK ROMAN - ZASEBNA ZOBNA ORDINACIJA,IZPOSTAVA SEVNICA,Trg svobode 9,8290 Sevnica,Sevnica,Sevnica,Sevnica,46.00977,15.30294,07 814 12 42,https://www.zdravniki-zobozdravniki.net/clan/Roman-GROBOLJSEK-741/
 3416705,3416705,GROSEK PŠENIČNIK MARJANA - ORDINACIJA SPLOŠNE MEDICINE,OE LJUBLJANA,Savska cesta 10,1000 Ljubljana,Ljubljana,Četrtna skupnost Jarše,Ljubljana,46.06433,14.52589,,https://www.zdravniki-zobozdravniki.net/clan/marjana-grosek-psenicnik-558/
@@ -406,7 +406,7 @@ ozgsl,,"OSNOVNO ZDRAVSTVO GORENJSKE, OE ZDRAVSTVENI DOM ŠKOFJA LOKA",IZPOSTAVA 
 5088574,5088574,"S-MEDICUS, DRUŽBA ZA ZDRAVSTVENO, SVETOVALNO IN STORITVENO DEJAVNOST, D.O.O.",IZPOSTAVA TRŽIČ,Blejska cesta 10,4290 Tržič,Tržič,Tržič - mesto,Tržič,46.36361,14.30654,04 592 51 31,https://s-medicus.si
 9589031,9589031,"SADENT, ZOBOZDRAVSTVENE STORITVE IN ESTETIKA D.O.O.",IZPOSTAVA ŽALEC,Malgajeva ulica 2a,3000 Celje,Celje,Kajuh,Celje,46.23104,15.25977,03 705 04 53,http://www.sadent.si
 6212353,6212353,"SAFTIĆ, ZDRAVSTVENA DEJAVNOST, D.O.O.",IZPOSTAVA PTUJ,Cirkulane 28,2282 Cirkulane,Cirkulane,,Cirkulane,46.34593,15.99901,(02) 761 80 01,https://saftic.si/
-3201235,3201235,"SALVUS, MEDICINSKE STORITVE D.O.O.",IZPOSTAVA LENDAVA,Trimlini 56a,9220 Lendava - Lendva,Trimlini,Trimlini,Lendava,46.54414,16.46532,,http://www.salvus.si
+3201235,3201235,"SALVUS, MEDICINSKE STORITVE D.O.O.",IZPOSTAVA LENDAVA,Trimlini 56a,9220 Lendava - Lendva,Trimlini,Trimlini / Hármasmalom,Lendava,46.54414,16.46532,,http://www.salvus.si
 9514685,9514685,"SAMODENT, ZOBOZDRAVSTVO, D.O.O.",IZPOSTAVA PIRAN,Levstikova ulica 3,6310 Izola - Isola,Izola,Staro mesto,Izola,45.54139,13.65801,05 673 34 30,http://www.ambulanta-samotorcan.si
 2881549,2881549,"SANIDENT STORITVENO PODJETJE, D.O.O.",IZPOSTAVA SLOVENSKE KONJICE,Kovaška cesta 25b,3214 Zreče,Zreče,Zreče,Zreče,46.37116,15.39114,03 757 67 00,http://www.sanident.weebly.com
 4315836,4315836,"SANJA RAŠIĆ, DDM ZASEBNA ZOBOZDRAVSTVENA ORDINACIJA",IZPOSTAVA ŽALEC,Graščinska cesta 11,3312 Prebold,Prebold,,Prebold,46.23604,15.09094,(03) 705 34 90,https://www.zdravniki-zobozdravniki.net/clan/Sanja-RASIC-1085/
@@ -690,7 +690,7 @@ zdlsi,,ZD LJUBLJANA - ŠIŠKA,OE LJUBLJANA,Derčeva ulica 5,1000 Ljubljana,Ljubl
 3964335,3964335,ZDRAVSTVENI IN ZOBOZDRAVSTVENI ZAVOD DR. MALE,OE MARIBOR,Gospejna ulica 11,2000 Maribor,Maribor,Center,Maribor,46.55957,15.64234,(02) 228 15 00,http://www.renemale.com/index.php/sl/
 5741662,5741662,ZDRAVSTVENI ZAVOD ARTDENT BLED,IZPOSTAVA JESENICE,Kolodvorska cesta 3c,4260 Bled,Bled,Rečica,Bled,46.37448,14.09175,04 586 81 10,http://www.artdent.si/
 6608788,6608788,"ZDRAVSTVENI ZAVOD BARBUL MARICA, MIKLAVŽ NA DRAVSKEM POLJU",OE MARIBOR,Ptujska cesta 110,2204 Miklavž na Dravskem polju,Miklavž na Dravskem polju,Miklavž na Dravskem polju,Miklavž na Dravskem polju,46.50217,15.7026,(02) 629 63 30,https://zdravniki-zobozdravniki.net/Clan/Marica-BARBUL-705
-4623421,4623421,ZDRAVSTVENI ZAVOD BELDENT IZOLA,IZPOSTAVA PIRAN,Šared 51,6310 Izola - Isola,Šared,Korte,Izola,45.51187,13.65781,05 6207 227,http://www.slovenski-zobozdraniki.si/zz-beldent
+4623421,4623421,ZDRAVSTVENI ZAVOD BELDENT IZOLA,IZPOSTAVA PIRAN,Šared 51,6310 Izola - Isola,Šared,Šared - Baredi,Izola,45.51187,13.65781,05 6207 227,http://www.slovenski-zobozdraniki.si/zz-beldent
 5574160,5574160,ZDRAVSTVENI ZAVOD D.D.M.,IZPOSTAVA LAŠKO,Poženelova ulica 22,3270 Laško,Laško,Laško,Laško,46.16482,15.23049,040 585 000,http://www.leljak-dental.com
 5687220,5687220,ZDRAVSTVENI ZAVOD DENTAN KOPER,OE KOPER,Benčičeva ulica 2d,6000 Koper - Capodistria,Koper,Za gradom,Koper,45.53848,13.71159,(05) 628 38 50,http://www.dentan.si
 5992084,5992084,ZDRAVSTVENI ZAVOD DENTARTES KOPER,OE KOPER,Vlačičeva ulica 2a,6000 Koper - Capodistria,Koper,Koper - Center,Koper,45.5458,13.72799,(05)626 02 28,https://www.cakalnedobe.si/ambulante/zdravstveni-zavod-dentartes-koper-zobozdravstvena-dejavnost/
