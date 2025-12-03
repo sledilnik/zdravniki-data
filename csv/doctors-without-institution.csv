@@ -1,3 +1,131 @@
 doctor,type,id_inst,accepts,availability,load
+Ahmetaj Vjollca,den-y,,n,0.6,110.34
+Artiček Mesarec Brigita,,,y,0.5,2264.7
+Arzenšek Andraž,gp,,n,0.8,1465.11
+Bajc Irena,gp,,n,1.15,1467.97
+Begić Mirela,ped,,n,0.75,1256.71
+Berginc Marjan,gp,,n,1.0,1882.6
+Bizjak Tina,gyn,,n,0.2,103.66
+Bićanić Jure,gp,,n,1.0,1558.67
+Blaznik Aleš,gp,,n,1.0,2114.46
+Bogdanović Aleksandra,ped,,n,0.75,1574.55
+Boljanović Sretanka,gp,,n,1.0,1580.66
+Božič Ana,den,,y,1.0,108.59
+Božič Hlačer Helena,gp,,y,0.6,1249.23
+Brunšek Strašek Marta,gp,,n,1.0,1731.38
+Brus Nataša,gyn,,y,0.18,0.2
+Brus Nataša,gyn,,y,0.5,65.37
+Buršič Daša,den-y,,n,1.0,126.79
+Dabranin Damir,ped,,n,0.77,2895.47
+Debeljak Danielov Bojana,den,,n,0.58,158.85
+Debeljak Danielov Bojana,den-y,,n,0.52,164.63
+Dobelšek Jernej,den,,n,1.0,160.01
+Dodatna ambulanta,gp-f,,y,,640.0
+Drenik Irena,den,,n,1.0,113.14
+Ernst Brina,den-y,,y,1.0,105.39
 Eršte Božena,den,,y,0.58,104.89
+Fišter Janja,gp,,n,0.7,1451.61
+Franić Damir,gyn,,y,1.0,97.74
+Gaceva Anelija,gp,,n,1.0,1358.83
+Gašperlin Dovnik Darja,gyn,,n,1.0,123.74
+Gornik Barbara,den,,y,1.0,83.56
+Grlica Jasmina,den,,n,0.1,211.13
+Grlica Jasmina,den-y,,y,0.91,109.37
+Grošelj Pavel,gp,,n,1.0,1563.51
+Grušovnik Mojca,den,,n,0.1,317.0
+Grušovnik Mojca,den-y,,y,0.9,86.65
+Herlah Urška,gp,,n,1.0,1733.27
+Horvat Četina Mirjam,gyn,,n,1.0,113.36
+Hrovat Martina,gp,,n,1.0,2013.49
+Ignjatović Veljko,gp,,y,1.0,1195.01
+Javorsky Rasta,den,,y,1.0,98.68
+Jemec Nejc,gp,,n,1.0,1379.26
+Jezernik Tonka,den,,y,1.0,24.74
+Jurjec Neja,den,,y,1.0,109.6
+Jurko Maja,gp,,n,1.0,1382.26
+Kamcheva Para,den,,n,1.0,116.39
+Kardoš Mohorko Ksenija,gyn,,y,0.12,90.12
+Kebrič Anej,gp,,n,0.8,1562.24
+Kecman Prodan Sanja,gp,,n,1.0,1782.5
+Klančnik Andrej,gp,,n,0.51,1858.88
+Kolar Miran,gp,,n,1.0,1747.27
+Koprivc Bujan Mojca,den-y,,n,1.0,137.93
+Kosi Šolajić Marzenka,den,,n,0.6,167.7
+Kostić Dijana,gp,,n,1.0,1620.04
+Kozorog Ksenija,ped,,y,0.27,1132.33
+Kozorog Ksenija,ped,,y,0.3,0.0
+Kralj Robert,den,,n,1.0,113.67
+Kranjc Matic,gp,,n,0.5,1689.88
+Kravos Andrej,,,y,0.8,1854.35
+Kumer Prislan Andreja,den-y,,n,1.0,125.64
+Kužnar Jugovar Marjanca,,,y,1.0,2069.14
+Lah Nina,ped,,n,0.6,1469.0
+Leskovšek Bojan,gp,,n,1.0,1567.13
+Lesnjak Cizej Tadeja,den,,n,1.0,123.29
+Lovrec Veternik Jožica,ped,,y,0.75,1193.53
+Lukner Tatjana,gp,,n,1.0,1456.15
+Majcen Irena,gp,,n,1.0,1934.79
+Malinger Martin Luka,den,,n,1.0,138.87
+Markoš Krstulović Ilijana,gp,,n,1.0,1641.33
+Matek Ivan,den,,n,0.8,131.37
+Matek Ivan,den-y,,y,0.1,61.01
+Mitrović Danijela,gp,,n,1.0,1421.81
+Mladenović Aca,ped,,y,0.15,654.93
+Mlakar Andrej,ped,,n,0.45,1733.2
+Močnik Patricija,den-y,,y,1.0,108.93
+Mušić Muamer,gp,,n,1.0,1440.13
 Novak Goran,den,,y,1.0,5.34
+Novakovski Vlado,den,,y,1.0,105.44
+Nowakowska Prezelj Anna Maria,gp,,n,1.0,1704.88
+Obermayer Temlin Andreja,ped,,n,0.75,1229.2
+Ovčar Štante Klavdija,gp,,y,0.5,1048.52
+Ošep Črtomir,gp,,n,0.5,2300.14
+Pavićević Ljiljana,ped,,n,0.45,1249.89
+Pekarović Džakulin Vesna,gp,,n,0.8,1614.34
+Petek Saša,den-y,,n,1.0,120.34
+Peternelj Marinšek Suzana,gyn,,n,1.1,113.44
+Pevec-Dabelić Barbara,gp,,n,1.0,1667.43
+Planko Matjaž,gp,,n,1.0,1612.56
+Podlesnik Moličnik Andreja,gp,,n,1.0,1679.94
+Potkonjak-Panić Ljiljana,gp,,n,1.0,1422.59
+Praznik Igor,gp,,y,1.0,1295.82
+Pukmeister Rožič Brigita,ped,,n,0.6,1405.4
+Pusovnik Mojca,den,,n,1.0,115.91
+Pušnik Darja,gp,,y,0.2,1011.9
+Radivojević Vladimir,gp,,n,1.0,959.76
+Regoršek Vrabec Lea,ped,,n,0.6,1583.32
+Rejc Andrejka,gp,,n,0.5,1493.28
+Rezar Sabina,gp,,n,1.1,1721.68
+Ribič Bojan,gp,,n,1.0,1760.68
+Rogić Ilić Maja,ped,,y,0.75,742.61
+Romih Nataša,den,,y,1.0,109.98
+Roščić Irena,gp,,n,1.0,1424.71
+Rupel Vera,,,y,1.0,2075.27
+Sagadin Polona,gp,,n,1.0,1897.51
+Saveva Olivera,den,,y,1.0,102.78
+Simoniti Filip,gyn,,y,1.2,110.55
+Slavič Tomaž,gp,,n,1.0,1956.45
+Stojanović Mirjana,den,,y,1.0,81.85
+Sušak Urška,gp,,n,1.0,1748.84
+Tiselj Mateja,ped,,n,0.67,1600.63
+Tisovic Rus Tatjana,gp,,n,1.0,1713.1
+Trobec Anja,den,,n,1.0,112.3
+Trupej Tjaša,ped,,n,0.75,1292.76
+Unuk Klančnik Irena,ped,,n,0.52,1673.81
+Vasov Diyana,gp,,n,1.0,1511.69
+Veber Barbara,ped,,y,0.45,1039.42
+Vengust Jasmina,den,,y,1.0,93.82
+Verdnik Mojca,ped,,n,0.45,1291.91
+Vičić Andrej,den,,y,1.0,74.17
+Vodopivc Monika,den-y,,n,1.0,119.63
+Vodopivc Černelč Katarina,den,,y,1.0,21.9
+Vodušek Reberšak Lea,ped,,y,0.75,1193.45
+Volarić Lavrič Tatjana,gp,,n,1.15,2082.03
+Vrabič Draško,gp,,y,0.4,1346.9
+Zavodnik Irena,den-y,,n,1.0,116.18
+Čas Sabina,gyn,,n,0.18,453.51
+Čolović Dragiša,gp,,n,0.4,1359.15
+Črešnar Vida,gp,,n,1.0,1383.79
+Šelih Anja,ped,,n,0.6,1585.63
+Špendl Tina,den,,y,1.0,46.76
+Špital Simona,gp,,n,1.0,1678.03
