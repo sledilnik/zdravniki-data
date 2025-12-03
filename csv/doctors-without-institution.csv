@@ -1,37 +1,3 @@
 doctor,type,id_inst,accepts,availability,load
-Arbeiter Mojca,den-y,,y,0.7,51.02
-Bauman Jasmina,den-y,,n,1.0,126.62
-Bedene Zvezdana,den-y,,n,1.0,129.27
-Bobnar Mojca,den-y,,n,1.0,153.22
-Bradač Ana,den-y,,n,1.0,113.77
-Brejc Mateja,den-y,,y,1.0,85.62
-Dajović Nataša,den-y,,y,1.0,88.34
-Dobravec Majda,den-y,,n,1.0,119.45
-Drev Mojca,den-y,,n,1.2,113.54
-Eršte Božena,den,,y,0.58,105.16
-Fabjan Aleksandra,den-y,,y,1.0,103.81
-Fajfar Furlan Mojca,den-y,,y,1.0,101.89
-Gašperič Adela,den-y,,y,1.2,104.47
-Gladek Štefka,den-y,,y,1.0,83.65
-Gorenc Mojca,den-y,,y,1.0,67.18
-Grandošek Ksenija,den-y,,y,1.0,73.95
-Herlec Šturm Tina,den-y,,y,1.0,109.16
-Hleb Verbič Katja,den-y,,n,0.5,218.03
-Jakljević Vlatko,den-y,,n,0.95,142.7
-Ješe Mateja,den-y,,y,1.0,108.33
-Knez Blaž,den-y,,n,1.0,151.66
-Kovačič Maja,den-y,,y,0.75,109.44
-Krebelj Škof Nives,den-y,,n,1.1,166.42
-Lah Marjan,den-y,,y,1.0,107.23
-Ljubojević Zorica,den-y,,y,1.0,106.37
-Maček Ingrid Katarina,den-y,,n,1.0,120.75
-Meroving Damjana,den-y,,y,1.0,97.87
+Eršte Božena,den,,y,0.58,104.89
 Novak Goran,den,,y,1.0,5.34
-Pokeržnik Peter,den-y,,n,1.0,127.37
-Radak Suzana,den-y,,y,1.0,66.95
-Rozman Vitorovič Nataša,den-y,,y,1.0,103.06
-Vizjak David,den-y,,y,1.2,106.64
-Vujović Vladimir,den-y,,n,1.0,117.64
-Zaplotnik Kralj Ksenija,den-y,,y,1.0,105.6
-Zupančič Mojca,den-y,,n,1.0,131.47
-Šormaz Ljubica,den-y,,n,0.6,120.32
