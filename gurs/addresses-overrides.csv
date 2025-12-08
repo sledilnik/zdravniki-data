@@ -1,33 +1,27 @@
 postOver,addressOver,cityOver
-1000 Ljubljana,Cesta v Mestni log 55,
 1000 Ljubljana,Metelkova 15,
 1000 Ljubljana,Preglov trg 14,
 1000 Ljubljana,Rakovniška ulica 4,
 1000 Ljubljana,Ulica bratov Babnik 10,
-1000 Ljubljana,Čufarjeva ulica 11,
-1218 Komenda,Glavarjeva cesta 61a,
 1231 Ljubljana-Črnuče,Primožičeva ulica 2,
-1235 Radomlje,Kamniška cesta 24d,Zgornje Jarše
-1236 Trzin,Ljubljanska cesta 12,
+1235 Radomlje,Kamniška cesta 24,Zgornje Jarše
 1236 Trzin,Mengeška 7b,
 1251 Moravče,Vegova ulica 22,
 1292 Ig pri Ljubljani,Banija 4,
 1311 Turjak,Laporje 30,
-1312 Videm - Dobrepolje,Videm 37 a,
 1315 Velike Lašče,Javorškova ulica 9,
 1317 Sodražica,Cesta Notranjskega odreda 16,
 1318 Loški Potok,Hrib-Loški Potok 102,
-1352 Preserje,Jezero 1,
 1353 Borovnica,Mejačeva ulica 3,
-1354 Horjul,Slovenska cesta 17,
 1358 Log pri Brezovici,Loška cesta 12,
 1358 Log pri Brezovici,Šolska ulica 1,
 1360 Vrhnika,Lošca 1,
-1360 Vrhnika,Stara cesta 4a,
 1360 Vrhnika,Stara cesta 7,
+1411 izlake,Izlake 13,
 1432 Zidani Most,Zidani most 9,
 2000 Maribor,Kalohova ulica 18,
 2000 Maribor,Pohorska ulica 21a,
+2000 Maribor,Turnerjeva ulica 33,
 2000 Maribor,Ulica Kneza Koclja 10,
 2000 Maribor,Ulica kneza Koclja 11,
 2000 Maribor,Zagrebška cesta 84a,
@@ -64,7 +58,6 @@ postOver,addressOver,cityOver
 3342 Gornji Grad ,Tlaka 10,
 4000 Kranj,Ljubljanska cesta 24A,
 4000 Kranj,Škofjeloška cesta 6,
-4000 Kranj,Žanova ulica 3,
 4204 Golnik,Golnik 36,
 4206 Zgornje Jezersko,Zgornje Jezersko 82,
 4220 Škofja Loka,Stara cesta 10,
@@ -99,4 +92,6 @@ postOver,addressOver,cityOver
 8233 Mirna,Cesta na Fužine 10,
 8270 Krško,Cesta krških žrtev 132C,
 9000 Murska Sobota,Cvetkova ulica 10,Murska Sobota
+9000 Murska Sobota,Lendavska ulica 18,Murska Sobota
+9000 Murska Sobota,Mladinska ulica 10,Murska Sobota
 9220 Lendava - Lendva,Mlinska ulica 6,Lendava
