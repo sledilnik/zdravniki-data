@@ -30,7 +30,6 @@ postOver,addressOver,cityOver
 1432 Zidani Most,Zidani most 9,
 2000 Maribor,Kalohova ulica 18,
 2000 Maribor,Pohorska ulica 21a,
-2000 Maribor,Turnerjeva ulica 33,
 2000 Maribor,Ulica Kneza Koclja 10,
 2000 Maribor,Ulica kneza Koclja 11,
 2000 Maribor,Zagrebška cesta 84a,
@@ -65,7 +64,6 @@ postOver,addressOver,cityOver
 3334 Luče ob Savinji,Luče 106,
 3342 Gornji Grad,Tlaka 10,
 3342 Gornji Grad ,Tlaka 10,
-4000 Kranj,Ljubljanska cesta 24A,
 4000 Kranj,Škofjeloška cesta 6,
 4000 Kranj,Žanova ulica 3,
 4204 Golnik,Golnik 36,
@@ -76,7 +74,6 @@ postOver,addressOver,cityOver
 4226 Žiri,Trg svobode 9,
 4228 Železniki,Racovnik 29,
 4240 Radovljica,Kopališka cesta 7,
-4248 Lesce,Železniška ulica 10,
 4264 Bohinjska Bistrica,Triglavska cesta 15,
 5213 Kanal,Morsko 1,
 5230 Bovec,Kot 85,
@@ -94,14 +91,10 @@ postOver,addressOver,cityOver
 6223 Komen,Komen 94,
 6230 Postojna,Kolodvorska cesta 25,
 6257 Pivka,Kolodvorska cesta 24,
-6333 Sečovlje,Sečovlje 44,
 8000 Novo mesto,Seidlova cesta 44,
 8000 Novo mesto,Šmarješka cesta 44,
 8216 Mirna Peč,Trg 2,
 8232 Šentrupert,Šentrupert 124,
 8233 Mirna,Cesta na Fužine 10,
 8270 Krško,Cesta krških žrtev 132C,
-9000 Murska Sobota,Cvetkova ulica 10,Murska Sobota
-9000 Murska Sobota,Lendavska ulica 18,Murska Sobota
 9000 Murska Sobota,Mladinska ulica 10,Murska Sobota
-9220 Lendava - Lendva,Mlinska ulica 6,Lendava
