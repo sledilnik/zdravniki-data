@@ -3,7 +3,6 @@ postOver,addressOver,cityOver,lat,lon,street,streetAlt,housenumber,housenumberAp
 1000 Ljubljana,Metelkova 15,,46.05705,14.51547,Metelkova ulica,,15,,Ljubljana,,Četrtna skupnost Center,Ljubljana,1000,Ljubljana,Osrednjeslovenska
 1000 Ljubljana,Preglov trg 14,,46.05348,14.55878,Preglov trg,,14,,Ljubljana,,Četrtna skupnost Moste,Ljubljana,1000,Ljubljana,Osrednjeslovenska
 1000 Ljubljana,Rakovniška ulica 4,,46.03660,14.52361,Rakovniška ulica,,4,,Ljubljana,,Četrtna skupnost Rudnik,Ljubljana,1000,Ljubljana,Osrednjeslovenska
-1000 Ljubljana,Ulica bratov Babnik 10,,46.07645,14.46600,Ulica bratov Babnik,,10,,Ljubljana,,Četrtna skupnost Dravlje,Ljubljana,1000,Ljubljana,Osrednjeslovenska
 1000 Ljubljana,Čufarjeva ulica 11,,46.05516,14.51021,Čufarjeva ulica,,11,,Ljubljana,,Četrtna skupnost Center,Ljubljana,1000,Ljubljana,Osrednjeslovenska
 1218 Komenda,Glavarjeva cesta 61a,,46.20453,14.53935,Glavarjeva cesta,,61,a,Komenda,,,Komenda,1218,Komenda,Osrednjeslovenska
 1231 Ljubljana-Črnuče,Primožičeva ulica 2,,46.10339,14.53178,Primožičeva ulica,,2,,Ljubljana,,Četrtna skupnost Črnuče,Ljubljana,1231,Ljubljana - Črnuče,Osrednjeslovenska
@@ -13,7 +12,6 @@ postOver,addressOver,cityOver,lat,lon,street,streetAlt,housenumber,housenumberAp
 1236 Trzin,Mengeška 7b,,46.13394,14.56236,Mengeška cesta,,7,b,Trzin,,,Trzin,1236,Trzin,Osrednjeslovenska
 1251 Moravče,Vegova ulica 22,,46.13743,14.74729,Vegova ulica,,22,,Moravče,,Moravče,Moravče,1251,Moravče,Osrednjeslovenska
 1292 Ig pri Ljubljani,Banija 4,,45.95897,14.52720,Banija,,4,,Ig,,,Ig,1292,Ig,Osrednjeslovenska
-1311 Turjak,Laporje 30,,45.87088,14.61679,Laporje,,30,,Laporje,,,Velike Lašče,1311,Turjak,Osrednjeslovenska
 1312 Videm - Dobrepolje,Videm 37 a,,45.84819,14.69546,Videm,,37,a,Videm,,Videm,Dobrepolje,1312,Videm - Dobrepolje,Osrednjeslovenska
 1315 Velike Lašče,Javorškova ulica 9,,45.83502,14.63767,Javorškova ulica,,9,,Velike Lašče,,,Velike Lašče,1315,Velike Lašče,Osrednjeslovenska
 1317 Sodražica,Cesta Notranjskega odreda 16,,45.76343,14.63376,Cesta Notranjskega odreda,,16,,Sodražica,,,Sodražica,1317,Sodražica,Jugovzhodna Slovenija
@@ -26,8 +24,6 @@ postOver,addressOver,cityOver,lat,lon,street,streetAlt,housenumber,housenumberAp
 1360 Vrhnika,Lošca 1,,45.96263,14.29674,Lošca,,1,,Vrhnika,,Vrhnika Center,Vrhnika,1360,Vrhnika,Osrednjeslovenska
 1360 Vrhnika,Stara cesta 4a,,45.96590,14.29733,Stara cesta,,4,a,Vrhnika,,Vrhnika Center,Vrhnika,1360,Vrhnika,Osrednjeslovenska
 1360 Vrhnika,Stara cesta 7,,45.96563,14.29688,Stara cesta,,7,,Vrhnika,,Vrhnika Breg,Vrhnika,1360,Vrhnika,Osrednjeslovenska
-1411 izlake,Izlake 13,,46.15540,14.92923,Izlake,,13,,Izlake,,Izlake,Zagorje ob Savi,1411,Izlake,Zasavska
-1432 Zidani Most,Zidani most 9,,46.08562,15.17046,Zidani Most,,9,,Zidani Most,,Zidani Most,Laško,1432,Zidani Most,Savinjska
 2000 Maribor,Kalohova ulica 18,,46.55507,15.61747,Kalohova ulica,,18,,Maribor,,Studenci,Maribor,2000,Maribor,Podravska
 2000 Maribor,Pohorska ulica 21a,,46.53843,15.60483,Pohorska ulica,,21,a,Maribor,,Radvanje,Maribor,2000,Maribor,Podravska
 2000 Maribor,Turnerjeva ulica 33,,46.56489,15.63232,Turnerjeva ulica,,33,,Maribor,,Koroška vrata,Maribor,2000,Maribor,Podravska
@@ -92,7 +88,6 @@ postOver,addressOver,cityOver,lat,lon,street,streetAlt,housenumber,housenumberAp
 6210 Sežana,Ulica Ivana Turšiča 6,,45.70826,13.86425,Ulica Ivana Turšiča,,6,,Sežana,,Sežana,Sežana,6210,Sežana,Obalno-kraška
 6215 Divača,Ulica 1. maja 1,,45.68253,13.97086,Ulica 1. maja,,1,,Divača,,Divača,Divača,6215,Divača,Obalno-kraška
 6223 Komen,Komen 94,,45.81793,13.74670,Komen,,94,,Komen,,Komen,Komen,6223,Komen,Obalno-kraška
-6230 Postojna,Kolodvorska cesta 25,,45.77308,14.22128,Kolodvorska cesta,,25,,Postojna,,Postojna,Postojna,6230,Postojna,Primorsko-notranjska
 6257 Pivka,Kolodvorska cesta 24,,45.68043,14.19460,Kolodvorska cesta,,24,,Pivka,,Pivka,Pivka,6257,Pivka,Primorsko-notranjska
 6333 Sečovlje,Sečovlje 44,,45.47541,13.61973,Sečovlje,Sicciole,44,,Sečovlje,Sicciole,Sečovlje,Piran,6333,Sečovlje - Sicciole,Obalno-kraška
 8000 Novo mesto,Seidlova cesta 44,,45.81249,15.17404,Seidlova cesta,,44,,Novo mesto,,Krajevna skupnost Ločna-Mačkovec,Novo mesto,8000,Novo mesto,Jugovzhodna Slovenija
