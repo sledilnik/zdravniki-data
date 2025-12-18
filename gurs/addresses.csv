@@ -182,7 +182,7 @@ postZZZS,addressZZZS,lat,lon,street,streetAlt,housenumber,housenumberAppendix,ci
 1000 LJUBLJANA,ŠESTOVA ULICA 10,46.04631,14.48719,Šestova ulica,,10,,Ljubljana,,Četrtna skupnost Vič,Ljubljana,1000,Ljubljana,Osrednjeslovenska
 1000 LJUBLJANA,ŠLAJMERJEVA ULICA 6,46.05426,14.52502,Šlajmerjeva ulica,,6,,Ljubljana,,Četrtna skupnost Center,Ljubljana,1000,Ljubljana,Osrednjeslovenska
 1000 LJUBLJANA,ŠMARTINSKA CESTA 56,46.06430,14.52890,Šmartinska cesta,,56,,Ljubljana,,Četrtna skupnost Jarše,Ljubljana,1000,Ljubljana,Osrednjeslovenska
-1000 LJUBLJANA,ŠTEMBALOVA 2 A,46.07912,14.51537,Štembalova ulica,,2,a,Ljubljana,,Četrtna skupnost Bežigrad,Ljubljana,1000,Ljubljana,Osrednjeslovenska
+1000 LJUBLJANA,ŠTEMBALOVA ULICA 2A,46.07912,14.51537,Štembalova ulica,,2,a,Ljubljana,,Četrtna skupnost Bežigrad,Ljubljana,1000,Ljubljana,Osrednjeslovenska
 1000 LJUBLJANA,ŠTIHOVA ULICA 3,46.06083,14.51500,Štihova ulica,,3,,Ljubljana,,Četrtna skupnost Bežigrad,Ljubljana,1000,Ljubljana,Osrednjeslovenska
 1000 LJUBLJANA,ŽELEZNA CESTA 10,46.06082,14.51403,Železna cesta,,10,,Ljubljana,,Četrtna skupnost Bežigrad,Ljubljana,1000,Ljubljana,Osrednjeslovenska
 1000 LJUBLJANA,ŽELEZNA CESTA 16,46.06275,14.51369,Železna cesta,,16,,Ljubljana,,Četrtna skupnost Bežigrad,Ljubljana,1000,Ljubljana,Osrednjeslovenska
@@ -235,16 +235,15 @@ postZZZS,addressZZZS,lat,lon,street,streetAlt,housenumber,housenumberAppendix,ci
 1234 MENGEŠ,GLAVNI TRG 13,46.16820,14.57322,Glavni trg,,13,,Mengeš,,,Mengeš,1234,Mengeš,Osrednjeslovenska
 1234 MENGEŠ,ROPRETOVA CESTA 23,46.15862,14.56291,Ropretova cesta,,23,,Mengeš,,,Mengeš,1234,Mengeš,Osrednjeslovenska
 1234 MENGEŠ,ZAVRTI 45,46.16750,14.57426,Zavrti,,45,,Mengeš,,,Mengeš,1234,Mengeš,Osrednjeslovenska
-1234 MENGEŠ,ZORANINA 3,46.16207,14.57100,Zoranina ulica,,3,,Mengeš,,,Mengeš,1234,Mengeš,Osrednjeslovenska
 1234 MENGEŠ,ZORANINA ULICA 3,46.16207,14.57100,Zoranina ulica,,3,,Mengeš,,,Mengeš,1234,Mengeš,Osrednjeslovenska
 1235 RADOMLJE,KAMNIŠKA CESTA 24,,,,,,,,,,,,,
 1235 RADOMLJE,PELECHOVA CESTA 18,46.16801,14.59744,Pelechova cesta,,18,,Preserje pri Radomljah,,Preserje,Domžale,1235,Radomlje,Osrednjeslovenska
 1235 RADOMLJE,PERNETOVA ULICA 2,46.17533,14.61882,Pernetova ulica,,2,,Radomlje,,Radomlje,Domžale,1235,Radomlje,Osrednjeslovenska
 1236 TRZIN,BLATNICA 12,46.12198,14.55191,Blatnica,,12,,Trzin,,,Trzin,1236,Trzin,Osrednjeslovenska
 1236 TRZIN,HRASTOVEC 18,46.12120,14.54967,Hrastovec,,18,,Trzin,,,Trzin,1236,Trzin,Osrednjeslovenska
-1236 TRZIN,LJUBLJANSKA CESTA 12 F,46.13304,14.56185,Ljubljanska cesta,,12,f,Trzin,,,Trzin,1236,Trzin,Osrednjeslovenska
-1240 KAMNIK,KOVINARSKA CESTA 4,,,,,,,,,,,,,
+1236 TRZIN,LJUBLJANSKA CESTA 12F,46.13304,14.56185,Ljubljanska cesta,,12,f,Trzin,,,Trzin,1236,Trzin,Osrednjeslovenska
 1240 KAMNIK,NEVELJSKA POT 26,,,,,,,,,,,,,
+1241 KAMNIK,KOVINARSKA CESTA 4,46.21785,14.60697,Kovinarska cesta,,4,,Kamnik,,Perovo,Kamnik,1241,Kamnik,Osrednjeslovenska
 1241 KAMNIK,LJUBLJANSKA CESTA 33B,46.20338,14.59764,Ljubljanska cesta,,33,b,Kamnik,,Duplica,Kamnik,1241,Kamnik,Osrednjeslovenska
 1241 KAMNIK,LJUBLJANSKA CESTA 4 J,46.21694,14.60311,Ljubljanska cesta,,4,j,Kamnik,,Perovo,Kamnik,1241,Kamnik,Osrednjeslovenska
 1241 KAMNIK,NA BREGU 24,46.21033,14.61271,Na bregu,,24,,Kamnik,,Novi trg,Kamnik,1241,Kamnik,Osrednjeslovenska
@@ -257,7 +256,7 @@ postZZZS,addressZZZS,lat,lon,street,streetAlt,housenumber,housenumberAppendix,ci
 1241 KAMNIK,USNJARSKA CESTA 10,46.22374,14.61219,Usnjarska cesta,,10,,Kamnik,,Kamnik-Center,Kamnik,1241,Kamnik,Osrednjeslovenska
 1241 KAMNIK,ZIKOVA ULICA 3,46.21533,14.60444,Zikova ulica,,3,,Kamnik,,Perovo,Kamnik,1241,Kamnik,Osrednjeslovenska
 1241 KAMNIK,ŠUTNA 7,46.22403,14.60998,Šutna,,7,,Kamnik,,Kamnik-Center,Kamnik,1241,Kamnik,Osrednjeslovenska
-1251 MORAVČE,VEGOVA 22,46.13743,14.74729,Vegova ulica,,22,,Moravče,,Moravče,Moravče,1251,Moravče,Osrednjeslovenska
+1251 MORAVČE,VEGOVA ULICA 22,46.13743,14.74729,Vegova ulica,,22,,Moravče,,Moravče,Moravče,1251,Moravče,Osrednjeslovenska
 1260 LJUBLJANA - POLJE,CHENGDUJSKA CESTA 45,46.05254,14.57167,Chengdujska cesta,,45,,Ljubljana,,Četrtna skupnost Moste,Ljubljana,1260,Ljubljana - Polje,Osrednjeslovenska
 1260 LJUBLJANA - POLJE,SNEBERSKA CESTA 128 B,46.07327,14.58923,Sneberska cesta,,128,b,Ljubljana,,Četrtna skupnost Polje,Ljubljana,1260,Ljubljana - Polje,Osrednjeslovenska
 1260 LJUBLJANA - POLJE,ZADOBROVŠKA CESTA 18 A,46.05719,14.58402,Zadobrovška cesta,,18,a,Ljubljana,,Četrtna skupnost Polje,Ljubljana,1260,Ljubljana - Polje,Osrednjeslovenska
@@ -269,7 +268,7 @@ postZZZS,addressZZZS,lat,lon,street,streetAlt,housenumber,housenumberAppendix,ci
 1270 LITIJA,PARTIZANSKA POT 8 A,46.05389,14.83656,Partizanska pot,,8,a,Litija,,Mestna skupnost Litija,Litija,1270,Litija,Zasavska
 1270 LITIJA,PONOVIŠKA CESTA 6,46.05833,14.82866,Ponoviška cesta,,6,,Litija,,Mestna skupnost Litija,Litija,1270,Litija,Zasavska
 1270 LITIJA,ZASAVSKA CESTA 3,46.05899,14.83352,Zasavska cesta,,3,,Litija,,Mestna skupnost Litija,Litija,1270,Litija,Zasavska
-1270 LITIJA,ČRNI POTOK 13,46.02553,14.83927,Črni Potok,,13,,Črni Potok,,Krajevna skupnost Vintarjevec,Šmartno pri Litiji,1275,Šmartno pri Litiji,Osrednjeslovenska
+1275 ŠMARTNO PRI LITIJI,ČRNI POTOK 12,46.02609,14.83831,Črni Potok,,12,,Črni Potok,,Krajevna skupnost Vintarjevec,Šmartno pri Litiji,1275,Šmartno pri Litiji,Osrednjeslovenska
 1275 ŠMARTNO PRI LITIJI,ČRNI POTOK 13,46.02553,14.83927,Črni Potok,,13,,Črni Potok,,Krajevna skupnost Vintarjevec,Šmartno pri Litiji,1275,Šmartno pri Litiji,Osrednjeslovenska
 1290 GROSUPLJE,ADAMIČEVA CESTA 24 B,45.95652,14.65972,Adamičeva cesta,,24,b,Grosuplje,,Grosuplje,Grosuplje,1290,Grosuplje,Osrednjeslovenska
 1290 GROSUPLJE,ADAMIČEVA CESTA 41 B,45.95673,14.66126,Adamičeva cesta,,41,b,Grosuplje,,Grosuplje,Grosuplje,1290,Grosuplje,Osrednjeslovenska
@@ -285,7 +284,7 @@ postZZZS,addressZZZS,lat,lon,street,streetAlt,housenumber,housenumberAppendix,ci
 1295 IVANČNA GORICA,CESTA 2. GRUPE ODREDOV 16,45.93759,14.80558,Cesta 2. grupe odredov,,16,,Ivančna Gorica,,Ivančna Gorica,Ivančna Gorica,1295,Ivančna Gorica,Osrednjeslovenska
 1295 IVANČNA GORICA,CESTA OBČINE HIRSCHAID 3,45.94555,14.80902,Cesta občine Hirschaid,,3,,Ivančna Gorica,,Ivančna Gorica,Ivančna Gorica,1295,Ivančna Gorica,Osrednjeslovenska
 1295 IVANČNA GORICA,LJUBLJANSKA CESTA 16,45.93883,14.80347,Ljubljanska cesta,,16,,Ivančna Gorica,,Ivančna Gorica,Ivančna Gorica,1295,Ivančna Gorica,Osrednjeslovenska
-1295 IVANČNA GORICA,MULJAVA 22 A,45.90163,14.79974,Muljava,,22,a,Muljava,,Muljava,Ivančna Gorica,1295,Ivančna Gorica,Osrednjeslovenska
+1295 IVANČNA GORICA,MULJAVA 22A,45.90163,14.79974,Muljava,,22,a,Muljava,,Muljava,Ivančna Gorica,1295,Ivančna Gorica,Osrednjeslovenska
 1295 IVANČNA GORICA,SOKOLSKA ULICA 5,45.93826,14.80470,Sokolska ulica,,5,,Ivančna Gorica,,Ivančna Gorica,Ivančna Gorica,1295,Ivančna Gorica,Osrednjeslovenska
 1296 ŠENTVID PRI STIČNI,ŠENTVID PRI STIČNI,,,,,,,,,,,,,
 1296 ŠENTVID PRI STIČNI,ŠENTVID PRI STIČNI 177,45.95086,14.83997,Šentvid pri Stični,,177,,Šentvid pri Stični,,Šentvid pri Stični,Ivančna Gorica,1296,Šentvid pri Stični,Osrednjeslovenska
@@ -391,6 +390,7 @@ postZZZS,addressZZZS,lat,lon,street,streetAlt,housenumber,housenumberAppendix,ci
 2000 MARIBOR,CANKARJEVA ULICA 6 D,46.56117,15.65419,Cankarjeva ulica,,6,d,Maribor,,Ivan Cankar,Maribor,2000,Maribor,Podravska
 2000 MARIBOR,CESTA OSVOBODILNE FRONTE 43,46.54995,15.66864,Cesta Osvobodilne fronte,,43,,Maribor,,Pobrežje,Maribor,2000,Maribor,Podravska
 2000 MARIBOR,CESTA OSVOBODILNE FRONTE 44,46.54946,15.66849,Cesta Osvobodilne fronte,,44,,Maribor,,Pobrežje,Maribor,2000,Maribor,Podravska
+2000 MARIBOR,CESTA PROLETARSKIH BRIGAD 21,46.53994,15.64365,Cesta proletarskih brigad,,21,,Maribor,,Tabor,Maribor,2000,Maribor,Podravska
 2000 MARIBOR,CESTA PROLETARSKIH BRIGAD 79,46.54401,15.62699,Cesta proletarskih brigad,,79,,Maribor,,Nova vas,Maribor,2000,Maribor,Podravska
 2000 MARIBOR,CESTA XIV. DIVIZIJE 30,46.55159,15.66267,Cesta XIV. divizije,,30,,Maribor,,Pobrežje,Maribor,2000,Maribor,Podravska
 2000 MARIBOR,CESTA XIV.DIVIZIJE 34,46.55115,15.66257,Cesta XIV. divizije,,34,,Maribor,,Pobrežje,Maribor,2000,Maribor,Podravska
@@ -454,6 +454,7 @@ postZZZS,addressZZZS,lat,lon,street,streetAlt,housenumber,housenumberAppendix,ci
 2000 MARIBOR,PUPINOVA ULICA 4,46.55252,15.64493,Pupinova ulica,,4,,Maribor,,Magdalena,Maribor,2000,Maribor,Podravska
 2000 MARIBOR,RADVANJSKA CESTA 134,46.53554,15.62451,Radvanjska cesta,,134,,Maribor,,Radvanje,Maribor,2000,Maribor,Podravska
 2000 MARIBOR,RAZLAGOVA ULICA 24,46.56193,15.65446,Razlagova ulica,,24,,Maribor,,Ivan Cankar,Maribor,2000,Maribor,Podravska
+2000 MARIBOR,RIBNIŠKA ULICA 12,46.56634,15.64954,Ribniška ulica,,12,,Maribor,,Ivan Cankar,Maribor,2000,Maribor,Podravska
 2000 MARIBOR,RIBNIŠKA ULICA 5,46.56844,15.64870,Ribniška ulica,,5,,Maribor,,Center,Maribor,2000,Maribor,Podravska
 2000 MARIBOR,ROSINOVA ULICA 11,46.56364,15.63426,Rosinova ulica,,11,,Maribor,,Koroška vrata,Maribor,2000,Maribor,Podravska
 2000 MARIBOR,ROSINOVA ULICA 2,46.56255,15.63544,Rosinova ulica,,2,,Maribor,,Koroška vrata,Maribor,2000,Maribor,Podravska
@@ -494,7 +495,6 @@ postZZZS,addressZZZS,lat,lon,street,streetAlt,housenumber,housenumberAppendix,ci
 2000 MARIBOR,ŽOLGARJEVA ULICA 7,46.55030,15.64122,Žolgarjeva ulica,,7,,Maribor,,Magdalena,Maribor,2000,Maribor,Podravska
 2102 MARIBOR,UL.BORCEV ZA SEVERNO MEJO 16,,,,,,,,,,,,,
 2103 MARIBOR,PROLETARSKE BRIGADE,,,,,,,,,,,,,
-2103 MARIBOR,RIBNIŠKA UL. 12,,,,,,,,,,,,,
 2103 MARIBOR,SODNA UL. 13,,,,,,,,,,,,,
 2103 MARIBOR,UL. TALCEV 5,,,,,,,,,,,,,
 2103 MARIBOR,UL. ŠAVHOVIH 11,,,,,,,,,,,,,
@@ -528,7 +528,6 @@ postZZZS,addressZZZS,lat,lon,street,streetAlt,housenumber,housenumberAppendix,ci
 2230 LENART V SLOV. GORICAH,MAISTROVA ULICA 22,46.57734,15.82896,Maistrova ulica,,22,,Lenart v Slov. goricah,,Lenart,Lenart,2230,Lenart v Slov. goricah,Podravska
 2230 LENART V SLOV. GORICAH,OB POLENI 30,46.57395,15.82674,Ob Poleni,,30,,Lenart v Slov. goricah,,Lenart,Lenart,2230,Lenart v Slov. goricah,Podravska
 2230 LENART V SLOV. GORICAH,RADEHOVA 5 C,46.56767,15.84591,Radehova,,5,c,Radehova,,Lenart,Lenart,2230,Lenart v Slov. goricah,Podravska
-2230 LENART V SLOV.GORICAH,HRASTOVEC 22,,,,,,,,,,,,,
 2231 PERNICA,PERNICA,,,,,,,,,,,,,
 2233 SV. ANA V SLOV. GORICAH,KREMBERK 36 A,46.64786,15.84250,Kremberk,,36,a,Kremberk,,,Sveta Ana,2233,Sv. Ana v Slov. goricah,Podravska
 2234 BENEDIKT,ČOLNIKOV TRG 14,46.60628,15.89185,Čolnikov trg,,14,,Benedikt,,,Benedikt,2234,Benedikt,Podravska
@@ -692,7 +691,6 @@ postZZZS,addressZZZS,lat,lon,street,streetAlt,housenumber,housenumberAppendix,ci
 2391 PREVALJE,POLJE 4,46.54759,14.92249,Polje,,4,,Prevalje,,,Prevalje,2391,Prevalje,Koroška
 2391 PREVALJE,TRG 32,46.54497,14.91429,Trg,,32,,Prevalje,,,Prevalje,2391,Prevalje,Koroška
 2391 PREVALJE,TRG 58A,46.54639,14.91692,Trg,,58,a,Prevalje,,,Prevalje,2391,Prevalje,Koroška
-2392 MEŽICA,PARTIZANSKA 17,46.51905,14.85387,Partizanska cesta,,17,,Mežica,,,Mežica,2392,Mežica,Koroška
 2392 MEŽICA,PARTIZANSKA CESTA 17,46.51905,14.85387,Partizanska cesta,,17,,Mežica,,,Mežica,2392,Mežica,Koroška
 2392 MEŽICA,SMREČNIKOVO 20,46.52036,14.84696,Smrečnikovo,,20,,Mežica,,,Mežica,2392,Mežica,Koroška
 2393 ČRNA NA KOROŠKEM,CENTER 144,46.46870,14.85491,Center,,144,,Črna na Koroškem,,,Črna na Koroškem,2393,Črna na Koroškem,Koroška
@@ -943,7 +941,7 @@ postZZZS,addressZZZS,lat,lon,street,streetAlt,housenumber,housenumberAppendix,ci
 4245 KROPA,LIPNICA 12,46.30630,14.20725,Lipnica,,12,,Lipnica,,Srednja Dobrava,Radovljica,4245,Kropa,Gorenjska
 4248 LESCE,BEGUNJSKA CESTA 7,46.36184,14.16170,Begunjska cesta,,7,,Lesce,,Lesce,Radovljica,4248,Lesce,Gorenjska
 4248 LESCE,DOLINA 12,46.35462,14.15573,Dolina,,12,,Lesce,,Lesce,Radovljica,4248,Lesce,Gorenjska
-4248 LESCE,ŽELEZNIŠKA 10,46.36149,14.15765,Železniška ulica,,10,,Lesce,,Lesce,Radovljica,4248,Lesce,Gorenjska
+4248 LESCE,ŽELEZNIŠKA ULICA 10,46.36149,14.15765,Železniška ulica,,10,,Lesce,,Lesce,Radovljica,4248,Lesce,Gorenjska
 4248 LESCE,ŽELEZNIŠKA ULICA 5,46.36099,14.15865,Železniška ulica,,5,,Lesce,,Lesce,Radovljica,4248,Lesce,Gorenjska
 4260 BLED,CESTA SVOBODE 47 A,46.35838,14.09453,Cesta svobode,,47,a,Bled,,Bled,Bled,4260,Bled,Gorenjska
 4260 BLED,GORENJSKA ULICA 37,46.34715,14.12389,Gorenjska ulica,,37,,Ribno,,Ribno,Bled,4260,Bled,Gorenjska
@@ -1241,8 +1239,8 @@ postZZZS,addressZZZS,lat,lon,street,streetAlt,housenumber,housenumberAppendix,ci
 8270 KRŠKO,CESTA 4. JULIJA 84 A,45.95414,15.49891,Cesta 4. julija,,84,a,Krško,,Krško,Krško,8270,Krško,Posavska
 8270 KRŠKO,CESTA KRŠKIH ŽRTEV 112,45.95115,15.48664,Cesta krških žrtev,,112,,Krško,,Krško,Krško,8270,Krško,Posavska
 8270 KRŠKO,CESTA KRŠKIH ŽRTEV 132 C,45.94307,15.48349,Cesta krških žrtev,,132,c,Krško,,Krško,Krško,8270,Krško,Posavska
+8270 KRŠKO,CESTA KRŠKIH ŽRTEV 132C,45.94307,15.48349,Cesta krških žrtev,,132,c,Krško,,Krško,Krško,8270,Krško,Posavska
 8270 KRŠKO,CESTA KRŠKIH ŽRTEV 43,45.96424,15.48640,Cesta krških žrtev,,43,,Krško,,Krško,Krško,8270,Krško,Posavska
-8270 KRŠKO,CESTA KRŠKIH ŽRTVEV 132 C,,,,,,,,,,,,,
 8270 KRŠKO,KIDRIČEVA ULICA 12,45.95842,15.50265,Kidričeva ulica,,12,,Krško,,Krško,Krško,8270,Krško,Posavska
 8270 KRŠKO,KOLODVORSKA ULICA 7 A,45.95662,15.49438,Kolodvorska ulica,,7,a,Krško,,Krško,Krško,8270,Krško,Posavska
 8270 KRŠKO,KOVINARSKA ULICA 13,45.94392,15.48464,Kovinarska ulica,,13,,Krško,,Krško,Krško,8270,Krško,Posavska
@@ -1336,7 +1334,7 @@ postZZZS,addressZZZS,lat,lon,street,streetAlt,housenumber,housenumberAppendix,ci
 9221 MARTJANCI,MARTJANCI 29 A,46.68523,16.19015,Martjanci,,29,a,Martjanci,,Martjanci,Moravske Toplice,9221,Martjanci,Pomurska
 9221 MARTJANCI,MARTJANCI 35,46.68503,16.19115,Martjanci,,35,,Martjanci,,Martjanci,Moravske Toplice,9221,Martjanci,Pomurska
 9223 DOBROVNIK - DOBRONAK,DOBROVNIK 297,46.65132,16.35208,Dobrovnik,Dobronak,297,,Dobrovnik,Dobronak,KS DOBROVNIK / DOBRONAK,Dobrovnik,9223,Dobrovnik - Dobronak,Pomurska
-9224 TURNIŠČE,ŠTEFANA KOVAČA 97,46.62631,16.31201,Ulica Štefana Kovača,,97,,Turnišče,,Turnišče pri Lendavi,Turnišče,9224,Turnišče,Pomurska
+9224 TURNIŠČE,ULICA ŠTEFANA KOVAČA 97,46.62631,16.31201,Ulica Štefana Kovača,,97,,Turnišče,,Turnišče pri Lendavi,Turnišče,9224,Turnišče,Pomurska
 9226 MORAVSKE TOPLICE,KRANJČEVA ULICA 14 A,46.68480,16.21961,Kranjčeva ulica,,14,a,Moravske Toplice,,Moravske Toplice,Moravske Toplice,9226,Moravske Toplice,Pomurska
 9226 MORAVSKE TOPLICE,ULICA OB IGRIŠČU 3,46.68736,16.21683,Ulica ob igrišču,,3,,Moravske Toplice,,Moravske Toplice,Moravske Toplice,9226,Moravske Toplice,Pomurska
 9231 BELTINCI,BRATONCI 137,46.61781,16.21412,Bratonci,,137,,Bratonci,,Bratonci,Beltinci,9231,Beltinci,Pomurska
@@ -1344,7 +1342,7 @@ postZZZS,addressZZZS,lat,lon,street,streetAlt,housenumber,housenumberAppendix,ci
 9231 BELTINCI,KOCLJEVO NASELJE 9,46.60880,16.23201,Kocljevo naselje,,9,,Beltinci,,Beltinci,Beltinci,9231,Beltinci,Pomurska
 9231 BELTINCI,MLADINSKA ULICA 4,46.60630,16.23580,Mladinska ulica,,4,,Beltinci,,Beltinci,Beltinci,9231,Beltinci,Pomurska
 9231 BELTINCI,PANONSKA ULICA 35 B,46.60893,16.23851,Panonska ulica,,35,b,Beltinci,,Beltinci,Beltinci,9231,Beltinci,Pomurska
-9232 ČRENŠOVCI,JUŠA KRAMARJA 7,46.56918,16.29585,Ulica Juša Kramarja,,7,,Črenšovci,,Črenšovci,Črenšovci,9232,Črenšovci,Pomurska
+9232 ČRENŠOVCI,ULICA JUŠA KRAMARJA 7,46.56918,16.29585,Ulica Juša Kramarja,,7,,Črenšovci,,Črenšovci,Črenšovci,9232,Črenšovci,Pomurska
 9240 LJUTOMER,CESTA I. SLOVENSKEGA TABORA 2,46.52172,16.19326,Cesta I. slovenskega tabora,,2,,Ljutomer,,Ljutomer,Ljutomer,9240,Ljutomer,Pomurska
 9240 LJUTOMER,CESTA I. SLOVENSKEGA TABORA 5,46.52089,16.19360,Cesta I. slovenskega tabora,,5,,Ljutomer,,Ljutomer,Ljutomer,9240,Ljutomer,Pomurska
 9240 LJUTOMER,CESTA I.SLOVENSKEGA TABORA,,,,,,,,,,,,,
