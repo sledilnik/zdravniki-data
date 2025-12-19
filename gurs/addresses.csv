@@ -61,7 +61,7 @@ postZZZS,addressZZZS,lat,lon,street,streetAlt,housenumber,housenumberAppendix,ci
 1000 LJUBLJANA,IGRIŠKA ULICA 12,46.04827,14.49930,Igriška ulica,,12,,Ljubljana,,Četrtna skupnost Center,Ljubljana,1000,Ljubljana,Osrednjeslovenska
 1000 LJUBLJANA,KARLOVŠKA CESTA 10,46.04457,14.50967,Karlovška cesta,,10,,Ljubljana,,Četrtna skupnost Center,Ljubljana,1000,Ljubljana,Osrednjeslovenska
 1000 LJUBLJANA,KLANČARJEVA ULICA 13,46.02575,14.54048,Klančarjeva ulica,,13,,Ljubljana,,Četrtna skupnost Rudnik,Ljubljana,1000,Ljubljana,Osrednjeslovenska
-1000 LJUBLJANA,KLOPČIČEVA 1,46.08015,14.47740,Klopčičeva ulica,,1,,Ljubljana,,Četrtna skupnost Dravlje,Ljubljana,1000,Ljubljana,Osrednjeslovenska
+1000 LJUBLJANA,KLOPČIČEVA ULICA 1,46.08015,14.47740,Klopčičeva ulica,,1,,Ljubljana,,Četrtna skupnost Dravlje,Ljubljana,1000,Ljubljana,Osrednjeslovenska
 1000 LJUBLJANA,KOLEZIJSKA ULICA 1 A,46.04290,14.50142,Kolezijska ulica,,1,a,Ljubljana,,Četrtna skupnost Trnovo,Ljubljana,1000,Ljubljana,Osrednjeslovenska
 1000 LJUBLJANA,KOLEZIJSKA ULICA 25,46.04145,14.49750,Kolezijska ulica,,25,,Ljubljana,,Četrtna skupnost Trnovo,Ljubljana,1000,Ljubljana,Osrednjeslovenska
 1000 LJUBLJANA,KOMANOVA ULICA 1,46.08434,14.51257,Komanova ulica,,1,,Ljubljana,,Četrtna skupnost Posavje,Ljubljana,1000,Ljubljana,Osrednjeslovenska
@@ -84,7 +84,7 @@ postZZZS,addressZZZS,lat,lon,street,streetAlt,housenumber,housenumberAppendix,ci
 1000 LJUBLJANA,LITIJSKA CESTA 38,46.04733,14.54543,Litijska cesta,,38,,Ljubljana,,Četrtna skupnost Golovec,Ljubljana,1000,Ljubljana,Osrednjeslovenska
 1000 LJUBLJANA,LITIJSKA CESTA 43,46.04812,14.54356,Litijska cesta,,43,,Ljubljana,,Četrtna skupnost Golovec,Ljubljana,1000,Ljubljana,Osrednjeslovenska
 1000 LJUBLJANA,LITIJSKA CESTA 47,46.04806,14.54442,Litijska cesta,,47,,Ljubljana,,Četrtna skupnost Golovec,Ljubljana,1000,Ljubljana,Osrednjeslovenska
-1000 LJUBLJANA,MAJORJA LAVRIČA 12,46.07845,14.47673,Majorja Lavriča ulica,,12,,Ljubljana,,Četrtna skupnost Dravlje,Ljubljana,1000,Ljubljana,Osrednjeslovenska
+1000 LJUBLJANA,MAJORJA LAVRIČA ULICA 12,46.07845,14.47673,Majorja Lavriča ulica,,12,,Ljubljana,,Četrtna skupnost Dravlje,Ljubljana,1000,Ljubljana,Osrednjeslovenska
 1000 LJUBLJANA,MALEŠEVA ULICA 36,46.06634,14.47228,Maleševa ulica,,36,,Ljubljana,,Četrtna skupnost Šiška,Ljubljana,1000,Ljubljana,Osrednjeslovenska
 1000 LJUBLJANA,METELKOVA ULICA 15,46.05705,14.51547,Metelkova ulica,,15,,Ljubljana,,Četrtna skupnost Center,Ljubljana,1000,Ljubljana,Osrednjeslovenska
 1000 LJUBLJANA,METELKOVA ULICA 9,46.05658,14.51516,Metelkova ulica,,9,,Ljubljana,,Četrtna skupnost Center,Ljubljana,1000,Ljubljana,Osrednjeslovenska
@@ -367,7 +367,6 @@ postZZZS,addressZZZS,lat,lon,street,streetAlt,housenumber,housenumberAppendix,ci
 1420 TRBOVLJE,KOLONIJA 1. MAJA 21,46.15019,15.05220,Kolonija 1. maja,,21,,Trbovlje,,Fric Keršič,Trbovlje,1420,Trbovlje,Zasavska
 1420 TRBOVLJE,OBRTNIŠKA CESTA 29,46.15872,15.05307,Obrtniška cesta,,29,,Trbovlje,,Franc Fakin,Trbovlje,1420,Trbovlje,Zasavska
 1420 TRBOVLJE,OPEKARNA 1,46.14717,15.04335,Opekarna,,1,,Trbovlje,,Trbovlje - center,Trbovlje,1420,Trbovlje,Zasavska
-1420 TRBOVLJE,RUDARSKA C.12,46.15510,15.04796,Rudarska cesta,,12,,Trbovlje,,Trbovlje - center,Trbovlje,1420,Trbovlje,Zasavska
 1420 TRBOVLJE,RUDARSKA CESTA 12,46.15510,15.04796,Rudarska cesta,,12,,Trbovlje,,Trbovlje - center,Trbovlje,1420,Trbovlje,Zasavska
 1420 TRBOVLJE,RUDARSKA CESTA 9,46.15398,15.04710,Rudarska cesta,,9,,Trbovlje,,Trbovlje - center,Trbovlje,1420,Trbovlje,Zasavska
 1430 HRASTNIK,LOG 19,46.14428,15.08302,Log,,19,,Hrastnik,,Rudnik,Hrastnik,1430,Hrastnik,Zasavska
