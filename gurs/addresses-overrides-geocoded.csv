@@ -4,7 +4,6 @@ postOver,addressOver,cityOver,lat,lon,street,streetAlt,housenumber,housenumberAp
 1000 Ljubljana,Preglov trg 14,,46.05348,14.55878,Preglov trg,,14,,Ljubljana,,Četrtna skupnost Moste,Ljubljana,1000,Ljubljana,Osrednjeslovenska
 1000 Ljubljana,Rakovniška ulica 4,,46.03660,14.52361,Rakovniška ulica,,4,,Ljubljana,,Četrtna skupnost Rudnik,Ljubljana,1000,Ljubljana,Osrednjeslovenska
 1000 Ljubljana,Ulica bratov Babnik 10,,46.07645,14.46600,Ulica bratov Babnik,,10,,Ljubljana,,Četrtna skupnost Dravlje,Ljubljana,1000,Ljubljana,Osrednjeslovenska
-1000 Ljubljana,Čufarjeva ulica 11,,46.05516,14.51021,Čufarjeva ulica,,11,,Ljubljana,,Četrtna skupnost Center,Ljubljana,1000,Ljubljana,Osrednjeslovenska
 1218 Komenda,Glavarjeva cesta 61a,,46.20453,14.53935,Glavarjeva cesta,,61,a,Komenda,,,Komenda,1218,Komenda,Osrednjeslovenska
 1231 Ljubljana-Črnuče,Primožičeva ulica 2,,46.10339,14.53178,Primožičeva ulica,,2,,Ljubljana,,Četrtna skupnost Črnuče,Ljubljana,1231,Ljubljana - Črnuče,Osrednjeslovenska
 1235 Radomlje,Kamniška cesta 24,Zgornje Jarše,46.16452,14.59442,Kamniška cesta,,24,,Zgornje Jarše,,Jarše - Rodica,Domžale,1235,Radomlje,Osrednjeslovenska
@@ -67,7 +66,6 @@ postOver,addressOver,cityOver,lat,lon,street,streetAlt,housenumber,housenumberAp
 3342 Gornji Grad ,Tlaka 10,,46.29728,14.80953,Tlaka,,10,,Gornji Grad,,Gornji Grad,Gornji Grad,3342,Gornji Grad,Savinjska
 4000 Kranj,Ljubljanska cesta 24A,,46.22457,14.35459,Ljubljanska cesta,,24,a,Kranj,,Stražišče,Kranj,4000,Kranj,Gorenjska
 4000 Kranj,Škofjeloška cesta 6,,46.22819,14.35325,Škofjeloška cesta,,6,,Kranj,,Stražišče,Kranj,4000,Kranj,Gorenjska
-4000 Kranj,Žanova ulica 3,,46.24570,14.36350,Žanova ulica,,3,,Kranj,,Primskovo,Kranj,4000,Kranj,Gorenjska
 4204 Golnik,Golnik 36,,46.32966,14.33178,Golnik,,36,,Golnik,,Golnik,Kranj,4204,Golnik,Gorenjska
 4206 Zgornje Jezersko,Zgornje Jezersko 82,,46.39357,14.49840,Zgornje Jezersko,,82,,Zgornje Jezersko,,,Jezersko,4206,Zgornje Jezersko,Gorenjska
 4220 Škofja Loka,Stara cesta 10,,46.16618,14.31281,Stara cesta,,10,,Škofja Loka,,Kamnitnik,Škofja Loka,4220,Škofja Loka,Gorenjska
