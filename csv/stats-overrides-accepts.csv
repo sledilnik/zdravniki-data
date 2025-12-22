@@ -2,6 +2,7 @@ note_override,accepts_override,accepts_override
 Daljša odsotnost (porodniška).,n,1
 Daljša odsotnost.,n,1
 Dela primarno ambulanto 1 dan v mesecu.,n,1
+Gre v pokoj.,n,1
 Ne dela več pri tem izvajalcu,n,1
 Ne dela več pri tem izvajalcu od 1.1.2023.,n,1
 Ne dela več pri tem izvajalcu.,n,63
@@ -20,7 +21,7 @@ Ne sprejema novih pacientov (upokojena).,n,5
 Ne sprejema novih pacientov (v fazi upokojevanja).,n,4
 Ne sprejema novih pacientov (zdravnik medicine dela).,n,3
 Ne sprejema novih pacientov (zdravnik urgentne medicine).,n,3
-Ne sprejema novih pacientov.,n,410
+Ne sprejema novih pacientov.,n,412
 Samo pacienti  dr. Čampa.,n,1
 Samo preventiva šolskih otrok.,n,1
 Sprejema nove paciente,y,4
