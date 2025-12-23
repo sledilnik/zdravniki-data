@@ -797,7 +797,7 @@ postZZZS,addressZZZS,lat,lon,street,streetAlt,housenumber,housenumberAppendix,ci
 3270 LAŠKO,ZDRAVILIŠKA CESTA 6,46.16165,15.23209,Zdraviliška cesta,,6,,Laško,,Laško,Laško,3270,Laško,Savinjska
 3272 RIMSKE TOPLICE,AŠKERČEVA CESTA 4,46.12412,15.19462,Aškerčeva cesta,,4,,Rimske Toplice,,Rimske Toplice,Laško,3272,Rimske Toplice,Savinjska
 3272 RIMSKE TOPLICE,TOPLICE 10,46.11927,15.20326,Toplice,,10,,Rimske Toplice,,Rimske Toplice,Laško,3272,Rimske Toplice,Savinjska
-3273 JURKLOŠTER,JURKLOŠTER,,,,,,,,,,,,,
+3273 JURKLOŠTER,LAHOV GRABEN 6A,46.09262,15.33482,Lahov Graben,,6,a,Lahov Graben,,Jurklošter,Laško,3273,Jurklošter,Savinjska
 3301 PETROVČE,DOBRIŠA VAS 81,46.24659,15.18210,Dobriša vas,,81,,Dobriša vas,,Petrovče,Žalec,3301,Petrovče,Savinjska
 3301 PETROVČE,PETROVČE 33,46.24494,15.18813,Petrovče,,33,,Petrovče,,Petrovče,Žalec,3301,Petrovče,Savinjska
 3301 PETROVČE,PETROVČE 95,46.24465,15.18767,Petrovče,,95,,Petrovče,,Petrovče,Žalec,3301,Petrovče,Savinjska
@@ -836,11 +836,10 @@ postZZZS,addressZZZS,lat,lon,street,streetAlt,housenumber,housenumberAppendix,ci
 3320 VELENJE,VODNIKOVA CESTA 1,46.36151,15.11636,Vodnikova cesta,,1,,Velenje,,Velenje - desni breg,Velenje,3320,Velenje,Savinjska
 3320 VELENJE,ČUFARJEVA CESTA 2,46.36519,15.11251,Čufarjeva cesta,,2,,Velenje,,Velenje - desni breg,Velenje,3320,Velenje,Savinjska
 3325 ŠOŠTANJ,FLORJAN 165 C,46.38507,15.02767,Florjan,,165,c,Florjan,,Skorno - Florjan,Šoštanj,3325,Šoštanj,Savinjska
-3325 ŠOŠTANJ,LAMPRETOV TRG 1,,,,,,,,,,,,,
 3325 ŠOŠTANJ,TRG JOŽETA LAMPRETA 1,46.37648,15.04850,Trg Jožeta Lampreta,,1,,Šoštanj,,Šoštanj,Šoštanj,3325,Šoštanj,Savinjska
 3326 TOPOLŠICA,TOPOLŠICA 64,46.40481,15.02068,Topolšica,,64,,Topolšica,,Topolšica,Šoštanj,3326,Topolšica,Savinjska
 3326 TOPOLŠICA,TOPOLŠICA 77,46.40282,15.01627,Topolšica,,77,,Topolšica,,Topolšica,Šoštanj,3326,Topolšica,Savinjska
-3326 TOPOLŠICA,TOPOLŠČICA 78/A,,,,,,,,,,,,,
+3326 TOPOLŠICA,TOPOLŠICA 78A,46.40255,15.01332,Topolšica,,78,a,Topolšica,,Topolšica,Šoštanj,3326,Topolšica,Savinjska
 3327 ŠMARTNO OB PAKI,ŠMARTNO OB PAKI 146 B,46.33000,15.03759,Šmartno ob Paki,,146,b,Šmartno ob Paki,,,Šmartno ob Paki,3327,Šmartno ob Paki,Savinjska
 3327 ŠMARTNO OB PAKI,ŠMARTNO OB PAKI 80,46.32923,15.03182,Šmartno ob Paki,,80,,Šmartno ob Paki,,,Šmartno ob Paki,3327,Šmartno ob Paki,Savinjska
 3330 MOZIRJE,HRIBERNIKOVA ULICA 4,46.34002,14.96151,Hribernikova ulica,,4,,Mozirje,,Mozirje,Mozirje,3330,Mozirje,Savinjska
@@ -1259,7 +1258,6 @@ postZZZS,addressZZZS,lat,lon,street,streetAlt,housenumber,housenumberAppendix,ci
 8281 SENOVO,BOHORSKA CESTA 2,46.01981,15.47562,Bohorska cesta,,2,,Senovo,,Senovo,Krško,8281,Senovo,Posavska
 8290 SEVNICA,DROŽANJSKA CESTA 68,46.01676,15.31358,Drožanjska cesta,,68,,Sevnica,,Sevnica,Sevnica,8290,Sevnica,Posavska
 8290 SEVNICA,DROŽANJSKA CESTA 90,46.01346,15.31147,Drožanjska cesta,,90,,Sevnica,,Sevnica,Sevnica,8290,Sevnica,Posavska
-8290 SEVNICA,IMPOLCA ARTO 13,,,,,,,,,,,,,
 8290 SEVNICA,POT NA ZAJČJO GORO 75,46.01643,15.29493,Pot na Zajčjo goro,,75,,Sevnica,,Sevnica,Sevnica,8290,Sevnica,Posavska
 8290 SEVNICA,TRG SVOBODE 14,46.01060,15.30248,Trg svobode,,14,,Sevnica,,Sevnica,Sevnica,8290,Sevnica,Posavska
 8290 SEVNICA,TRG SVOBODE 17,46.01073,15.30306,Trg svobode,,17,,Sevnica,,Sevnica,Sevnica,8290,Sevnica,Posavska
