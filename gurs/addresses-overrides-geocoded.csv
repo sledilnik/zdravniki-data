@@ -7,6 +7,7 @@ postOver,addressOver,cityOver,lat,lon,street,streetAlt,housenumber,housenumberAp
 1000 Ljubljana,Čufarjeva ulica 11,,46.05516,14.51021,Čufarjeva ulica,,11,,Ljubljana,,Četrtna skupnost Center,Ljubljana,1000,Ljubljana,Osrednjeslovenska
 1218 Komenda,Glavarjeva cesta 61a,,46.20453,14.53935,Glavarjeva cesta,,61,a,Komenda,,,Komenda,1218,Komenda,Osrednjeslovenska
 1231 Ljubljana-Črnuče,Primožičeva ulica 2,,46.10339,14.53178,Primožičeva ulica,,2,,Ljubljana,,Četrtna skupnost Črnuče,Ljubljana,1231,Ljubljana - Črnuče,Osrednjeslovenska
+1235 Radomlje,Kamniška cesta 24,Zgornje Jarše,46.16452,14.59442,Kamniška cesta,,24,,Zgornje Jarše,,Jarše - Rodica,Domžale,1235,Radomlje,Osrednjeslovenska
 1235 Radomlje,Kamniška cesta 24d,Zgornje Jarše,46.16455,14.59455,Kamniška cesta,,24,d,Zgornje Jarše,,Jarše - Rodica,Domžale,1235,Radomlje,Osrednjeslovenska
 1236 Trzin,Ljubljanska cesta 12,,46.13255,14.56242,Ljubljanska cesta,,12,,Trzin,,,Trzin,1236,Trzin,Osrednjeslovenska
 1236 Trzin,Mengeška 7b,,46.13394,14.56236,Mengeška cesta,,7,b,Trzin,,,Trzin,1236,Trzin,Osrednjeslovenska
@@ -25,9 +26,11 @@ postOver,addressOver,cityOver,lat,lon,street,streetAlt,housenumber,housenumberAp
 1360 Vrhnika,Lošca 1,,45.96263,14.29674,Lošca,,1,,Vrhnika,,Vrhnika Center,Vrhnika,1360,Vrhnika,Osrednjeslovenska
 1360 Vrhnika,Stara cesta 4a,,45.96590,14.29733,Stara cesta,,4,a,Vrhnika,,Vrhnika Center,Vrhnika,1360,Vrhnika,Osrednjeslovenska
 1360 Vrhnika,Stara cesta 7,,45.96563,14.29688,Stara cesta,,7,,Vrhnika,,Vrhnika Breg,Vrhnika,1360,Vrhnika,Osrednjeslovenska
+1411 izlake,Izlake 13,,46.15540,14.92923,Izlake,,13,,Izlake,,Izlake,Zagorje ob Savi,1411,Izlake,Zasavska
 1432 Zidani Most,Zidani most 9,,46.08562,15.17046,Zidani Most,,9,,Zidani Most,,Zidani Most,Laško,1432,Zidani Most,Savinjska
 2000 Maribor,Kalohova ulica 18,,46.55507,15.61747,Kalohova ulica,,18,,Maribor,,Studenci,Maribor,2000,Maribor,Podravska
 2000 Maribor,Pohorska ulica 21a,,46.53843,15.60483,Pohorska ulica,,21,a,Maribor,,Radvanje,Maribor,2000,Maribor,Podravska
+2000 Maribor,Turnerjeva ulica 33,,46.56489,15.63232,Turnerjeva ulica,,33,,Maribor,,Koroška vrata,Maribor,2000,Maribor,Podravska
 2000 Maribor,Ulica Kneza Koclja 10,,46.55691,15.64903,Ulica kneza Koclja,,10,,Maribor,,Center,Maribor,2000,Maribor,Podravska
 2000 Maribor,Ulica kneza Koclja 11,,46.55769,15.65032,Ulica kneza Koclja,,11,,Maribor,,Center,Maribor,2000,Maribor,Podravska
 2000 Maribor,Zagrebška cesta 84a,,46.52839,15.66801,Zagrebška cesta,,84,a,Maribor,,Tezno,Maribor,2000,Maribor,Podravska
@@ -99,4 +102,6 @@ postOver,addressOver,cityOver,lat,lon,street,streetAlt,housenumber,housenumberAp
 8233 Mirna,Cesta na Fužine 10,,45.95289,15.06032,Cesta na Fužine,,10,,Mirna,,,Mirna,8233,Mirna,Jugovzhodna Slovenija
 8270 Krško,Cesta krških žrtev 132C,,45.94307,15.48349,Cesta krških žrtev,,132,c,Krško,,Krško,Krško,8270,Krško,Posavska
 9000 Murska Sobota,Cvetkova ulica 10,Murska Sobota,46.66089,16.16751,Cvetkova ulica,,10,,Murska Sobota,,Center,Murska Sobota,9000,Murska Sobota,Pomurska
+9000 Murska Sobota,Lendavska ulica 18,Murska Sobota,46.66410,16.16828,Lendavska ulica,,18,,Murska Sobota,,Center,Murska Sobota,9000,Murska Sobota,Pomurska
+9000 Murska Sobota,Mladinska ulica 10,Murska Sobota,46.65754,16.16589,Mladinska ulica,,10,,Murska Sobota,,Center,Murska Sobota,9000,Murska Sobota,Pomurska
 9220 Lendava - Lendva,Mlinska ulica 6,Lendava,46.56183,16.45256,Mlinska ulica,Malom utca,6,,Lendava,Lendva,Lendava / Lendva,Lendava,9220,Lendava - Lendva,Pomurska
