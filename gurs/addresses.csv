@@ -310,8 +310,8 @@ postZZZS,addressZZZS,lat,lon,street,streetAlt,housenumber,housenumberAppendix,ci
 1330 KOČEVJE,ROŠKA CESTA 18,45.63938,14.86562,Roška cesta,,18,,Kočevje,,Kočevje-mesto,Kočevje,1330,Kočevje,Jugovzhodna Slovenija
 1330 KOČEVJE,ROŠKA CESTA 20,45.63970,14.86653,Roška cesta,,20,,Kočevje,,Kočevje-mesto,Kočevje,1330,Kočevje,Jugovzhodna Slovenija
 1330 KOČEVJE,ROŠKA CESTA 22,45.64005,14.86716,Roška cesta,,22,,Kočevje,,Kočevje-mesto,Kočevje,1330,Kočevje,Jugovzhodna Slovenija
-1330 KOČEVJE,VAS FARA,,,,,,,,,,,,,
-1337 OSILNICA,OSILNICA,,,,,,,,,,,,,
+1336 KOSTEL,VAS 8,45.47281,14.87447,Vas,,8,,Vas,,Fara - Vas,Kostel,1336,Kostel,Jugovzhodna Slovenija
+1337 OSILNICA,OSILNICA 25,45.52856,14.69598,Osilnica,,25,,Osilnica,,Osilnica,Osilnica,1337,Osilnica,Jugovzhodna Slovenija
 1351 BREZOVICA PRI LJUBLJANI,NOVA POT 5,46.00970,14.41547,Nova pot,,5,,Vnanje Gorice,,Vnanje Gorice,Brezovica,1351,Brezovica pri Ljubljani,Osrednjeslovenska
 1351 BREZOVICA PRI LJUBLJANI,PODPEŠKA CESTA 14,46.02162,14.41607,Podpeška cesta,,14,,Brezovica pri Ljubljani,,Brezovica,Brezovica,1351,Brezovica pri Ljubljani,Osrednjeslovenska
 1351 BREZOVICA PRI LJUBLJANI,PODPEŠKA CESTA 208,46.00242,14.41325,Podpeška cesta,,208,,Vnanje Gorice,,Vnanje Gorice,Brezovica,1351,Brezovica pri Ljubljani,Osrednjeslovenska
@@ -651,7 +651,7 @@ postZZZS,addressZZZS,lat,lon,street,streetAlt,housenumber,housenumberAppendix,ci
 2360 RADLJE OB DRAVI,KOROŠKA CESTA 67 A,46.61537,15.21131,Koroška cesta,,67,a,Radlje ob Dravi,,Radlje ob Dravi,Radlje ob Dravi,2360,Radlje ob Dravi,Koroška
 2360 RADLJE OB DRAVI,MARIBORSKA CESTA 37,46.61372,15.23075,Mariborska cesta,,37,,Radlje ob Dravi,,Radlje ob Dravi,Radlje ob Dravi,2360,Radlje ob Dravi,Koroška
 2360 RADLJE OB DRAVI,PARTIZANSKA ULICA 38,46.61458,15.22869,Partizanska ulica,,38,,Radlje ob Dravi,,Radlje ob Dravi,Radlje ob Dravi,2360,Radlje ob Dravi,Koroška
-2363 PODVELKA,BREZNO,,,,,,,,,,,,,
+2363 PODVELKA,BREZNO 78,46.59305,15.31819,Brezno,,78,,Brezno,,Brezno,Podvelka,2363,Podvelka,Koroška
 2363 PODVELKA,PODVELKA 6,46.59132,15.33442,Podvelka,,6,,Podvelka,,Podvelka,Podvelka,2363,Podvelka,Koroška
 2364 RIBNICA NA POHORJU,RIBNICA NA POHORJU 1,46.53546,15.26719,Ribnica na Pohorju,,1,,Ribnica na Pohorju,,,Ribnica na Pohorju,2364,Ribnica na Pohorju,Koroška
 2366 MUTA,CESTA OB POTOKU 11,46.61491,15.16381,Cesta ob potoku,,11,,Muta,,,Muta,2366,Muta,Koroška
@@ -676,6 +676,7 @@ postZZZS,addressZZZS,lat,lon,street,streetAlt,housenumber,housenumberAppendix,ci
 2383 ŠMARTNO PRI SLOVENJ GRADCU,ŠMARTNO PRI SLOVENJ GRADCU 73 D,46.49274,15.10968,Šmartno pri Slovenj Gradcu,,73,d,Šmartno pri Slovenj Gradcu,,Šmartno,Slovenj Gradec,2383,Šmartno pri Slovenj Gradcu,Koroška
 2383 ŠMARTNO PRI SLOVENJ GRADCU,ŠMARTNO PRI SLOVENJ GRADCU 82,46.49279,15.11095,Šmartno pri Slovenj Gradcu,,82,,Šmartno pri Slovenj Gradcu,,Šmartno,Slovenj Gradec,2383,Šmartno pri Slovenj Gradcu,Koroška
 2390 RAVNE NA KOROŠKEM,GAČNIKOVA POT 3,46.54417,14.96289,Gačnikova pot,,3,,Ravne na Koroškem,,TRG,Ravne na Koroškem,2390,Ravne na Koroškem,Koroška
+2390 RAVNE NA KOROŠKEM,GOZDARSKA POT 11,46.53954,14.96141,Gozdarska pot,,11,,Ravne na Koroškem,,ČEČOVJE,Ravne na Koroškem,2390,Ravne na Koroškem,Koroška
 2390 RAVNE NA KOROŠKEM,JAVORNIK 11,46.54523,14.96880,Javornik,,11,,Ravne na Koroškem,,JAVORNIK - ŠANCE,Ravne na Koroškem,2390,Ravne na Koroškem,Koroška
 2390 RAVNE NA KOROŠKEM,JAVORNIK 21,46.54480,14.97000,Javornik,,21,,Ravne na Koroškem,,JAVORNIK - ŠANCE,Ravne na Koroškem,2390,Ravne na Koroškem,Koroška
 2390 RAVNE NA KOROŠKEM,JAVORNIK 35,46.54358,14.97068,Javornik,,35,,Ravne na Koroškem,,JAVORNIK - ŠANCE,Ravne na Koroškem,2390,Ravne na Koroškem,Koroška
@@ -685,7 +686,6 @@ postZZZS,addressZZZS,lat,lon,street,streetAlt,housenumber,housenumberAppendix,ci
 2390 RAVNE NA KOROŠKEM,OB SUHI 9,46.54334,14.96795,Ob Suhi,,9,,Ravne na Koroškem,,TRG,Ravne na Koroškem,2390,Ravne na Koroškem,Koroška
 2390 RAVNE NA KOROŠKEM,PARTIZANSKA CESTA 4,46.54452,14.96530,Partizanska cesta,,4,,Ravne na Koroškem,,TRG,Ravne na Koroškem,2390,Ravne na Koroškem,Koroška
 2390 RAVNE NA KOROŠKEM,TRG SVOBODE 18 A,46.54428,14.96559,Trg svobode,,18,a,Ravne na Koroškem,,TRG,Ravne na Koroškem,2390,Ravne na Koroškem,Koroška
-2390 RAVNE NA KOROŠKEM,ČEČOVJE,,,,,,,,,,,,,
 2391 PREVALJE,NA FARI 50,46.54731,14.92759,Na Fari,,50,,Prevalje,,,Prevalje,2391,Prevalje,Koroška
 2391 PREVALJE,POLJE 4,46.54759,14.92249,Polje,,4,,Prevalje,,,Prevalje,2391,Prevalje,Koroška
 2391 PREVALJE,TRG 32,46.54497,14.91429,Trg,,32,,Prevalje,,,Prevalje,2391,Prevalje,Koroška
@@ -726,8 +726,8 @@ postZZZS,addressZZZS,lat,lon,street,streetAlt,housenumber,housenumberAppendix,ci
 3000 CELJE,VESELOVA ULICA 13,46.23698,15.26756,Veselova ulica,,13,,Celje,,Dolgo polje,Celje,3000,Celje,Savinjska
 3000 CELJE,ZAGRAD 31 C,46.21596,15.27901,Zagrad,,31,c,Celje,,Pod gradom,Celje,3000,Celje,Savinjska
 3201 ŠMARTNO V ROŽNI DOLINI,GORICA PRI ŠMARTNEM 13,46.27219,15.23887,Gorica pri Šmartnem,,13,,Gorica pri Šmartnem,,Šmartno v Rožni dolini,Celje,3201,Šmartno v Rožni dolini,Savinjska
-3204 DOBRNA,DOBRNA,,,,,,,,,,,,,
 3204 DOBRNA,DOBRNA 34 A,46.33732,15.23024,Dobrna,,34,a,Dobrna,,,Dobrna,3204,Dobrna,Savinjska
+3204 DOBRNA,DOBRNA 5,46.33429,15.22461,Dobrna,,5,,Dobrna,,,Dobrna,3204,Dobrna,Savinjska
 3204 DOBRNA,DOBRNA 50,46.33966,15.22417,Dobrna,,50,,Dobrna,,,Dobrna,3204,Dobrna,Savinjska
 3204 DOBRNA,LOKOVINA 13 A,46.33308,15.21503,Lokovina,,13,a,Lokovina,,,Dobrna,3204,Dobrna,Savinjska
 3205 VITANJE,NA VASI 11,46.38261,15.29604,Na vasi,,11,,Vitanje,,Trška skupnost Vitanje,Vitanje,3205,Vitanje,Savinjska
@@ -1009,7 +1009,6 @@ postZZZS,addressZZZS,lat,lon,street,streetAlt,housenumber,housenumberAppendix,ci
 5250 SOLKAN,SOŠKA CESTA 1 A,45.97375,13.64862,Soška cesta,,1,a,Solkan,,Krajevna skupnost Solkan,Nova Gorica,5250,Solkan,Goriška
 5250 SOLKAN,ŠOLSKA ULICA 25,45.96906,13.64982,Šolska ulica,,25,,Solkan,,Krajevna skupnost Solkan,Nova Gorica,5250,Solkan,Goriška
 5253 ČEPOVAN,ČEPOVAN 90,46.04984,13.79420,Čepovan,,90,,Čepovan,,Krajevna skupnost Čepovan,Nova Gorica,5253,Čepovan,Goriška
-5253 ČEPOVAN,ČEPOVAN 90E,,,,,,,,,,,,,
 5270 AJDOVŠČINA,CESTA 5. MAJA 15,45.89125,13.90296,Cesta 5. maja,,15,,Ajdovščina,,Krajevna skupnost Ajdovščina,Ajdovščina,5270,Ajdovščina,Goriška
 5270 AJDOVŠČINA,GORIŠKA CESTA 78,45.88562,13.88883,Goriška cesta,,78,,Ajdovščina,,Krajevna skupnost Ajdovščina,Ajdovščina,5270,Ajdovščina,Goriška
 5270 AJDOVŠČINA,GREGORČIČEVA ULICA 16,45.88834,13.90342,Gregorčičeva ulica,,16,,Ajdovščina,,Krajevna skupnost Ajdovščina,Ajdovščina,5270,Ajdovščina,Goriška
@@ -1279,7 +1278,7 @@ postZZZS,addressZZZS,lat,lon,street,streetAlt,housenumber,housenumberAppendix,ci
 8340 ČRNOMELJ,ULICA NA PRISTAVAH 1,45.57823,15.19245,Ulica na Pristavah,,1,,Črnomelj,,KS Črnomelj,Črnomelj,8340,Črnomelj,Jugovzhodna Slovenija
 8340 ČRNOMELJ,ULICA OTONA ŽUPANČIČA 3,45.57421,15.19108,Ulica Otona Župančiča,,3,,Črnomelj,,KS Črnomelj,Črnomelj,8340,Črnomelj,Jugovzhodna Slovenija
 8340 ČRNOMELJ,ZADRUŽNA CESTA 33,45.57914,15.19513,Zadružna cesta,,33,,Črnomelj,,KS Črnomelj,Črnomelj,8340,Črnomelj,Jugovzhodna Slovenija
-8342 STARI TRG OB KOLPI,PREDGRAD,,,,,,,,,,,,,
+8342 STARI TRG OB KOLPI,PREDGRAD 2,45.50460,15.05732,Predgrad,,2,,Predgrad,,Poljanska dolina ob Kolpi,Kočevje,8342,Stari trg ob Kolpi,Jugovzhodna Slovenija
 8344 VINICA,VINICA 39 A,45.46053,15.25291,Vinica,,39,a,Vinica,,KS Vinica,Črnomelj,8344,Vinica,Jugovzhodna Slovenija
 8350 DOLENJSKE TOPLICE,KELTSKA ULICA 9,45.75288,15.05415,Keltska ulica,,9,,Dolenjske Toplice,,,Dolenjske Toplice,8350,Dolenjske Toplice,Jugovzhodna Slovenija
 8350 DOLENJSKE TOPLICE,PIONIRSKA CESTA 35,45.75721,15.05350,Pionirska cesta,,35,,Dolenjske Toplice,,,Dolenjske Toplice,8350,Dolenjske Toplice,Jugovzhodna Slovenija
