@@ -206,7 +206,6 @@ postZZZS,addressZZZS,lat,lon,street,streetAlt,housenumber,housenumberAppendix,ci
 1218 KOMENDA,KRANJSKA POT 5,46.20605,14.53743,Kranjska pot,,5,,Komenda,,,Komenda,1218,Komenda,Osrednjeslovenska
 1218 KOMENDA,ZADRUŽNA ULICA 9,46.20483,14.53649,Zadružna ulica,,9,,Komenda,,,Komenda,1218,Komenda,Osrednjeslovenska
 1219 LAZE V TUHINJU,LAZE V TUHINJU 29,46.21946,14.75656,Laze v Tuhinju,,29,,Laze v Tuhinju,,Tuhinj,Kamnik,1219,Laze v Tuhinju,Osrednjeslovenska
-1225 LUKOVICA,LUKOVICA PRI DOMŽALAH 52,,,,,,,,,,,,,
 1225 LUKOVICA,TROJANSKA CESTA 13,46.17023,14.69393,Trojanska cesta,,13,,Lukovica pri Domžalah,,Lukovica,Lukovica,1225,Lukovica,Osrednjeslovenska
 1230 DOMŽALE,CESTA TALCEV 10,46.13789,14.60258,Cesta talcev,,10,,Domžale,,Domžale - Slavka Šlandra,Domžale,1230,Domžale,Osrednjeslovenska
 1230 DOMŽALE,CESTA TALCEV 4,46.13705,14.60077,Cesta talcev,,4,,Domžale,,Domžale - Slavka Šlandra,Domžale,1230,Domžale,Osrednjeslovenska
@@ -381,6 +380,7 @@ postZZZS,addressZZZS,lat,lon,street,streetAlt,housenumber,housenumberAppendix,ci
 2000 MARIBOR,AŠKERČEVA ULICA 7,46.56465,15.65189,Aškerčeva ulica,,7,,Maribor,,Ivan Cankar,Maribor,2000,Maribor,Podravska
 2000 MARIBOR,BETETTOVA ULICA 19,46.53969,15.62985,Betettova ulica,,19,,Maribor,,Nova vas,Maribor,2000,Maribor,Podravska
 2000 MARIBOR,BETNAVSKA CESTA 13,46.54967,15.64086,Betnavska cesta,,13,,Maribor,,Magdalena,Maribor,2000,Maribor,Podravska
+2000 MARIBOR,BORCEV ZA SEVERNO MEJO 16,46.54855,15.65929,Borcev za severno mejo,,16,,Maribor,,Pobrežje,Maribor,2000,Maribor,Podravska
 2000 MARIBOR,BORŠTNIKOVA ULICA 79,46.53511,15.62851,Borštnikova ulica,,79,,Maribor,,Radvanje,Maribor,2000,Maribor,Podravska
 2000 MARIBOR,BORŠTNIKOVA ULICA 83,46.53525,15.62858,Borštnikova ulica,,83,,Maribor,,Radvanje,Maribor,2000,Maribor,Podravska
 2000 MARIBOR,CANKARJEVA ULICA 23 A,46.56374,15.65253,Cankarjeva ulica,,23,a,Maribor,,Ivan Cankar,Maribor,2000,Maribor,Podravska
@@ -492,7 +492,6 @@ postZZZS,addressZZZS,lat,lon,street,streetAlt,housenumber,housenumberAppendix,ci
 2000 MARIBOR,ŽIDOVSKA ULICA 2,46.55703,15.64754,Židovska ulica,,2,,Maribor,,Center,Maribor,2000,Maribor,Podravska
 2000 MARIBOR,ŽOLGARJEVA ULICA 14,46.54949,15.64170,Žolgarjeva ulica,,14,,Maribor,,Magdalena,Maribor,2000,Maribor,Podravska
 2000 MARIBOR,ŽOLGARJEVA ULICA 7,46.55030,15.64122,Žolgarjeva ulica,,7,,Maribor,,Magdalena,Maribor,2000,Maribor,Podravska
-2102 MARIBOR,UL.BORCEV ZA SEVERNO MEJO 16,,,,,,,,,,,,,
 2103 MARIBOR,PROLETARSKE BRIGADE,,,,,,,,,,,,,
 2103 MARIBOR,SODNA UL. 13,,,,,,,,,,,,,
 2103 MARIBOR,UL. TALCEV 5,,,,,,,,,,,,,
@@ -1318,7 +1317,7 @@ postZZZS,addressZZZS,lat,lon,street,streetAlt,housenumber,housenumberAppendix,ci
 9201 PUCONCI,PUCONCI 150,46.70397,16.15779,Puconci,,150,,Puconci,,Puconci,Puconci,9201,Puconci,Pomurska
 9201 PUCONCI,PUCONCI 251,46.69401,16.17399,Puconci,,251,,Puconci,,Puconci,Puconci,9201,Puconci,Pomurska
 9203 PETROVCI,GORNJI PETROVCI 33 A,46.80527,16.21811,Gornji Petrovci,,33,a,Gornji Petrovci,,Gornji Petrovci,Gornji Petrovci,9203,Petrovci,Pomurska
-9203 PETROVCI,PETROVCI 33,,,,,,,,,,,,,
+9203 PETROVCI,GORNJI PETROVCI 33A,46.80527,16.21811,Gornji Petrovci,,33,a,Gornji Petrovci,,Gornji Petrovci,Gornji Petrovci,9203,Petrovci,Pomurska
 9220 LENDAVA - LENDVA,KIDRIČEVA ULICA 34,46.55821,16.45692,Kidričeva ulica,Kidrič utca,34,,Lendava,Lendva,Lendava / Lendva,Lendava,9220,Lendava - Lendva,Pomurska
 9220 LENDAVA - LENDVA,MLINSKA ULICA 6,,,,,,,,,,,,,
 9220 LENDAVA - LENDVA,MLINSKA ULICA 6 E,46.56214,16.45301,Mlinska ulica,Malom utca,6,e,Lendava,Lendva,Lendava / Lendva,Lendava,9220,Lendava - Lendva,Pomurska
@@ -1333,14 +1332,13 @@ postZZZS,addressZZZS,lat,lon,street,streetAlt,housenumber,housenumberAppendix,ci
 9226 MORAVSKE TOPLICE,KRANJČEVA ULICA 14 A,46.68480,16.21961,Kranjčeva ulica,,14,a,Moravske Toplice,,Moravske Toplice,Moravske Toplice,9226,Moravske Toplice,Pomurska
 9226 MORAVSKE TOPLICE,ULICA OB IGRIŠČU 3,46.68736,16.21683,Ulica ob igrišču,,3,,Moravske Toplice,,Moravske Toplice,Moravske Toplice,9226,Moravske Toplice,Pomurska
 9231 BELTINCI,BRATONCI 137,46.61781,16.21412,Bratonci,,137,,Bratonci,,Bratonci,Beltinci,9231,Beltinci,Pomurska
-9231 BELTINCI,CVETNO NASELJE,,,,,,,,,,,,,
+9231 BELTINCI,CVETNO NASELJE 1,46.60945,16.23409,Cvetno naselje,,1,,Beltinci,,Beltinci,Beltinci,9231,Beltinci,Pomurska
 9231 BELTINCI,KOCLJEVO NASELJE 9,46.60880,16.23201,Kocljevo naselje,,9,,Beltinci,,Beltinci,Beltinci,9231,Beltinci,Pomurska
 9231 BELTINCI,MLADINSKA ULICA 4,46.60630,16.23580,Mladinska ulica,,4,,Beltinci,,Beltinci,Beltinci,9231,Beltinci,Pomurska
 9231 BELTINCI,PANONSKA ULICA 35 B,46.60893,16.23851,Panonska ulica,,35,b,Beltinci,,Beltinci,Beltinci,9231,Beltinci,Pomurska
 9232 ČRENŠOVCI,ULICA JUŠA KRAMARJA 7,46.56918,16.29585,Ulica Juša Kramarja,,7,,Črenšovci,,Črenšovci,Črenšovci,9232,Črenšovci,Pomurska
 9240 LJUTOMER,CESTA I. SLOVENSKEGA TABORA 2,46.52172,16.19326,Cesta I. slovenskega tabora,,2,,Ljutomer,,Ljutomer,Ljutomer,9240,Ljutomer,Pomurska
 9240 LJUTOMER,CESTA I. SLOVENSKEGA TABORA 5,46.52089,16.19360,Cesta I. slovenskega tabora,,5,,Ljutomer,,Ljutomer,Ljutomer,9240,Ljutomer,Pomurska
-9240 LJUTOMER,CESTA I.SLOVENSKEGA TABORA,,,,,,,,,,,,,
 9241 VERŽEJ,MAISTROVA ULICA 7,46.58358,16.16056,Maistrova ulica,,7,,Veržej,,,Veržej,9241,Veržej,Pomurska
 9242 KRIŽEVCI PRI LJUTOMERU,KRIŽEVCI PRI LJUTOMERU 1 B,46.56093,16.14015,Križevci pri Ljutomeru,,1,b,Križevci pri Ljutomeru,,,Križevci,9242,Križevci pri Ljutomeru,Pomurska
 9242 KRIŽEVCI PRI LJUTOMERU,KRIŽEVCI PRI LJUTOMERU 3 A,46.56265,16.14110,Križevci pri Ljutomeru,,3,a,Križevci pri Ljutomeru,,,Križevci,9242,Križevci pri Ljutomeru,Pomurska
