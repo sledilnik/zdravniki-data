@@ -51,11 +51,17 @@ postOver,addressOver,cityOver,lat,lon,street,streetAlt,housenumber,housenumberAp
 2363 Podvelka,Podvelka 13,,46.59010,15.33028,Podvelka,,13,,Podvelka,,Podvelka,Podvelka,2363,Podvelka,Koroška
 2370 Dravograd,Trg 4. julija 9,,46.58921,15.02233,Trg 4. julija,,9,,Dravograd,,Dravograd,Dravograd,2370,Dravograd,Koroška
 2391 Prevalje,Trg 58a,,46.54639,14.91692,Trg,,58,a,Prevalje,,,Prevalje,2391,Prevalje,Koroška
+3000 Celje,Gregorčičeva ulica 5,,46.23224,15.26227,Gregorčičeva ulica,,5,,Celje,,Dolgo polje,Celje,3000,Celje,Savinjska
 3256 Bistrica ob Sotli,Bistrica ob Sotli 7,,46.05669,15.66124,Bistrica ob Sotli,,7,,Bistrica ob Sotli,,,Bistrica ob Sotli,3256,Bistrica ob Sotli,Posavska
 3272 Rimske Toplice,Aškerčeva cesta 4,,46.12412,15.19462,Aškerčeva cesta,,4,,Rimske Toplice,,Rimske Toplice,Laško,3272,Rimske Toplice,Savinjska
 3301 Petrovče,Petrovče 33,,46.24494,15.18813,Petrovče,,33,,Petrovče,,Petrovče,Žalec,3301,Petrovče,Savinjska
 3305 Vransko,Vransko 130d,,46.24591,14.95101,Vransko,,130,d,Vransko,,,Vransko,3305,Vransko,Savinjska
+3310 Žalec,Prešernova ulica 6,,46.25093,15.16216,Prešernova ulica,,6,,Žalec,,Mestna skupnost Žalec,Žalec,3310,Žalec,Savinjska
+3314 Braslovče,Braslovče 29,,46.28774,15.03991,Braslovče,,29,,Braslovče,,Braslovče,Braslovče,3314,Braslovče,Savinjska
+3330 Mozirje,Savinjska cesta 6,,46.33885,14.95935,Savinjska cesta,,6,,Mozirje,,Mozirje,Mozirje,3330,Mozirje,Savinjska
 3333 Ljubno ob Savinji,Foršt 28,,46.34498,14.83276,Foršt,,28,,Ljubno ob Savinji,,,Ljubno,3333,Ljubno ob Savinji,Savinjska
+3333 Ljubno ob Savinji,Foršt 55,,46.34459,14.83299,Foršt,,55,,Ljubno ob Savinji,,,Ljubno,3333,Ljubno ob Savinji,Savinjska
+3334 Luče ob Savinji,Luče 106,,46.35640,14.74415,Luče,,106,,Luče,,,Luče,3334,Luče,Savinjska
 3342 Gornji Grad,Tlaka 10,,46.29728,14.80953,Tlaka,,10,,Gornji Grad,,Gornji Grad,Gornji Grad,3342,Gornji Grad,Savinjska
 3342 Gornji Grad ,Tlaka 10,,46.29728,14.80953,Tlaka,,10,,Gornji Grad,,Gornji Grad,Gornji Grad,3342,Gornji Grad,Savinjska
 4000 Kranj,Ljubljanska cesta 24A,,46.22457,14.35459,Ljubljanska cesta,,24,a,Kranj,,Stražišče,Kranj,4000,Kranj,Gorenjska
