@@ -614,7 +614,7 @@ postZZZS,addressZZZS,lat,lon,street,streetAlt,housenumber,housenumberAppendix,ci
 2319 POLJČANE,BISTRIŠKA CESTA 60,46.31333,15.57836,Bistriška cesta,,60,,Poljčane,,,Poljčane,2319,Poljčane,Podravska
 2319 POLJČANE,BISTRIŠKA CESTA 62,46.31290,15.57823,Bistriška cesta,,62,,Poljčane,,,Poljčane,2319,Poljčane,Podravska
 2319 POLJČANE,BISTRIŠKA CESTA 97,46.30821,15.57729,Bistriška cesta,,97,,Poljčane,,,Poljčane,2319,Poljčane,Podravska
-2319 POLJČANE,DRAVINJSKA CESTA 999,,,,,,,,,,,,,
+2319 POLJČANE,DRAVINJSKA CESTA 26,46.31155,15.58101,Dravinjska cesta,,26,,Poljčane,,,Poljčane,2319,Poljčane,Podravska
 2319 POLJČANE,POTRČEVA ULICA 1,46.30471,15.58068,Potrčeva ulica,,1,,Zgornje Poljčane,,,Poljčane,2319,Poljčane,Podravska
 2321 MAKOLE,MAKOLE 28,46.31735,15.66729,Makole,,28,,Makole,,Vaška skupnost Makole,Makole,2321,Makole,Podravska
 2322 MAJŠPERK,BREG 6 A,46.33947,15.73623,Breg,,6,a,Breg,,Krajevna skupnost Majšperk,Majšperk,2322,Majšperk,Podravska
@@ -1207,7 +1207,6 @@ postZZZS,addressZZZS,lat,lon,street,streetAlt,housenumber,housenumberAppendix,ci
 8220 ŠMARJEŠKE TOPLICE,ŠMARJETA 70A,45.88390,15.25023,Šmarjeta,,70,a,Šmarjeta,,,Šmarješke Toplice,8220,Šmarješke Toplice,Jugovzhodna Slovenija
 8222 OTOČEC,DOBRAVA 72,45.83717,15.21974,Dobrava,,72,,Otočec,,Krajevna skupnost Otočec,Novo mesto,8222,Otočec,Jugovzhodna Slovenija
 8230 MOKRONOG,PARADIŽ 14,45.94189,15.14896,Paradiž,,14,,Mokronog,,,Mokronog-Trebelno,8230,Mokronog,Jugovzhodna Slovenija
-8232 ŠENTRUPERT,PRELESJE 34 A,45.96053,15.10159,Prelesje,,34,a,Prelesje,,,Šentrupert,8232,Šentrupert,Jugovzhodna Slovenija
 8232 ŠENTRUPERT,ŠENTRUPERT 124,45.97680,15.08850,Šentrupert,,124,,Šentrupert,,,Šentrupert,8232,Šentrupert,Jugovzhodna Slovenija
 8233 MIRNA,CESTA NA FUŽINE 10,45.95289,15.06032,Cesta na Fužine,,10,,Mirna,,,Mirna,8233,Mirna,Jugovzhodna Slovenija
 8250 BREŽICE,DALMATINOVA ULICA 13,45.91550,15.58866,Dalmatinova ulica,,13,,Brežice,,Šentlenart,Brežice,8250,Brežice,Posavska
