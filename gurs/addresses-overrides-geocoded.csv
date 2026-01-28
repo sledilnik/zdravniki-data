@@ -7,7 +7,6 @@ postOver,addressOver,cityOver,lat,lon,street,streetAlt,housenumber,housenumberAp
 1000 Ljubljana,Čufarjeva ulica 11,,46.05516,14.51021,Čufarjeva ulica,,11,,Ljubljana,,Četrtna skupnost Center,Ljubljana,1000,Ljubljana,Osrednjeslovenska
 1218 Komenda,Glavarjeva cesta 61a,,46.20453,14.53935,Glavarjeva cesta,,61,a,Komenda,,,Komenda,1218,Komenda,Osrednjeslovenska
 1231 Ljubljana-Črnuče,Primožičeva ulica 2,,46.10339,14.53178,Primožičeva ulica,,2,,Ljubljana,,Četrtna skupnost Črnuče,Ljubljana,1231,Ljubljana - Črnuče,Osrednjeslovenska
-1235 Radomlje,Kamniška cesta 24,Zgornje Jarše,46.16452,14.59442,Kamniška cesta,,24,,Zgornje Jarše,,Jarše - Rodica,Domžale,1235,Radomlje,Osrednjeslovenska
 1235 Radomlje,Kamniška cesta 24d,Zgornje Jarše,46.16455,14.59455,Kamniška cesta,,24,d,Zgornje Jarše,,Jarše - Rodica,Domžale,1235,Radomlje,Osrednjeslovenska
 1236 Trzin,Mengeška 7b,,46.13394,14.56236,Mengeška cesta,,7,b,Trzin,,,Trzin,1236,Trzin,Osrednjeslovenska
 1251 Moravče,Vegova ulica 22,,46.13743,14.74729,Vegova ulica,,22,,Moravče,,Moravče,Moravče,1251,Moravče,Osrednjeslovenska
@@ -49,7 +48,6 @@ postOver,addressOver,cityOver,lat,lon,street,streetAlt,housenumber,housenumberAp
 2351 Kamnica,Vrbanska cesta 97,,46.57322,15.61582,Vrbanska cesta,,97,,Kamnica,,Kamnica,Maribor,2351,Kamnica,Podravska
 2352 Selnica ob Dravi,Slovenski trg 4a,,46.55157,15.49335,Slovenski trg,,4,a,Selnica ob Dravi,,,Selnica ob Dravi,2352,Selnica ob Dravi,Podravska
 2363 Podvelka,Podvelka 13,,46.59010,15.33028,Podvelka,,13,,Podvelka,,Podvelka,Podvelka,2363,Podvelka,Koroška
-2370 Dravograd,Trg 4. julija 9,,46.58921,15.02233,Trg 4. julija,,9,,Dravograd,,Dravograd,Dravograd,2370,Dravograd,Koroška
 2391 Prevalje,Trg 58a,,46.54639,14.91692,Trg,,58,a,Prevalje,,,Prevalje,2391,Prevalje,Koroška
 3000 Celje,Gregorčičeva ulica 5,,46.23224,15.26227,Gregorčičeva ulica,,5,,Celje,,Dolgo polje,Celje,3000,Celje,Savinjska
 3256 Bistrica ob Sotli,Bistrica ob Sotli 7,,46.05669,15.66124,Bistrica ob Sotli,,7,,Bistrica ob Sotli,,,Bistrica ob Sotli,3256,Bistrica ob Sotli,Posavska
