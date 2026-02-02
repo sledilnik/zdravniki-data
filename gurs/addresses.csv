@@ -351,6 +351,7 @@ postZZZS,addressZZZS,lat,lon,street,streetAlt,housenumber,housenumberAppendix,ci
 1370 LOGATEC,GUBČEVA ULICA 8 A,45.91896,14.21734,Gubčeva ulica,,8,a,Logatec,,Naklo,Logatec,1370,Logatec,Osrednjeslovenska
 1370 LOGATEC,GUBČEVA ULICA 8A,45.91896,14.21734,Gubčeva ulica,,8,a,Logatec,,Naklo,Logatec,1370,Logatec,Osrednjeslovenska
 1370 LOGATEC,NOTRANJSKA CESTA 2,45.91681,14.22768,Notranjska cesta,,2,,Logatec,,Naklo,Logatec,1370,Logatec,Osrednjeslovenska
+1370 LOGATEC,NOVA VAS 11,45.91600,14.22752,Nova vas,,11,,Logatec,,Naklo,Logatec,1370,Logatec,Osrednjeslovenska
 1370 LOGATEC,PARTIZANSKA ULICA 8 A,45.91832,14.22152,Partizanska ulica,,8,a,Logatec,,Naklo,Logatec,1370,Logatec,Osrednjeslovenska
 1370 LOGATEC,ŠOLSKA POT 1,45.91693,14.22877,Šolska pot,,1,,Logatec,,Naklo,Logatec,1370,Logatec,Osrednjeslovenska
 1380 CERKNICA,CESTA 4. MAJA 17,45.79122,14.36578,Cesta 4. maja,,17,,Cerknica,,Cerknica,Cerknica,1380,Cerknica,Primorsko-notranjska
@@ -916,6 +917,7 @@ postZZZS,addressZZZS,lat,lon,street,streetAlt,housenumber,housenumberAppendix,ci
 4220 ŠKOFJA LOKA,STARA CESTA 10,46.16618,14.31281,Stara cesta,,10,,Škofja Loka,,Kamnitnik,Škofja Loka,4220,Škofja Loka,Gorenjska
 4220 ŠKOFJA LOKA,STARA CESTA 16,46.16609,14.31402,Stara cesta,,16,,Škofja Loka,,Kamnitnik,Škofja Loka,4220,Škofja Loka,Gorenjska
 4220 ŠKOFJA LOKA,STARA LOKA 31,46.17128,14.29907,Stara Loka,,31,,Stara Loka,,Stara Loka - Podlubnik,Škofja Loka,4220,Škofja Loka,Gorenjska
+4220 ŠKOFJA LOKA,STARA LOKA 85,46.17294,14.29882,Stara Loka,,85,,Stara Loka,,Stara Loka - Podlubnik,Škofja Loka,4220,Škofja Loka,Gorenjska
 4220 ŠKOFJA LOKA,SV. DUH 162,46.18482,14.32198,Sv. Duh,,162,,Sv. Duh,,Sveti Duh,Škofja Loka,4220,Škofja Loka,Gorenjska
 4220 ŠKOFJA LOKA,SV. DUH 61 A,46.18207,14.32313,Sv. Duh,,61,a,Sv. Duh,,Sveti Duh,Škofja Loka,4220,Škofja Loka,Gorenjska
 4220 ŠKOFJA LOKA,VISOKO PRI POLJANAH 5,46.12637,14.21316,Visoko pri Poljanah,,5,,Visoko pri Poljanah,,Log,Škofja Loka,4220,Škofja Loka,Gorenjska
