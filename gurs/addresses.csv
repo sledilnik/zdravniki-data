@@ -466,7 +466,6 @@ postZZZS,addressZZZS,lat,lon,street,streetAlt,housenumber,housenumberAppendix,ci
 2000 MARIBOR,TOLSTOJEVA ULICA 3,46.54793,15.67025,Tolstojeva ulica,,3,,Maribor,,Pobrežje,Maribor,2000,Maribor,Podravska
 2000 MARIBOR,TOMŠIČEVA ULICA 23,46.56585,15.65337,Tomšičeva ulica,,23,,Maribor,,Ivan Cankar,Maribor,2000,Maribor,Podravska
 2000 MARIBOR,TRUBARJEVA ULICA 15,46.56465,15.64435,Trubarjeva ulica,,15,,Maribor,,Koroška vrata,Maribor,2000,Maribor,Podravska
-2000 MARIBOR,TURNERJEVA ULICA 21 B,46.56380,15.63070,Turnerjeva ulica,,21,b,Maribor,,Koroška vrata,Maribor,2000,Maribor,Podravska
 2000 MARIBOR,TURNERJEVA ULICA 33,46.56489,15.63232,Turnerjeva ulica,,33,,Maribor,,Koroška vrata,Maribor,2000,Maribor,Podravska
 2000 MARIBOR,ULICA ARNOLDA TOVORNIKA 21,46.53663,15.63006,Ulica Arnolda Tovornika,,21,,Maribor,,Nova vas,Maribor,2000,Maribor,Podravska
 2000 MARIBOR,ULICA BORCEV 1 B,46.53636,15.68832,Ulica borcev,,1,b,Maribor,,Brezje-Dogoše-Zrkovci,Maribor,2000,Maribor,Podravska
@@ -1225,7 +1224,6 @@ postZZZS,addressZZZS,lat,lon,street,streetAlt,housenumber,housenumberAppendix,ci
 8257 DOBOVA,KAPELSKA CESTA 25,45.90152,15.66152,Kapelska cesta,,25,,Dobova,,Dobova,Brežice,8257,Dobova,Posavska
 8259 BIZELJSKO,BIZELJSKA CESTA 104,46.02057,15.69163,Bizeljska cesta,,104,,Bizeljsko,,Bizeljsko,Brežice,8259,Bizeljsko,Posavska
 8259 BIZELJSKO,BIZELJSKA CESTA 49,46.01324,15.69249,Bizeljska cesta,,49,,Bizeljsko,,Bizeljsko,Brežice,8259,Bizeljsko,Posavska
-8261 JESENICE NA DOLENJSKEM,NOVA VAS PRI MOKRICAH 37,45.85105,15.68121,Nova vas pri Mokricah,,37,,Nova vas pri Mokricah,,Jesenice na Dolenjskem,Brežice,8261,Jesenice na Dolenjskem,Posavska
 8261 JESENICE NA DOLENJSKEM,VELIKA DOLINA 34,45.85218,15.66268,Velika Dolina,,34,,Velika Dolina,,Velika Dolina,Brežice,8261,Jesenice na Dolenjskem,Posavska
 8263 CERKLJE OB KRKI,BORŠT 19,45.88523,15.54740,Boršt,,19,,Boršt,,Cerklje ob Krki,Brežice,8263,Cerklje ob Krki,Posavska
 8263 CERKLJE OB KRKI,CERKLJE OB KRKI 3,45.88456,15.52276,Cerklje ob Krki,,3,,Cerklje ob Krki,,Cerklje ob Krki,Brežice,8263,Cerklje ob Krki,Posavska
@@ -1308,7 +1306,6 @@ postZZZS,addressZZZS,lat,lon,street,streetAlt,housenumber,housenumberAppendix,ci
 9000 MURSKA SOBOTA,TRSTENJAKOVA ULICA 34,46.65416,16.16627,Trstenjakova ulica,,34,,Murska Sobota,,Partizan,Murska Sobota,9000,Murska Sobota,Pomurska
 9000 MURSKA SOBOTA,TRSTENJAKOVA ULICA 69,46.65477,16.16795,Trstenjakova ulica,,69,,Murska Sobota,,Partizan,Murska Sobota,9000,Murska Sobota,Pomurska
 9000 MURSKA SOBOTA,ULICA ARHITEKTA NOVAKA 13,46.65940,16.16937,Ulica arhitekta Novaka,,13,,Murska Sobota,,Center,Murska Sobota,9000,Murska Sobota,Pomurska
-9000 MURSKA SOBOTA,ULICA ARHITEKTA NOVAKA 9,46.65980,16.16782,Ulica arhitekta Novaka,,9,,Murska Sobota,,Center,Murska Sobota,9000,Murska Sobota,Pomurska
 9000 MURSKA SOBOTA,ULICA DR. VRBNJAKA 1,46.65007,16.19052,Ulica dr. Vrbnjaka,,1,,Rakičan,,KS RAKIČAN,Murska Sobota,9000,Murska Sobota,Pomurska
 9000 MURSKA SOBOTA,ULICA DR. VRBNJAKA 6,46.65013,16.18727,Ulica dr. Vrbnjaka,,6,,Rakičan,,KS RAKIČAN,Murska Sobota,9000,Murska Sobota,Pomurska
 9000 MURSKA SOBOTA,ULICA GENERALA MAISTRA 23,46.65371,16.15626,Ulica generala Maistra,,23,,Murska Sobota,,Turopolje,Murska Sobota,9000,Murska Sobota,Pomurska

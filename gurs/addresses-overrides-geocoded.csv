@@ -14,6 +14,7 @@ postOver,addressOver,cityOver,lat,lon,street,streetAlt,housenumber,housenumberAp
 1292 Ig pri Ljubljani,Banija 4,,45.95897,14.52720,Banija,,4,,Ig,,,Ig,1292,Ig,Osrednjeslovenska
 1311 Turjak,Laporje 30,,45.87088,14.61679,Laporje,,30,,Laporje,,,Velike Lašče,1311,Turjak,Osrednjeslovenska
 1312 Videm - Dobrepolje,Videm 37 a,,45.84819,14.69546,Videm,,37,a,Videm,,Videm,Dobrepolje,1312,Videm - Dobrepolje,Osrednjeslovenska
+1312 Videm-Dobrepolje,Videm 37a,,45.84819,14.69546,Videm,,37,a,Videm,,Videm,Dobrepolje,1312,Videm - Dobrepolje,Osrednjeslovenska
 1315 Velike Lašče,Javorškova ulica 9,,45.83502,14.63767,Javorškova ulica,,9,,Velike Lašče,,,Velike Lašče,1315,Velike Lašče,Osrednjeslovenska
 1317 Sodražica,Cesta Notranjskega odreda 16,,45.76343,14.63376,Cesta Notranjskega odreda,,16,,Sodražica,,,Sodražica,1317,Sodražica,Jugovzhodna Slovenija
 1318 Loški Potok,Hrib-Loški Potok 102,,45.70030,14.59115,Hrib-Loški Potok,,102,,Hrib-Loški Potok,,Loški potok,Loški Potok,1318,Loški Potok,Jugovzhodna Slovenija
@@ -64,6 +65,7 @@ postOver,addressOver,cityOver,lat,lon,street,streetAlt,housenumber,housenumberAp
 3334 Luče ob Savinji,Luče 106,,46.35640,14.74415,Luče,,106,,Luče,,,Luče,3334,Luče,Savinjska
 3342 Gornji Grad,Tlaka 10,,46.29728,14.80953,Tlaka,,10,,Gornji Grad,,Gornji Grad,Gornji Grad,3342,Gornji Grad,Savinjska
 3342 Gornji Grad ,Tlaka 10,,46.29728,14.80953,Tlaka,,10,,Gornji Grad,,Gornji Grad,Gornji Grad,3342,Gornji Grad,Savinjska
+4000 Kranj,Gosposvetska 10b,,46.24826,14.35331,Gosposvetska ulica,,10,b,Kranj,,Zlato polje,Kranj,4000,Kranj,Gorenjska
 4000 Kranj,Ljubljanska cesta 24A,,46.22457,14.35459,Ljubljanska cesta,,24,a,Kranj,,Stražišče,Kranj,4000,Kranj,Gorenjska
 4000 Kranj,Škofjeloška cesta 6,,46.22819,14.35325,Škofjeloška cesta,,6,,Kranj,,Stražišče,Kranj,4000,Kranj,Gorenjska
 4000 Kranj,Žanova ulica 3,,46.24570,14.36350,Žanova ulica,,3,,Kranj,,Primskovo,Kranj,4000,Kranj,Gorenjska
