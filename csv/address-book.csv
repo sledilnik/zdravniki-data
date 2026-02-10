@@ -490,7 +490,6 @@ rizddzInstitutionContractorId,rizddzInstitutionId,rizddzLocationId,rizddzDoctorI
 373,373,0,11969,404101,den,,dr. dent. med.,GOLIEV TRG 3,TREBNJE,8210 TREBNJE,040 784 770
 373,373,0,12209,302001,gp,,"dr. med., spec. družinska medicine",GOLIEV TRG 3,TREBNJE,8210 TREBNJE,07 34 81 767
 373,373,0,12215,327009,ped,,"dr. med., spec. pediatrije",GOLIEV TRG 3,TREBNJE,8210 TREBNJE,07 34 81 771
-373,373,0,12520,404101,den,,dr. dent. med.,GOLIEV TRG 3,TREBNJE,8210 TREBNJE,07 34 81 754
 373,373,0,12520,404103,den-y,,dr. dent. med.,GOLIEV TRG 3,TREBNJE,8210 TREBNJE,07 34 81 754
 373,373,0,12632,302001,gp,,"dr. med., spec. družinska medicine",GOLIEV TRG 3,TREBNJE,8210 TREBNJE,07 62 06 816
 373,373,0,12920,302001,gp,,"dr. med., spec. družinska medicine",GOLIEV TRG 3,TREBNJE,8210 TREBNJE,07 34 81 761
@@ -503,7 +502,6 @@ rizddzInstitutionContractorId,rizddzInstitutionId,rizddzLocationId,rizddzDoctorI
 373,373,1,14748,404101,den,,dr. dent. med.,CESTA NA FUŽINE 10,MIRNA,8233 MIRNA,07 34 35 253
 373,373,1,14748,404103,den-y,,dr. dent. med.,CESTA NA FUŽINE 10,MIRNA,8233 MIRNA,07 34 35 253
 373,373,2,7009,404101,den,,dr. dent. med.,PARADIŽ 14,MOKRONOG,8230 MOKRONOG,07 34 98 185
-373,373,2,7009,404103,den-y,,dr. dent. med.,PARADIŽ 14,MOKRONOG,8230 MOKRONOG,07 34 98 185
 373,373,2,7152,302001,gp,,"dr. med., spec. družinska medicine",PARADIŽ 14,MOKRONOG,8230 MOKRONOG,07 34 98 180
 373,373,4,6917,302002,,,"dr. med., spec. splošne medicine",STARI TRG 63,TREBNJE,8210 TREBNJE,07 34 62 142
 373,373,4,10593,302002,,,"dr. med., spec. splošne medicine",STARI TRG 63,TREBNJE,8210 TREBNJE,07 34 62 142
@@ -627,8 +625,8 @@ rizddzInstitutionContractorId,rizddzInstitutionId,rizddzLocationId,rizddzDoctorI
 1591,1591,0,8936,302001,gp,,"dr. med., spec. družinska medicine",TRNOVSKA VAS 42 A,TRNOVSKA VAS,2254 TRNOVSKA VAS,031223628
 1591,1591,0,12778,302001,gp,,"dr. med., spec. družinska medicine",TRNOVSKA VAS 42 A,TRNOVSKA VAS,2254 TRNOVSKA VAS,040549937
 1591,1591,1,8936,302001,gp,,"dr. med., spec. družinska medicine",VITOMARCI 71,VITOMARCI,2255 VITOMARCI,031223628
-1592,1592,1,8187,327009,ped,,"dr. med., spec. pediatrije",BANIJA 4,IG,1292 IG,
 1592,1592,1,8187,327009,ped,,"dr. med., spec. pediatrije",BANIJA 4,IG,1292 IG,013307236
+1592,1592,1,8187,327009,ped,,"dr. med., spec. pediatrije",BANIJA 4,IG,1292 IG,
 1597,1597,1,12706,302001,gp,,"dr. med., spec. družinska medicine",SEČOVLJE 44,SEČOVLJE,6333 SEČOVLJE - SICCIOLE,
 1598,1598,1,12369,302001,gp,,"dr. med., spec. družinska medicine",TRG 4. JULIJA 46,DRAVOGRAD,2370 DRAVOGRAD,02 82 80 340
 1598,1598,1,12480,302001,gp,,"dr. med., spec. družinska medicine",TRG 4. JULIJA 46,DRAVOGRAD,2370 DRAVOGRAD,02 82 80 342
@@ -1564,6 +1562,7 @@ rizddzInstitutionContractorId,rizddzInstitutionId,rizddzLocationId,rizddzDoctorI
 10201,10201,2,10685,302002,,,"dr. med., spec. družinska medicine",CESTA TALCEV 9,DOMŽALE,1230 DOMŽALE,01 / 729 73 20
 10201,10201,7,8932,327009,ped,,"dr.med., spec. pediater",LJUBLJANSKA CESTA 12F,TRZIN,1236 TRZIN,01 / 72 45 273
 10201,10201,7,14511,302001,gp,,"dr. med., spec. družinska medicine",LJUBLJANSKA CESTA 12F,TRZIN,1236 TRZIN,01 / 564 40 50
+10201,10201,7,17135,302001,gp,,"dr. med., spec. družinska medicine",LJUBLJANSKA CESTA 12F,TRZIN,1236 TRZIN,01 / 72 45 938
 10201,10201,7,17283,404101,den,,dr.dent. med.,LJUBLJANSKA CESTA 12F,TRZIN,1236 TRZIN,01 / 72 45 169
 10201,10201,7,17519,404101,den,,dr.dent. med.,LJUBLJANSKA CESTA 12F,TRZIN,1236 TRZIN,01 / 72 45 169
 10201,10201,7,18767,404101,den,,dr.dent.med.,LJUBLJANSKA CESTA 12F,TRZIN,1236 TRZIN,01 / 7245 940
