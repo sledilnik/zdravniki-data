@@ -25,7 +25,6 @@ postOver,addressOver,cityOver,lat,lon,street,streetAlt,housenumber,housenumberAp
 1358 Log pri Brezovici,Šolska ulica 1,,46.01192,14.37379,Šolska cesta,,1,,Log pri Brezovici,,,Log-Dragomer,1358,Log pri Brezovici,Osrednjeslovenska
 1360 Vrhnika,Lošca 1,,45.96263,14.29674,Lošca,,1,,Vrhnika,,Vrhnika Center,Vrhnika,1360,Vrhnika,Osrednjeslovenska
 1360 Vrhnika,Stara cesta 4a,,45.96590,14.29733,Stara cesta,,4,a,Vrhnika,,Vrhnika Center,Vrhnika,1360,Vrhnika,Osrednjeslovenska
-1360 Vrhnika,Stara cesta 7,,45.96563,14.29688,Stara cesta,,7,,Vrhnika,,Vrhnika Breg,Vrhnika,1360,Vrhnika,Osrednjeslovenska
 1411 izlake,Izlake 13,,46.15540,14.92923,Izlake,,13,,Izlake,,Izlake,Zagorje ob Savi,1411,Izlake,Zasavska
 1432 Zidani Most,Zidani most 9,,46.08562,15.17046,Zidani Most,,9,,Zidani Most,,Zidani Most,Laško,1432,Zidani Most,Savinjska
 2000 Maribor,Kalohova ulica 18,,46.55507,15.61747,Kalohova ulica,,18,,Maribor,,Studenci,Maribor,2000,Maribor,Podravska
@@ -64,7 +63,6 @@ postOver,addressOver,cityOver,lat,lon,street,streetAlt,housenumber,housenumberAp
 3333 Ljubno ob Savinji,Foršt 55,,46.34459,14.83299,Foršt,,55,,Ljubno ob Savinji,,,Ljubno,3333,Ljubno ob Savinji,Savinjska
 3334 Luče ob Savinji,Luče 106,,46.35640,14.74415,Luče,,106,,Luče,,,Luče,3334,Luče,Savinjska
 3342 Gornji Grad,Tlaka 10,,46.29728,14.80953,Tlaka,,10,,Gornji Grad,,Gornji Grad,Gornji Grad,3342,Gornji Grad,Savinjska
-3342 Gornji Grad ,Tlaka 10,,46.29728,14.80953,Tlaka,,10,,Gornji Grad,,Gornji Grad,Gornji Grad,3342,Gornji Grad,Savinjska
 4000 Kranj,Gosposvetska 10b,,46.24826,14.35331,Gosposvetska ulica,,10,b,Kranj,,Zlato polje,Kranj,4000,Kranj,Gorenjska
 4000 Kranj,Ljubljanska cesta 24A,,46.22457,14.35459,Ljubljanska cesta,,24,a,Kranj,,Stražišče,Kranj,4000,Kranj,Gorenjska
 4000 Kranj,Škofjeloška cesta 6,,46.22819,14.35325,Škofjeloška cesta,,6,,Kranj,,Stražišče,Kranj,4000,Kranj,Gorenjska
@@ -79,7 +77,6 @@ postOver,addressOver,cityOver,lat,lon,street,streetAlt,housenumber,housenumberAp
 4240 Radovljica,Kopališka cesta 7,,46.34702,14.17201,Kopališka cesta,,7,,Radovljica,,Radovljica,Radovljica,4240,Radovljica,Gorenjska
 4264 Bohinjska Bistrica,Triglavska cesta 15,,46.27206,13.95469,Triglavska cesta,,15,,Bohinjska Bistrica,,Bohinjska Bistrica,Bohinj,4264,Bohinjska Bistrica,Gorenjska
 5213 Kanal,Morsko 1,,46.08033,13.63544,Morsko,,1,,Morsko,,Kanal,Kanal,5213,Kanal,Goriška
-5230 Bovec,Kot 85,,46.33596,13.54877,Kot,,85,,Bovec,,Bovec,Bovec,5230,Bovec,Goriška
 5231 Kanal,Morsko 1,,46.08033,13.63544,Morsko,,1,,Morsko,,Kanal,Kanal,5213,Kanal,Goriška
 5253 Čepovan,Čepovan 90,,46.04984,13.79420,Čepovan,,90,,Čepovan,,Krajevna skupnost Čepovan,Nova Gorica,5253,Čepovan,Goriška
 5271 Vipava,Beblerjeva ulica 5,,45.84724,13.96032,Beblerjeva ulica,,5,,Vipava,,Vipava,Vipava,5271,Vipava,Goriška
