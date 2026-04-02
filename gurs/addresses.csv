@@ -318,7 +318,6 @@ postZZZS,addressZZZS,lat,lon,street,streetAlt,housenumber,housenumberAppendix,ci
 1351 BREZOVICA PRI LJUBLJANI,PODPEŠKA CESTA 14,46.02162,14.41607,Podpeška cesta,,14,,Brezovica pri Ljubljani,,Brezovica,Brezovica,1351,Brezovica pri Ljubljani,Osrednjeslovenska
 1351 BREZOVICA PRI LJUBLJANI,PODPEŠKA CESTA 208,46.00242,14.41325,Podpeška cesta,,208,,Vnanje Gorice,,Vnanje Gorice,Brezovica,1351,Brezovica pri Ljubljani,Osrednjeslovenska
 1351 BREZOVICA PRI LJUBLJANI,ŠOLSKA ULICA 1,46.01330,14.37678,Šolska ulica,,1,,Dragomer,,,Log-Dragomer,1351,Brezovica pri Ljubljani,Osrednjeslovenska
-1351 BREZOVICA PRI LJUBLJANI,ŠOLSKA ULICA 3,46.01260,14.37666,Šolska ulica,,3,,Dragomer,,,Log-Dragomer,1351,Brezovica pri Ljubljani,Osrednjeslovenska
 1352 PRESERJE,DOLENJA BREZOVICA 11,45.94773,14.42655,Dolenja Brezovica,,11,,Dolenja Brezovica,,Preserje,Brezovica,1352,Preserje,Osrednjeslovenska
 1352 PRESERJE,JEZERO 1,45.97634,14.41959,Jezero,,1,,Jezero,,Preserje,Brezovica,1352,Preserje,Osrednjeslovenska
 1352 PRESERJE,PRESERJE 41 C,45.95412,14.42276,Preserje,,41,c,Preserje,,Preserje,Brezovica,1352,Preserje,Osrednjeslovenska
@@ -344,6 +343,7 @@ postZZZS,addressZZZS,lat,lon,street,streetAlt,housenumber,housenumberAppendix,ci
 1360 VRHNIKA,IDRIJSKA CESTA 13,45.96364,14.28875,Idrijska cesta,,13,,Vrhnika,,Vrhnika Vas,Vrhnika,1360,Vrhnika,Osrednjeslovenska
 1360 VRHNIKA,LOŠCA 1,45.96263,14.29674,Lošca,,1,,Vrhnika,,Vrhnika Center,Vrhnika,1360,Vrhnika,Osrednjeslovenska
 1360 VRHNIKA,MED VRTOVI 8,45.96540,14.28766,Med vrtovi,,8,,Vrhnika,,Vrhnika Vas,Vrhnika,1360,Vrhnika,Osrednjeslovenska
+1360 VRHNIKA,PARTIZANSKI TABOR 14,45.96786,14.29780,Partizanski tabor,,14,,Vrhnika,,Vrhnika Breg,Vrhnika,1360,Vrhnika,Osrednjeslovenska
 1360 VRHNIKA,POD HRUŠEVCO 33,45.97336,14.29506,Pod Hruševco,,33,,Vrhnika,,Vrhnika Breg,Vrhnika,1360,Vrhnika,Osrednjeslovenska
 1360 VRHNIKA,ROBOVA CESTA 6,45.96751,14.29722,Robova cesta,,6,,Vrhnika,,Vrhnika Breg,Vrhnika,1360,Vrhnika,Osrednjeslovenska
 1360 VRHNIKA,SINJA GORICA 7,45.97963,14.31058,Sinja Gorica,,7,,Sinja Gorica,,Sinja Gorica,Vrhnika,1360,Vrhnika,Osrednjeslovenska
@@ -837,7 +837,6 @@ postZZZS,addressZZZS,lat,lon,street,streetAlt,housenumber,housenumberAppendix,ci
 3320 VELENJE,SONČNI GRIČ 7,46.35393,15.12586,Sončni grič,,7,,Velenje,,Gorica,Velenje,3320,Velenje,Savinjska
 3320 VELENJE,SUBOTIŠKA CESTA 12,46.36625,15.10260,Subotiška cesta,,12,,Velenje,,Stara vas,Velenje,3320,Velenje,Savinjska
 3320 VELENJE,VODNIKOVA CESTA 1,46.36151,15.11636,Vodnikova cesta,,1,,Velenje,,Velenje - desni breg,Velenje,3320,Velenje,Savinjska
-3320 VELENJE,ČUFARJEVA CESTA 2,46.36519,15.11251,Čufarjeva cesta,,2,,Velenje,,Velenje - desni breg,Velenje,3320,Velenje,Savinjska
 3325 ŠOŠTANJ,FLORJAN 165 C,46.38507,15.02767,Florjan,,165,c,Florjan,,Skorno - Florjan,Šoštanj,3325,Šoštanj,Savinjska
 3325 ŠOŠTANJ,TRG JOŽETA LAMPRETA 1,46.37648,15.04850,Trg Jožeta Lampreta,,1,,Šoštanj,,Šoštanj,Šoštanj,3325,Šoštanj,Savinjska
 3326 TOPOLŠICA,TOPOLŠICA 64,46.40481,15.02068,Topolšica,,64,,Topolšica,,Topolšica,Šoštanj,3326,Topolšica,Savinjska
@@ -1008,6 +1007,7 @@ postZZZS,addressZZZS,lat,lon,street,streetAlt,housenumber,housenumberAppendix,ci
 5230 BOVEC,KOT 85,46.33596,13.54877,Kot,,85,,Bovec,,Bovec,Bovec,5230,Bovec,Goriška
 5230 BOVEC,KOT 86,46.33609,13.54917,Kot,,86,,Bovec,,Bovec,Bovec,5230,Bovec,Goriška
 5230 BOVEC,MALA VAS 56,46.34016,13.55752,Mala vas,,56,,Bovec,,Bovec,Bovec,5230,Bovec,Goriška
+5243 PODBRDO,PETROVO BRDO 7,46.21455,13.99771,Petrovo Brdo,,7,,Petrovo Brdo,,Podbrdo,Tolmin,5243,Podbrdo,Goriška
 5243 PODBRDO,PODBRDO 33,46.21396,13.97220,Podbrdo,,33,,Podbrdo,,Podbrdo,Tolmin,5243,Podbrdo,Goriška
 5243 PODBRDO,PODBRDO 67,46.20558,13.95963,Podbrdo,,67,,Podbrdo,,Podbrdo,Tolmin,5243,Podbrdo,Goriška
 5243 PODBRDO,PODBRDO 73A,46.21090,13.96798,Podbrdo,,73,a,Podbrdo,,Podbrdo,Tolmin,5243,Podbrdo,Goriška
@@ -1133,13 +1133,11 @@ postZZZS,addressZZZS,lat,lon,street,streetAlt,housenumber,housenumberAppendix,ci
 6280 ANKARAN - ANCARANO,FRENKOVA ULICA 7,45.58296,13.73466,Frenkova ulica,Via Franc Planinc-Frenk,7,,Ankaran,Ancarano,,Ankaran,6280,Ankaran - Ancarano,Obalno-kraška
 6280 ANKARAN - ANCARANO,JADRANSKA CESTA 31,45.58116,13.72755,Jadranska cesta,Strada dell'Adriatico,31,,Ankaran,Ancarano,,Ankaran,6280,Ankaran - Ancarano,Obalno-kraška
 6280 ANKARAN - ANCARANO,KOLOMBAN 38 F,45.58875,13.74737,Kolomban,Colombano,38,f,Kolomban,Colombano,Hrvatini,Koper,6280,Ankaran - Ancarano,Obalno-kraška
-6280 ANKARAN - ANCARANO,KOLOMBAN 54 A,45.59191,13.74653,Kolomban,Colombano,54,a,Kolomban,Colombano,Hrvatini,Koper,6280,Ankaran - Ancarano,Obalno-kraška
 6280 ANKARAN - ANCARANO,REGENTOVA ULICA 6,45.58085,13.73887,Regentova ulica,Via Ivan Regent,6,,Ankaran,Ancarano,,Ankaran,6280,Ankaran - Ancarano,Obalno-kraška
 6281 ŠKOFIJE,SPODNJE ŠKOFIJE 174 A,45.57104,13.79217,Spodnje Škofije,,174,a,Spodnje Škofije,,Škofije,Koper,6281,Škofije,Obalno-kraška
 6281 ŠKOFIJE,SPODNJE ŠKOFIJE 182,45.57101,13.79320,Spodnje Škofije,,182,,Spodnje Škofije,,Škofije,Koper,6281,Škofije,Obalno-kraška
 6281 ŠKOFIJE,SPODNJE ŠKOFIJE 234,45.57427,13.79499,Spodnje Škofije,,234,,Spodnje Škofije,,Škofije,Koper,6281,Škofije,Obalno-kraška
 6281 ŠKOFIJE,ZGORNJE ŠKOFIJE 79 N,45.56185,13.80214,Zgornje Škofije,,79,n,Zgornje Škofije,,Škofije,Koper,6281,Škofije,Obalno-kraška
-6310 IZOLA - ISOLA,BRKINSKA ULICA 3,45.53690,13.66234,Brkinska ulica,Via dei Brkini,3,,Izola,Isola,Haliaetum / Haliaetum,Izola,6310,Izola - Isola,Obalno-kraška
 6310 IZOLA - ISOLA,CANKARJEV DREVORED 16,45.53713,13.66242,Cankarjev drevored,Viale Ivan Cankar,16,,Izola,Isola,Haliaetum / Haliaetum,Izola,6310,Izola - Isola,Obalno-kraška
 6310 IZOLA - ISOLA,JUŽNA CESTA 101,45.53028,13.65288,Južna cesta,Strada Meridionale,101,,Izola,Isola,Livade,Izola,6310,Izola - Isola,Obalno-kraška
 6310 IZOLA - ISOLA,JUŽNA CESTA 4 B,45.53109,13.66517,Južna cesta,Strada Meridionale,4,b,Izola,Isola,Livade,Izola,6310,Izola - Isola,Obalno-kraška
