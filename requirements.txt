@@ -1,5 +1,5 @@
 numpy==2.4.*
-pandas==2.3.*
+pandas==3.0.*
 openpyxl==3.1.*
 requests==2.33.*
 beautifulsoup4==4.14.3
