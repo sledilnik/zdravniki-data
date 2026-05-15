@@ -194,10 +194,10 @@ def append_overrides():
         merged_rows = []
         merged_indexes = []
 
-        for _, group in overrides.groupby(level=index_columns, sort=False):
+        for group_key, group in overrides.groupby(level=index_columns, sort=False):
             ordered_group = group.sort_values(by=['date_override'], na_position='first')
             merged_row = ordered_group.iloc[0].copy()
-            merged_indexes.append(group.index[0])
+            merged_indexes.append(group_key)
 
             # Apply newer override rows on top of older ones, but only with non-empty override values.
             for _, row in ordered_group.iloc[1:].iterrows():
@@ -215,8 +215,7 @@ def append_overrides():
             merged_rows.append(merged_row)
 
         merged = pd.DataFrame(merged_rows)
-        merged.index = pd.MultiIndex.from_tuples(merged_indexes, names=index_columns)
-        merged.index.names = overrides.index.names
+        merged.index = pd.MultiIndex.from_tuples(merged_indexes, names=overrides.index.names)
         return merged
 
     filename = "csv/overrides.csv"
