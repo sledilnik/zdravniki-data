@@ -188,6 +188,7 @@ def append_overrides():
         return True
 
     def deduplicate_overrides(overrides):
+        """Merge duplicate override rows per doctor position into a single effective override row."""
         index_columns = ['doctor', 'type', 'id_inst']
         merge_columns = ['accepts_override', 'availability_override', 'address', 'city', 'post', 'phone', 'website', 'email', 'orderform']
         address_columns = ['address', 'city', 'post']
@@ -195,12 +196,13 @@ def append_overrides():
         merged_indexes = []
 
         if list(overrides.index.names) != index_columns:
+            # Normalize names to keep grouping stable if source CSV/index metadata changes.
             overrides = overrides.copy()
             overrides.index = overrides.index.set_names(index_columns)
 
         for group_key, group in overrides.groupby(level=index_columns, sort=False):
             # Undated rows are treated as the oldest overrides.
-            ordered_group = group.sort_values(by=['date_override'], na_position='first')
+            ordered_group = group.sort_values(by='date_override', na_position='first')
             merged_row = ordered_group.iloc[0].copy()
             merged_indexes.append(group_key)
 
