@@ -194,7 +194,12 @@ def append_overrides():
         merged_rows = []
         merged_indexes = []
 
-        for group_key, group in overrides.groupby(level=[0, 1, 2], sort=False):
+        if list(overrides.index.names) != index_columns:
+            overrides = overrides.copy()
+            overrides.index = overrides.index.set_names(index_columns)
+
+        for group_key, group in overrides.groupby(level=index_columns, sort=False):
+            # Undated rows are treated as the oldest overrides.
             ordered_group = group.sort_values(by=['date_override'], na_position='first')
             merged_row = ordered_group.iloc[0].copy()
             merged_indexes.append(group_key)
@@ -211,7 +216,7 @@ def append_overrides():
                     for column in address_columns:
                         merged_row[column] = row[column]
 
-            # Keep the most recent override timestamp; if all are empty this intentionally stays NaT.
+            # Keep the most recent override timestamp (NaT only when all rows are undated).
             merged_row['date_override'] = ordered_group['date_override'].max()
             merged_rows.append(merged_row)
 
