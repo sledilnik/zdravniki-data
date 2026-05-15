@@ -188,13 +188,16 @@ def append_overrides():
         return True
 
     def deduplicate_overrides(overrides):
+        index_columns = ['doctor', 'type', 'id_inst']
         merge_columns = ['accepts_override', 'availability_override', 'address', 'city', 'post', 'phone', 'website', 'email', 'orderform']
         address_columns = ['address', 'city', 'post']
         merged_rows = []
+        merged_indexes = []
 
-        for _, group in overrides.groupby(level=[0, 1, 2], sort=False):
+        for _, group in overrides.groupby(level=index_columns, sort=False):
             ordered_group = group.sort_values(by=['date_override'], na_position='first')
             merged_row = ordered_group.iloc[0].copy()
+            merged_indexes.append(group.index[0])
 
             # Apply newer override rows on top of older ones, but only with non-empty override values.
             for _, row in ordered_group.iloc[1:].iterrows():
@@ -212,7 +215,7 @@ def append_overrides():
             merged_rows.append(merged_row)
 
         merged = pd.DataFrame(merged_rows)
-        merged.index = overrides.groupby(level=[0, 1, 2], sort=False).head(1).index
+        merged.index = pd.MultiIndex.from_tuples(merged_indexes, names=index_columns)
         merged.index.names = overrides.index.names
         return merged
 
