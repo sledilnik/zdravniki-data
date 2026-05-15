@@ -180,6 +180,42 @@ def convert_to_csv(zzzsid_map):
     doctors.query('id_inst != id_inst').to_csv('csv/doctors-without-institution.csv')
 
 def append_overrides():
+    def is_non_empty(value):
+        if pd.isna(value):
+            return False
+        if isinstance(value, str):
+            return value.strip() != ''
+        return True
+
+    def deduplicate_overrides(overrides):
+        merge_columns = ['accepts_override', 'availability_override', 'address', 'city', 'post', 'phone', 'website', 'email', 'orderform']
+        address_columns = ['address', 'city', 'post']
+        merged_rows = []
+
+        for _, group in overrides.groupby(level=[0, 1, 2], sort=False):
+            ordered_group = group.sort_values(by=['date_override'], na_position='first')
+            merged_row = ordered_group.iloc[0].copy()
+
+            # Apply newer override rows on top of older ones, but only with non-empty override values.
+            for _, row in ordered_group.iloc[1:].iterrows():
+                for column in merge_columns:
+                    if column in address_columns:
+                        continue
+                    if is_non_empty(row[column]):
+                        merged_row[column] = row[column]
+
+                if any(is_non_empty(row[column]) for column in address_columns):
+                    for column in address_columns:
+                        merged_row[column] = row[column]
+
+            merged_row['date_override'] = ordered_group['date_override'].max()
+            merged_rows.append(merged_row)
+
+        merged = pd.DataFrame(merged_rows)
+        merged.index = overrides.groupby(level=[0, 1, 2], sort=False).head(1).index
+        merged.index.names = overrides.index.names
+        return merged
+
     filename = "csv/overrides.csv"
     print(f"Get overrides from GSheet to {filename}")
     try:
@@ -191,13 +227,10 @@ def append_overrides():
     doctors = pd.read_csv('csv/doctors.csv', index_col=['doctor','type','id_inst'])
     overrides = pd.read_csv('csv/overrides.csv', index_col=['doctor','type','id_inst'], parse_dates=['date_override'])
 
-    if not overrides.index.is_unique:
-        print ("============= DUPLICATES ============")
-        duplicates = overrides[overrides.index.duplicated(keep=False)]
-        print (duplicates)
-        exit(1)
+    overrides_deduplicated = deduplicate_overrides(overrides)
+    overrides_deduplicated.to_csv('csv/overrides-deduplicated.csv')
 
-    doctors = doctors.join(overrides)
+    doctors = doctors.join(overrides_deduplicated)
 
     doctors.to_csv('csv/doctors.csv')
 
