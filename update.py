@@ -216,7 +216,7 @@ def append_overrides():
                     for column in address_columns:
                         merged_row[column] = row[column]
 
-            # Keep the most recent override timestamp (NaT only when all rows are undated).
+            # Keep the most recent override timestamp (pandas max ignores NaT; all-NaT stays NaT).
             merged_row['date_override'] = ordered_group['date_override'].max()
             merged_rows.append(merged_row)
 
