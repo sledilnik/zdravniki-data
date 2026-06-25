@@ -81,7 +81,7 @@ def convert_to_csv(zzzsid_map):
         else:
             sheet="Podatki"
             skipr=9
-        df = pd.read_excel(io=filename, sheet_name=sheet, skiprows=skipr).dropna()
+        df = pd.read_excel(io=filename, sheet_name=sheet, skiprows=skipr).dropna(how='all')
 
         if group == "v-dodatnih-ambulantah":
             print("Converting v dodatnih ambulantah")
@@ -152,6 +152,7 @@ def convert_to_csv(zzzsid_map):
                 raise ValueError(f"Unsupported za opredeljene source columns! count={len(df.columns)}: {df.columns}")
 
 
+        df = df.dropna()
         df['doctor'] = df['doctor'].str.strip().replace('\s+', ' ', regex=True)
         df['type'] = df['type'].str.strip().map(type_map)
         df['accepts'] = df['accepts'].str.strip().map(accepts_map)
