@@ -152,7 +152,7 @@ def convert_to_csv(zzzsid_map):
                 raise ValueError(f"Unsupported za opredeljene source columns! count={len(df.columns)}: {df.columns}")
 
 
-        df = df.dropna()
+        df = df.dropna(subset=[c for c in df.columns if c != 'availability'])
         df['doctor'] = df['doctor'].str.strip().replace('\s+', ' ', regex=True)
         df['type'] = df['type'].str.strip().map(type_map)
         df['accepts'] = df['accepts'].str.strip().map(accepts_map)
