@@ -24,9 +24,12 @@ type_map = {
     'SPLOŠNA DEJAVNOST - SPLOŠNA AMBULANTA': 'gp',
     'Splošna dejavnost - splošna ambulanta': 'gp',
     'Amb. specializanta družinske medicine': 'gp',
+    'AMB. SPECIALIZANTA DRUŽINSKE MEDICINE': 'gp',
+    'Splošna ambulanta - dodatno 0,5 DMS': 'gp',
     # 'SPLOŠNA AMB. - BOLJŠA DOSTOPNOST DO IOZ': 'gp-x',
+    'SPLOŠNA AMB. - BOLJŠA DOSTOPNOST DO IOZ': 'gp-x',
     'SPLOŠNA AMBULANTA - DODATNA AMBULANTA': 'gp-f',
-    # 'SPLOŠNA AMB. ZA NEOPREDELJENE ZAV. OSEBE': 'gp-f', 
+    'SPLOŠNA AMB. ZA NEOPREDELJENE ZAV. OSEBE': 'gp-f', 
     'SPLOŠNA DEJ.-OTROŠKI IN ŠOLSKI DISPANZER': 'ped',
     'Splošna dej.-otroški in šolski dispanzer': 'ped',
     'OTR. ŠOL. DISP.-BOLJŠA DOSTOPNOST DO IOZ': 'ped-x',
@@ -51,6 +54,15 @@ typeid_map = {
 accepts_map = {
     'DA': 'y',
     'NE': 'n'
+}
+
+historical_zzzs_groups = {
+    "zdravniki",
+    "zobozdravniki",
+    "ginekologi",
+    "za-boljšo-dostopnost",
+    "za-neopredeljene",
+    "v-dodatnih-ambulantah",
 }
 
 def sha1sum(fname):
@@ -152,7 +164,7 @@ def convert_to_csv(zzzsid_map):
                 raise ValueError(f"Unsupported za opredeljene source columns! count={len(df.columns)}: {df.columns}")
 
 
-        df['doctor'] = df['doctor'].str.strip().replace('\s+', ' ', regex=True)
+        df['doctor'] = df['doctor'].str.strip().replace(r'\s+', ' ', regex=True)
         df['type'] = df['type'].str.strip().map(type_map)
         df['accepts'] = df['accepts'].str.strip().map(accepts_map)
         df['name'] = df['name'].str.strip()
@@ -182,6 +194,221 @@ def convert_to_csv(zzzsid_map):
     doctors.to_csv('csv/doctors.csv')
 
     doctors.query('id_inst != id_inst').to_csv('csv/doctors-without-institution.csv')
+
+
+def map_accepts_value(value):
+    if pd.isna(value):
+        return None
+    value = str(value).strip().upper()
+    if value in accepts_map:
+        return accepts_map[value]
+    if value.startswith('DA'):
+        return 'y'
+    if value.startswith('NE'):
+        return 'n'
+    return None
+
+
+def parse_zzzs_file(filename: str, group: str, zzzsid_map):
+    xls = pd.ExcelFile(filename)
+    if group == "zdravniki" and "Splošna dejavnost" in xls.sheet_names:
+        sheet = "Splošna dejavnost"
+        skipr = 3
+    elif "Podatki" in xls.sheet_names:
+        sheet = "Podatki"
+        skipr = 9
+    elif "List1" in xls.sheet_names:
+        sheet = "List1"
+        skipr = 5
+    else:
+        sheet = xls.sheet_names[0]
+        skipr = 9
+
+    df = pd.read_excel(io=filename, sheet_name=sheet, skiprows=skipr).dropna(how='all')
+
+    if group in {"v-dodatnih-ambulantah", "za-neopredeljene"}:
+        if len(df.columns) == 8:
+            df.columns = ['unit', 'institutionID', 'name', 'address', 'city', 'typeID', 'type', 'load']
+            df.drop(columns=['institutionID', 'typeID'], inplace=True)
+            df['doctor'] = 'Dodatna ambulanta' if group == "v-dodatnih-ambulantah" else 'Ambulanta za neopredeljene'
+            df['availability'] = None
+            df['accepts'] = 'DA'
+        else:
+            raise ValueError(f"Unsupported {group} source columns in {filename}: count={len(df.columns)}")
+    elif len(df.columns) == 12 and 'Naziv izpostave sedeža izvajalca' in df.columns:
+        df.columns = ['unitCode', 'unit', 'institutionID', 'name', 'doctorID', 'doctor', 'typeID', 'type', 'accepts', 'availability', 'load', 'specialization']
+        df['address'] = ''
+        df['city'] = ''
+        df.drop(columns=['unitCode', 'institutionID', 'doctorID', 'typeID', 'specialization'], inplace=True)
+    elif len(df.columns) in {12, 13, 14, 16}:
+        df = df.iloc[:, :12]
+        df.columns = ['unit', 'institutionID', 'name', 'address', 'city', 'doctorID', 'doctor', 'typeID', 'type', 'accepts', 'availability', 'load']
+        df.drop(columns=['institutionID', 'doctorID', 'typeID'], inplace=True)
+    elif len(df.columns) == 9:
+        df.columns = ['unit', 'name', 'address', 'city', 'doctor', 'type', 'availability', 'load', 'accepts']
+    else:
+        raise ValueError(f"Unsupported source columns in {filename}: count={len(df.columns)}")
+
+    df['doctor'] = df['doctor'].astype(str).str.title().str.strip().replace(r'\s+', ' ', regex=True)
+    df['type'] = df['type'].astype(str).str.strip().map(type_map)
+    df['accepts'] = df['accepts'].apply(map_accepts_value)
+    df['name'] = df['name'].astype(str).str.strip()
+    df['address'] = df['address'].astype(str).str.strip()
+    df['city'] = df['city'].astype(str).str.strip()
+    df['unit'] = df['unit'].astype(str).str.strip()
+    df['zzzsid'] = df['name'].map(zzzsid_map)
+    df = df.reindex(['doctor', 'type', 'zzzsid', 'accepts', 'availability', 'load', 'name', 'address', 'city', 'unit'], axis='columns')
+
+    return df
+
+
+def aggregate_historical_stats(df: pd.DataFrame, group_cols: list[str]):
+    grouped = (
+        df.groupby(group_cols, dropna=False)
+        .agg(
+            doctor_count=('doctor', 'size'),
+            doctors_accepting=('accepts', lambda s: (s == 'y').sum()),
+            doctors_not_accepting=('accepts', lambda s: (s == 'n').sum()),
+            availability_count=('availability', lambda s: s.notna().sum()),
+            availability_sum=('availability', lambda s: s.sum(min_count=1)),
+            availability_min=('availability', 'min'),
+            availability_max=('availability', 'max'),
+            load_count=('load', lambda s: s.notna().sum()),
+            load_sum=('load', lambda s: s.sum(min_count=1)),
+            load_min=('load', 'min'),
+            load_max=('load', 'max'),
+        )
+        .reset_index()
+    )
+
+    grouped['availability_avg'] = grouped['availability_sum'] / grouped['availability_count']
+    grouped['load_avg'] = grouped['load_sum'] / grouped['load_count']
+
+    return grouped
+
+
+def extract_historical_data(zzzsid_map):
+    source_file = 'csv/stats-historical-source.csv'
+    processed_files_manifest = 'csv/stats-historical-processed-files.csv'
+    source_cols = [
+        'date', 'type', 'region', 'municipality', 'doctor_count',
+        'doctors_accepting', 'doctors_not_accepting',
+        'availability_count', 'availability_sum', 'availability_min', 'availability_max',
+        'load_count', 'load_sum', 'load_min', 'load_max',
+        'source_file'
+    ]
+
+    xlsx_files = sorted(glob.glob("zzzs/????/??/????-??-??_*.xlsx"))
+    xlsx_files = [filename for filename in xlsx_files if os.path.basename(filename).split('_', 1)[1].replace('.xlsx', '') in historical_zzzs_groups]
+
+    if os.path.exists(source_file):
+        historical_source = pd.read_csv(source_file, keep_default_na=False, low_memory=False)
+        parsed_files = set(historical_source['source_file'].unique())
+    else:
+        historical_source = pd.DataFrame(columns=source_cols)
+        parsed_files = set()
+
+    if os.path.exists(processed_files_manifest):
+        processed_files_df = pd.read_csv(processed_files_manifest)
+        parsed_files.update(processed_files_df['source_file'].dropna().astype(str).unique())
+    else:
+        processed_files_df = pd.DataFrame(columns=['source_file'])
+
+    municipality_map = pd.read_csv('gurs/addresses.csv', usecols=['postZZZS', 'addressZZZS', 'municipality'], dtype=str)
+    municipality_map['postZZZS'] = municipality_map['postZZZS'].fillna('').str.strip().str.upper()
+    municipality_map['addressZZZS'] = municipality_map['addressZZZS'].fillna('').str.strip().str.upper()
+    municipality_map.drop_duplicates(inplace=True)
+
+    new_rows = []
+    new_files = [filename for filename in xlsx_files if os.path.relpath(filename, 'zzzs') not in parsed_files]
+    print(f"Historical extraction pending files: {len(new_files)}")
+    for idx, filename in enumerate(new_files, start=1):
+        if idx == 1 or idx % 100 == 0 or idx == len(new_files):
+            print(f"  Processing historical file {idx}/{len(new_files)}: {filename}")
+        source_id = os.path.relpath(filename, 'zzzs')
+        processed_files_df.loc[len(processed_files_df)] = [source_id]
+
+        basename = os.path.basename(filename)
+        date = basename.split('_', 1)[0]
+        group = basename.split('_', 1)[1].replace('.xlsx', '')
+
+        df = parse_zzzs_file(filename=filename, group=group, zzzsid_map=zzzsid_map)
+        df = df.loc[df['type'].notna()].copy()
+        df['availability'] = pd.to_numeric(df['availability'], errors='coerce')
+        df['load'] = pd.to_numeric(df['load'], errors='coerce')
+        df['date'] = date
+        df['region'] = df['unit']
+        df['postZZZS'] = df['city'].str.upper()
+        df['addressZZZS'] = df['address'].str.upper()
+        df = df.merge(municipality_map, how='left', on=['postZZZS', 'addressZZZS'])
+        df['municipality'] = df['municipality'].fillna('???')
+
+        file_stats = aggregate_historical_stats(df, ['date', 'type', 'region', 'municipality'])
+        file_stats['source_file'] = source_id
+        new_rows.append(file_stats)
+
+    if new_rows:
+        historical_source = pd.concat([historical_source, *new_rows], ignore_index=True)
+
+    processed_files_df.drop_duplicates(inplace=True)
+    processed_files_df.sort_values(by=['source_file'], inplace=True)
+    processed_files_df.to_csv(processed_files_manifest, index=False)
+
+    if not historical_source.empty:
+        historical_source = historical_source[source_cols]
+        historical_source.sort_values(by=['date', 'type', 'region', 'municipality', 'source_file'], inplace=True)
+        historical_source.to_csv(source_file, index=False)
+    else:
+        pd.DataFrame(columns=source_cols).to_csv(source_file, index=False)
+        return
+
+    historical_source['doctor_count'] = pd.to_numeric(historical_source['doctor_count'], errors='coerce').fillna(0)
+    historical_source['doctors_accepting'] = pd.to_numeric(historical_source['doctors_accepting'], errors='coerce').fillna(0)
+    historical_source['doctors_not_accepting'] = pd.to_numeric(historical_source['doctors_not_accepting'], errors='coerce').fillna(0)
+    historical_source['availability_count'] = pd.to_numeric(historical_source['availability_count'], errors='coerce').fillna(0)
+    historical_source['availability_sum'] = pd.to_numeric(historical_source['availability_sum'], errors='coerce')
+    historical_source['availability_min'] = pd.to_numeric(historical_source['availability_min'], errors='coerce')
+    historical_source['availability_max'] = pd.to_numeric(historical_source['availability_max'], errors='coerce')
+    historical_source['load_count'] = pd.to_numeric(historical_source['load_count'], errors='coerce').fillna(0)
+    historical_source['load_sum'] = pd.to_numeric(historical_source['load_sum'], errors='coerce')
+    historical_source['load_min'] = pd.to_numeric(historical_source['load_min'], errors='coerce')
+    historical_source['load_max'] = pd.to_numeric(historical_source['load_max'], errors='coerce')
+
+    def combine_historical_stats(group_cols: list[str], output_file: str):
+        combined = (
+            historical_source.groupby(group_cols, dropna=False)
+            .agg(
+                doctor_count=('doctor_count', 'sum'),
+                doctors_accepting=('doctors_accepting', 'sum'),
+                doctors_not_accepting=('doctors_not_accepting', 'sum'),
+                availability_count=('availability_count', 'sum'),
+                availability_sum=('availability_sum', lambda s: s.sum(min_count=1)),
+                availability_min=('availability_min', 'min'),
+                availability_max=('availability_max', 'max'),
+                load_count=('load_count', 'sum'),
+                load_sum=('load_sum', lambda s: s.sum(min_count=1)),
+                load_min=('load_min', 'min'),
+                load_max=('load_max', 'max'),
+            )
+            .reset_index()
+        )
+        combined['availability_avg'] = combined['availability_sum'] / combined['availability_count']
+        combined['load_avg'] = combined['load_sum'] / combined['load_count']
+        combined.sort_values(by=group_cols, inplace=True)
+        combined.to_csv(output_file, index=False)
+
+    combine_historical_stats(
+        ['date', 'type', 'region', 'municipality'],
+        'csv/stats-historical-by-type-region-municipality.csv',
+    )
+    combine_historical_stats(
+        ['date', 'type', 'region'],
+        'csv/stats-historical-by-type-region.csv',
+    )
+    combine_historical_stats(
+        ['date', 'type', 'municipality'],
+        'csv/stats-historical-by-type-municipality.csv',
+    )
 
 def append_overrides():
     filename = "csv/overrides.csv"
@@ -556,6 +783,7 @@ if __name__ == "__main__":
     geocode_addresses()
     add_gurs_geodata()
     add_zzzs_api_data()
+    extract_historical_data(zzzsid_map)
 
     write_timestamp_file(fname_inst, old_hash_inst)
     write_timestamp_file(fname_doctors, old_hash_doctors)
