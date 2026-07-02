@@ -7,13 +7,14 @@ postOver,addressOver,cityOver
 1000 Ljubljana,Rakovniška ulica 4,
 1000 Ljubljana,Ukmarjeva ulica 4,
 1000 Ljubljana,Ulica bratov Babnik 10,
+1000 Ljubljana,Čufarjeva ulica 11,
 1218 Komenda,Glavarjeva cesta 61a,
 1231 Ljubljana-Črnuče,Primožičeva ulica 2,
-1235 Radomlje,Kamniška cesta 24,Zgornje Jarše
 1235 Radomlje,Kamniška cesta 24d,Zgornje Jarše
 1236 Trzin,Mengeška 7b,
 1251 Moravče,Vegova ulica 22,
 1292 Ig pri Ljubljani,Banija 4,
+1311 Turjak,Laporje 30,
 1312 Videm - Dobrepolje,Videm 37 a,
 1312 Videm-Dobrepolje,Videm 37a,
 1315 Velike Lašče,Javorškova ulica 9,
@@ -28,7 +29,6 @@ postOver,addressOver,cityOver
 1411 izlake,Izlake 13,
 1432 Zidani Most,Zidani most 9,
 2000 Maribor,Kalohova ulica 18,
-2000 Maribor,Turnerjeva ulica 33,
 2000 Maribor,Ulica Kneza Koclja 10,
 2000 Maribor,Ulica kneza Koclja 11,
 2000 Maribor,Zagrebška cesta 84a,
@@ -52,10 +52,6 @@ postOver,addressOver,cityOver
 2370 Dravograd,Trg 4. julija 9,
 2391 Prevalje,Trg 58a,
 3000 Celje,Gregorčičeva ulica 5,
-3256 Bistrica ob Sotli,Bistrica ob Sotli 7,
-3272 Rimske Toplice,Aškerčeva cesta 4,
-3301 Petrovče,Petrovče 33,
-3305 Vransko,Vransko 130d,
 3310 Žalec,Prešernova ulica 6,
 3314 Braslovče,Braslovče 29,
 3330 Mozirje,Savinjska cesta 6,
@@ -67,6 +63,7 @@ postOver,addressOver,cityOver
 4000 Kranj,Gosposvetska 10b,
 4000 Kranj,Ljubljanska cesta 24A,
 4000 Kranj,Škofjeloška cesta 6,
+4000 Kranj,Žanova ulica 3,
 4204 Golnik,Golnik 36,
 4206 Zgornje Jezersko,Zgornje Jezersko 82,
 4220 Škofja Loka,Stara cesta 10,
@@ -85,12 +82,7 @@ postOver,addressOver,cityOver
 5290 Šempeter pri Gorici,Cesta prekomorskih brigad 25,
 5291 Miren,Miren 137,
 5292 Renče,Trg 25,
-6000 Koper,Cesta na Markovec 1,
-6210 Sežana,Ulica Ivana Turšiča 6,
-6215 Divača,Ulica 1. maja 1,
-6223 Komen,Komen 94,
 6230 Postojna,Kolodvorska cesta 25,
-6240 Kozina,Reška cesta 18,
 6257 Pivka,Kolodvorska cesta 24,
 6333 Sečovlje,Sečovlje 44,
 8000 Novo mesto,Seidlova cesta 44,
@@ -99,7 +91,5 @@ postOver,addressOver,cityOver
 8232 Šentrupert,Šentrupert 124,
 8233 Mirna,Cesta na Fužine 10,
 8270 Krško,Cesta krških žrtev 132C,
-9000 Murska Sobota,Cvetkova ulica 10,Murska Sobota
-9000 Murska Sobota,Lendavska ulica 18,Murska Sobota
 9000 Murska Sobota,Mladinska ulica 10,Murska Sobota
 9220 Lendava - Lendva,Mlinska ulica 6,Lendava
