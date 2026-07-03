@@ -2,10 +2,10 @@
 <bpi xmlns="http://zzzs.si/b2b/bpi" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemalocation="http://zzzs.si/b2b/bpi bpi.xsd">
  <posiljka>
   <verzijaposiljke>
-   4925
+   4926
   </verzijaposiljke>
   <datumposiljke>
-   2026-07-02
+   2026-07-03
   </datumposiljke>
   <verzijasheme>
    1.0
@@ -47928,6 +47928,17 @@
    </opisvzd>
    <veljaod>
     2025-01-01
+   </veljaod>
+  </vzd>
+  <vzd>
+   <sifravzd>
+    256
+   </sifravzd>
+   <opisvzd>
+    Klinična prehrana v spec. ZunajBolDej
+   </opisvzd>
+   <veljaod>
+    2026-07-01
    </veljaod>
   </vzd>
  </ivzizvajalec>
@@ -163221,10 +163232,10 @@
     ANEJ KEBRIČ S.P.
    </nazivorganizacijskeenote>
    <ulicaorganizacijskeenote>
-    GREGORČIČEVA ULICA 12
+    SREDNJE 18 J
    </ulicaorganizacijskeenote>
    <postaorganizacijskeenote>
-    2000 MARIBOR
+    2354 BRESTERNICA
    </postaorganizacijskeenote>
   </nazivinnaslov>
   <pravnistatus>
@@ -255468,6 +255479,17 @@
    </opisvzd>
    <veljaod>
     2019-06-03
+   </veljaod>
+  </vzd>
+  <vzd>
+   <sifravzd>
+    256
+   </sifravzd>
+   <opisvzd>
+    Klinična prehrana v spec. ZunajBolDej
+   </opisvzd>
+   <veljaod>
+    2026-07-01
    </veljaod>
   </vzd>
  </ivzizvajalec>
