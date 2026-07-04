@@ -2,10 +2,10 @@
 <bpi xmlns="http://zzzs.si/b2b/bpi" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemalocation="http://zzzs.si/b2b/bpi bpi.xsd">
  <posiljka>
   <verzijaposiljke>
-   4926
+   4927
   </verzijaposiljke>
   <datumposiljke>
-   2026-07-03
+   2026-07-04
   </datumposiljke>
   <verzijasheme>
    1.0
@@ -210301,6 +210301,9 @@
   <veljaod>
    2025-12-19
   </veljaod>
+  <veljado>
+   2026-06-30
+  </veljado>
   <vzd>
    <sifravzd>
     404
@@ -210310,6 +210313,77 @@
    </opisvzd>
    <veljaod>
     2025-12-19
+   </veljaod>
+   <veljado>
+    2026-06-30
+   </veljado>
+  </vzd>
+ </ivzizvajalec>
+ <ivzizvajalec>
+  <sifraivzizvajalca>
+   2474
+  </sifraivzizvajalca>
+  <sifralokacije>
+   2
+  </sifralokacije>
+  <zzzsstevilka>
+   9942452
+  </zzzsstevilka>
+  <organizacijskastruktura>
+   <sifraivzosnovni>
+    2474
+   </sifraivzosnovni>
+  </organizacijskastruktura>
+  <nazivinnaslov>
+   <nazivorganizacijskeenote>
+    DENTALNI CENTER GOLDEN, D.O.O.
+   </nazivorganizacijskeenote>
+   <dodatninazivorganizacijskeenote>
+    PE ZAGORJE
+   </dodatninazivorganizacijskeenote>
+   <ulicaorganizacijskeenote>
+    CESTA ZMAGE 1
+   </ulicaorganizacijskeenote>
+   <postaorganizacijskeenote>
+    1410 ZAGORJE OB SAVI
+   </postaorganizacijskeenote>
+  </nazivinnaslov>
+  <pravnistatus>
+   <pravnistatussifra>
+    2
+   </pravnistatussifra>
+   <pravnistatusopis>
+    GOSPODARSKA DRUŽBA / ZASEBNI ZAVOD
+   </pravnistatusopis>
+  </pravnistatus>
+  <tipizvajalca>
+   <tipizvajalcasifra>
+    1
+   </tipizvajalcasifra>
+   <tipizvajalcaopis>
+    OSNOVNO ZDRAVSTVO
+   </tipizvajalcaopis>
+  </tipizvajalca>
+  <obcina>
+   <obcinasifra>
+    142
+   </obcinasifra>
+   <obcinanaziv>
+    ZAGORJE OB SAVI
+   </obcinanaziv>
+  </obcina>
+  <veljaod>
+   2026-06-05
+  </veljaod>
+  <vzd>
+   <sifravzd>
+    404
+   </sifravzd>
+   <opisvzd>
+    Splošno zobozdravstvo
+   </opisvzd>
+   <veljaod>
+    2026-06-05
    </veljaod>
   </vzd>
  </ivzizvajalec>
@@ -263276,6 +263350,17 @@
    </opisvzd>
    <veljaod>
     1991-12-31
+   </veljaod>
+  </vzd>
+  <vzd>
+   <sifravzd>
+    256
+   </sifravzd>
+   <opisvzd>
+    Klinična prehrana v spec. ZunajBolDej
+   </opisvzd>
+   <veljaod>
+    2026-07-01
    </veljaod>
   </vzd>
  </ivzizvajalec>
