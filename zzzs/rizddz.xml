@@ -2,10 +2,10 @@
 <bpi xmlns="http://zzzs.si/b2b/bpi" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemalocation="http://zzzs.si/b2b/bpi bpi.xsd">
  <posiljka>
   <verzijaposiljke>
-   4927
+   4928
   </verzijaposiljke>
   <datumposiljke>
-   2026-07-04
+   2026-07-05
   </datumposiljke>
   <verzijasheme>
    1.0
@@ -58858,151 +58858,6 @@
    <veljaod>
     2021-05-05
    </veljaod>
-  </vzd>
- </ivzizvajalec>
- <ivzizvajalec>
-  <sifraivzizvajalca>
-   502
-  </sifraivzizvajalca>
-  <sifralokacije>
-   0
-  </sifralokacije>
-  <zzzsstevilka>
-   4745561
-  </zzzsstevilka>
-  <organizacijskastruktura>
-   <sifraivzosnovni>
-    502
-   </sifraivzosnovni>
-  </organizacijskastruktura>
-  <nazivinnaslov>
-   <nazivorganizacijskeenote>
-    ESTETIC, OXANA LEVAK S.P.
-   </nazivorganizacijskeenote>
-   <ulicaorganizacijskeenote>
-    ROZMANOVA ULICA 29
-   </ulicaorganizacijskeenote>
-   <postaorganizacijskeenote>
-    8270 KRŠKO
-   </postaorganizacijskeenote>
-  </nazivinnaslov>
-  <pravnistatus>
-   <pravnistatussifra>
-    5
-   </pravnistatussifra>
-   <pravnistatusopis>
-    SAMOSTOJNI PODJETNIK
-   </pravnistatusopis>
-  </pravnistatus>
-  <tipizvajalca>
-   <tipizvajalcasifra>
-    2
-   </tipizvajalcasifra>
-   <tipizvajalcaopis>
-    SPECIALISTIČNA AMBULANTA
-   </tipizvajalcaopis>
-  </tipizvajalca>
-  <obcina>
-   <obcinasifra>
-    54
-   </obcinasifra>
-   <obcinanaziv>
-    KRŠKO
-   </obcinanaziv>
-  </obcina>
-  <veljaod>
-   2021-05-03
-  </veljaod>
-  <veljado>
-   2023-07-04
-  </veljado>
-  <vzd>
-   <sifravzd>
-    706
-   </sifravzd>
-   <opisvzd>
-    Urejanje zdr.,iz.,kult., drugih soc.st.
-   </opisvzd>
-   <veljaod>
-    2021-05-03
-   </veljaod>
-   <veljado>
-    2023-07-04
-   </veljado>
-  </vzd>
- </ivzizvajalec>
- <ivzizvajalec>
-  <sifraivzizvajalca>
-   502
-  </sifraivzizvajalca>
-  <sifralokacije>
-   1
-  </sifralokacije>
-  <zzzsstevilka>
-   7960717
-  </zzzsstevilka>
-  <organizacijskastruktura>
-   <sifraivzosnovni>
-    502
-   </sifraivzosnovni>
-  </organizacijskastruktura>
-  <nazivinnaslov>
-   <nazivorganizacijskeenote>
-    ESTETIC, OXANA LEVAK S.P.
-   </nazivorganizacijskeenote>
-   <dodatninazivorganizacijskeenote>
-    PE ESTETIC, TRŽENJE KOZMETIČNIH IZDELKOV, OXANA LEVAK S.P.
-   </dodatninazivorganizacijskeenote>
-   <ulicaorganizacijskeenote>
-    CESTA KRŠKIH ŽRTEV 112
-   </ulicaorganizacijskeenote>
-   <postaorganizacijskeenote>
-    8270 KRŠKO
-   </postaorganizacijskeenote>
-  </nazivinnaslov>
-  <pravnistatus>
-   <pravnistatussifra>
-    5
-   </pravnistatussifra>
-   <pravnistatusopis>
-    SAMOSTOJNI PODJETNIK
-   </pravnistatusopis>
-  </pravnistatus>
-  <tipizvajalca>
-   <tipizvajalcasifra>
-    2
-   </tipizvajalcasifra>
-   <tipizvajalcaopis>
-    SPECIALISTIČNA AMBULANTA
-   </tipizvajalcaopis>
-  </tipizvajalca>
-  <obcina>
-   <obcinasifra>
-    54
-   </obcinasifra>
-   <obcinanaziv>
-    KRŠKO
-   </obcinanaziv>
-  </obcina>
-  <veljaod>
-   2021-05-05
-  </veljaod>
-  <veljado>
-   2023-07-04
-  </veljado>
-  <vzd>
-   <sifravzd>
-    228
-   </sifravzd>
-   <opisvzd>
-    Plast., rek., est.krg v spec.ZunajBolDej
-   </opisvzd>
-   <veljaod>
-    2021-05-05
-   </veljaod>
-   <veljado>
-    2023-07-04
-   </veljado>
   </vzd>
  </ivzizvajalec>
  <ivzizvajalec>
