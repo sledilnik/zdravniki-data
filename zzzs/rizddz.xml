@@ -2,10 +2,10 @@
 <bpi xmlns="http://zzzs.si/b2b/bpi" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemalocation="http://zzzs.si/b2b/bpi bpi.xsd">
  <posiljka>
   <verzijaposiljke>
-   4929
+   4930
   </verzijaposiljke>
   <datumposiljke>
-   2026-07-06
+   2026-07-07
   </datumposiljke>
   <verzijasheme>
    1.0
@@ -139408,6 +139408,71 @@
  </ivzizvajalec>
  <ivzizvajalec>
   <sifraivzizvajalca>
+   1524
+  </sifraivzizvajalca>
+  <sifralokacije>
+   0
+  </sifralokacije>
+  <zzzsstevilka>
+   8573740
+  </zzzsstevilka>
+  <organizacijskastruktura>
+   <sifraivzosnovni>
+    1524
+   </sifraivzosnovni>
+  </organizacijskastruktura>
+  <nazivinnaslov>
+   <nazivorganizacijskeenote>
+    INFODIA IZOBRAŽEVANJE IN SVETOVANJE ELENA KUZMINA S.P
+   </nazivorganizacijskeenote>
+   <ulicaorganizacijskeenote>
+    TOVARNIŠKA CESTA 22 A
+   </ulicaorganizacijskeenote>
+   <postaorganizacijskeenote>
+    1370 LOGATEC
+   </postaorganizacijskeenote>
+  </nazivinnaslov>
+  <pravnistatus>
+   <pravnistatussifra>
+    6
+   </pravnistatussifra>
+   <pravnistatusopis>
+    SAMOSTOJNI PODJETNIK - BREZ AMBULANTE
+   </pravnistatusopis>
+  </pravnistatus>
+  <tipizvajalca>
+   <tipizvajalcasifra>
+    2
+   </tipizvajalcasifra>
+   <tipizvajalcaopis>
+    SPECIALISTIČNA AMBULANTA
+   </tipizvajalcaopis>
+  </tipizvajalca>
+  <obcina>
+   <obcinasifra>
+    64
+   </obcinasifra>
+   <obcinanaziv>
+    LOGATEC
+   </obcinanaziv>
+  </obcina>
+  <veljaod>
+   2023-02-20
+  </veljaod>
+  <vzd>
+   <sifravzd>
+    706
+   </sifravzd>
+   <opisvzd>
+    Urejanje zdr.,iz.,kult., drugih soc.st.
+   </opisvzd>
+   <veljaod>
+    2023-02-20
+   </veljaod>
+  </vzd>
+ </ivzizvajalec>
+ <ivzizvajalec>
+  <sifraivzizvajalca>
    1525
   </sifraivzizvajalca>
   <sifralokacije>
@@ -190805,6 +190870,74 @@
    <veljado>
     2026-03-30
    </veljado>
+  </vzd>
+ </ivzizvajalec>
+ <ivzizvajalec>
+  <sifraivzizvajalca>
+   2245
+  </sifraivzizvajalca>
+  <sifralokacije>
+   2
+  </sifralokacije>
+  <zzzsstevilka>
+   10003366
+  </zzzsstevilka>
+  <organizacijskastruktura>
+   <sifraivzosnovni>
+    2245
+   </sifraivzosnovni>
+  </organizacijskastruktura>
+  <nazivinnaslov>
+   <nazivorganizacijskeenote>
+    DÓRA DÓZSAI, DR. DENT. MED. - ZOBOZDRAVSTVENA DEJAVNOST
+   </nazivorganizacijskeenote>
+   <dodatninazivorganizacijskeenote>
+    LOKACIJA VANGANEL
+   </dodatninazivorganizacijskeenote>
+   <ulicaorganizacijskeenote>
+    VANGANEL 38
+   </ulicaorganizacijskeenote>
+   <postaorganizacijskeenote>
+    6000 KOPER - CAPODISTRIA
+   </postaorganizacijskeenote>
+  </nazivinnaslov>
+  <pravnistatus>
+   <pravnistatussifra>
+    3
+   </pravnistatussifra>
+   <pravnistatusopis>
+    ZASEBNI ZDRAVSTVENI DELAVEC
+   </pravnistatusopis>
+  </pravnistatus>
+  <tipizvajalca>
+   <tipizvajalcasifra>
+    1
+   </tipizvajalcasifra>
+   <tipizvajalcaopis>
+    OSNOVNO ZDRAVSTVO
+   </tipizvajalcaopis>
+  </tipizvajalca>
+  <obcina>
+   <obcinasifra>
+    50
+   </obcinasifra>
+   <obcinanaziv>
+    KOPER
+   </obcinanaziv>
+  </obcina>
+  <veljaod>
+   2026-03-30
+  </veljaod>
+  <vzd>
+   <sifravzd>
+    404
+   </sifravzd>
+   <opisvzd>
+    Splošno zobozdravstvo
+   </opisvzd>
+   <veljaod>
+    2026-03-30
+   </veljaod>
   </vzd>
  </ivzizvajalec>
  <ivzizvajalec>
@@ -396457,77 +396590,6 @@
    </veljaod>
    <veljado>
     2025-08-31
-   </veljado>
-  </vzd>
- </ivzizvajalec>
- <ivzizvajalec>
-  <sifraivzizvajalca>
-   31096
-  </sifraivzizvajalca>
-  <sifralokacije>
-   0
-  </sifralokacije>
-  <zzzsstevilka>
-   3075331
-  </zzzsstevilka>
-  <organizacijskastruktura>
-   <sifraivzosnovni>
-    31096
-   </sifraivzosnovni>
-  </organizacijskastruktura>
-  <nazivinnaslov>
-   <nazivorganizacijskeenote>
-    TOMISLAV LAJTNER, DR.DENT.MED
-   </nazivorganizacijskeenote>
-   <ulicaorganizacijskeenote>
-    TLAKA 10
-   </ulicaorganizacijskeenote>
-   <postaorganizacijskeenote>
-    3342 GORNJI GRAD
-   </postaorganizacijskeenote>
-  </nazivinnaslov>
-  <pravnistatus>
-   <pravnistatussifra>
-    3
-   </pravnistatussifra>
-   <pravnistatusopis>
-    ZASEBNI ZDRAVSTVENI DELAVEC
-   </pravnistatusopis>
-  </pravnistatus>
-  <tipizvajalca>
-   <tipizvajalcasifra>
-    1
-   </tipizvajalcasifra>
-   <tipizvajalcaopis>
-    OSNOVNO ZDRAVSTVO
-   </tipizvajalcaopis>
-  </tipizvajalca>
-  <obcina>
-   <obcinasifra>
-    30
-   </obcinasifra>
-   <obcinanaziv>
-    GORNJI GRAD
-   </obcinanaziv>
-  </obcina>
-  <veljaod>
-   1998-07-01
-  </veljaod>
-  <veljado>
-   2023-07-06
-  </veljado>
-  <vzd>
-   <sifravzd>
-    404
-   </sifravzd>
-   <opisvzd>
-    Splošno zobozdravstvo
-   </opisvzd>
-   <veljaod>
-    1998-07-01
-   </veljaod>
-   <veljado>
-    2023-07-06
    </veljado>
   </vzd>
  </ivzizvajalec>
