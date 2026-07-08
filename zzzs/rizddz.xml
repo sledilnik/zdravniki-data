@@ -2,10 +2,10 @@
 <bpi xmlns="http://zzzs.si/b2b/bpi" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemalocation="http://zzzs.si/b2b/bpi bpi.xsd">
  <posiljka>
   <verzijaposiljke>
-   4930
+   4931
   </verzijaposiljke>
   <datumposiljke>
-   2026-07-07
+   2026-07-08
   </datumposiljke>
   <verzijasheme>
    1.0
@@ -125483,6 +125483,71 @@
  </ivzizvajalec>
  <ivzizvajalec>
   <sifraivzizvajalca>
+   1363
+  </sifraivzizvajalca>
+  <sifralokacije>
+   0
+  </sifralokacije>
+  <zzzsstevilka>
+   9048645
+  </zzzsstevilka>
+  <organizacijskastruktura>
+   <sifraivzosnovni>
+    1363
+   </sifraivzosnovni>
+  </organizacijskastruktura>
+  <nazivinnaslov>
+   <nazivorganizacijskeenote>
+    MARKO OREŠNIK S.P.
+   </nazivorganizacijskeenote>
+   <ulicaorganizacijskeenote>
+    CLEVELANDSKA ULICA 49
+   </ulicaorganizacijskeenote>
+   <postaorganizacijskeenote>
+    1000 LJUBLJANA
+   </postaorganizacijskeenote>
+  </nazivinnaslov>
+  <pravnistatus>
+   <pravnistatussifra>
+    6
+   </pravnistatussifra>
+   <pravnistatusopis>
+    SAMOSTOJNI PODJETNIK - BREZ AMBULANTE
+   </pravnistatusopis>
+  </pravnistatus>
+  <tipizvajalca>
+   <tipizvajalcasifra>
+    2
+   </tipizvajalcasifra>
+   <tipizvajalcaopis>
+    SPECIALISTIČNA AMBULANTA
+   </tipizvajalcaopis>
+  </tipizvajalca>
+  <obcina>
+   <obcinasifra>
+    61
+   </obcinasifra>
+   <obcinanaziv>
+    LJUBLJANA
+   </obcinanaziv>
+  </obcina>
+  <veljaod>
+   2023-11-29
+  </veljaod>
+  <vzd>
+   <sifravzd>
+    706
+   </sifravzd>
+   <opisvzd>
+    Urejanje zdr.,iz.,kult., drugih soc.st.
+   </opisvzd>
+   <veljaod>
+    2023-11-29
+   </veljaod>
+  </vzd>
+ </ivzizvajalec>
+ <ivzizvajalec>
+  <sifraivzizvajalca>
    1364
   </sifraivzizvajalca>
   <sifralokacije>
@@ -126516,6 +126581,139 @@
    </opisvzd>
    <veljaod>
     2023-10-20
+   </veljaod>
+  </vzd>
+ </ivzizvajalec>
+ <ivzizvajalec>
+  <sifraivzizvajalca>
+   1379
+  </sifraivzizvajalca>
+  <sifralokacije>
+   0
+  </sifralokacije>
+  <zzzsstevilka>
+   9083015
+  </zzzsstevilka>
+  <organizacijskastruktura>
+   <sifraivzosnovni>
+    1379
+   </sifraivzosnovni>
+  </organizacijskastruktura>
+  <nazivinnaslov>
+   <nazivorganizacijskeenote>
+    NIK TAVČAR S.P.
+   </nazivorganizacijskeenote>
+   <ulicaorganizacijskeenote>
+    KAMNIKARJEVA ULICA 27
+   </ulicaorganizacijskeenote>
+   <postaorganizacijskeenote>
+    1291 ŠKOFLJICA
+   </postaorganizacijskeenote>
+  </nazivinnaslov>
+  <pravnistatus>
+   <pravnistatussifra>
+    5
+   </pravnistatussifra>
+   <pravnistatusopis>
+    SAMOSTOJNI PODJETNIK
+   </pravnistatusopis>
+  </pravnistatus>
+  <tipizvajalca>
+   <tipizvajalcasifra>
+    1
+   </tipizvajalcasifra>
+   <tipizvajalcaopis>
+    OSNOVNO ZDRAVSTVO
+   </tipizvajalcaopis>
+  </tipizvajalca>
+  <obcina>
+   <obcinasifra>
+    123
+   </obcinasifra>
+   <obcinanaziv>
+    ŠKOFLJICA
+   </obcinanaziv>
+  </obcina>
+  <veljaod>
+   2023-10-23
+  </veljaod>
+  <vzd>
+   <sifravzd>
+    706
+   </sifravzd>
+   <opisvzd>
+    Urejanje zdr.,iz.,kult., drugih soc.st.
+   </opisvzd>
+   <veljaod>
+    2023-10-23
+   </veljaod>
+  </vzd>
+ </ivzizvajalec>
+ <ivzizvajalec>
+  <sifraivzizvajalca>
+   1379
+  </sifraivzizvajalca>
+  <sifralokacije>
+   2
+  </sifralokacije>
+  <zzzsstevilka>
+   9975920
+  </zzzsstevilka>
+  <organizacijskastruktura>
+   <sifraivzosnovni>
+    1379
+   </sifraivzosnovni>
+  </organizacijskastruktura>
+  <nazivinnaslov>
+   <nazivorganizacijskeenote>
+    NIK TAVČAR S.P.
+   </nazivorganizacijskeenote>
+   <dodatninazivorganizacijskeenote>
+    PE SEŽANA
+   </dodatninazivorganizacijskeenote>
+   <ulicaorganizacijskeenote>
+    PARTIZANSKA CESTA 69 A
+   </ulicaorganizacijskeenote>
+   <postaorganizacijskeenote>
+    6210 SEŽANA
+   </postaorganizacijskeenote>
+  </nazivinnaslov>
+  <pravnistatus>
+   <pravnistatussifra>
+    5
+   </pravnistatussifra>
+   <pravnistatusopis>
+    SAMOSTOJNI PODJETNIK
+   </pravnistatusopis>
+  </pravnistatus>
+  <tipizvajalca>
+   <tipizvajalcasifra>
+    1
+   </tipizvajalcasifra>
+   <tipizvajalcaopis>
+    OSNOVNO ZDRAVSTVO
+   </tipizvajalcaopis>
+  </tipizvajalca>
+  <obcina>
+   <obcinasifra>
+    111
+   </obcinasifra>
+   <obcinanaziv>
+    SEŽANA
+   </obcinanaziv>
+  </obcina>
+  <veljaod>
+   2025-02-25
+  </veljaod>
+  <vzd>
+   <sifravzd>
+    603
+   </sifravzd>
+   <opisvzd>
+    Zobni rentgen
+   </opisvzd>
+   <veljaod>
+    2025-02-25
    </veljaod>
   </vzd>
  </ivzizvajalec>
@@ -151291,6 +151489,61 @@
     2026-03-04
    </veljaod>
   </vzd>
+  <vzd>
+   <sifravzd>
+    134
+   </sifravzd>
+   <opisvzd>
+    Splošna kirurgija v BolDej
+   </opisvzd>
+   <veljaod>
+    2025-04-01
+   </veljaod>
+  </vzd>
+  <vzd>
+   <sifravzd>
+    122
+   </sifravzd>
+   <opisvzd>
+    Ortopedska kirurgija v BolDej
+   </opisvzd>
+   <veljaod>
+    2026-04-01
+   </veljaod>
+  </vzd>
+  <vzd>
+   <sifravzd>
+    137
+   </sifravzd>
+   <opisvzd>
+    Travmatologija v BolDej
+   </opisvzd>
+   <veljaod>
+    2025-04-01
+   </veljaod>
+  </vzd>
+  <vzd>
+   <sifravzd>
+    102
+   </sifravzd>
+   <opisvzd>
+    Anest., reanim. in per.int.med. v BolDej
+   </opisvzd>
+   <veljaod>
+    2025-04-01
+   </veljaod>
+  </vzd>
+  <vzd>
+   <sifravzd>
+    144
+   </sifravzd>
+   <opisvzd>
+    Zdravstvena nega v BolDej
+   </opisvzd>
+   <veljaod>
+    2025-04-01
+   </veljaod>
+  </vzd>
  </ivzizvajalec>
  <ivzizvajalec>
   <sifraivzizvajalca>
@@ -151886,6 +152139,150 @@
    </opisvzd>
    <veljaod>
     2025-06-16
+   </veljaod>
+  </vzd>
+ </ivzizvajalec>
+ <ivzizvajalec>
+  <sifraivzizvajalca>
+   1650
+  </sifraivzizvajalca>
+  <sifralokacije>
+   0
+  </sifralokacije>
+  <zzzsstevilka>
+   9213384
+  </zzzsstevilka>
+  <organizacijskastruktura>
+   <sifraivzosnovni>
+    1650
+   </sifraivzosnovni>
+  </organizacijskastruktura>
+  <nazivinnaslov>
+   <nazivorganizacijskeenote>
+    MEDICINA, FRANC BOŽIČEK S.P.
+   </nazivorganizacijskeenote>
+   <ulicaorganizacijskeenote>
+    BISTRICA OB SOTLI 61
+   </ulicaorganizacijskeenote>
+   <postaorganizacijskeenote>
+    3256 BISTRICA OB SOTLI
+   </postaorganizacijskeenote>
+  </nazivinnaslov>
+  <pravnistatus>
+   <pravnistatussifra>
+    5
+   </pravnistatussifra>
+   <pravnistatusopis>
+    SAMOSTOJNI PODJETNIK
+   </pravnistatusopis>
+  </pravnistatus>
+  <tipizvajalca>
+   <tipizvajalcasifra>
+    1
+   </tipizvajalcasifra>
+   <tipizvajalcaopis>
+    OSNOVNO ZDRAVSTVO
+   </tipizvajalcaopis>
+  </tipizvajalca>
+  <obcina>
+   <obcinasifra>
+    149
+   </obcinasifra>
+   <obcinanaziv>
+    BISTRICA OB SOTLI
+   </obcinanaziv>
+  </obcina>
+  <veljaod>
+   2024-03-11
+  </veljaod>
+  <vzd>
+   <sifravzd>
+    302
+   </sifravzd>
+   <opisvzd>
+    Splošna in družinska medicina
+   </opisvzd>
+   <veljaod>
+    2024-03-27
+   </veljaod>
+  </vzd>
+  <vzd>
+   <sifravzd>
+    706
+   </sifravzd>
+   <opisvzd>
+    Urejanje zdr.,iz.,kult., drugih soc.st.
+   </opisvzd>
+   <veljaod>
+    2024-03-11
+   </veljaod>
+  </vzd>
+ </ivzizvajalec>
+ <ivzizvajalec>
+  <sifraivzizvajalca>
+   1650
+  </sifraivzizvajalca>
+  <sifralokacije>
+   1
+  </sifralokacije>
+  <zzzsstevilka>
+   9965309
+  </zzzsstevilka>
+  <organizacijskastruktura>
+   <sifraivzosnovni>
+    1650
+   </sifraivzosnovni>
+  </organizacijskastruktura>
+  <nazivinnaslov>
+   <nazivorganizacijskeenote>
+    MEDICINA, FRANC BOŽIČEK S.P.
+   </nazivorganizacijskeenote>
+   <dodatninazivorganizacijskeenote>
+    POSLOVNA ENOTA
+   </dodatninazivorganizacijskeenote>
+   <ulicaorganizacijskeenote>
+    BISTRICA OB SOTLI 7 D
+   </ulicaorganizacijskeenote>
+   <postaorganizacijskeenote>
+    3256 BISTRICA OB SOTLI
+   </postaorganizacijskeenote>
+  </nazivinnaslov>
+  <pravnistatus>
+   <pravnistatussifra>
+    5
+   </pravnistatussifra>
+   <pravnistatusopis>
+    SAMOSTOJNI PODJETNIK
+   </pravnistatusopis>
+  </pravnistatus>
+  <tipizvajalca>
+   <tipizvajalcasifra>
+    1
+   </tipizvajalcasifra>
+   <tipizvajalcaopis>
+    OSNOVNO ZDRAVSTVO
+   </tipizvajalcaopis>
+  </tipizvajalca>
+  <obcina>
+   <obcinasifra>
+    149
+   </obcinasifra>
+   <obcinanaziv>
+    BISTRICA OB SOTLI
+   </obcinanaziv>
+  </obcina>
+  <veljaod>
+   2024-03-11
+  </veljaod>
+  <vzd>
+   <sifravzd>
+    302
+   </sifravzd>
+   <opisvzd>
+    Splošna in družinska medicina
+   </opisvzd>
+   <veljaod>
+    2024-03-11
    </veljaod>
   </vzd>
  </ivzizvajalec>
@@ -218704,6 +219101,71 @@
    </opisvzd>
    <veljaod>
     2026-07-01
+   </veljaod>
+  </vzd>
+ </ivzizvajalec>
+ <ivzizvajalec>
+  <sifraivzizvajalca>
+   2605
+  </sifraivzizvajalca>
+  <sifralokacije>
+   0
+  </sifralokacije>
+  <zzzsstevilka>
+   9806192
+  </zzzsstevilka>
+  <organizacijskastruktura>
+   <sifraivzosnovni>
+    2605
+   </sifraivzosnovni>
+  </organizacijskastruktura>
+  <nazivinnaslov>
+   <nazivorganizacijskeenote>
+    NAIZI D.O.O.
+   </nazivorganizacijskeenote>
+   <ulicaorganizacijskeenote>
+    GOSPOSVETSKA CESTA 8
+   </ulicaorganizacijskeenote>
+   <postaorganizacijskeenote>
+    1000 LJUBLJANA
+   </postaorganizacijskeenote>
+  </nazivinnaslov>
+  <pravnistatus>
+   <pravnistatussifra>
+    7
+   </pravnistatussifra>
+   <pravnistatusopis>
+    GOSPODARSKA DRUŽBA - BREZ AMBULANTE
+   </pravnistatusopis>
+  </pravnistatus>
+  <tipizvajalca>
+   <tipizvajalcasifra>
+    2
+   </tipizvajalcasifra>
+   <tipizvajalcaopis>
+    SPECIALISTIČNA AMBULANTA
+   </tipizvajalcaopis>
+  </tipizvajalca>
+  <obcina>
+   <obcinasifra>
+    61
+   </obcinasifra>
+   <obcinanaziv>
+    LJUBLJANA
+   </obcinanaziv>
+  </obcina>
+  <veljaod>
+   2026-06-09
+  </veljaod>
+  <vzd>
+   <sifravzd>
+    204
+   </sifravzd>
+   <opisvzd>
+    Fizikalna in reh.med. v spec.ZunajBolDej
+   </opisvzd>
+   <veljaod>
+    2026-06-09
    </veljaod>
   </vzd>
  </ivzizvajalec>
@@ -293190,77 +293652,6 @@
  </ivzizvajalec>
  <ivzizvajalec>
   <sifraivzizvajalca>
-   17091
-  </sifraivzizvajalca>
-  <sifralokacije>
-   0
-  </sifralokacije>
-  <zzzsstevilka>
-   3662730
-  </zzzsstevilka>
-  <organizacijskastruktura>
-   <sifraivzosnovni>
-    17091
-   </sifraivzosnovni>
-  </organizacijskastruktura>
-  <nazivinnaslov>
-   <nazivorganizacijskeenote>
-    ZOBNA AMBULANTA - NORČIČ-BERCE ANDREJA
-   </nazivorganizacijskeenote>
-   <ulicaorganizacijskeenote>
-    CVETKOVA ULICA 10
-   </ulicaorganizacijskeenote>
-   <postaorganizacijskeenote>
-    9000 MURSKA SOBOTA
-   </postaorganizacijskeenote>
-  </nazivinnaslov>
-  <pravnistatus>
-   <pravnistatussifra>
-    3
-   </pravnistatussifra>
-   <pravnistatusopis>
-    ZASEBNI ZDRAVSTVENI DELAVEC
-   </pravnistatusopis>
-  </pravnistatus>
-  <tipizvajalca>
-   <tipizvajalcasifra>
-    1
-   </tipizvajalcasifra>
-   <tipizvajalcaopis>
-    OSNOVNO ZDRAVSTVO
-   </tipizvajalcaopis>
-  </tipizvajalca>
-  <obcina>
-   <obcinasifra>
-    80
-   </obcinasifra>
-   <obcinanaziv>
-    MURSKA SOBOTA
-   </obcinanaziv>
-  </obcina>
-  <veljaod>
-   2002-10-01
-  </veljaod>
-  <veljado>
-   2023-07-07
-  </veljado>
-  <vzd>
-   <sifravzd>
-    404
-   </sifravzd>
-   <opisvzd>
-    Splošno zobozdravstvo
-   </opisvzd>
-   <veljaod>
-    2002-10-01
-   </veljaod>
-   <veljado>
-    2023-07-07
-   </veljado>
-  </vzd>
- </ivzizvajalec>
- <ivzizvajalec>
-  <sifraivzizvajalca>
    17092
   </sifraivzizvajalca>
   <sifralokacije>
@@ -353351,6 +353742,9 @@
   <veljaod>
    1995-10-01
   </veljaod>
+  <veljado>
+   2024-07-01
+  </veljado>
   <vzd>
    <sifravzd>
     404
@@ -353361,6 +353755,9 @@
    <veljaod>
     1995-10-01
    </veljaod>
+   <veljado>
+    2024-07-01
+   </veljado>
   </vzd>
  </ivzizvajalec>
  <ivzizvajalec>
