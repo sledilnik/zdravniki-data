@@ -2,10 +2,10 @@
 <bpi xmlns="http://zzzs.si/b2b/bpi" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemalocation="http://zzzs.si/b2b/bpi bpi.xsd">
  <posiljka>
   <verzijaposiljke>
-   4931
+   4932
   </verzijaposiljke>
   <datumposiljke>
-   2026-07-08
+   2026-07-09
   </datumposiljke>
   <verzijasheme>
    1.0
@@ -379394,6 +379394,17 @@
   <veljaod>
    2007-10-01
   </veljaod>
+  <vzd>
+   <sifravzd>
+    404
+   </sifravzd>
+   <opisvzd>
+    Splošno zobozdravstvo
+   </opisvzd>
+   <veljaod>
+    2007-10-01
+   </veljaod>
+  </vzd>
  </ivzizvajalec>
  <ivzizvajalec>
   <sifraivzizvajalca>
