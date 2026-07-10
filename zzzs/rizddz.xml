@@ -2,10 +2,10 @@
 <bpi xmlns="http://zzzs.si/b2b/bpi" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemalocation="http://zzzs.si/b2b/bpi bpi.xsd">
  <posiljka>
   <verzijaposiljke>
-   4932
+   4933
   </verzijaposiljke>
   <datumposiljke>
-   2026-07-09
+   2026-07-10
   </datumposiljke>
   <verzijasheme>
    1.0
@@ -4139,7 +4139,7 @@
     ZOBNA ORDINACIJA BOJANA VOČANEC D.O.O.
    </nazivorganizacijskeenote>
    <ulicaorganizacijskeenote>
-    SLADKI VRH 5
+    SLADKI VRH 6 B
    </ulicaorganizacijskeenote>
    <postaorganizacijskeenote>
     2214 SLADKI VRH
@@ -37555,77 +37555,6 @@
    <veljaod>
     2012-06-01
    </veljaod>
-  </vzd>
- </ivzizvajalec>
- <ivzizvajalec>
-  <sifraivzizvajalca>
-   342
-  </sifraivzizvajalca>
-  <sifralokacije>
-   0
-  </sifralokacije>
-  <zzzsstevilka>
-   8413605
-  </zzzsstevilka>
-  <organizacijskastruktura>
-   <sifraivzosnovni>
-    342
-   </sifraivzosnovni>
-  </organizacijskastruktura>
-  <nazivinnaslov>
-   <nazivorganizacijskeenote>
-    VILKO HROVAT S.P.
-   </nazivorganizacijskeenote>
-   <ulicaorganizacijskeenote>
-    PLEŠIČEVA ULICA 31
-   </ulicaorganizacijskeenote>
-   <postaorganizacijskeenote>
-    1000 LJUBLJANA
-   </postaorganizacijskeenote>
-  </nazivinnaslov>
-  <pravnistatus>
-   <pravnistatussifra>
-    5
-   </pravnistatussifra>
-   <pravnistatusopis>
-    SAMOSTOJNI PODJETNIK
-   </pravnistatusopis>
-  </pravnistatus>
-  <tipizvajalca>
-   <tipizvajalcasifra>
-    1
-   </tipizvajalcasifra>
-   <tipizvajalcaopis>
-    OSNOVNO ZDRAVSTVO
-   </tipizvajalcaopis>
-  </tipizvajalca>
-  <obcina>
-   <obcinasifra>
-    61
-   </obcinasifra>
-   <obcinanaziv>
-    LJUBLJANA
-   </obcinanaziv>
-  </obcina>
-  <veljaod>
-   2021-09-15
-  </veljaod>
-  <veljado>
-   2023-07-09
-  </veljado>
-  <vzd>
-   <sifravzd>
-    544
-   </sifravzd>
-   <opisvzd>
-    Zdravstvena nega v drugih dejavnostih
-   </opisvzd>
-   <veljaod>
-    2021-09-15
-   </veljaod>
-   <veljado>
-    2023-07-09
-   </veljado>
   </vzd>
  </ivzizvajalec>
  <ivzizvajalec>
@@ -83708,7 +83637,7 @@
     OPTIKA24, D.O.O., PE OPTIKA JULIUS
    </dodatninazivorganizacijskeenote>
    <ulicaorganizacijskeenote>
-    NA POLJANAH 18
+    STRELIŠKA CESTA 24
    </ulicaorganizacijskeenote>
    <postaorganizacijskeenote>
     2000 MARIBOR
@@ -241345,6 +241274,17 @@
     1991-04-01
    </veljaod>
   </vzd>
+  <vzd>
+   <sifravzd>
+    544
+   </sifravzd>
+   <opisvzd>
+    Zdravstvena nega v drugih dejavnostih
+   </opisvzd>
+   <veljaod>
+    2026-04-01
+   </veljaod>
+  </vzd>
  </ivzizvajalec>
  <ivzizvajalec>
   <sifraivzizvajalca>
@@ -263942,6 +263882,17 @@
    </opisvzd>
    <veljaod>
     1992-01-01
+   </veljaod>
+  </vzd>
+  <vzd>
+   <sifravzd>
+    256
+   </sifravzd>
+   <opisvzd>
+    Klinična prehrana v spec. ZunajBolDej
+   </opisvzd>
+   <veljaod>
+    2026-07-01
    </veljaod>
   </vzd>
  </ivzizvajalec>
@@ -422021,6 +421972,17 @@
    </opisvzd>
    <veljaod>
     2025-09-27
+   </veljaod>
+  </vzd>
+  <vzd>
+   <sifravzd>
+    203
+   </sifravzd>
+   <opisvzd>
+    Dermatovenerologija v spec. ZunajBolDej
+   </opisvzd>
+   <veljaod>
+    2026-07-01
    </veljaod>
   </vzd>
  </ivzizvajalec>
