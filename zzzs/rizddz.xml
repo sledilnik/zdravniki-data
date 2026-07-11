@@ -2,10 +2,10 @@
 <bpi xmlns="http://zzzs.si/b2b/bpi" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemalocation="http://zzzs.si/b2b/bpi bpi.xsd">
  <posiljka>
   <verzijaposiljke>
-   4933
+   4934
   </verzijaposiljke>
   <datumposiljke>
-   2026-07-10
+   2026-07-11
   </datumposiljke>
   <verzijasheme>
    1.0
@@ -82200,6 +82200,9 @@
   <veljaod>
    2022-05-10
   </veljaod>
+  <veljado>
+   2026-06-12
+  </veljado>
   <vzd>
    <sifravzd>
     230
@@ -82210,6 +82213,9 @@
    <veljaod>
     2022-05-10
    </veljaod>
+   <veljado>
+    2026-06-12
+   </veljado>
   </vzd>
  </ivzizvajalec>
  <ivzizvajalec>
@@ -82268,6 +82274,9 @@
   <veljaod>
    2023-10-18
   </veljaod>
+  <veljado>
+   2026-06-12
+  </veljado>
   <vzd>
    <sifravzd>
     230
@@ -82278,6 +82287,9 @@
    <veljaod>
     2023-10-18
    </veljaod>
+   <veljado>
+    2026-06-12
+   </veljado>
   </vzd>
  </ivzizvajalec>
  <ivzizvajalec>
@@ -87591,10 +87603,10 @@
   </organizacijskastruktura>
   <nazivinnaslov>
    <nazivorganizacijskeenote>
-    S.G.A. D.O.O.
+    SGA D.O.O.
    </nazivorganizacijskeenote>
    <ulicaorganizacijskeenote>
-    LJUBLJANSKA ULICA 67
+    GLAVNI TRG 17
    </ulicaorganizacijskeenote>
    <postaorganizacijskeenote>
     2000 MARIBOR
@@ -90189,10 +90201,10 @@
   </nazivinnaslov>
   <pravnistatus>
    <pravnistatussifra>
-    6
+    7
    </pravnistatussifra>
    <pravnistatusopis>
-    SAMOSTOJNI PODJETNIK - BREZ AMBULANTE
+    GOSPODARSKA DRUŽBA - BREZ AMBULANTE
    </pravnistatusopis>
   </pravnistatus>
   <tipizvajalca>
