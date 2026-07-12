@@ -2,10 +2,10 @@
 <bpi xmlns="http://zzzs.si/b2b/bpi" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemalocation="http://zzzs.si/b2b/bpi bpi.xsd">
  <posiljka>
   <verzijaposiljke>
-   4934
+   4935
   </verzijaposiljke>
   <datumposiljke>
-   2026-07-11
+   2026-07-12
   </datumposiljke>
   <verzijasheme>
    1.0
@@ -204549,7 +204549,7 @@
   </organizacijskastruktura>
   <nazivinnaslov>
    <nazivorganizacijskeenote>
-    ANDREJA KRAŠOVEC JERAŠA S.P.
+    ZOBKARIJA, ANDREJA KRAŠOVEC JERAŠA S.P.
    </nazivorganizacijskeenote>
    <ulicaorganizacijskeenote>
     SREDNJE GAMELJNE 32 E
@@ -390316,7 +390316,7 @@
   </organizacijskastruktura>
   <nazivinnaslov>
    <nazivorganizacijskeenote>
-    RENATA OSTANEK ULE, DR. DENT. MED.
+    RENATA OSTANEK, DR. DENT. MED.
    </nazivorganizacijskeenote>
    <ulicaorganizacijskeenote>
     KANDIJSKA CESTA 4
