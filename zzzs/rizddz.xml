@@ -2,10 +2,10 @@
 <bpi xmlns="http://zzzs.si/b2b/bpi" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemalocation="http://zzzs.si/b2b/bpi bpi.xsd">
  <posiljka>
   <verzijaposiljke>
-   4936
+   4937
   </verzijaposiljke>
   <datumposiljke>
-   2026-07-13
+   2026-07-14
   </datumposiljke>
   <verzijasheme>
    1.0
@@ -218255,6 +218255,71 @@
  </ivzizvajalec>
  <ivzizvajalec>
   <sifraivzizvajalca>
+   2580
+  </sifraivzizvajalca>
+  <sifralokacije>
+   0
+  </sifralokacije>
+  <zzzsstevilka>
+   9518915
+  </zzzsstevilka>
+  <organizacijskastruktura>
+   <sifraivzosnovni>
+    2580
+   </sifraivzosnovni>
+  </organizacijskastruktura>
+  <nazivinnaslov>
+   <nazivorganizacijskeenote>
+    RENKO, DAVID RENKO S.P.
+   </nazivorganizacijskeenote>
+   <ulicaorganizacijskeenote>
+    IŽANSKA CESTA 343
+   </ulicaorganizacijskeenote>
+   <postaorganizacijskeenote>
+    1000 LJUBLJANA
+   </postaorganizacijskeenote>
+  </nazivinnaslov>
+  <pravnistatus>
+   <pravnistatussifra>
+    5
+   </pravnistatussifra>
+   <pravnistatusopis>
+    SAMOSTOJNI PODJETNIK
+   </pravnistatusopis>
+  </pravnistatus>
+  <tipizvajalca>
+   <tipizvajalcasifra>
+    1
+   </tipizvajalcasifra>
+   <tipizvajalcaopis>
+    OSNOVNO ZDRAVSTVO
+   </tipizvajalcaopis>
+  </tipizvajalca>
+  <obcina>
+   <obcinasifra>
+    61
+   </obcinasifra>
+   <obcinanaziv>
+    LJUBLJANA
+   </obcinanaziv>
+  </obcina>
+  <veljaod>
+   2026-05-14
+  </veljaod>
+  <vzd>
+   <sifravzd>
+    507
+   </sifravzd>
+   <opisvzd>
+    Fizioterapija
+   </opisvzd>
+   <veljaod>
+    2026-05-14
+   </veljaod>
+  </vzd>
+ </ivzizvajalec>
+ <ivzizvajalec>
+  <sifraivzizvajalca>
    2583
   </sifraivzizvajalca>
   <sifralokacije>
@@ -357478,6 +357543,9 @@
   <veljaod>
    1994-05-03
   </veljaod>
+  <veljado>
+   2026-05-07
+  </veljado>
   <vzd>
    <sifravzd>
     442
@@ -357488,6 +357556,9 @@
    <veljaod>
     1994-05-03
    </veljaod>
+   <veljado>
+    2026-05-07
+   </veljado>
   </vzd>
  </ivzizvajalec>
  <ivzizvajalec>
