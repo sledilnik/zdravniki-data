@@ -2,10 +2,10 @@
 <bpi xmlns="http://zzzs.si/b2b/bpi" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemalocation="http://zzzs.si/b2b/bpi bpi.xsd">
  <posiljka>
   <verzijaposiljke>
-   4937
+   4938
   </verzijaposiljke>
   <datumposiljke>
-   2026-07-14
+   2026-07-15
   </datumposiljke>
   <verzijasheme>
    1.0
@@ -278402,6 +278402,9 @@
   <veljaod>
    2018-01-16
   </veljaod>
+  <veljado>
+   2026-07-07
+  </veljado>
   <vzd>
    <sifravzd>
     302
@@ -278412,6 +278415,9 @@
    <veljaod>
     2018-01-16
    </veljaod>
+   <veljado>
+    2026-07-07
+   </veljado>
   </vzd>
  </ivzizvajalec>
  <ivzizvajalec>
@@ -360028,6 +360034,9 @@
   <veljaod>
    1997-02-01
   </veljaod>
+  <veljado>
+   2026-05-31
+  </veljado>
   <vzd>
    <sifravzd>
     714
@@ -360038,6 +360047,9 @@
    <veljaod>
     1997-02-01
    </veljaod>
+   <veljado>
+    2026-05-31
+   </veljado>
   </vzd>
  </ivzizvajalec>
  <ivzizvajalec>
@@ -363103,10 +363115,10 @@
   </nazivinnaslov>
   <pravnistatus>
    <pravnistatussifra>
-    3
+    2
    </pravnistatussifra>
    <pravnistatusopis>
-    ZASEBNI ZDRAVSTVENI DELAVEC
+    GOSPODARSKA DRUŽBA / ZASEBNI ZAVOD
    </pravnistatusopis>
   </pravnistatus>
   <tipizvajalca>
