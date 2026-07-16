@@ -2,10 +2,10 @@
 <bpi xmlns="http://zzzs.si/b2b/bpi" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemalocation="http://zzzs.si/b2b/bpi bpi.xsd">
  <posiljka>
   <verzijaposiljke>
-   4938
+   4939
   </verzijaposiljke>
   <datumposiljke>
-   2026-07-15
+   2026-07-16
   </datumposiljke>
   <verzijasheme>
    1.0
@@ -28305,6 +28305,17 @@
    </opisvzd>
    <veljaod>
     2024-09-23
+   </veljaod>
+  </vzd>
+  <vzd>
+   <sifravzd>
+    215
+   </sifravzd>
+   <opisvzd>
+    Maksilofacialna krg. v spec. ZunajBolDej
+   </opisvzd>
+   <veljaod>
+    2026-06-19
    </veljaod>
   </vzd>
  </ivzizvajalec>
@@ -132616,6 +132627,17 @@
     2023-08-01
    </veljaod>
   </vzd>
+  <vzd>
+   <sifravzd>
+    507
+   </sifravzd>
+   <opisvzd>
+    Fizioterapija
+   </opisvzd>
+   <veljaod>
+    2026-06-29
+   </veljaod>
+  </vzd>
  </ivzizvajalec>
  <ivzizvajalec>
   <sifraivzizvajalca>
@@ -173527,6 +173549,71 @@
  </ivzizvajalec>
  <ivzizvajalec>
   <sifraivzizvajalca>
+   1936
+  </sifraivzizvajalca>
+  <sifralokacije>
+   0
+  </sifralokacije>
+  <zzzsstevilka>
+   8837029
+  </zzzsstevilka>
+  <organizacijskastruktura>
+   <sifraivzosnovni>
+    1936
+   </sifraivzosnovni>
+  </organizacijskastruktura>
+  <nazivinnaslov>
+   <nazivorganizacijskeenote>
+    SINERGIJA, HELENA BIZJAK S.P.
+   </nazivorganizacijskeenote>
+   <ulicaorganizacijskeenote>
+    BETAJNOVA 15
+   </ulicaorganizacijskeenote>
+   <postaorganizacijskeenote>
+    1360 VRHNIKA
+   </postaorganizacijskeenote>
+  </nazivinnaslov>
+  <pravnistatus>
+   <pravnistatussifra>
+    6
+   </pravnistatussifra>
+   <pravnistatusopis>
+    SAMOSTOJNI PODJETNIK - BREZ AMBULANTE
+   </pravnistatusopis>
+  </pravnistatus>
+  <tipizvajalca>
+   <tipizvajalcasifra>
+    1
+   </tipizvajalcasifra>
+   <tipizvajalcaopis>
+    OSNOVNO ZDRAVSTVO
+   </tipizvajalcaopis>
+  </tipizvajalca>
+  <obcina>
+   <obcinasifra>
+    140
+   </obcinasifra>
+   <obcinanaziv>
+    VRHNIKA
+   </obcinanaziv>
+  </obcina>
+  <veljaod>
+   2025-01-21
+  </veljaod>
+  <vzd>
+   <sifravzd>
+    706
+   </sifravzd>
+   <opisvzd>
+    Urejanje zdr.,iz.,kult., drugih soc.st.
+   </opisvzd>
+   <veljaod>
+    2025-01-21
+   </veljaod>
+  </vzd>
+ </ivzizvajalec>
+ <ivzizvajalec>
+  <sifraivzizvajalca>
    1937
   </sifraivzizvajalca>
   <sifralokacije>
@@ -182869,6 +182956,71 @@
    </opisvzd>
    <veljaod>
     2010-04-05
+   </veljaod>
+  </vzd>
+ </ivzizvajalec>
+ <ivzizvajalec>
+  <sifraivzizvajalca>
+   2079
+  </sifraivzizvajalca>
+  <sifralokacije>
+   0
+  </sifralokacije>
+  <zzzsstevilka>
+   5092490
+  </zzzsstevilka>
+  <organizacijskastruktura>
+   <sifraivzosnovni>
+    2079
+   </sifraivzosnovni>
+  </organizacijskastruktura>
+  <nazivinnaslov>
+   <nazivorganizacijskeenote>
+    OCULAR TIM D.O.O.
+   </nazivorganizacijskeenote>
+   <ulicaorganizacijskeenote>
+    ULICA MOLNIŠKE ČETE 13
+   </ulicaorganizacijskeenote>
+   <postaorganizacijskeenote>
+    1000 LJUBLJANA
+   </postaorganizacijskeenote>
+  </nazivinnaslov>
+  <pravnistatus>
+   <pravnistatussifra>
+    7
+   </pravnistatussifra>
+   <pravnistatusopis>
+    GOSPODARSKA DRUŽBA - BREZ AMBULANTE
+   </pravnistatusopis>
+  </pravnistatus>
+  <tipizvajalca>
+   <tipizvajalcasifra>
+    2
+   </tipizvajalcasifra>
+   <tipizvajalcaopis>
+    SPECIALISTIČNA AMBULANTA
+   </tipizvajalcaopis>
+  </tipizvajalca>
+  <obcina>
+   <obcinasifra>
+    61
+   </obcinasifra>
+   <obcinanaziv>
+    LJUBLJANA
+   </obcinanaziv>
+  </obcina>
+  <veljaod>
+   2009-08-31
+  </veljaod>
+  <vzd>
+   <sifravzd>
+    706
+   </sifravzd>
+   <opisvzd>
+    Urejanje zdr.,iz.,kult., drugih soc.st.
+   </opisvzd>
+   <veljaod>
+    2009-08-31
    </veljaod>
   </vzd>
  </ivzizvajalec>
@@ -285865,6 +286017,17 @@
    </opisvzd>
    <veljaod>
     2019-05-31
+   </veljaod>
+  </vzd>
+  <vzd>
+   <sifravzd>
+    256
+   </sifravzd>
+   <opisvzd>
+    Klinična prehrana v spec. ZunajBolDej
+   </opisvzd>
+   <veljaod>
+    2026-07-01
    </veljaod>
   </vzd>
  </ivzizvajalec>
@@ -493780,6 +493943,17 @@
    </opisvzd>
    <veljaod>
     2026-06-08
+   </veljaod>
+  </vzd>
+  <vzd>
+   <sifravzd>
+    218
+   </sifravzd>
+   <opisvzd>
+    Nevrologija v spec. ZunajBolDej
+   </opisvzd>
+   <veljaod>
+    2026-06-16
    </veljaod>
   </vzd>
  </ivzizvajalec>
