@@ -2,10 +2,10 @@
 <bpi xmlns="http://zzzs.si/b2b/bpi" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemalocation="http://zzzs.si/b2b/bpi bpi.xsd">
  <posiljka>
   <verzijaposiljke>
-   4939
+   4940
   </verzijaposiljke>
   <datumposiljke>
-   2026-07-16
+   2026-07-17
   </datumposiljke>
   <verzijasheme>
    1.0
@@ -175653,13 +175653,13 @@
   </organizacijskastruktura>
   <nazivinnaslov>
    <nazivorganizacijskeenote>
-    ZAVOD PARAMEDICUS MOBILE, SODINCI
+    ZAVOD PARAMEDICUS MOBILE, LENDAVA
    </nazivorganizacijskeenote>
    <ulicaorganizacijskeenote>
-    SODINCI 31
+    CANKARJEVA ULICA 15
    </ulicaorganizacijskeenote>
    <postaorganizacijskeenote>
-    2274 VELIKA NEDELJA
+    9220 LENDAVA - LENDVA
    </postaorganizacijskeenote>
   </nazivinnaslov>
   <pravnistatus>
@@ -175680,10 +175680,10 @@
   </tipizvajalca>
   <obcina>
    <obcinasifra>
-    87
+    59
    </obcinasifra>
    <obcinanaziv>
-    ORMOŽ
+    LENDAVA
    </obcinanaziv>
   </obcina>
   <veljaod>
@@ -177742,6 +177742,17 @@
    </opisvzd>
    <veljaod>
     2025-03-11
+   </veljaod>
+  </vzd>
+  <vzd>
+   <sifravzd>
+    714
+   </sifravzd>
+   <opisvzd>
+    Zobotehnika
+   </opisvzd>
+   <veljaod>
+    2026-07-07
    </veljaod>
   </vzd>
  </ivzizvajalec>
