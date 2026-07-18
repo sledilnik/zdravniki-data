@@ -2,10 +2,10 @@
 <bpi xmlns="http://zzzs.si/b2b/bpi" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemalocation="http://zzzs.si/b2b/bpi bpi.xsd">
  <posiljka>
   <verzijaposiljke>
-   4940
+   4941
   </verzijaposiljke>
   <datumposiljke>
-   2026-07-17
+   2026-07-18
   </datumposiljke>
   <verzijasheme>
    1.0
@@ -219335,6 +219335,71 @@
    </opisvzd>
    <veljaod>
     2026-06-09
+   </veljaod>
+  </vzd>
+ </ivzizvajalec>
+ <ivzizvajalec>
+  <sifraivzizvajalca>
+   2610
+  </sifraivzizvajalca>
+  <sifralokacije>
+   0
+  </sifralokacije>
+  <zzzsstevilka>
+   9574498
+  </zzzsstevilka>
+  <organizacijskastruktura>
+   <sifraivzosnovni>
+    2610
+   </sifraivzosnovni>
+  </organizacijskastruktura>
+  <nazivinnaslov>
+   <nazivorganizacijskeenote>
+    EVELEE, SUZANA ZRINYI S.P.
+   </nazivorganizacijskeenote>
+   <ulicaorganizacijskeenote>
+    MIGOJNICE 130
+   </ulicaorganizacijskeenote>
+   <postaorganizacijskeenote>
+    3302 GRIŽE
+   </postaorganizacijskeenote>
+  </nazivinnaslov>
+  <pravnistatus>
+   <pravnistatussifra>
+    5
+   </pravnistatussifra>
+   <pravnistatusopis>
+    SAMOSTOJNI PODJETNIK
+   </pravnistatusopis>
+  </pravnistatus>
+  <tipizvajalca>
+   <tipizvajalcasifra>
+    1
+   </tipizvajalcasifra>
+   <tipizvajalcaopis>
+    OSNOVNO ZDRAVSTVO
+   </tipizvajalcaopis>
+  </tipizvajalca>
+  <obcina>
+   <obcinasifra>
+    190
+   </obcinasifra>
+   <obcinanaziv>
+    ŽALEC
+   </obcinanaziv>
+  </obcina>
+  <veljaod>
+   2026-06-29
+  </veljaod>
+  <vzd>
+   <sifravzd>
+    506
+   </sifravzd>
+   <opisvzd>
+    Delovna terapija
+   </opisvzd>
+   <veljaod>
+    2026-06-29
    </veljaod>
   </vzd>
  </ivzizvajalec>
