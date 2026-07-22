@@ -2,10 +2,10 @@
 <bpi xmlns="http://zzzs.si/b2b/bpi" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemalocation="http://zzzs.si/b2b/bpi bpi.xsd">
  <posiljka>
   <verzijaposiljke>
-   4944
+   4945
   </verzijaposiljke>
   <datumposiljke>
-   2026-07-21
+   2026-07-22
   </datumposiljke>
   <verzijasheme>
    1.0
@@ -354043,6 +354043,9 @@
   <veljaod>
    1995-10-01
   </veljaod>
+  <veljado>
+   2025-12-31
+  </veljado>
   <vzd>
    <sifravzd>
     302
@@ -354053,6 +354056,9 @@
    <veljaod>
     1995-10-01
    </veljaod>
+   <veljado>
+    2025-12-31
+   </veljado>
   </vzd>
  </ivzizvajalec>
  <ivzizvajalec>
