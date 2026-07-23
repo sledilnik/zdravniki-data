@@ -2,10 +2,10 @@
 <bpi xmlns="http://zzzs.si/b2b/bpi" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemalocation="http://zzzs.si/b2b/bpi bpi.xsd">
  <posiljka>
   <verzijaposiljke>
-   4945
+   4946
   </verzijaposiljke>
   <datumposiljke>
-   2026-07-22
+   2026-07-23
   </datumposiljke>
   <verzijasheme>
    1.0
@@ -56979,6 +56979,71 @@
    </opisvzd>
    <veljaod>
     2021-06-09
+   </veljaod>
+  </vzd>
+ </ivzizvajalec>
+ <ivzizvajalec>
+  <sifraivzizvajalca>
+   479
+  </sifraivzizvajalca>
+  <sifralokacije>
+   0
+  </sifralokacije>
+  <zzzsstevilka>
+   5348476
+  </zzzsstevilka>
+  <organizacijskastruktura>
+   <sifraivzosnovni>
+    479
+   </sifraivzosnovni>
+  </organizacijskastruktura>
+  <nazivinnaslov>
+   <nazivorganizacijskeenote>
+    RDIT, MILENKO STANKOVIĆ S.P.
+   </nazivorganizacijskeenote>
+   <ulicaorganizacijskeenote>
+    BREZJE PRI GROSUPLJEM 92
+   </ulicaorganizacijskeenote>
+   <postaorganizacijskeenote>
+    1290 GROSUPLJE
+   </postaorganizacijskeenote>
+  </nazivinnaslov>
+  <pravnistatus>
+   <pravnistatussifra>
+    6
+   </pravnistatussifra>
+   <pravnistatusopis>
+    SAMOSTOJNI PODJETNIK - BREZ AMBULANTE
+   </pravnistatusopis>
+  </pravnistatus>
+  <tipizvajalca>
+   <tipizvajalcasifra>
+    2
+   </tipizvajalcasifra>
+   <tipizvajalcaopis>
+    SPECIALISTIČNA AMBULANTA
+   </tipizvajalcaopis>
+  </tipizvajalca>
+  <obcina>
+   <obcinasifra>
+    32
+   </obcinasifra>
+   <obcinanaziv>
+    GROSUPLJE
+   </obcinanaziv>
+  </obcina>
+  <veljaod>
+   2021-06-07
+  </veljaod>
+  <vzd>
+   <sifravzd>
+    706
+   </sifravzd>
+   <opisvzd>
+    Urejanje zdr.,iz.,kult., drugih soc.st.
+   </opisvzd>
+   <veljaod>
+    2021-06-07
    </veljaod>
   </vzd>
  </ivzizvajalec>
@@ -136604,6 +136669,9 @@
   <veljaod>
    2025-03-21
   </veljaod>
+  <veljado>
+   2026-07-01
+  </veljado>
   <vzd>
    <sifravzd>
     404
@@ -136614,6 +136682,9 @@
    <veljaod>
     2025-03-21
    </veljaod>
+   <veljado>
+    2026-07-01
+   </veljado>
   </vzd>
  </ivzizvajalec>
  <ivzizvajalec>
@@ -149687,7 +149758,7 @@
   </organizacijskastruktura>
   <nazivinnaslov>
    <nazivorganizacijskeenote>
-    MAJA FRANIĆ-IVANIŠEVIĆ S.P.
+    FRANIĆ-IVANIŠEVIĆ MAJA S.P.
    </nazivorganizacijskeenote>
    <ulicaorganizacijskeenote>
     KREKOVA ULICA 14
@@ -149752,7 +149823,7 @@
   </organizacijskastruktura>
   <nazivinnaslov>
    <nazivorganizacijskeenote>
-    MAJA FRANIĆ-IVANIŠEVIĆ S.P.
+    FRANIĆ-IVANIŠEVIĆ MAJA S.P.
    </nazivorganizacijskeenote>
    <dodatninazivorganizacijskeenote>
     POSLOVNA ENOTA ROGAŠKA SLATINA
@@ -218285,6 +218356,74 @@
  </ivzizvajalec>
  <ivzizvajalec>
   <sifraivzizvajalca>
+   2568
+  </sifraivzizvajalca>
+  <sifralokacije>
+   7
+  </sifralokacije>
+  <zzzsstevilka>
+   9988737
+  </zzzsstevilka>
+  <organizacijskastruktura>
+   <sifraivzosnovni>
+    2568
+   </sifraivzosnovni>
+  </organizacijskastruktura>
+  <nazivinnaslov>
+   <nazivorganizacijskeenote>
+    DENTALNI CENTER LJUBLJANA ZOBOZDRAVSTVENE STORITVE, D.O.O.
+   </nazivorganizacijskeenote>
+   <dodatninazivorganizacijskeenote>
+    LOKACIJA VILHARJEV PODHOD
+   </dodatninazivorganizacijskeenote>
+   <ulicaorganizacijskeenote>
+    VILHARJEV PODHOD 1
+   </ulicaorganizacijskeenote>
+   <postaorganizacijskeenote>
+    1000 LJUBLJANA
+   </postaorganizacijskeenote>
+  </nazivinnaslov>
+  <pravnistatus>
+   <pravnistatussifra>
+    2
+   </pravnistatussifra>
+   <pravnistatusopis>
+    GOSPODARSKA DRUŽBA / ZASEBNI ZAVOD
+   </pravnistatusopis>
+  </pravnistatus>
+  <tipizvajalca>
+   <tipizvajalcasifra>
+    1
+   </tipizvajalcasifra>
+   <tipizvajalcaopis>
+    OSNOVNO ZDRAVSTVO
+   </tipizvajalcaopis>
+  </tipizvajalca>
+  <obcina>
+   <obcinasifra>
+    61
+   </obcinasifra>
+   <obcinanaziv>
+    LJUBLJANA
+   </obcinanaziv>
+  </obcina>
+  <veljaod>
+   2026-04-28
+  </veljaod>
+  <vzd>
+   <sifravzd>
+    404
+   </sifravzd>
+   <opisvzd>
+    Splošno zobozdravstvo
+   </opisvzd>
+   <veljaod>
+    2026-04-28
+   </veljaod>
+  </vzd>
+ </ivzizvajalec>
+ <ivzizvajalec>
+  <sifraivzizvajalca>
    2573
   </sifraivzizvajalca>
   <sifralokacije>
@@ -219790,6 +219929,85 @@
    </sifravzd>
    <opisvzd>
     Urejanje zdr.,iz.,kult., drugih soc.st.
+   </opisvzd>
+   <veljaod>
+    1999-01-01
+   </veljaod>
+  </vzd>
+ </ivzizvajalec>
+ <ivzizvajalec>
+  <sifraivzizvajalca>
+   2623
+  </sifraivzizvajalca>
+  <sifralokacije>
+   1
+  </sifralokacije>
+  <zzzsstevilka>
+   9988768
+  </zzzsstevilka>
+  <organizacijskastruktura>
+   <sifraivzosnovni>
+    2623
+   </sifraivzosnovni>
+  </organizacijskastruktura>
+  <nazivinnaslov>
+   <nazivorganizacijskeenote>
+    MINISTRSTVO ZA NOTRANJE ZADEVE IN JAVNO UPRAVO
+   </nazivorganizacijskeenote>
+   <dodatninazivorganizacijskeenote>
+    UOK SLUŽBA ZA VARNOST IN ZDRAVJE PRI DELU
+   </dodatninazivorganizacijskeenote>
+   <ulicaorganizacijskeenote>
+    KOTNIKOVA ULICA 8 A
+   </ulicaorganizacijskeenote>
+   <postaorganizacijskeenote>
+    1000 LJUBLJANA
+   </postaorganizacijskeenote>
+  </nazivinnaslov>
+  <pravnistatus>
+   <pravnistatussifra>
+    1
+   </pravnistatussifra>
+   <pravnistatusopis>
+    JAVNI ZAVOD
+   </pravnistatusopis>
+  </pravnistatus>
+  <tipizvajalca>
+   <tipizvajalcasifra>
+    9
+   </tipizvajalcasifra>
+   <tipizvajalcaopis>
+    DRŽAVNI ORGAN
+   </tipizvajalcaopis>
+  </tipizvajalca>
+  <obcina>
+   <obcinasifra>
+    61
+   </obcinasifra>
+   <obcinanaziv>
+    LJUBLJANA
+   </obcinanaziv>
+  </obcina>
+  <veljaod>
+   1999-01-01
+  </veljaod>
+  <vzd>
+   <sifravzd>
+    706
+   </sifravzd>
+   <opisvzd>
+    Urejanje zdr.,iz.,kult., drugih soc.st.
+   </opisvzd>
+   <veljaod>
+    1999-01-01
+   </veljaod>
+  </vzd>
+  <vzd>
+   <sifravzd>
+    301
+   </sifravzd>
+   <opisvzd>
+    Medicina dela, prometa in športa
    </opisvzd>
    <veljaod>
     1999-01-01
@@ -369416,7 +369634,7 @@
    </obcinanaziv>
   </obcina>
   <veljaod>
-   2014-07-01
+   2014-06-20
   </veljaod>
   <vzd>
    <sifravzd>
@@ -369579,6 +369797,136 @@
    </opisvzd>
    <veljaod>
     2014-09-01
+   </veljaod>
+  </vzd>
+ </ivzizvajalec>
+ <ivzizvajalec>
+  <sifraivzizvajalca>
+   25340
+  </sifraivzizvajalca>
+  <sifralokacije>
+   0
+  </sifralokacije>
+  <zzzsstevilka>
+   6586348
+  </zzzsstevilka>
+  <organizacijskastruktura>
+   <sifraivzosnovni>
+    25340
+   </sifraivzosnovni>
+  </organizacijskastruktura>
+  <nazivinnaslov>
+   <nazivorganizacijskeenote>
+    MEJODENT D.O.O.
+   </nazivorganizacijskeenote>
+   <ulicaorganizacijskeenote>
+    ROŽNA ULICA 6
+   </ulicaorganizacijskeenote>
+   <postaorganizacijskeenote>
+    6230 POSTOJNA
+   </postaorganizacijskeenote>
+  </nazivinnaslov>
+  <pravnistatus>
+   <pravnistatussifra>
+    2
+   </pravnistatussifra>
+   <pravnistatusopis>
+    GOSPODARSKA DRUŽBA / ZASEBNI ZAVOD
+   </pravnistatusopis>
+  </pravnistatus>
+  <tipizvajalca>
+   <tipizvajalcasifra>
+    1
+   </tipizvajalcasifra>
+   <tipizvajalcaopis>
+    OSNOVNO ZDRAVSTVO
+   </tipizvajalcaopis>
+  </tipizvajalca>
+  <obcina>
+   <obcinasifra>
+    94
+   </obcinasifra>
+   <obcinanaziv>
+    POSTOJNA
+   </obcinanaziv>
+  </obcina>
+  <veljaod>
+   2015-03-10
+  </veljaod>
+  <vzd>
+   <sifravzd>
+    706
+   </sifravzd>
+   <opisvzd>
+    Urejanje zdr.,iz.,kult., drugih soc.st.
+   </opisvzd>
+   <veljaod>
+    2015-03-10
+   </veljaod>
+  </vzd>
+ </ivzizvajalec>
+ <ivzizvajalec>
+  <sifraivzizvajalca>
+   25340
+  </sifraivzizvajalca>
+  <sifralokacije>
+   1
+  </sifralokacije>
+  <zzzsstevilka>
+   6603641
+  </zzzsstevilka>
+  <organizacijskastruktura>
+   <sifraivzosnovni>
+    25340
+   </sifraivzosnovni>
+  </organizacijskastruktura>
+  <nazivinnaslov>
+   <nazivorganizacijskeenote>
+    LOKACIJA KRAŠKA ULICA
+   </nazivorganizacijskeenote>
+   <ulicaorganizacijskeenote>
+    KRAŠKA ULICA 3
+   </ulicaorganizacijskeenote>
+   <postaorganizacijskeenote>
+    6230 POSTOJNA
+   </postaorganizacijskeenote>
+  </nazivinnaslov>
+  <pravnistatus>
+   <pravnistatussifra>
+    2
+   </pravnistatussifra>
+   <pravnistatusopis>
+    GOSPODARSKA DRUŽBA / ZASEBNI ZAVOD
+   </pravnistatusopis>
+  </pravnistatus>
+  <tipizvajalca>
+   <tipizvajalcasifra>
+    1
+   </tipizvajalcasifra>
+   <tipizvajalcaopis>
+    OSNOVNO ZDRAVSTVO
+   </tipizvajalcaopis>
+  </tipizvajalca>
+  <obcina>
+   <obcinasifra>
+    94
+   </obcinasifra>
+   <obcinanaziv>
+    POSTOJNA
+   </obcinanaziv>
+  </obcina>
+  <veljaod>
+   2015-03-10
+  </veljaod>
+  <vzd>
+   <sifravzd>
+    714
+   </sifravzd>
+   <opisvzd>
+    Zobotehnika
+   </opisvzd>
+   <veljaod>
+    2015-03-10
    </veljaod>
   </vzd>
  </ivzizvajalec>
@@ -477391,6 +477739,9 @@
   <veljaod>
    1984-01-01
   </veljaod>
+  <veljado>
+   2026-01-13
+  </veljado>
   <vzd>
    <sifravzd>
     743
@@ -477401,6 +477752,9 @@
    <veljaod>
     1984-01-01
    </veljaod>
+   <veljado>
+    2026-01-13
+   </veljado>
   </vzd>
  </ivzizvajalec>
  <ivzizvajalec>
@@ -493247,136 +493601,6 @@
    </opisvzd>
    <veljaod>
     2013-07-01
-   </veljaod>
-  </vzd>
- </ivzizvajalec>
- <ivzizvajalec>
-  <sifraivzizvajalca>
-   25340
-  </sifraivzizvajalca>
-  <sifralokacije>
-   0
-  </sifralokacije>
-  <zzzsstevilka>
-   6586348
-  </zzzsstevilka>
-  <organizacijskastruktura>
-   <sifraivznadrejeni>
-    25340
-   </sifraivznadrejeni>
-  </organizacijskastruktura>
-  <nazivinnaslov>
-   <nazivorganizacijskeenote>
-    MEJODENT D.O.O.
-   </nazivorganizacijskeenote>
-   <ulicaorganizacijskeenote>
-    ROŽNA ULICA 6
-   </ulicaorganizacijskeenote>
-   <postaorganizacijskeenote>
-    6230 POSTOJNA
-   </postaorganizacijskeenote>
-  </nazivinnaslov>
-  <pravnistatus>
-   <pravnistatussifra>
-    2
-   </pravnistatussifra>
-   <pravnistatusopis>
-    GOSPODARSKA DRUŽBA / ZASEBNI ZAVOD
-   </pravnistatusopis>
-  </pravnistatus>
-  <tipizvajalca>
-   <tipizvajalcasifra>
-    1
-   </tipizvajalcasifra>
-   <tipizvajalcaopis>
-    OSNOVNO ZDRAVSTVO
-   </tipizvajalcaopis>
-  </tipizvajalca>
-  <obcina>
-   <obcinasifra>
-    94
-   </obcinasifra>
-   <obcinanaziv>
-    POSTOJNA
-   </obcinanaziv>
-  </obcina>
-  <veljaod>
-   2015-03-10
-  </veljaod>
-  <vzd>
-   <sifravzd>
-    706
-   </sifravzd>
-   <opisvzd>
-    Urejanje zdr.,iz.,kult., drugih soc.st.
-   </opisvzd>
-   <veljaod>
-    2015-03-10
-   </veljaod>
-  </vzd>
- </ivzizvajalec>
- <ivzizvajalec>
-  <sifraivzizvajalca>
-   25340
-  </sifraivzizvajalca>
-  <sifralokacije>
-   1
-  </sifralokacije>
-  <zzzsstevilka>
-   6603641
-  </zzzsstevilka>
-  <organizacijskastruktura>
-   <sifraivznadrejeni>
-    25340
-   </sifraivznadrejeni>
-  </organizacijskastruktura>
-  <nazivinnaslov>
-   <nazivorganizacijskeenote>
-    LOKACIJA KRAŠKA ULICA
-   </nazivorganizacijskeenote>
-   <ulicaorganizacijskeenote>
-    KRAŠKA ULICA 3
-   </ulicaorganizacijskeenote>
-   <postaorganizacijskeenote>
-    6230 POSTOJNA
-   </postaorganizacijskeenote>
-  </nazivinnaslov>
-  <pravnistatus>
-   <pravnistatussifra>
-    2
-   </pravnistatussifra>
-   <pravnistatusopis>
-    GOSPODARSKA DRUŽBA / ZASEBNI ZAVOD
-   </pravnistatusopis>
-  </pravnistatus>
-  <tipizvajalca>
-   <tipizvajalcasifra>
-    1
-   </tipizvajalcasifra>
-   <tipizvajalcaopis>
-    OSNOVNO ZDRAVSTVO
-   </tipizvajalcaopis>
-  </tipizvajalca>
-  <obcina>
-   <obcinasifra>
-    94
-   </obcinasifra>
-   <obcinanaziv>
-    POSTOJNA
-   </obcinanaziv>
-  </obcina>
-  <veljaod>
-   2015-03-10
-  </veljaod>
-  <vzd>
-   <sifravzd>
-    714
-   </sifravzd>
-   <opisvzd>
-    Zobotehnika
-   </opisvzd>
-   <veljaod>
-    2015-03-10
    </veljaod>
   </vzd>
  </ivzizvajalec>
