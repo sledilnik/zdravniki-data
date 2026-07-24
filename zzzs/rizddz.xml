@@ -2,10 +2,10 @@
 <bpi xmlns="http://zzzs.si/b2b/bpi" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemalocation="http://zzzs.si/b2b/bpi bpi.xsd">
  <posiljka>
   <verzijaposiljke>
-   4946
+   4947
   </verzijaposiljke>
   <datumposiljke>
-   2026-07-23
+   2026-07-24
   </datumposiljke>
   <verzijasheme>
    1.0
@@ -60250,6 +60250,71 @@
  </ivzizvajalec>
  <ivzizvajalec>
   <sifraivzizvajalca>
+   524
+  </sifraivzizvajalca>
+  <sifralokacije>
+   0
+  </sifralokacije>
+  <zzzsstevilka>
+   7843727
+  </zzzsstevilka>
+  <organizacijskastruktura>
+   <sifraivzosnovni>
+    524
+   </sifraivzosnovni>
+  </organizacijskastruktura>
+  <nazivinnaslov>
+   <nazivorganizacijskeenote>
+    NINO MIRNIK, S.P.
+   </nazivorganizacijskeenote>
+   <ulicaorganizacijskeenote>
+    JADRANSKA CESTA 46
+   </ulicaorganizacijskeenote>
+   <postaorganizacijskeenote>
+    6280 ANKARAN - ANCARANO
+   </postaorganizacijskeenote>
+  </nazivinnaslov>
+  <pravnistatus>
+   <pravnistatussifra>
+    6
+   </pravnistatussifra>
+   <pravnistatusopis>
+    SAMOSTOJNI PODJETNIK - BREZ AMBULANTE
+   </pravnistatusopis>
+  </pravnistatus>
+  <tipizvajalca>
+   <tipizvajalcasifra>
+    2
+   </tipizvajalcasifra>
+   <tipizvajalcaopis>
+    SPECIALISTIČNA AMBULANTA
+   </tipizvajalcaopis>
+  </tipizvajalca>
+  <obcina>
+   <obcinasifra>
+    213
+   </obcinasifra>
+   <obcinanaziv>
+    ANKARAN
+   </obcinanaziv>
+  </obcina>
+  <veljaod>
+   2021-01-11
+  </veljaod>
+  <vzd>
+   <sifravzd>
+    706
+   </sifravzd>
+   <opisvzd>
+    Urejanje zdr.,iz.,kult., drugih soc.st.
+   </opisvzd>
+   <veljaod>
+    2021-01-11
+   </veljaod>
+  </vzd>
+ </ivzizvajalec>
+ <ivzizvajalec>
+  <sifraivzizvajalca>
    525
   </sifraivzizvajalca>
   <sifralokacije>
@@ -73059,151 +73124,6 @@
    <veljaod>
     2021-07-05
    </veljaod>
-  </vzd>
- </ivzizvajalec>
- <ivzizvajalec>
-  <sifraivzizvajalca>
-   693
-  </sifraivzizvajalca>
-  <sifralokacije>
-   0
-  </sifralokacije>
-  <zzzsstevilka>
-   7614928
-  </zzzsstevilka>
-  <organizacijskastruktura>
-   <sifraivzosnovni>
-    693
-   </sifraivzosnovni>
-  </organizacijskastruktura>
-  <nazivinnaslov>
-   <nazivorganizacijskeenote>
-    JASMINA ŠIJANEC KEBRIČ S.P.
-   </nazivorganizacijskeenote>
-   <ulicaorganizacijskeenote>
-    KOROŠKA CESTA 53 C
-   </ulicaorganizacijskeenote>
-   <postaorganizacijskeenote>
-    2000 MARIBOR
-   </postaorganizacijskeenote>
-  </nazivinnaslov>
-  <pravnistatus>
-   <pravnistatussifra>
-    6
-   </pravnistatussifra>
-   <pravnistatusopis>
-    SAMOSTOJNI PODJETNIK - BREZ AMBULANTE
-   </pravnistatusopis>
-  </pravnistatus>
-  <tipizvajalca>
-   <tipizvajalcasifra>
-    1
-   </tipizvajalcasifra>
-   <tipizvajalcaopis>
-    OSNOVNO ZDRAVSTVO
-   </tipizvajalcaopis>
-  </tipizvajalca>
-  <obcina>
-   <obcinasifra>
-    70
-   </obcinasifra>
-   <obcinanaziv>
-    MARIBOR
-   </obcinanaziv>
-  </obcina>
-  <veljaod>
-   2018-12-01
-  </veljaod>
-  <veljado>
-   2023-07-23
-  </veljado>
-  <vzd>
-   <sifravzd>
-    706
-   </sifravzd>
-   <opisvzd>
-    Urejanje zdr.,iz.,kult., drugih soc.st.
-   </opisvzd>
-   <veljaod>
-    2018-12-01
-   </veljaod>
-   <veljado>
-    2023-07-23
-   </veljado>
-  </vzd>
- </ivzizvajalec>
- <ivzizvajalec>
-  <sifraivzizvajalca>
-   693
-  </sifraivzizvajalca>
-  <sifralokacije>
-   1
-  </sifralokacije>
-  <zzzsstevilka>
-   7617358
-  </zzzsstevilka>
-  <organizacijskastruktura>
-   <sifraivzosnovni>
-    693
-   </sifraivzosnovni>
-  </organizacijskastruktura>
-  <nazivinnaslov>
-   <nazivorganizacijskeenote>
-    JASMINA ŠIJANEC KEBRIČ S.P.
-   </nazivorganizacijskeenote>
-   <dodatninazivorganizacijskeenote>
-    POSLOVNA ENOTA MARIBOR
-   </dodatninazivorganizacijskeenote>
-   <ulicaorganizacijskeenote>
-    CANKARJEVA ULICA 6
-   </ulicaorganizacijskeenote>
-   <postaorganizacijskeenote>
-    2000 MARIBOR
-   </postaorganizacijskeenote>
-  </nazivinnaslov>
-  <pravnistatus>
-   <pravnistatussifra>
-    6
-   </pravnistatussifra>
-   <pravnistatusopis>
-    SAMOSTOJNI PODJETNIK - BREZ AMBULANTE
-   </pravnistatusopis>
-  </pravnistatus>
-  <tipizvajalca>
-   <tipizvajalcasifra>
-    1
-   </tipizvajalcasifra>
-   <tipizvajalcaopis>
-    OSNOVNO ZDRAVSTVO
-   </tipizvajalcaopis>
-  </tipizvajalca>
-  <obcina>
-   <obcinasifra>
-    70
-   </obcinasifra>
-   <obcinanaziv>
-    MARIBOR
-   </obcinanaziv>
-  </obcina>
-  <veljaod>
-   1900-01-01
-  </veljaod>
-  <veljado>
-   2023-07-23
-  </veljado>
-  <vzd>
-   <sifravzd>
-    401
-   </sifravzd>
-   <opisvzd>
-    Čeljustna in zobna ortopedija
-   </opisvzd>
-   <veljaod>
-    2018-12-01
-   </veljaod>
-   <veljado>
-    2023-07-23
-   </veljado>
   </vzd>
  </ivzizvajalec>
  <ivzizvajalec>
@@ -103838,7 +103758,7 @@
    </obcinanaziv>
   </obcina>
   <veljaod>
-   1900-01-01
+   2020-04-14
   </veljaod>
   <vzd>
    <sifravzd>
@@ -114084,6 +114004,74 @@
    </opisvzd>
    <veljaod>
     2023-08-16
+   </veljaod>
+  </vzd>
+ </ivzizvajalec>
+ <ivzizvajalec>
+  <sifraivzizvajalca>
+   1222
+  </sifraivzizvajalca>
+  <sifralokacije>
+   1
+  </sifralokacije>
+  <zzzsstevilka>
+   10015667
+  </zzzsstevilka>
+  <organizacijskastruktura>
+   <sifraivzosnovni>
+    1222
+   </sifraivzosnovni>
+  </organizacijskastruktura>
+  <nazivinnaslov>
+   <nazivorganizacijskeenote>
+    CLINICAL D.O.O.
+   </nazivorganizacijskeenote>
+   <dodatninazivorganizacijskeenote>
+    PE DOBROZOB
+   </dodatninazivorganizacijskeenote>
+   <ulicaorganizacijskeenote>
+    ULICA EMILA ADAMIČA 23
+   </ulicaorganizacijskeenote>
+   <postaorganizacijskeenote>
+    1356 DOBROVA
+   </postaorganizacijskeenote>
+  </nazivinnaslov>
+  <pravnistatus>
+   <pravnistatussifra>
+    2
+   </pravnistatussifra>
+   <pravnistatusopis>
+    GOSPODARSKA DRUŽBA / ZASEBNI ZAVOD
+   </pravnistatusopis>
+  </pravnistatus>
+  <tipizvajalca>
+   <tipizvajalcasifra>
+    1
+   </tipizvajalcasifra>
+   <tipizvajalcaopis>
+    OSNOVNO ZDRAVSTVO
+   </tipizvajalcaopis>
+  </tipizvajalca>
+  <obcina>
+   <obcinasifra>
+    21
+   </obcinasifra>
+   <obcinanaziv>
+    DOBROVA-POLHOV GRADEC
+   </obcinanaziv>
+  </obcina>
+  <veljaod>
+   2025-05-21
+  </veljaod>
+  <vzd>
+   <sifravzd>
+    404
+   </sifravzd>
+   <opisvzd>
+    Splošno zobozdravstvo
+   </opisvzd>
+   <veljaod>
+    2025-05-21
    </veljaod>
   </vzd>
  </ivzizvajalec>
@@ -151237,10 +151225,10 @@
     MATIC CIGLIČ S.P.
    </nazivorganizacijskeenote>
    <ulicaorganizacijskeenote>
-    PLATIŠEVA ULICA 13
+    POD JELŠAMI 13
    </ulicaorganizacijskeenote>
    <postaorganizacijskeenote>
-    5282 CERKNO
+    1000 LJUBLJANA
    </postaorganizacijskeenote>
   </nazivinnaslov>
   <pravnistatus>
@@ -151261,10 +151249,10 @@
   </tipizvajalca>
   <obcina>
    <obcinasifra>
-    14
+    61
    </obcinasifra>
    <obcinanaziv>
-    CERKNO
+    LJUBLJANA
    </obcinanaziv>
   </obcina>
   <veljaod>
@@ -161817,6 +161805,71 @@
    </opisvzd>
    <veljaod>
     2024-11-06
+   </veljaod>
+  </vzd>
+ </ivzizvajalec>
+ <ivzizvajalec>
+  <sifraivzizvajalca>
+   1792
+  </sifraivzizvajalca>
+  <sifralokacije>
+   0
+  </sifralokacije>
+  <zzzsstevilka>
+   7875090
+  </zzzsstevilka>
+  <organizacijskastruktura>
+   <sifraivzosnovni>
+    1792
+   </sifraivzosnovni>
+  </organizacijskastruktura>
+  <nazivinnaslov>
+   <nazivorganizacijskeenote>
+    DINO ŠEKEROVIĆ S.P.
+   </nazivorganizacijskeenote>
+   <ulicaorganizacijskeenote>
+    SIMONITIJEVA ULICA 15
+   </ulicaorganizacijskeenote>
+   <postaorganizacijskeenote>
+    1000 LJUBLJANA
+   </postaorganizacijskeenote>
+  </nazivinnaslov>
+  <pravnistatus>
+   <pravnistatussifra>
+    6
+   </pravnistatussifra>
+   <pravnistatusopis>
+    SAMOSTOJNI PODJETNIK - BREZ AMBULANTE
+   </pravnistatusopis>
+  </pravnistatus>
+  <tipizvajalca>
+   <tipizvajalcasifra>
+    1
+   </tipizvajalcasifra>
+   <tipizvajalcaopis>
+    OSNOVNO ZDRAVSTVO
+   </tipizvajalcaopis>
+  </tipizvajalca>
+  <obcina>
+   <obcinasifra>
+    61
+   </obcinasifra>
+   <obcinanaziv>
+    LJUBLJANA
+   </obcinanaziv>
+  </obcina>
+  <veljaod>
+   2024-10-14
+  </veljaod>
+  <vzd>
+   <sifravzd>
+    507
+   </sifravzd>
+   <opisvzd>
+    Fizioterapija
+   </opisvzd>
+   <veljaod>
+    2024-10-14
    </veljaod>
   </vzd>
  </ivzizvajalec>
@@ -203727,6 +203780,71 @@
  </ivzizvajalec>
  <ivzizvajalec>
   <sifraivzizvajalca>
+   2381
+  </sifraivzizvajalca>
+  <sifralokacije>
+   0
+  </sifralokacije>
+  <zzzsstevilka>
+   6872892
+  </zzzsstevilka>
+  <organizacijskastruktura>
+   <sifraivzosnovni>
+    2381
+   </sifraivzosnovni>
+  </organizacijskastruktura>
+  <nazivinnaslov>
+   <nazivorganizacijskeenote>
+    ESTETIKA PARADISO, VALENTINA CVETKOVIČ S.P.
+   </nazivorganizacijskeenote>
+   <ulicaorganizacijskeenote>
+    SELSKA CESTA 15 B
+   </ulicaorganizacijskeenote>
+   <postaorganizacijskeenote>
+    8257 DOBOVA
+   </postaorganizacijskeenote>
+  </nazivinnaslov>
+  <pravnistatus>
+   <pravnistatussifra>
+    5
+   </pravnistatussifra>
+   <pravnistatusopis>
+    SAMOSTOJNI PODJETNIK
+   </pravnistatusopis>
+  </pravnistatus>
+  <tipizvajalca>
+   <tipizvajalcasifra>
+    2
+   </tipizvajalcasifra>
+   <tipizvajalcaopis>
+    SPECIALISTIČNA AMBULANTA
+   </tipizvajalcaopis>
+  </tipizvajalca>
+  <obcina>
+   <obcinasifra>
+    9
+   </obcinasifra>
+   <obcinanaziv>
+    BREŽICE
+   </obcinanaziv>
+  </obcina>
+  <veljaod>
+   2025-09-15
+  </veljaod>
+  <vzd>
+   <sifravzd>
+    228
+   </sifravzd>
+   <opisvzd>
+    Plast., rek., est.krg v spec.ZunajBolDej
+   </opisvzd>
+   <veljaod>
+    2025-09-15
+   </veljaod>
+  </vzd>
+ </ivzizvajalec>
+ <ivzizvajalec>
+  <sifraivzizvajalca>
    2383
   </sifraivzizvajalca>
   <sifralokacije>
@@ -219411,6 +219529,71 @@
  </ivzizvajalec>
  <ivzizvajalec>
   <sifraivzizvajalca>
+   2597
+  </sifraivzizvajalca>
+  <sifralokacije>
+   0
+  </sifralokacije>
+  <zzzsstevilka>
+   9403794
+  </zzzsstevilka>
+  <organizacijskastruktura>
+   <sifraivzosnovni>
+    2597
+   </sifraivzosnovni>
+  </organizacijskastruktura>
+  <nazivinnaslov>
+   <nazivorganizacijskeenote>
+    ORTO-PROTETIKA D.O.O.
+   </nazivorganizacijskeenote>
+   <ulicaorganizacijskeenote>
+    LJUBLJANSKA CESTA 20 A
+   </ulicaorganizacijskeenote>
+   <postaorganizacijskeenote>
+    3000 CELJE
+   </postaorganizacijskeenote>
+  </nazivinnaslov>
+  <pravnistatus>
+   <pravnistatussifra>
+    2
+   </pravnistatussifra>
+   <pravnistatusopis>
+    GOSPODARSKA DRUŽBA / ZASEBNI ZAVOD
+   </pravnistatusopis>
+  </pravnistatus>
+  <tipizvajalca>
+   <tipizvajalcasifra>
+    20
+   </tipizvajalcasifra>
+   <tipizvajalcaopis>
+    OSTALI, KI OPRAVLJAJO ZDR. DEJ.
+   </tipizvajalcaopis>
+  </tipizvajalca>
+  <obcina>
+   <obcinasifra>
+    11
+   </obcinasifra>
+   <obcinanaziv>
+    CELJE
+   </obcinanaziv>
+  </obcina>
+  <veljaod>
+   2026-06-04
+  </veljaod>
+  <vzd>
+   <sifravzd>
+    552
+   </sifravzd>
+   <opisvzd>
+    Ortotika in protetika
+   </opisvzd>
+   <veljaod>
+    2026-06-04
+   </veljaod>
+  </vzd>
+ </ivzizvajalec>
+ <ivzizvajalec>
+  <sifraivzizvajalca>
    2601
   </sifraivzizvajalca>
   <sifralokacije>
@@ -220144,6 +220327,136 @@
    </opisvzd>
    <veljaod>
     2025-04-25
+   </veljaod>
+  </vzd>
+ </ivzizvajalec>
+ <ivzizvajalec>
+  <sifraivzizvajalca>
+   2634
+  </sifraivzizvajalca>
+  <sifralokacije>
+   0
+  </sifralokacije>
+  <zzzsstevilka>
+   8119594
+  </zzzsstevilka>
+  <organizacijskastruktura>
+   <sifraivzosnovni>
+    2634
+   </sifraivzosnovni>
+  </organizacijskastruktura>
+  <nazivinnaslov>
+   <nazivorganizacijskeenote>
+    DAŠA KOLAR S.P.
+   </nazivorganizacijskeenote>
+   <ulicaorganizacijskeenote>
+    ULICA IVANKE URANJEK 2
+   </ulicaorganizacijskeenote>
+   <postaorganizacijskeenote>
+    3310 ŽALEC
+   </postaorganizacijskeenote>
+  </nazivinnaslov>
+  <pravnistatus>
+   <pravnistatussifra>
+    5
+   </pravnistatussifra>
+   <pravnistatusopis>
+    SAMOSTOJNI PODJETNIK
+   </pravnistatusopis>
+  </pravnistatus>
+  <tipizvajalca>
+   <tipizvajalcasifra>
+    1
+   </tipizvajalcasifra>
+   <tipizvajalcaopis>
+    OSNOVNO ZDRAVSTVO
+   </tipizvajalcaopis>
+  </tipizvajalca>
+  <obcina>
+   <obcinasifra>
+    190
+   </obcinasifra>
+   <obcinanaziv>
+    ŽALEC
+   </obcinanaziv>
+  </obcina>
+  <veljaod>
+   2026-07-21
+  </veljaod>
+  <vzd>
+   <sifravzd>
+    507
+   </sifravzd>
+   <opisvzd>
+    Fizioterapija
+   </opisvzd>
+   <veljaod>
+    2026-07-21
+   </veljaod>
+  </vzd>
+ </ivzizvajalec>
+ <ivzizvajalec>
+  <sifraivzizvajalca>
+   2635
+  </sifraivzizvajalca>
+  <sifralokacije>
+   0
+  </sifralokacije>
+  <zzzsstevilka>
+   5955298
+  </zzzsstevilka>
+  <organizacijskastruktura>
+   <sifraivzosnovni>
+    2635
+   </sifraivzosnovni>
+  </organizacijskastruktura>
+  <nazivinnaslov>
+   <nazivorganizacijskeenote>
+    SŠ IZOLA - SM ISOLA
+   </nazivorganizacijskeenote>
+   <ulicaorganizacijskeenote>
+    UL PREKOMORSKIH BRIGAD 7
+   </ulicaorganizacijskeenote>
+   <postaorganizacijskeenote>
+    6310 IZOLA - ISOLA
+   </postaorganizacijskeenote>
+  </nazivinnaslov>
+  <pravnistatus>
+   <pravnistatussifra>
+    1
+   </pravnistatussifra>
+   <pravnistatusopis>
+    JAVNI ZAVOD
+   </pravnistatusopis>
+  </pravnistatus>
+  <tipizvajalca>
+   <tipizvajalcasifra>
+    11
+   </tipizvajalcasifra>
+   <tipizvajalcaopis>
+    IZOBRAŽEVALNA USTANOVA
+   </tipizvajalcaopis>
+  </tipizvajalca>
+  <obcina>
+   <obcinasifra>
+    40
+   </obcinasifra>
+   <obcinanaziv>
+    IZOLA
+   </obcinanaziv>
+  </obcina>
+  <veljaod>
+   2013-01-02
+  </veljaod>
+  <vzd>
+   <sifravzd>
+    706
+   </sifravzd>
+   <opisvzd>
+    Urejanje zdr.,iz.,kult., drugih soc.st.
+   </opisvzd>
+   <veljaod>
+    2013-01-02
    </veljaod>
   </vzd>
  </ivzizvajalec>
@@ -349261,6 +349574,9 @@
   <veljaod>
    2006-03-01
   </veljaod>
+  <veljado>
+   2025-01-31
+  </veljado>
   <vzd>
    <sifravzd>
     302
@@ -349271,6 +349587,9 @@
    <veljaod>
     2006-03-01
    </veljaod>
+   <veljado>
+    2025-01-31
+   </veljado>
   </vzd>
  </ivzizvajalec>
  <ivzizvajalec>
@@ -349326,6 +349645,9 @@
   <veljaod>
    2006-03-01
   </veljaod>
+  <veljado>
+   2025-01-31
+  </veljado>
   <vzd>
    <sifravzd>
     302
@@ -349336,6 +349658,9 @@
    <veljaod>
     2006-03-01
    </veljaod>
+   <veljado>
+    2025-01-31
+   </veljado>
   </vzd>
  </ivzizvajalec>
  <ivzizvajalec>
@@ -349391,6 +349716,9 @@
   <veljaod>
    2013-01-01
   </veljaod>
+  <veljado>
+   2025-01-31
+  </veljado>
   <vzd>
    <sifravzd>
     302
@@ -349401,6 +349729,9 @@
    <veljaod>
     2013-01-01
    </veljaod>
+   <veljado>
+    2025-01-31
+   </veljado>
   </vzd>
  </ivzizvajalec>
  <ivzizvajalec>
@@ -416835,6 +417166,9 @@
   <veljaod>
    2008-03-01
   </veljaod>
+  <veljado>
+   2026-05-31
+  </veljado>
   <vzd>
    <sifravzd>
     743
@@ -416845,6 +417179,9 @@
    <veljaod>
     2008-03-01
    </veljaod>
+   <veljado>
+    2026-05-31
+   </veljado>
   </vzd>
  </ivzizvajalec>
  <ivzizvajalec>
