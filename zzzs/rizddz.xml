@@ -2,10 +2,10 @@
 <bpi xmlns="http://zzzs.si/b2b/bpi" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemalocation="http://zzzs.si/b2b/bpi bpi.xsd">
  <posiljka>
   <verzijaposiljke>
-   4947
+   4948
   </verzijaposiljke>
   <datumposiljke>
-   2026-07-24
+   2026-07-25
   </datumposiljke>
   <verzijasheme>
    1.0
@@ -415615,6 +415615,85 @@
    </opisvzd>
    <veljaod>
     2006-10-05
+   </veljaod>
+  </vzd>
+ </ivzizvajalec>
+ <ivzizvajalec>
+  <sifraivzizvajalca>
+   33078
+  </sifraivzizvajalca>
+  <sifralokacije>
+   6
+  </sifralokacije>
+  <zzzsstevilka>
+   10018360
+  </zzzsstevilka>
+  <organizacijskastruktura>
+   <sifraivzosnovni>
+    33078
+   </sifraivzosnovni>
+  </organizacijskastruktura>
+  <nazivinnaslov>
+   <nazivorganizacijskeenote>
+    VARSTVENO DELOVNI CENTER NOVA GORICA
+   </nazivorganizacijskeenote>
+   <dodatninazivorganizacijskeenote>
+    LOKACIJA TRNOVO
+   </dodatninazivorganizacijskeenote>
+   <ulicaorganizacijskeenote>
+    TRNOVO 7
+   </ulicaorganizacijskeenote>
+   <postaorganizacijskeenote>
+    5252 TRNOVO PRI GORICI
+   </postaorganizacijskeenote>
+  </nazivinnaslov>
+  <pravnistatus>
+   <pravnistatussifra>
+    1
+   </pravnistatussifra>
+   <pravnistatusopis>
+    JAVNI ZAVOD
+   </pravnistatusopis>
+  </pravnistatus>
+  <tipizvajalca>
+   <tipizvajalcasifra>
+    7
+   </tipizvajalcasifra>
+   <tipizvajalcaopis>
+    SOCIALNI ZAVOD
+   </tipizvajalcaopis>
+  </tipizvajalca>
+  <obcina>
+   <obcinasifra>
+    84
+   </obcinasifra>
+   <obcinanaziv>
+    NOVA GORICA
+   </obcinanaziv>
+  </obcina>
+  <veljaod>
+   2026-03-24
+  </veljaod>
+  <vzd>
+   <sifravzd>
+    544
+   </sifravzd>
+   <opisvzd>
+    Zdravstvena nega v drugih dejavnostih
+   </opisvzd>
+   <veljaod>
+    2026-03-24
+   </veljaod>
+  </vzd>
+  <vzd>
+   <sifravzd>
+    644
+   </sifravzd>
+   <opisvzd>
+    Zdr.nega v dej.nast.ustanov za bol.nego
+   </opisvzd>
+   <veljaod>
+    2026-03-24
    </veljaod>
   </vzd>
  </ivzizvajalec>
