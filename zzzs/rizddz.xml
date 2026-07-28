@@ -2,10 +2,10 @@
 <bpi xmlns="http://zzzs.si/b2b/bpi" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemalocation="http://zzzs.si/b2b/bpi bpi.xsd">
  <posiljka>
   <verzijaposiljke>
-   4950
+   4951
   </verzijaposiljke>
   <datumposiljke>
-   2026-07-27
+   2026-07-28
   </datumposiljke>
   <verzijasheme>
    1.0
@@ -95304,6 +95304,139 @@
  </ivzizvajalec>
  <ivzizvajalec>
   <sifraivzizvajalca>
+   993
+  </sifraivzizvajalca>
+  <sifralokacije>
+   0
+  </sifralokacije>
+  <zzzsstevilka>
+   5654700
+  </zzzsstevilka>
+  <organizacijskastruktura>
+   <sifraivzosnovni>
+    993
+   </sifraivzosnovni>
+  </organizacijskastruktura>
+  <nazivinnaslov>
+   <nazivorganizacijskeenote>
+    MODRA FIZIOTERAPIJA, DAVID SOK S.P.
+   </nazivorganizacijskeenote>
+   <ulicaorganizacijskeenote>
+    MAJARONOVA ULICA 6
+   </ulicaorganizacijskeenote>
+   <postaorganizacijskeenote>
+    1000 LJUBLJANA
+   </postaorganizacijskeenote>
+  </nazivinnaslov>
+  <pravnistatus>
+   <pravnistatussifra>
+    5
+   </pravnistatussifra>
+   <pravnistatusopis>
+    SAMOSTOJNI PODJETNIK
+   </pravnistatusopis>
+  </pravnistatus>
+  <tipizvajalca>
+   <tipizvajalcasifra>
+    1
+   </tipizvajalcasifra>
+   <tipizvajalcaopis>
+    OSNOVNO ZDRAVSTVO
+   </tipizvajalcaopis>
+  </tipizvajalca>
+  <obcina>
+   <obcinasifra>
+    61
+   </obcinasifra>
+   <obcinanaziv>
+    LJUBLJANA
+   </obcinanaziv>
+  </obcina>
+  <veljaod>
+   2022-09-05
+  </veljaod>
+  <vzd>
+   <sifravzd>
+    706
+   </sifravzd>
+   <opisvzd>
+    Urejanje zdr.,iz.,kult., drugih soc.st.
+   </opisvzd>
+   <veljaod>
+    2022-09-05
+   </veljaod>
+  </vzd>
+ </ivzizvajalec>
+ <ivzizvajalec>
+  <sifraivzizvajalca>
+   993
+  </sifraivzizvajalca>
+  <sifralokacije>
+   1
+  </sifralokacije>
+  <zzzsstevilka>
+   10017012
+  </zzzsstevilka>
+  <organizacijskastruktura>
+   <sifraivzosnovni>
+    993
+   </sifraivzosnovni>
+  </organizacijskastruktura>
+  <nazivinnaslov>
+   <nazivorganizacijskeenote>
+    MODRA FIZIOTERAPIJA, DAVID SOK S.P.
+   </nazivorganizacijskeenote>
+   <dodatninazivorganizacijskeenote>
+    PODRUŽNICA KOTNIKOVA
+   </dodatninazivorganizacijskeenote>
+   <ulicaorganizacijskeenote>
+    KOTNIKOVA ULICA 30
+   </ulicaorganizacijskeenote>
+   <postaorganizacijskeenote>
+    1000 LJUBLJANA
+   </postaorganizacijskeenote>
+  </nazivinnaslov>
+  <pravnistatus>
+   <pravnistatussifra>
+    5
+   </pravnistatussifra>
+   <pravnistatusopis>
+    SAMOSTOJNI PODJETNIK
+   </pravnistatusopis>
+  </pravnistatus>
+  <tipizvajalca>
+   <tipizvajalcasifra>
+    1
+   </tipizvajalcasifra>
+   <tipizvajalcaopis>
+    OSNOVNO ZDRAVSTVO
+   </tipizvajalcaopis>
+  </tipizvajalca>
+  <obcina>
+   <obcinasifra>
+    61
+   </obcinasifra>
+   <obcinanaziv>
+    LJUBLJANA
+   </obcinanaziv>
+  </obcina>
+  <veljaod>
+   1900-01-01
+  </veljaod>
+  <vzd>
+   <sifravzd>
+    507
+   </sifravzd>
+   <opisvzd>
+    Fizioterapija
+   </opisvzd>
+   <veljaod>
+    2022-09-08
+   </veljaod>
+  </vzd>
+ </ivzizvajalec>
+ <ivzizvajalec>
+  <sifraivzizvajalca>
    995
   </sifraivzizvajalca>
   <sifralokacije>
@@ -108040,6 +108173,71 @@
    </opisvzd>
    <veljaod>
     2023-01-19
+   </veljaod>
+  </vzd>
+ </ivzizvajalec>
+ <ivzizvajalec>
+  <sifraivzizvajalca>
+   1157
+  </sifraivzizvajalca>
+  <sifralokacije>
+   0
+  </sifralokacije>
+  <zzzsstevilka>
+   5508106
+  </zzzsstevilka>
+  <organizacijskastruktura>
+   <sifraivzosnovni>
+    1157
+   </sifraivzosnovni>
+  </organizacijskastruktura>
+  <nazivinnaslov>
+   <nazivorganizacijskeenote>
+    BOŠTJAN KOCJANČIČ S.P.
+   </nazivorganizacijskeenote>
+   <ulicaorganizacijskeenote>
+    ROŽNA DOLINA, CESTA VIII 13 C
+   </ulicaorganizacijskeenote>
+   <postaorganizacijskeenote>
+    1000 LJUBLJANA
+   </postaorganizacijskeenote>
+  </nazivinnaslov>
+  <pravnistatus>
+   <pravnistatussifra>
+    6
+   </pravnistatussifra>
+   <pravnistatusopis>
+    SAMOSTOJNI PODJETNIK - BREZ AMBULANTE
+   </pravnistatusopis>
+  </pravnistatus>
+  <tipizvajalca>
+   <tipizvajalcasifra>
+    2
+   </tipizvajalcasifra>
+   <tipizvajalcaopis>
+    SPECIALISTIČNA AMBULANTA
+   </tipizvajalcaopis>
+  </tipizvajalca>
+  <obcina>
+   <obcinasifra>
+    61
+   </obcinasifra>
+   <obcinanaziv>
+    LJUBLJANA
+   </obcinanaziv>
+  </obcina>
+  <veljaod>
+   2023-01-25
+  </veljaod>
+  <vzd>
+   <sifravzd>
+    706
+   </sifravzd>
+   <opisvzd>
+    Urejanje zdr.,iz.,kult., drugih soc.st.
+   </opisvzd>
+   <veljaod>
+    2023-01-25
    </veljaod>
   </vzd>
  </ivzizvajalec>
@@ -184095,6 +184293,71 @@
  </ivzizvajalec>
  <ivzizvajalec>
   <sifraivzizvajalca>
+   2099
+  </sifraivzizvajalca>
+  <sifralokacije>
+   0
+  </sifralokacije>
+  <zzzsstevilka>
+   9086758
+  </zzzsstevilka>
+  <organizacijskastruktura>
+   <sifraivzosnovni>
+    2099
+   </sifraivzosnovni>
+  </organizacijskastruktura>
+  <nazivinnaslov>
+   <nazivorganizacijskeenote>
+    EDINA, MENSUR SALIHOVIĆ S.P.
+   </nazivorganizacijskeenote>
+   <ulicaorganizacijskeenote>
+    PEGAMOVA ULICA 12
+   </ulicaorganizacijskeenote>
+   <postaorganizacijskeenote>
+    1000 LJUBLJANA
+   </postaorganizacijskeenote>
+  </nazivinnaslov>
+  <pravnistatus>
+   <pravnistatussifra>
+    6
+   </pravnistatussifra>
+   <pravnistatusopis>
+    SAMOSTOJNI PODJETNIK - BREZ AMBULANTE
+   </pravnistatusopis>
+  </pravnistatus>
+  <tipizvajalca>
+   <tipizvajalcasifra>
+    2
+   </tipizvajalcasifra>
+   <tipizvajalcaopis>
+    SPECIALISTIČNA AMBULANTA
+   </tipizvajalcaopis>
+  </tipizvajalca>
+  <obcina>
+   <obcinasifra>
+    61
+   </obcinasifra>
+   <obcinanaziv>
+    LJUBLJANA
+   </obcinanaziv>
+  </obcina>
+  <veljaod>
+   2023-12-27
+  </veljaod>
+  <vzd>
+   <sifravzd>
+    706
+   </sifravzd>
+   <opisvzd>
+    Urejanje zdr.,iz.,kult., drugih soc.st.
+   </opisvzd>
+   <veljaod>
+    2023-12-27
+   </veljaod>
+  </vzd>
+ </ivzizvajalec>
+ <ivzizvajalec>
+  <sifraivzizvajalca>
    2103
   </sifraivzizvajalca>
   <sifralokacije>
@@ -207788,6 +208051,71 @@
  </ivzizvajalec>
  <ivzizvajalec>
   <sifraivzizvajalca>
+   2424
+  </sifraivzizvajalca>
+  <sifralokacije>
+   0
+  </sifralokacije>
+  <zzzsstevilka>
+   5301117
+  </zzzsstevilka>
+  <organizacijskastruktura>
+   <sifraivzosnovni>
+    2424
+   </sifraivzosnovni>
+  </organizacijskastruktura>
+  <nazivinnaslov>
+   <nazivorganizacijskeenote>
+    MATEJA STARBEK ZORKO S.P.
+   </nazivorganizacijskeenote>
+   <ulicaorganizacijskeenote>
+    AŠKERČEVA ULICA 11
+   </ulicaorganizacijskeenote>
+   <postaorganizacijskeenote>
+    1233 DOB
+   </postaorganizacijskeenote>
+  </nazivinnaslov>
+  <pravnistatus>
+   <pravnistatussifra>
+    6
+   </pravnistatussifra>
+   <pravnistatusopis>
+    SAMOSTOJNI PODJETNIK - BREZ AMBULANTE
+   </pravnistatusopis>
+  </pravnistatus>
+  <tipizvajalca>
+   <tipizvajalcasifra>
+    2
+   </tipizvajalcasifra>
+   <tipizvajalcaopis>
+    SPECIALISTIČNA AMBULANTA
+   </tipizvajalcaopis>
+  </tipizvajalca>
+  <obcina>
+   <obcinasifra>
+    23
+   </obcinasifra>
+   <obcinanaziv>
+    DOMŽALE
+   </obcinanaziv>
+  </obcina>
+  <veljaod>
+   2025-10-25
+  </veljaod>
+  <vzd>
+   <sifravzd>
+    706
+   </sifravzd>
+   <opisvzd>
+    Urejanje zdr.,iz.,kult., drugih soc.st.
+   </opisvzd>
+   <veljaod>
+    2025-10-25
+   </veljaod>
+  </vzd>
+ </ivzizvajalec>
+ <ivzizvajalec>
+  <sifraivzizvajalca>
    2425
   </sifraivzizvajalca>
   <sifralokacije>
@@ -211919,6 +212247,74 @@
    </opisvzd>
    <veljaod>
     2025-12-31
+   </veljaod>
+  </vzd>
+ </ivzizvajalec>
+ <ivzizvajalec>
+  <sifraivzizvajalca>
+   2479
+  </sifraivzizvajalca>
+  <sifralokacije>
+   1
+  </sifralokacije>
+  <zzzsstevilka>
+   9993096
+  </zzzsstevilka>
+  <organizacijskastruktura>
+   <sifraivzosnovni>
+    2479
+   </sifraivzosnovni>
+  </organizacijskastruktura>
+  <nazivinnaslov>
+   <nazivorganizacijskeenote>
+    FIZION, GREGOR ČADEŽ S.P.
+   </nazivorganizacijskeenote>
+   <dodatninazivorganizacijskeenote>
+    PE PTUJ
+   </dodatninazivorganizacijskeenote>
+   <ulicaorganizacijskeenote>
+    POTRČEVA CESTA 49
+   </ulicaorganizacijskeenote>
+   <postaorganizacijskeenote>
+    2250 PTUJ
+   </postaorganizacijskeenote>
+  </nazivinnaslov>
+  <pravnistatus>
+   <pravnistatussifra>
+    5
+   </pravnistatussifra>
+   <pravnistatusopis>
+    SAMOSTOJNI PODJETNIK
+   </pravnistatusopis>
+  </pravnistatus>
+  <tipizvajalca>
+   <tipizvajalcasifra>
+    1
+   </tipizvajalcasifra>
+   <tipizvajalcaopis>
+    OSNOVNO ZDRAVSTVO
+   </tipizvajalcaopis>
+  </tipizvajalca>
+  <obcina>
+   <obcinasifra>
+    96
+   </obcinasifra>
+   <obcinanaziv>
+    PTUJ
+   </obcinanaziv>
+  </obcina>
+  <veljaod>
+   2026-07-02
+  </veljaod>
+  <vzd>
+   <sifravzd>
+    507
+   </sifravzd>
+   <opisvzd>
+    Fizioterapija
+   </opisvzd>
+   <veljaod>
+    2026-07-02
    </veljaod>
   </vzd>
  </ivzizvajalec>
@@ -272049,6 +272445,28 @@
     2025-01-01
    </veljaod>
   </vzd>
+  <vzd>
+   <sifravzd>
+    102
+   </sifravzd>
+   <opisvzd>
+    Anest., reanim. in per.int.med. v BolDej
+   </opisvzd>
+   <veljaod>
+    2019-06-20
+   </veljaod>
+  </vzd>
+  <vzd>
+   <sifravzd>
+    202
+   </sifravzd>
+   <opisvzd>
+    Anest.rea.per.int.med. v spec.ZunajBDej
+   </opisvzd>
+   <veljaod>
+    2019-06-20
+   </veljaod>
+  </vzd>
  </ivzizvajalec>
  <ivzizvajalec>
   <sifraivzizvajalca>
@@ -312516,6 +312934,77 @@
  </ivzizvajalec>
  <ivzizvajalec>
   <sifraivzizvajalca>
+   20578
+  </sifraivzizvajalca>
+  <sifralokacije>
+   0
+  </sifralokacije>
+  <zzzsstevilka>
+   4377761
+  </zzzsstevilka>
+  <organizacijskastruktura>
+   <sifraivzosnovni>
+    20407
+   </sifraivzosnovni>
+   <sifraivzpodrejeni>
+    20578
+   </sifraivzpodrejeni>
+  </organizacijskastruktura>
+  <nazivinnaslov>
+   <nazivorganizacijskeenote>
+    LEKARNA - HORVAT CIRIL
+   </nazivorganizacijskeenote>
+   <dodatninazivorganizacijskeenote>
+    PODRUŽNIČNA LEKARNA ZG. KUNGOTA
+   </dodatninazivorganizacijskeenote>
+   <ulicaorganizacijskeenote>
+    PLINTOVEC 7 C
+   </ulicaorganizacijskeenote>
+   <postaorganizacijskeenote>
+    2201 ZGORNJA KUNGOTA
+   </postaorganizacijskeenote>
+  </nazivinnaslov>
+  <pravnistatus>
+   <pravnistatussifra>
+    3
+   </pravnistatussifra>
+   <pravnistatusopis>
+    ZASEBNI ZDRAVSTVENI DELAVEC
+   </pravnistatusopis>
+  </pravnistatus>
+  <tipizvajalca>
+   <tipizvajalcasifra>
+    5
+   </tipizvajalcasifra>
+   <tipizvajalcaopis>
+    LEKARNA
+   </tipizvajalcaopis>
+  </tipizvajalca>
+  <obcina>
+   <obcinasifra>
+    55
+   </obcinasifra>
+   <obcinanaziv>
+    KUNGOTA
+   </obcinanaziv>
+  </obcina>
+  <veljaod>
+   2007-12-10
+  </veljaod>
+  <vzd>
+   <sifravzd>
+    743
+   </sifravzd>
+   <opisvzd>
+    Lekarniška dejavnost
+   </opisvzd>
+   <veljaod>
+    2007-12-10
+   </veljaod>
+  </vzd>
+ </ivzizvajalec>
+ <ivzizvajalec>
+  <sifraivzizvajalca>
    20408
   </sifraivzizvajalca>
   <sifralokacije>
@@ -339983,6 +340472,9 @@
   <veljaod>
    1999-03-01
   </veljaod>
+  <veljado>
+   2026-04-30
+  </veljado>
   <vzd>
    <sifravzd>
     404
@@ -339993,6 +340485,9 @@
    <veljaod>
     1999-03-01
    </veljaod>
+   <veljado>
+    2026-04-30
+   </veljado>
   </vzd>
   <vzd>
    <sifravzd>
@@ -340004,6 +340499,9 @@
    <veljaod>
     1999-03-01
    </veljaod>
+   <veljado>
+    2026-04-30
+   </veljado>
   </vzd>
  </ivzizvajalec>
  <ivzizvajalec>
@@ -366697,7 +367195,7 @@
    </obcinanaziv>
   </obcina>
   <veljaod>
-   2001-11-20
+   2007-01-01
   </veljaod>
   <vzd>
    <sifravzd>
@@ -488166,77 +488664,6 @@
    </opisvzd>
    <veljaod>
     2012-04-01
-   </veljaod>
-  </vzd>
- </ivzizvajalec>
- <ivzizvajalec>
-  <sifraivzizvajalca>
-   20578
-  </sifraivzizvajalca>
-  <sifralokacije>
-   0
-  </sifralokacije>
-  <zzzsstevilka>
-   4377761
-  </zzzsstevilka>
-  <organizacijskastruktura>
-   <sifraivznadrejeni>
-    20407
-   </sifraivznadrejeni>
-   <sifraivzosnovni>
-    20578
-   </sifraivzosnovni>
-  </organizacijskastruktura>
-  <nazivinnaslov>
-   <nazivorganizacijskeenote>
-    LEKARNA - HORVAT CIRIL
-   </nazivorganizacijskeenote>
-   <dodatninazivorganizacijskeenote>
-    PODRUŽNIČNA LEKARNA ZG. KUNGOTA
-   </dodatninazivorganizacijskeenote>
-   <ulicaorganizacijskeenote>
-    PLINTOVEC 7 C
-   </ulicaorganizacijskeenote>
-   <postaorganizacijskeenote>
-    2201 ZGORNJA KUNGOTA
-   </postaorganizacijskeenote>
-  </nazivinnaslov>
-  <pravnistatus>
-   <pravnistatussifra>
-    3
-   </pravnistatussifra>
-   <pravnistatusopis>
-    ZASEBNI ZDRAVSTVENI DELAVEC
-   </pravnistatusopis>
-  </pravnistatus>
-  <tipizvajalca>
-   <tipizvajalcasifra>
-    5
-   </tipizvajalcasifra>
-   <tipizvajalcaopis>
-    LEKARNA
-   </tipizvajalcaopis>
-  </tipizvajalca>
-  <obcina>
-   <obcinasifra>
-    55
-   </obcinasifra>
-   <obcinanaziv>
-    KUNGOTA
-   </obcinanaziv>
-  </obcina>
-  <veljaod>
-   2007-12-10
-  </veljaod>
-  <vzd>
-   <sifravzd>
-    743
-   </sifravzd>
-   <opisvzd>
-    Lekarniška dejavnost
-   </opisvzd>
-   <veljaod>
-    2007-12-10
    </veljaod>
   </vzd>
  </ivzizvajalec>
