@@ -2,10 +2,10 @@
 <bpi xmlns="http://zzzs.si/b2b/bpi" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemalocation="http://zzzs.si/b2b/bpi bpi.xsd">
  <posiljka>
   <verzijaposiljke>
-   4952
+   4953
   </verzijaposiljke>
   <datumposiljke>
-   2026-07-29
+   2026-07-30
   </datumposiljke>
   <verzijasheme>
    1.0
@@ -38170,7 +38170,7 @@
     255
    </sifravzd>
    <opisvzd>
-    Klinična psihologija
+    Klinična psihologija v spec. zunajboldej
    </opisvzd>
    <veljaod>
     2025-01-01
@@ -39105,7 +39105,7 @@
     255
    </sifravzd>
    <opisvzd>
-    Klinična psihologija
+    Klinična psihologija v spec. zunajboldej
    </opisvzd>
    <veljaod>
     2025-01-01
@@ -40045,7 +40045,7 @@
     255
    </sifravzd>
    <opisvzd>
-    Klinična psihologija
+    Klinična psihologija v spec. zunajboldej
    </opisvzd>
    <veljaod>
     2025-01-01
@@ -41023,7 +41023,7 @@
     255
    </sifravzd>
    <opisvzd>
-    Klinična psihologija
+    Klinična psihologija v spec. zunajboldej
    </opisvzd>
    <veljaod>
     2025-01-01
@@ -44315,6 +44315,9 @@
    <veljaod>
     2012-07-01
    </veljaod>
+   <veljado>
+    2025-01-01
+   </veljado>
   </vzd>
   <vzd>
    <sifravzd>
@@ -44347,6 +44350,17 @@
    </opisvzd>
    <veljaod>
     1900-01-01
+   </veljaod>
+  </vzd>
+  <vzd>
+   <sifravzd>
+    355
+   </sifravzd>
+   <opisvzd>
+    Center za duševno zdravje
+   </opisvzd>
+   <veljaod>
+    2025-01-01
    </veljaod>
   </vzd>
  </ivzizvajalec>
@@ -44941,6 +44955,9 @@
    <veljaod>
     2024-07-01
    </veljaod>
+   <veljado>
+    2025-01-01
+   </veljado>
   </vzd>
   <vzd>
    <sifravzd>
@@ -45183,6 +45200,9 @@
    <veljaod>
     2012-01-01
    </veljaod>
+   <veljado>
+    2025-01-01
+   </veljado>
   </vzd>
   <vzd>
    <sifravzd>
@@ -45222,7 +45242,7 @@
     255
    </sifravzd>
    <opisvzd>
-    Klinična psihologija
+    Klinična psihologija v spec. zunajboldej
    </opisvzd>
    <veljaod>
     2025-01-01
@@ -47853,7 +47873,7 @@
     255
    </sifravzd>
    <opisvzd>
-    Klinična psihologija
+    Klinična psihologija v spec. zunajboldej
    </opisvzd>
    <veljaod>
     2025-01-01
@@ -47869,6 +47889,9 @@
    <veljaod>
     2025-01-01
    </veljaod>
+   <veljado>
+    2025-01-01
+   </veljado>
   </vzd>
   <vzd>
    <sifravzd>
@@ -58198,7 +58221,7 @@
     255
    </sifravzd>
    <opisvzd>
-    Klinična psihologija
+    Klinična psihologija v spec. zunajboldej
    </opisvzd>
    <veljaod>
     2025-01-01
@@ -69931,7 +69954,7 @@
     255
    </sifravzd>
    <opisvzd>
-    Klinična psihologija
+    Klinična psihologija v spec. zunajboldej
    </opisvzd>
    <veljaod>
     2024-07-23
@@ -86093,7 +86116,7 @@
     255
    </sifravzd>
    <opisvzd>
-    Klinična psihologija
+    Klinična psihologija v spec. zunajboldej
    </opisvzd>
    <veljaod>
     2025-01-01
@@ -87732,10 +87755,10 @@
     NEVRON
    </nazivorganizacijskeenote>
    <ulicaorganizacijskeenote>
-    TOMŠIČEVA ULICA 6
+    TOMAŽIČEVA ULICA 47
    </ulicaorganizacijskeenote>
    <postaorganizacijskeenote>
-    6310 IZOLA - ISOLA
+    1000 LJUBLJANA
    </postaorganizacijskeenote>
   </nazivinnaslov>
   <pravnistatus>
@@ -87756,10 +87779,10 @@
   </tipizvajalca>
   <obcina>
    <obcinasifra>
-    40
+    61
    </obcinasifra>
    <obcinanaziv>
-    IZOLA
+    LJUBLJANA
    </obcinanaziv>
   </obcina>
   <veljaod>
@@ -97711,7 +97734,7 @@
     255
    </sifravzd>
    <opisvzd>
-    Klinična psihologija
+    Klinična psihologija v spec. zunajboldej
    </opisvzd>
    <veljaod>
     2025-01-01
@@ -100011,6 +100034,71 @@
    </opisvzd>
    <veljaod>
     2012-05-23
+   </veljaod>
+  </vzd>
+ </ivzizvajalec>
+ <ivzizvajalec>
+  <sifraivzizvajalca>
+   1061
+  </sifraivzizvajalca>
+  <sifralokacije>
+   0
+  </sifralokacije>
+  <zzzsstevilka>
+   5503601
+  </zzzsstevilka>
+  <organizacijskastruktura>
+   <sifraivzosnovni>
+    1061
+   </sifraivzosnovni>
+  </organizacijskastruktura>
+  <nazivinnaslov>
+   <nazivorganizacijskeenote>
+    SLOVŠA, KRIŽAJ IN PARTNERJI D.O.O.
+   </nazivorganizacijskeenote>
+   <ulicaorganizacijskeenote>
+    SLOMŠKOVA ULICA 17
+   </ulicaorganizacijskeenote>
+   <postaorganizacijskeenote>
+    1000 LJUBLJANA
+   </postaorganizacijskeenote>
+  </nazivinnaslov>
+  <pravnistatus>
+   <pravnistatussifra>
+    2
+   </pravnistatussifra>
+   <pravnistatusopis>
+    GOSPODARSKA DRUŽBA / ZASEBNI ZAVOD
+   </pravnistatusopis>
+  </pravnistatus>
+  <tipizvajalca>
+   <tipizvajalcasifra>
+    1
+   </tipizvajalcasifra>
+   <tipizvajalcaopis>
+    OSNOVNO ZDRAVSTVO
+   </tipizvajalcaopis>
+  </tipizvajalca>
+  <obcina>
+   <obcinasifra>
+    61
+   </obcinasifra>
+   <obcinanaziv>
+    LJUBLJANA
+   </obcinanaziv>
+  </obcina>
+  <veljaod>
+   2012-01-09
+  </veljaod>
+  <vzd>
+   <sifravzd>
+    706
+   </sifravzd>
+   <opisvzd>
+    Urejanje zdr.,iz.,kult., drugih soc.st.
+   </opisvzd>
+   <veljaod>
+    2012-01-09
    </veljaod>
   </vzd>
  </ivzizvajalec>
@@ -129139,7 +129227,7 @@
     255
    </sifravzd>
    <opisvzd>
-    Klinična psihologija
+    Klinična psihologija v spec. zunajboldej
    </opisvzd>
    <veljaod>
     2023-09-15
@@ -132118,7 +132206,7 @@
     255
    </sifravzd>
    <opisvzd>
-    Klinična psihologija
+    Klinična psihologija v spec. zunajboldej
    </opisvzd>
    <veljaod>
     2023-08-29
@@ -138402,7 +138490,7 @@
     255
    </sifravzd>
    <opisvzd>
-    Klinična psihologija
+    Klinična psihologija v spec. zunajboldej
    </opisvzd>
    <veljaod>
     2025-01-01
@@ -149038,7 +149126,7 @@
     255
    </sifravzd>
    <opisvzd>
-    Klinična psihologija
+    Klinična psihologija v spec. zunajboldej
    </opisvzd>
    <veljaod>
     2025-01-01
@@ -163074,7 +163162,7 @@
     255
    </sifravzd>
    <opisvzd>
-    Klinična psihologija
+    Klinična psihologija v spec. zunajboldej
    </opisvzd>
    <veljaod>
     2024-10-26
@@ -164225,7 +164313,7 @@
     255
    </sifravzd>
    <opisvzd>
-    Klinična psihologija
+    Klinična psihologija v spec. zunajboldej
    </opisvzd>
    <veljaod>
     2025-01-01
@@ -164643,7 +164731,7 @@
     255
    </sifravzd>
    <opisvzd>
-    Klinična psihologija
+    Klinična psihologija v spec. zunajboldej
    </opisvzd>
    <veljaod>
     2025-01-01
@@ -188967,7 +189055,7 @@
     255
    </sifravzd>
    <opisvzd>
-    Klinična psihologija
+    Klinična psihologija v spec. zunajboldej
    </opisvzd>
    <veljaod>
     2026-04-22
@@ -191014,7 +191102,7 @@
     255
    </sifravzd>
    <opisvzd>
-    Klinična psihologija
+    Klinična psihologija v spec. zunajboldej
    </opisvzd>
    <veljaod>
     2002-05-01
@@ -198495,7 +198583,7 @@
     255
    </sifravzd>
    <opisvzd>
-    Klinična psihologija
+    Klinična psihologija v spec. zunajboldej
    </opisvzd>
    <veljaod>
     2025-06-01
@@ -202232,6 +202320,136 @@
    </opisvzd>
    <veljaod>
     2025-08-12
+   </veljaod>
+  </vzd>
+ </ivzizvajalec>
+ <ivzizvajalec>
+  <sifraivzizvajalca>
+   2366
+  </sifraivzizvajalca>
+  <sifralokacije>
+   0
+  </sifralokacije>
+  <zzzsstevilka>
+   4529947
+  </zzzsstevilka>
+  <organizacijskastruktura>
+   <sifraivzosnovni>
+    2366
+   </sifraivzosnovni>
+  </organizacijskastruktura>
+  <nazivinnaslov>
+   <nazivorganizacijskeenote>
+    MOOR ORTOTIKA IN PROTETIKA D.O.O.
+   </nazivorganizacijskeenote>
+   <ulicaorganizacijskeenote>
+    OBREŽJE 79
+   </ulicaorganizacijskeenote>
+   <postaorganizacijskeenote>
+    8261 JESENICE NA DOLENJSKEM
+   </postaorganizacijskeenote>
+  </nazivinnaslov>
+  <pravnistatus>
+   <pravnistatussifra>
+    2
+   </pravnistatussifra>
+   <pravnistatusopis>
+    GOSPODARSKA DRUŽBA / ZASEBNI ZAVOD
+   </pravnistatusopis>
+  </pravnistatus>
+  <tipizvajalca>
+   <tipizvajalcasifra>
+    20
+   </tipizvajalcasifra>
+   <tipizvajalcaopis>
+    OSTALI, KI OPRAVLJAJO ZDR. DEJ.
+   </tipizvajalcaopis>
+  </tipizvajalca>
+  <obcina>
+   <obcinasifra>
+    9
+   </obcinasifra>
+   <obcinanaziv>
+    BREŽICE
+   </obcinanaziv>
+  </obcina>
+  <veljaod>
+   2025-08-06
+  </veljaod>
+  <vzd>
+   <sifravzd>
+    706
+   </sifravzd>
+   <opisvzd>
+    Urejanje zdr.,iz.,kult., drugih soc.st.
+   </opisvzd>
+   <veljaod>
+    2025-08-06
+   </veljaod>
+  </vzd>
+ </ivzizvajalec>
+ <ivzizvajalec>
+  <sifraivzizvajalca>
+   2366
+  </sifraivzizvajalca>
+  <sifralokacije>
+   1
+  </sifralokacije>
+  <zzzsstevilka>
+   5854233
+  </zzzsstevilka>
+  <organizacijskastruktura>
+   <sifraivzosnovni>
+    2366
+   </sifraivzosnovni>
+  </organizacijskastruktura>
+  <nazivinnaslov>
+   <nazivorganizacijskeenote>
+    MOOR ORTOTIKA IN PROTETIKA D.O.O., PE ŠIŠKA
+   </nazivorganizacijskeenote>
+   <ulicaorganizacijskeenote>
+    CESTA VSTAJE 77
+   </ulicaorganizacijskeenote>
+   <postaorganizacijskeenote>
+    1211 LJUBLJANA - ŠMARTNO
+   </postaorganizacijskeenote>
+  </nazivinnaslov>
+  <pravnistatus>
+   <pravnistatussifra>
+    2
+   </pravnistatussifra>
+   <pravnistatusopis>
+    GOSPODARSKA DRUŽBA / ZASEBNI ZAVOD
+   </pravnistatusopis>
+  </pravnistatus>
+  <tipizvajalca>
+   <tipizvajalcasifra>
+    20
+   </tipizvajalcasifra>
+   <tipizvajalcaopis>
+    OSTALI, KI OPRAVLJAJO ZDR. DEJ.
+   </tipizvajalcaopis>
+  </tipizvajalca>
+  <obcina>
+   <obcinasifra>
+    61
+   </obcinasifra>
+   <obcinanaziv>
+    LJUBLJANA
+   </obcinanaziv>
+  </obcina>
+  <veljaod>
+   2025-08-23
+  </veljaod>
+  <vzd>
+   <sifravzd>
+    552
+   </sifravzd>
+   <opisvzd>
+    Ortotika in protetika
+   </opisvzd>
+   <veljaod>
+    2025-08-23
    </veljaod>
   </vzd>
  </ivzizvajalec>
@@ -210645,7 +210863,7 @@
     255
    </sifravzd>
    <opisvzd>
-    Klinična psihologija
+    Klinična psihologija v spec. zunajboldej
    </opisvzd>
    <veljaod>
     2025-11-21
@@ -212970,7 +213188,7 @@
     255
    </sifravzd>
    <opisvzd>
-    Klinična psihologija
+    Klinična psihologija v spec. zunajboldej
    </opisvzd>
    <veljaod>
     2026-01-16
@@ -214014,6 +214232,71 @@
    </opisvzd>
    <veljaod>
     2026-01-20
+   </veljaod>
+  </vzd>
+ </ivzizvajalec>
+ <ivzizvajalec>
+  <sifraivzizvajalca>
+   2496
+  </sifraivzizvajalca>
+  <sifralokacije>
+   0
+  </sifralokacije>
+  <zzzsstevilka>
+   5501736
+  </zzzsstevilka>
+  <organizacijskastruktura>
+   <sifraivzosnovni>
+    2496
+   </sifraivzosnovni>
+  </organizacijskastruktura>
+  <nazivinnaslov>
+   <nazivorganizacijskeenote>
+    BRANKO ŠIBANC, S.P.
+   </nazivorganizacijskeenote>
+   <ulicaorganizacijskeenote>
+    LJUBLJANSKA CESTA 16
+   </ulicaorganizacijskeenote>
+   <postaorganizacijskeenote>
+    3000 CELJE
+   </postaorganizacijskeenote>
+  </nazivinnaslov>
+  <pravnistatus>
+   <pravnistatussifra>
+    6
+   </pravnistatussifra>
+   <pravnistatusopis>
+    SAMOSTOJNI PODJETNIK - BREZ AMBULANTE
+   </pravnistatusopis>
+  </pravnistatus>
+  <tipizvajalca>
+   <tipizvajalcasifra>
+    2
+   </tipizvajalcasifra>
+   <tipizvajalcaopis>
+    SPECIALISTIČNA AMBULANTA
+   </tipizvajalcaopis>
+  </tipizvajalca>
+  <obcina>
+   <obcinasifra>
+    11
+   </obcinasifra>
+   <obcinanaziv>
+    CELJE
+   </obcinanaziv>
+  </obcina>
+  <veljaod>
+   2026-01-23
+  </veljaod>
+  <vzd>
+   <sifravzd>
+    706
+   </sifravzd>
+   <opisvzd>
+    Urejanje zdr.,iz.,kult., drugih soc.st.
+   </opisvzd>
+   <veljaod>
+    2026-01-23
    </veljaod>
   </vzd>
  </ivzizvajalec>
@@ -218398,6 +218681,71 @@
  </ivzizvajalec>
  <ivzizvajalec>
   <sifraivzizvajalca>
+   2554
+  </sifraivzizvajalca>
+  <sifralokacije>
+   0
+  </sifralokacije>
+  <zzzsstevilka>
+   9837365
+  </zzzsstevilka>
+  <organizacijskastruktura>
+   <sifraivzosnovni>
+    2554
+   </sifraivzosnovni>
+  </organizacijskastruktura>
+  <nazivinnaslov>
+   <nazivorganizacijskeenote>
+    GLADIA ŠPELA FREITAG ZORKO S.P.
+   </nazivorganizacijskeenote>
+   <ulicaorganizacijskeenote>
+    ZGORNJA HUDINJA 18
+   </ulicaorganizacijskeenote>
+   <postaorganizacijskeenote>
+    3000 CELJE
+   </postaorganizacijskeenote>
+  </nazivinnaslov>
+  <pravnistatus>
+   <pravnistatussifra>
+    5
+   </pravnistatussifra>
+   <pravnistatusopis>
+    SAMOSTOJNI PODJETNIK
+   </pravnistatusopis>
+  </pravnistatus>
+  <tipizvajalca>
+   <tipizvajalcasifra>
+    20
+   </tipizvajalcasifra>
+   <tipizvajalcaopis>
+    OSTALI, KI OPRAVLJAJO ZDR. DEJ.
+   </tipizvajalcaopis>
+  </tipizvajalca>
+  <obcina>
+   <obcinasifra>
+    11
+   </obcinasifra>
+   <obcinanaziv>
+    CELJE
+   </obcinanaziv>
+  </obcina>
+  <veljaod>
+   2026-04-10
+  </veljaod>
+  <vzd>
+   <sifravzd>
+    544
+   </sifravzd>
+   <opisvzd>
+    Zdravstvena nega v drugih dejavnostih
+   </opisvzd>
+   <veljaod>
+    2026-04-10
+   </veljaod>
+  </vzd>
+ </ivzizvajalec>
+ <ivzizvajalec>
+  <sifraivzizvajalca>
    2556
   </sifraivzizvajalca>
   <sifralokacije>
@@ -221212,7 +221560,7 @@
     255
    </sifravzd>
    <opisvzd>
-    Klinična psihologija
+    Klinična psihologija v spec. zunajboldej
    </opisvzd>
    <veljaod>
     2025-01-01
@@ -222657,7 +223005,7 @@
     255
    </sifravzd>
    <opisvzd>
-    Klinična psihologija
+    Klinična psihologija v spec. zunajboldej
    </opisvzd>
    <veljaod>
     2025-01-01
@@ -228533,7 +228881,7 @@
     255
    </sifravzd>
    <opisvzd>
-    Klinična psihologija
+    Klinična psihologija v spec. zunajboldej
    </opisvzd>
    <veljaod>
     2025-01-01
@@ -228902,7 +229250,7 @@
     255
    </sifravzd>
    <opisvzd>
-    Klinična psihologija
+    Klinična psihologija v spec. zunajboldej
    </opisvzd>
    <veljaod>
     2025-02-03
@@ -229146,7 +229494,7 @@
     255
    </sifravzd>
    <opisvzd>
-    Klinična psihologija
+    Klinična psihologija v spec. zunajboldej
    </opisvzd>
    <veljaod>
     2025-01-01
@@ -237347,7 +237695,7 @@
     255
    </sifravzd>
    <opisvzd>
-    Klinična psihologija
+    Klinična psihologija v spec. zunajboldej
    </opisvzd>
    <veljaod>
     2025-01-01
@@ -241326,7 +241674,7 @@
     255
    </sifravzd>
    <opisvzd>
-    Klinična psihologija
+    Klinična psihologija v spec. zunajboldej
    </opisvzd>
    <veljaod>
     2025-01-01
@@ -242326,7 +242674,7 @@
     255
    </sifravzd>
    <opisvzd>
-    Klinična psihologija
+    Klinična psihologija v spec. zunajboldej
    </opisvzd>
    <veljaod>
     2025-01-01
@@ -242502,7 +242850,7 @@
     255
    </sifravzd>
    <opisvzd>
-    Klinična psihologija
+    Klinična psihologija v spec. zunajboldej
    </opisvzd>
    <veljaod>
     2025-01-01
@@ -244531,7 +244879,7 @@
     255
    </sifravzd>
    <opisvzd>
-    Klinična psihologija
+    Klinična psihologija v spec. zunajboldej
    </opisvzd>
    <veljaod>
     2025-01-01
@@ -246968,7 +247316,7 @@
     255
    </sifravzd>
    <opisvzd>
-    Klinična psihologija
+    Klinična psihologija v spec. zunajboldej
    </opisvzd>
    <veljaod>
     2025-01-01
@@ -248180,7 +248528,7 @@
     255
    </sifravzd>
    <opisvzd>
-    Klinična psihologija
+    Klinična psihologija v spec. zunajboldej
    </opisvzd>
    <veljaod>
     2025-01-01
@@ -248892,7 +249240,7 @@
     255
    </sifravzd>
    <opisvzd>
-    Klinična psihologija
+    Klinična psihologija v spec. zunajboldej
    </opisvzd>
    <veljaod>
     2025-01-01
@@ -254122,7 +254470,7 @@
     255
    </sifravzd>
    <opisvzd>
-    Klinična psihologija
+    Klinična psihologija v spec. zunajboldej
    </opisvzd>
    <veljaod>
     2025-01-01
@@ -254416,7 +254764,7 @@
     255
    </sifravzd>
    <opisvzd>
-    Klinična psihologija
+    Klinična psihologija v spec. zunajboldej
    </opisvzd>
    <veljaod>
     2025-01-01
@@ -256115,7 +256463,7 @@
     255
    </sifravzd>
    <opisvzd>
-    Klinična psihologija
+    Klinična psihologija v spec. zunajboldej
    </opisvzd>
    <veljaod>
     2025-01-01
@@ -257607,7 +257955,7 @@
     255
    </sifravzd>
    <opisvzd>
-    Klinična psihologija
+    Klinična psihologija v spec. zunajboldej
    </opisvzd>
    <veljaod>
     2025-01-01
@@ -258147,7 +258495,7 @@
     255
    </sifravzd>
    <opisvzd>
-    Klinična psihologija
+    Klinična psihologija v spec. zunajboldej
    </opisvzd>
    <veljaod>
     2025-01-01
@@ -259049,7 +259397,7 @@
     255
    </sifravzd>
    <opisvzd>
-    Klinična psihologija
+    Klinična psihologija v spec. zunajboldej
    </opisvzd>
    <veljaod>
     2026-06-01
@@ -261229,7 +261577,7 @@
     255
    </sifravzd>
    <opisvzd>
-    Klinična psihologija
+    Klinična psihologija v spec. zunajboldej
    </opisvzd>
    <veljaod>
     2025-01-01
@@ -262038,7 +262386,7 @@
     255
    </sifravzd>
    <opisvzd>
-    Klinična psihologija
+    Klinična psihologija v spec. zunajboldej
    </opisvzd>
    <veljaod>
     2025-01-01
@@ -263685,7 +264033,7 @@
     255
    </sifravzd>
    <opisvzd>
-    Klinična psihologija
+    Klinična psihologija v spec. zunajboldej
    </opisvzd>
    <veljaod>
     2025-01-01
@@ -264838,7 +265186,7 @@
     255
    </sifravzd>
    <opisvzd>
-    Klinična psihologija
+    Klinična psihologija v spec. zunajboldej
    </opisvzd>
    <veljaod>
     2025-01-01
@@ -266080,7 +266428,7 @@
     255
    </sifravzd>
    <opisvzd>
-    Klinična psihologija
+    Klinična psihologija v spec. zunajboldej
    </opisvzd>
    <veljaod>
     2025-01-01
@@ -266411,7 +266759,7 @@
     255
    </sifravzd>
    <opisvzd>
-    Klinična psihologija
+    Klinična psihologija v spec. zunajboldej
    </opisvzd>
    <veljaod>
     2025-01-01
@@ -266592,7 +266940,7 @@
     255
    </sifravzd>
    <opisvzd>
-    Klinična psihologija
+    Klinična psihologija v spec. zunajboldej
    </opisvzd>
    <veljaod>
     2025-01-01
@@ -266685,7 +267033,7 @@
     255
    </sifravzd>
    <opisvzd>
-    Klinična psihologija
+    Klinična psihologija v spec. zunajboldej
    </opisvzd>
    <veljaod>
     2025-01-01
@@ -266778,7 +267126,7 @@
     255
    </sifravzd>
    <opisvzd>
-    Klinična psihologija
+    Klinična psihologija v spec. zunajboldej
    </opisvzd>
    <veljaod>
     2025-01-01
@@ -266871,7 +267219,7 @@
     255
    </sifravzd>
    <opisvzd>
-    Klinična psihologija
+    Klinična psihologija v spec. zunajboldej
    </opisvzd>
    <veljaod>
     2025-01-01
@@ -268007,7 +268355,7 @@
     255
    </sifravzd>
    <opisvzd>
-    Klinična psihologija
+    Klinična psihologija v spec. zunajboldej
    </opisvzd>
    <veljaod>
     2025-01-01
@@ -268253,7 +268601,7 @@
     255
    </sifravzd>
    <opisvzd>
-    Klinična psihologija
+    Klinična psihologija v spec. zunajboldej
    </opisvzd>
    <veljaod>
     2025-01-01
@@ -270750,7 +271098,7 @@
     255
    </sifravzd>
    <opisvzd>
-    Klinična psihologija
+    Klinična psihologija v spec. zunajboldej
    </opisvzd>
    <veljaod>
     2025-01-01
@@ -275508,7 +275856,7 @@
     255
    </sifravzd>
    <opisvzd>
-    Klinična psihologija
+    Klinična psihologija v spec. zunajboldej
    </opisvzd>
    <veljaod>
     2025-01-01
@@ -283107,7 +283455,7 @@
     255
    </sifravzd>
    <opisvzd>
-    Klinična psihologija
+    Klinična psihologija v spec. zunajboldej
    </opisvzd>
    <veljaod>
     2025-01-01
@@ -283949,7 +284297,7 @@
     255
    </sifravzd>
    <opisvzd>
-    Klinična psihologija
+    Klinična psihologija v spec. zunajboldej
    </opisvzd>
    <veljaod>
     2025-01-01
@@ -284854,7 +285202,7 @@
     255
    </sifravzd>
    <opisvzd>
-    Klinična psihologija
+    Klinična psihologija v spec. zunajboldej
    </opisvzd>
    <veljaod>
     2025-01-01
@@ -287551,7 +287899,7 @@
     255
    </sifravzd>
    <opisvzd>
-    Klinična psihologija
+    Klinična psihologija v spec. zunajboldej
    </opisvzd>
    <veljaod>
     2025-01-01
@@ -303098,7 +303446,7 @@
     255
    </sifravzd>
    <opisvzd>
-    Klinična psihologija
+    Klinična psihologija v spec. zunajboldej
    </opisvzd>
    <veljaod>
     2025-01-01
@@ -308120,6 +308468,9 @@
    <veljaod>
     2021-12-09
    </veljaod>
+   <veljado>
+    2024-12-31
+   </veljado>
   </vzd>
   <vzd>
    <sifravzd>
@@ -308130,6 +308481,17 @@
    </opisvzd>
    <veljaod>
     1996-12-12
+   </veljaod>
+  </vzd>
+  <vzd>
+   <sifravzd>
+    255
+   </sifravzd>
+   <opisvzd>
+    Klinična psihologija v spec. zunajboldej
+   </opisvzd>
+   <veljaod>
+    2025-01-01
    </veljaod>
   </vzd>
  </ivzizvajalec>
@@ -321074,6 +321436,17 @@
    </opisvzd>
    <veljaod>
     2019-01-01
+   </veljaod>
+  </vzd>
+  <vzd>
+   <sifravzd>
+    255
+   </sifravzd>
+   <opisvzd>
+    Klinična psihologija v spec. zunajboldej
+   </opisvzd>
+   <veljaod>
+    2025-01-01
    </veljaod>
   </vzd>
  </ivzizvajalec>
@@ -339018,7 +339391,7 @@
     255
    </sifravzd>
    <opisvzd>
-    Klinična psihologija
+    Klinična psihologija v spec. zunajboldej
    </opisvzd>
    <veljaod>
     2025-01-01
@@ -391263,7 +391636,7 @@
     255
    </sifravzd>
    <opisvzd>
-    Klinična psihologija
+    Klinična psihologija v spec. zunajboldej
    </opisvzd>
    <veljaod>
     2025-01-01
@@ -450400,7 +450773,7 @@
     255
    </sifravzd>
    <opisvzd>
-    Klinična psihologija
+    Klinična psihologija v spec. zunajboldej
    </opisvzd>
    <veljaod>
     2025-01-01
@@ -451971,7 +452344,7 @@
     255
    </sifravzd>
    <opisvzd>
-    Klinična psihologija
+    Klinična psihologija v spec. zunajboldej
    </opisvzd>
    <veljaod>
     2025-01-01
@@ -452472,7 +452845,7 @@
     255
    </sifravzd>
    <opisvzd>
-    Klinična psihologija
+    Klinična psihologija v spec. zunajboldej
    </opisvzd>
    <veljaod>
     2025-01-01
@@ -454783,7 +455156,7 @@
     255
    </sifravzd>
    <opisvzd>
-    Klinična psihologija
+    Klinična psihologija v spec. zunajboldej
    </opisvzd>
    <veljaod>
     2025-01-01
@@ -463923,7 +464296,7 @@
     255
    </sifravzd>
    <opisvzd>
-    Klinična psihologija
+    Klinična psihologija v spec. zunajboldej
    </opisvzd>
    <veljaod>
     2019-06-24
@@ -464661,7 +465034,7 @@
     255
    </sifravzd>
    <opisvzd>
-    Klinična psihologija
+    Klinična psihologija v spec. zunajboldej
    </opisvzd>
    <veljaod>
     2025-01-01
@@ -466201,7 +466574,7 @@
     255
    </sifravzd>
    <opisvzd>
-    Klinična psihologija
+    Klinična psihologija v spec. zunajboldej
    </opisvzd>
    <veljaod>
     2025-01-01
@@ -469268,7 +469641,7 @@
     255
    </sifravzd>
    <opisvzd>
-    Klinična psihologija
+    Klinična psihologija v spec. zunajboldej
    </opisvzd>
    <veljaod>
     2025-01-01
@@ -470930,7 +471303,7 @@
     255
    </sifravzd>
    <opisvzd>
-    Klinična psihologija
+    Klinična psihologija v spec. zunajboldej
    </opisvzd>
    <veljaod>
     2025-01-01
@@ -471703,7 +472076,7 @@
     255
    </sifravzd>
    <opisvzd>
-    Klinična psihologija
+    Klinična psihologija v spec. zunajboldej
    </opisvzd>
    <veljaod>
     2025-01-01
@@ -472063,7 +472436,7 @@
     255
    </sifravzd>
    <opisvzd>
-    Klinična psihologija
+    Klinična psihologija v spec. zunajboldej
    </opisvzd>
    <veljaod>
     2025-01-01
@@ -472395,7 +472768,7 @@
     255
    </sifravzd>
    <opisvzd>
-    Klinična psihologija
+    Klinična psihologija v spec. zunajboldej
    </opisvzd>
    <veljaod>
     2025-01-01
@@ -472905,7 +473278,7 @@
     255
    </sifravzd>
    <opisvzd>
-    Klinična psihologija
+    Klinična psihologija v spec. zunajboldej
    </opisvzd>
    <veljaod>
     2025-01-01
@@ -473172,7 +473545,7 @@
     255
    </sifravzd>
    <opisvzd>
-    Klinična psihologija
+    Klinična psihologija v spec. zunajboldej
    </opisvzd>
    <veljaod>
     2025-01-01
@@ -473345,7 +473718,7 @@
     255
    </sifravzd>
    <opisvzd>
-    Klinična psihologija
+    Klinična psihologija v spec. zunajboldej
    </opisvzd>
    <veljaod>
     2025-01-01
@@ -473507,7 +473880,7 @@
     255
    </sifravzd>
    <opisvzd>
-    Klinična psihologija
+    Klinična psihologija v spec. zunajboldej
    </opisvzd>
    <veljaod>
     2025-01-01
@@ -473658,7 +474031,7 @@
     255
    </sifravzd>
    <opisvzd>
-    Klinična psihologija
+    Klinična psihologija v spec. zunajboldej
    </opisvzd>
    <veljaod>
     2025-01-01
@@ -473809,7 +474182,7 @@
     255
    </sifravzd>
    <opisvzd>
-    Klinična psihologija
+    Klinična psihologija v spec. zunajboldej
    </opisvzd>
    <veljaod>
     2025-01-01
@@ -474267,7 +474640,7 @@
     255
    </sifravzd>
    <opisvzd>
-    Klinična psihologija
+    Klinična psihologija v spec. zunajboldej
    </opisvzd>
    <veljaod>
     2025-01-01
@@ -474407,7 +474780,7 @@
     255
    </sifravzd>
    <opisvzd>
-    Klinična psihologija
+    Klinična psihologija v spec. zunajboldej
    </opisvzd>
    <veljaod>
     2025-01-01
@@ -474657,7 +475030,7 @@
     255
    </sifravzd>
    <opisvzd>
-    Klinična psihologija
+    Klinična psihologija v spec. zunajboldej
    </opisvzd>
    <veljaod>
     2025-01-01
@@ -475360,7 +475733,7 @@
     255
    </sifravzd>
    <opisvzd>
-    Klinična psihologija
+    Klinična psihologija v spec. zunajboldej
    </opisvzd>
    <veljaod>
     2025-01-01
