@@ -2,10 +2,10 @@
 <bpi xmlns="http://zzzs.si/b2b/bpi" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemalocation="http://zzzs.si/b2b/bpi bpi.xsd">
  <posiljka>
   <verzijaposiljke>
-   4954
+   4955
   </verzijaposiljke>
   <datumposiljke>
-   2026-07-31
+   2026-08-01
   </datumposiljke>
   <verzijasheme>
    1.0
@@ -101943,151 +101943,6 @@
    <veljaod>
     2023-02-01
    </veljaod>
-  </vzd>
- </ivzizvajalec>
- <ivzizvajalec>
-  <sifraivzizvajalca>
-   1080
-  </sifraivzizvajalca>
-  <sifralokacije>
-   0
-  </sifralokacije>
-  <zzzsstevilka>
-   8630780
-  </zzzsstevilka>
-  <organizacijskastruktura>
-   <sifraivzosnovni>
-    1080
-   </sifraivzosnovni>
-  </organizacijskastruktura>
-  <nazivinnaslov>
-   <nazivorganizacijskeenote>
-    PETRA ŽNIDARŠIČ S.P.
-   </nazivorganizacijskeenote>
-   <ulicaorganizacijskeenote>
-    BREG PRI ZAGRADCU 9
-   </ulicaorganizacijskeenote>
-   <postaorganizacijskeenote>
-    1303 ZAGRADEC
-   </postaorganizacijskeenote>
-  </nazivinnaslov>
-  <pravnistatus>
-   <pravnistatussifra>
-    5
-   </pravnistatussifra>
-   <pravnistatusopis>
-    SAMOSTOJNI PODJETNIK
-   </pravnistatusopis>
-  </pravnistatus>
-  <tipizvajalca>
-   <tipizvajalcasifra>
-    20
-   </tipizvajalcasifra>
-   <tipizvajalcaopis>
-    OSTALI, KI OPRAVLJAJO ZDR. DEJ.
-   </tipizvajalcaopis>
-  </tipizvajalca>
-  <obcina>
-   <obcinasifra>
-    39
-   </obcinasifra>
-   <obcinanaziv>
-    IVANČNA GORICA
-   </obcinanaziv>
-  </obcina>
-  <veljaod>
-   2023-01-03
-  </veljaod>
-  <veljado>
-   2023-07-31
-  </veljado>
-  <vzd>
-   <sifravzd>
-    706
-   </sifravzd>
-   <opisvzd>
-    Urejanje zdr.,iz.,kult., drugih soc.st.
-   </opisvzd>
-   <veljaod>
-    2023-01-03
-   </veljaod>
-   <veljado>
-    2023-07-31
-   </veljado>
-  </vzd>
- </ivzizvajalec>
- <ivzizvajalec>
-  <sifraivzizvajalca>
-   1080
-  </sifraivzizvajalca>
-  <sifralokacije>
-   1
-  </sifralokacije>
-  <zzzsstevilka>
-   8936600
-  </zzzsstevilka>
-  <organizacijskastruktura>
-   <sifraivzosnovni>
-    1080
-   </sifraivzosnovni>
-  </organizacijskastruktura>
-  <nazivinnaslov>
-   <nazivorganizacijskeenote>
-    USTNA HIGIENA, PETRA ŽNIDARŠIČ S.P.
-   </nazivorganizacijskeenote>
-   <dodatninazivorganizacijskeenote>
-    LOKACIJA LITIJSKA
-   </dodatninazivorganizacijskeenote>
-   <ulicaorganizacijskeenote>
-    LITIJSKA CESTA 38
-   </ulicaorganizacijskeenote>
-   <postaorganizacijskeenote>
-    1000 LJUBLJANA
-   </postaorganizacijskeenote>
-  </nazivinnaslov>
-  <pravnistatus>
-   <pravnistatussifra>
-    5
-   </pravnistatussifra>
-   <pravnistatusopis>
-    SAMOSTOJNI PODJETNIK
-   </pravnistatusopis>
-  </pravnistatus>
-  <tipizvajalca>
-   <tipizvajalcasifra>
-    20
-   </tipizvajalcasifra>
-   <tipizvajalcaopis>
-    OSTALI, KI OPRAVLJAJO ZDR. DEJ.
-   </tipizvajalcaopis>
-  </tipizvajalca>
-  <obcina>
-   <obcinasifra>
-    61
-   </obcinasifra>
-   <obcinanaziv>
-    LJUBLJANA
-   </obcinanaziv>
-  </obcina>
-  <veljaod>
-   2023-01-03
-  </veljaod>
-  <veljado>
-   2023-07-31
-  </veljado>
-  <vzd>
-   <sifravzd>
-    550
-   </sifravzd>
-   <opisvzd>
-    Ustna higiena
-   </opisvzd>
-   <veljaod>
-    2023-01-03
-   </veljaod>
-   <veljado>
-    2023-07-31
-   </veljado>
   </vzd>
  </ivzizvajalec>
  <ivzizvajalec>
@@ -214302,6 +214157,71 @@
  </ivzizvajalec>
  <ivzizvajalec>
   <sifraivzizvajalca>
+   2495
+  </sifraivzizvajalca>
+  <sifralokacije>
+   0
+  </sifralokacije>
+  <zzzsstevilka>
+   6657722
+  </zzzsstevilka>
+  <organizacijskastruktura>
+   <sifraivzosnovni>
+    2495
+   </sifraivzosnovni>
+  </organizacijskastruktura>
+  <nazivinnaslov>
+   <nazivorganizacijskeenote>
+    BOŠTJAN BERCKO S.P.
+   </nazivorganizacijskeenote>
+   <ulicaorganizacijskeenote>
+    GORIŠKA ULICA 17
+   </ulicaorganizacijskeenote>
+   <postaorganizacijskeenote>
+    3230 ŠENTJUR
+   </postaorganizacijskeenote>
+  </nazivinnaslov>
+  <pravnistatus>
+   <pravnistatussifra>
+    6
+   </pravnistatussifra>
+   <pravnistatusopis>
+    SAMOSTOJNI PODJETNIK - BREZ AMBULANTE
+   </pravnistatusopis>
+  </pravnistatus>
+  <tipizvajalca>
+   <tipizvajalcasifra>
+    2
+   </tipizvajalcasifra>
+   <tipizvajalcaopis>
+    SPECIALISTIČNA AMBULANTA
+   </tipizvajalcaopis>
+  </tipizvajalca>
+  <obcina>
+   <obcinasifra>
+    120
+   </obcinasifra>
+   <obcinanaziv>
+    ŠENTJUR
+   </obcinanaziv>
+  </obcina>
+  <veljaod>
+   2026-01-21
+  </veljaod>
+  <vzd>
+   <sifravzd>
+    706
+   </sifravzd>
+   <opisvzd>
+    Urejanje zdr.,iz.,kult., drugih soc.st.
+   </opisvzd>
+   <veljaod>
+    2026-01-21
+   </veljaod>
+  </vzd>
+ </ivzizvajalec>
+ <ivzizvajalec>
+  <sifraivzizvajalca>
    2496
   </sifraivzizvajalca>
   <sifralokacije>
@@ -304185,77 +304105,6 @@
  </ivzizvajalec>
  <ivzizvajalec>
   <sifraivzizvajalca>
-   19382
-  </sifraivzizvajalca>
-  <sifralokacije>
-   0
-  </sifralokacije>
-  <zzzsstevilka>
-   3123106
-  </zzzsstevilka>
-  <organizacijskastruktura>
-   <sifraivzosnovni>
-    19382
-   </sifraivzosnovni>
-  </organizacijskastruktura>
-  <nazivinnaslov>
-   <nazivorganizacijskeenote>
-    DOKTOR MEDICINE - ŽERJAV MANICA
-   </nazivorganizacijskeenote>
-   <ulicaorganizacijskeenote>
-    JENKOVA ULICA 36
-   </ulicaorganizacijskeenote>
-   <postaorganizacijskeenote>
-    3000 CELJE
-   </postaorganizacijskeenote>
-  </nazivinnaslov>
-  <pravnistatus>
-   <pravnistatussifra>
-    3
-   </pravnistatussifra>
-   <pravnistatusopis>
-    ZASEBNI ZDRAVSTVENI DELAVEC
-   </pravnistatusopis>
-  </pravnistatus>
-  <tipizvajalca>
-   <tipizvajalcasifra>
-    1
-   </tipizvajalcasifra>
-   <tipizvajalcaopis>
-    OSNOVNO ZDRAVSTVO
-   </tipizvajalcaopis>
-  </tipizvajalca>
-  <obcina>
-   <obcinasifra>
-    11
-   </obcinasifra>
-   <obcinanaziv>
-    CELJE
-   </obcinanaziv>
-  </obcina>
-  <veljaod>
-   1995-10-01
-  </veljaod>
-  <veljado>
-   2023-07-31
-  </veljado>
-  <vzd>
-   <sifravzd>
-    302
-   </sifravzd>
-   <opisvzd>
-    Splošna in družinska medicina
-   </opisvzd>
-   <veljaod>
-    1995-10-01
-   </veljaod>
-   <veljado>
-    2023-07-31
-   </veljado>
-  </vzd>
- </ivzizvajalec>
- <ivzizvajalec>
-  <sifraivzizvajalca>
    19385
   </sifraivzizvajalca>
   <sifralokacije>
@@ -308105,77 +307954,6 @@
    <veljaod>
     1996-10-01
    </veljaod>
-  </vzd>
- </ivzizvajalec>
- <ivzizvajalec>
-  <sifraivzizvajalca>
-   20199
-  </sifraivzizvajalca>
-  <sifralokacije>
-   0
-  </sifralokacije>
-  <zzzsstevilka>
-   2934983
-  </zzzsstevilka>
-  <organizacijskastruktura>
-   <sifraivzosnovni>
-    20199
-   </sifraivzosnovni>
-  </organizacijskastruktura>
-  <nazivinnaslov>
-   <nazivorganizacijskeenote>
-    LEKARNA TOP-LEK - TOPLEK NEDA
-   </nazivorganizacijskeenote>
-   <ulicaorganizacijskeenote>
-    POTRČEVA CESTA 23
-   </ulicaorganizacijskeenote>
-   <postaorganizacijskeenote>
-    2250 PTUJ
-   </postaorganizacijskeenote>
-  </nazivinnaslov>
-  <pravnistatus>
-   <pravnistatussifra>
-    3
-   </pravnistatussifra>
-   <pravnistatusopis>
-    ZASEBNI ZDRAVSTVENI DELAVEC
-   </pravnistatusopis>
-  </pravnistatus>
-  <tipizvajalca>
-   <tipizvajalcasifra>
-    5
-   </tipizvajalcasifra>
-   <tipizvajalcaopis>
-    LEKARNA
-   </tipizvajalcaopis>
-  </tipizvajalca>
-  <obcina>
-   <obcinasifra>
-    96
-   </obcinasifra>
-   <obcinanaziv>
-    PTUJ
-   </obcinanaziv>
-  </obcina>
-  <veljaod>
-   1996-10-01
-  </veljaod>
-  <veljado>
-   2023-07-31
-  </veljado>
-  <vzd>
-   <sifravzd>
-    743
-   </sifravzd>
-   <opisvzd>
-    Lekarniška dejavnost
-   </opisvzd>
-   <veljaod>
-    1996-10-01
-   </veljaod>
-   <veljado>
-    2023-07-31
-   </veljado>
   </vzd>
  </ivzizvajalec>
  <ivzizvajalec>
@@ -342562,154 +342340,6 @@
  </ivzizvajalec>
  <ivzizvajalec>
   <sifraivzizvajalca>
-   24284
-  </sifraivzizvajalca>
-  <sifralokacije>
-   0
-  </sifralokacije>
-  <zzzsstevilka>
-   3501393
-  </zzzsstevilka>
-  <organizacijskastruktura>
-   <sifraivzosnovni>
-    24284
-   </sifraivzosnovni>
-  </organizacijskastruktura>
-  <nazivinnaslov>
-   <nazivorganizacijskeenote>
-    TATJANA TRAMTE - LEKARNA KOMENDA
-   </nazivorganizacijskeenote>
-   <ulicaorganizacijskeenote>
-    ZADRUŽNA ULICA 9
-   </ulicaorganizacijskeenote>
-   <postaorganizacijskeenote>
-    1218 KOMENDA
-   </postaorganizacijskeenote>
-  </nazivinnaslov>
-  <pravnistatus>
-   <pravnistatussifra>
-    3
-   </pravnistatussifra>
-   <pravnistatusopis>
-    ZASEBNI ZDRAVSTVENI DELAVEC
-   </pravnistatusopis>
-  </pravnistatus>
-  <tipizvajalca>
-   <tipizvajalcasifra>
-    5
-   </tipizvajalcasifra>
-   <tipizvajalcaopis>
-    LEKARNA
-   </tipizvajalcaopis>
-  </tipizvajalca>
-  <obcina>
-   <obcinasifra>
-    164
-   </obcinasifra>
-   <obcinanaziv>
-    KOMENDA
-   </obcinanaziv>
-  </obcina>
-  <veljaod>
-   2001-01-01
-  </veljaod>
-  <veljado>
-   2023-07-31
-  </veljado>
-  <vzd>
-   <sifravzd>
-    743
-   </sifravzd>
-   <opisvzd>
-    Lekarniška dejavnost
-   </opisvzd>
-   <veljaod>
-    2001-01-01
-   </veljaod>
-   <veljado>
-    2023-07-31
-   </veljado>
-  </vzd>
- </ivzizvajalec>
- <ivzizvajalec>
-  <sifraivzizvajalca>
-   24312
-  </sifraivzizvajalca>
-  <sifralokacije>
-   0
-  </sifralokacije>
-  <zzzsstevilka>
-   6217117
-  </zzzsstevilka>
-  <organizacijskastruktura>
-   <sifraivzosnovni>
-    24284
-   </sifraivzosnovni>
-   <sifraivzpodrejeni>
-    24312
-   </sifraivzpodrejeni>
-  </organizacijskastruktura>
-  <nazivinnaslov>
-   <nazivorganizacijskeenote>
-    TATJANA TRAMTE - LEKARNA KOMENDA
-   </nazivorganizacijskeenote>
-   <dodatninazivorganizacijskeenote>
-    LEKARNIŠKA PODRUŽNICA VODICE
-   </dodatninazivorganizacijskeenote>
-   <ulicaorganizacijskeenote>
-    KOPITARJEV TRG 6
-   </ulicaorganizacijskeenote>
-   <postaorganizacijskeenote>
-    1217 VODICE
-   </postaorganizacijskeenote>
-  </nazivinnaslov>
-  <pravnistatus>
-   <pravnistatussifra>
-    3
-   </pravnistatussifra>
-   <pravnistatusopis>
-    ZASEBNI ZDRAVSTVENI DELAVEC
-   </pravnistatusopis>
-  </pravnistatus>
-  <tipizvajalca>
-   <tipizvajalcasifra>
-    5
-   </tipizvajalcasifra>
-   <tipizvajalcaopis>
-    LEKARNA
-   </tipizvajalcaopis>
-  </tipizvajalca>
-  <obcina>
-   <obcinasifra>
-    138
-   </obcinasifra>
-   <obcinanaziv>
-    VODICE
-   </obcinanaziv>
-  </obcina>
-  <veljaod>
-   2013-11-20
-  </veljaod>
-  <veljado>
-   2023-07-31
-  </veljado>
-  <vzd>
-   <sifravzd>
-    743
-   </sifravzd>
-   <opisvzd>
-    Lekarniška dejavnost
-   </opisvzd>
-   <veljaod>
-    2013-11-20
-   </veljaod>
-   <veljado>
-    2023-07-31
-   </veljado>
-  </vzd>
- </ivzizvajalec>
- <ivzizvajalec>
-  <sifraivzizvajalca>
    24289
   </sifraivzizvajalca>
   <sifralokacije>
@@ -355088,77 +354718,6 @@
  </ivzizvajalec>
  <ivzizvajalec>
   <sifraivzizvajalca>
-   24744
-  </sifraivzizvajalca>
-  <sifralokacije>
-   0
-  </sifralokacije>
-  <zzzsstevilka>
-   2934997
-  </zzzsstevilka>
-  <organizacijskastruktura>
-   <sifraivzosnovni>
-    24744
-   </sifraivzosnovni>
-  </organizacijskastruktura>
-  <nazivinnaslov>
-   <nazivorganizacijskeenote>
-    ZORAN KURENT - SPEC. AMBULANTA ZA BOLEZNI UŠES, NOSU IN GRLA
-   </nazivorganizacijskeenote>
-   <ulicaorganizacijskeenote>
-    VODOVODNA CESTA 99 A
-   </ulicaorganizacijskeenote>
-   <postaorganizacijskeenote>
-    1000 LJUBLJANA
-   </postaorganizacijskeenote>
-  </nazivinnaslov>
-  <pravnistatus>
-   <pravnistatussifra>
-    3
-   </pravnistatussifra>
-   <pravnistatusopis>
-    ZASEBNI ZDRAVSTVENI DELAVEC
-   </pravnistatusopis>
-  </pravnistatus>
-  <tipizvajalca>
-   <tipizvajalcasifra>
-    2
-   </tipizvajalcasifra>
-   <tipizvajalcaopis>
-    SPECIALISTIČNA AMBULANTA
-   </tipizvajalcaopis>
-  </tipizvajalca>
-  <obcina>
-   <obcinasifra>
-    61
-   </obcinasifra>
-   <obcinanaziv>
-    LJUBLJANA
-   </obcinanaziv>
-  </obcina>
-  <veljaod>
-   1995-10-01
-  </veljaod>
-  <veljado>
-   2023-07-31
-  </veljado>
-  <vzd>
-   <sifravzd>
-    223
-   </sifravzd>
-   <opisvzd>
-    Otorinolaringologija v spec. ZunajBolDej
-   </opisvzd>
-   <veljaod>
-    1995-10-01
-   </veljaod>
-   <veljado>
-    2023-07-31
-   </veljado>
-  </vzd>
- </ivzizvajalec>
- <ivzizvajalec>
-  <sifraivzizvajalca>
    24754
   </sifraivzizvajalca>
   <sifralokacije>
@@ -355473,77 +355032,6 @@
    <veljaod>
     1995-10-01
    </veljaod>
-  </vzd>
- </ivzizvajalec>
- <ivzizvajalec>
-  <sifraivzizvajalca>
-   24769
-  </sifraivzizvajalca>
-  <sifralokacije>
-   0
-  </sifralokacije>
-  <zzzsstevilka>
-   3501285
-  </zzzsstevilka>
-  <organizacijskastruktura>
-   <sifraivzosnovni>
-    24769
-   </sifraivzosnovni>
-  </organizacijskastruktura>
-  <nazivinnaslov>
-   <nazivorganizacijskeenote>
-    BISERKA BITENC - ZOBNA ORDINACIJA
-   </nazivorganizacijskeenote>
-   <ulicaorganizacijskeenote>
-    VILHARJEVA CESTA 27
-   </ulicaorganizacijskeenote>
-   <postaorganizacijskeenote>
-    1000 LJUBLJANA
-   </postaorganizacijskeenote>
-  </nazivinnaslov>
-  <pravnistatus>
-   <pravnistatussifra>
-    3
-   </pravnistatussifra>
-   <pravnistatusopis>
-    ZASEBNI ZDRAVSTVENI DELAVEC
-   </pravnistatusopis>
-  </pravnistatus>
-  <tipizvajalca>
-   <tipizvajalcasifra>
-    1
-   </tipizvajalcasifra>
-   <tipizvajalcaopis>
-    OSNOVNO ZDRAVSTVO
-   </tipizvajalcaopis>
-  </tipizvajalca>
-  <obcina>
-   <obcinasifra>
-    61
-   </obcinasifra>
-   <obcinanaziv>
-    LJUBLJANA
-   </obcinanaziv>
-  </obcina>
-  <veljaod>
-   1995-10-02
-  </veljaod>
-  <veljado>
-   2023-07-31
-  </veljado>
-  <vzd>
-   <sifravzd>
-    404
-   </sifravzd>
-   <opisvzd>
-    Splošno zobozdravstvo
-   </opisvzd>
-   <veljaod>
-    2001-01-01
-   </veljaod>
-   <veljado>
-    2023-07-31
-   </veljado>
   </vzd>
  </ivzizvajalec>
  <ivzizvajalec>
@@ -399765,77 +399253,6 @@
    <veljaod>
     1998-10-01
    </veljaod>
-  </vzd>
- </ivzizvajalec>
- <ivzizvajalec>
-  <sifraivzizvajalca>
-   31103
-  </sifraivzizvajalca>
-  <sifralokacije>
-   0
-  </sifralokacije>
-  <zzzsstevilka>
-   3118310
-  </zzzsstevilka>
-  <organizacijskastruktura>
-   <sifraivzosnovni>
-    31103
-   </sifraivzosnovni>
-  </organizacijskastruktura>
-  <nazivinnaslov>
-   <nazivorganizacijskeenote>
-    ZOBOTEHNIČNA DEJAVNOST - POTOČNIK SUZANA
-   </nazivorganizacijskeenote>
-   <ulicaorganizacijskeenote>
-    TRG JOŽETA LAMPRETA 1
-   </ulicaorganizacijskeenote>
-   <postaorganizacijskeenote>
-    3325 ŠOŠTANJ
-   </postaorganizacijskeenote>
-  </nazivinnaslov>
-  <pravnistatus>
-   <pravnistatussifra>
-    3
-   </pravnistatussifra>
-   <pravnistatusopis>
-    ZASEBNI ZDRAVSTVENI DELAVEC
-   </pravnistatusopis>
-  </pravnistatus>
-  <tipizvajalca>
-   <tipizvajalcasifra>
-    1
-   </tipizvajalcasifra>
-   <tipizvajalcaopis>
-    OSNOVNO ZDRAVSTVO
-   </tipizvajalcaopis>
-  </tipizvajalca>
-  <obcina>
-   <obcinasifra>
-    126
-   </obcinasifra>
-   <obcinanaziv>
-    ŠOŠTANJ
-   </obcinanaziv>
-  </obcina>
-  <veljaod>
-   1999-01-01
-  </veljaod>
-  <veljado>
-   2023-07-31
-  </veljado>
-  <vzd>
-   <sifravzd>
-    714
-   </sifravzd>
-   <opisvzd>
-    Zobotehnika
-   </opisvzd>
-   <veljaod>
-    1999-01-01
-   </veljaod>
-   <veljado>
-    2023-07-31
-   </veljado>
   </vzd>
  </ivzizvajalec>
  <ivzizvajalec>
