@@ -331,6 +331,7 @@ postZZZS,addressZZZS,lat,lon,street,streetAlt,housenumber,housenumberAppendix,ci
 1356 DOBROVA,HRUŠEVO 153,46.06823,14.39990,Hruševo,,153,,Hruševo,,Dobrova,Dobrova-Polhov Gradec,1356,Dobrova,Osrednjeslovenska
 1356 DOBROVA,HRUŠEVO 26 A,46.07204,14.39858,Hruševo,,26,a,Hruševo,,Dobrova,Dobrova-Polhov Gradec,1356,Dobrova,Osrednjeslovenska
 1356 DOBROVA,POLHOGRAJSKA CESTA 37,46.05477,14.41679,Polhograjska cesta,,37,,Dobrova,,Dobrova,Dobrova-Polhov Gradec,1356,Dobrova,Osrednjeslovenska
+1356 DOBROVA,ULICA EMILA ADAMIČA 23,46.05331,14.41338,Ulica Emila Adamiča,,23,,Dobrova,,Dobrova,Dobrova-Polhov Gradec,1356,Dobrova,Osrednjeslovenska
 1356 DOBROVA,ULICA VLADIMIRJA DOLNIČARJA 11,46.05355,14.41726,Ulica Vladimirja Dolničarja,,11,,Dobrova,,Dobrova,Dobrova-Polhov Gradec,1356,Dobrova,Osrednjeslovenska
 1357 NOTRANJE GORICE,GMAJNA 7,45.99556,14.40795,Gmajna,,7,,Notranje Gorice,,Notranje Gorice,Brezovica,1357,Notranje Gorice,Osrednjeslovenska
 1357 NOTRANJE GORICE,PODPEŠKA CESTA 380,45.98948,14.40273,Podpeška cesta,,380,,Notranje Gorice,,Notranje Gorice,Brezovica,1357,Notranje Gorice,Osrednjeslovenska
@@ -1106,6 +1107,7 @@ postZZZS,addressZZZS,lat,lon,street,streetAlt,housenumber,housenumberAppendix,ci
 6230 POSTOJNA,ROŽNA ULICA 10,45.76584,14.21305,Rožna ulica,,10,,Postojna,,Postojna,Postojna,6230,Postojna,Primorsko-notranjska
 6232 PLANINA,PLANINA 211,45.82390,14.23975,Planina,,211,,Planina,,Planina,Postojna,6232,Planina,Primorsko-notranjska
 6240 KOZINA,BOROVA ULICA 2,45.60732,13.94328,Borova ulica,,2,,Hrpelje,,Hrpelje,Hrpelje-Kozina,6240,Kozina,Obalno-kraška
+6240 KOZINA,ISTRSKA ULICA 17,45.60668,13.93530,Istrska ulica,,17,,Kozina,,Kozina,Hrpelje-Kozina,6240,Kozina,Obalno-kraška
 6244 PODGRAD,PODGRAD 12 B,45.52063,14.14665,Podgrad,,12,b,Podgrad,,Podgrad,Ilirska Bistrica,6244,Podgrad,Primorsko-notranjska
 6250 ILIRSKA BISTRICA,GREGORČIČEVA CESTA 6,45.56852,14.24293,Gregorčičeva cesta,,6,,Ilirska Bistrica,,Ilirska Bistrica,Ilirska Bistrica,6250,Ilirska Bistrica,Primorsko-notranjska
 6250 ILIRSKA BISTRICA,GREGORČIČEVA CESTA 8,45.56848,14.24324,Gregorčičeva cesta,,8,,Ilirska Bistrica,,Ilirska Bistrica,Ilirska Bistrica,6250,Ilirska Bistrica,Primorsko-notranjska
