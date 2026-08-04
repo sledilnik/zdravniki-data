@@ -2,10 +2,10 @@
 <bpi xmlns="http://zzzs.si/b2b/bpi" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemalocation="http://zzzs.si/b2b/bpi bpi.xsd">
  <posiljka>
   <verzijaposiljke>
-   4957
+   4958
   </verzijaposiljke>
   <datumposiljke>
-   2026-08-03
+   2026-08-04
   </datumposiljke>
   <verzijasheme>
    1.0
@@ -12350,6 +12350,74 @@
    </opisvzd>
    <veljaod>
     2023-11-10
+   </veljaod>
+  </vzd>
+ </ivzizvajalec>
+ <ivzizvajalec>
+  <sifraivzizvajalca>
+   128
+  </sifraivzizvajalca>
+  <sifralokacije>
+   5
+  </sifralokacije>
+  <zzzsstevilka>
+   9116167
+  </zzzsstevilka>
+  <organizacijskastruktura>
+   <sifraivzosnovni>
+    128
+   </sifraivzosnovni>
+  </organizacijskastruktura>
+  <nazivinnaslov>
+   <nazivorganizacijskeenote>
+    SPLOŠNA BOLNIŠNICA BREŽICE, DISLOCIRANA OKULISTIČNA
+   </nazivorganizacijskeenote>
+   <dodatninazivorganizacijskeenote>
+    AMBULANTA KEBER BREŽICE
+   </dodatninazivorganizacijskeenote>
+   <ulicaorganizacijskeenote>
+    TRDINOVA ULICA 1
+   </ulicaorganizacijskeenote>
+   <postaorganizacijskeenote>
+    8250 BREŽICE
+   </postaorganizacijskeenote>
+  </nazivinnaslov>
+  <pravnistatus>
+   <pravnistatussifra>
+    1
+   </pravnistatussifra>
+   <pravnistatusopis>
+    JAVNI ZAVOD
+   </pravnistatusopis>
+  </pravnistatus>
+  <tipizvajalca>
+   <tipizvajalcasifra>
+    3
+   </tipizvajalcasifra>
+   <tipizvajalcaopis>
+    SPLOŠNA BOLNIŠNICA
+   </tipizvajalcaopis>
+  </tipizvajalca>
+  <obcina>
+   <obcinasifra>
+    9
+   </obcinasifra>
+   <obcinanaziv>
+    BREŽICE
+   </obcinanaziv>
+  </obcina>
+  <veljaod>
+   2026-04-02
+  </veljaod>
+  <vzd>
+   <sifravzd>
+    220
+   </sifravzd>
+   <opisvzd>
+    Oftalmologija v spec. ZunajBolDej
+   </opisvzd>
+   <veljaod>
+    2026-04-02
    </veljaod>
   </vzd>
  </ivzizvajalec>
@@ -96465,6 +96533,139 @@
  </ivzizvajalec>
  <ivzizvajalec>
   <sifraivzizvajalca>
+   1004
+  </sifraivzizvajalca>
+  <sifralokacije>
+   0
+  </sifralokacije>
+  <zzzsstevilka>
+   7689050
+  </zzzsstevilka>
+  <organizacijskastruktura>
+   <sifraivzosnovni>
+    1004
+   </sifraivzosnovni>
+  </organizacijskastruktura>
+  <nazivinnaslov>
+   <nazivorganizacijskeenote>
+    DENTALNI DIAGNOSTIČNI CENTER LJUBLJANA D.O.O.
+   </nazivorganizacijskeenote>
+   <ulicaorganizacijskeenote>
+    PERIČEVA ULICA 19
+   </ulicaorganizacijskeenote>
+   <postaorganizacijskeenote>
+    1000 LJUBLJANA
+   </postaorganizacijskeenote>
+  </nazivinnaslov>
+  <pravnistatus>
+   <pravnistatussifra>
+    2
+   </pravnistatussifra>
+   <pravnistatusopis>
+    GOSPODARSKA DRUŽBA / ZASEBNI ZAVOD
+   </pravnistatusopis>
+  </pravnistatus>
+  <tipizvajalca>
+   <tipizvajalcasifra>
+    1
+   </tipizvajalcasifra>
+   <tipizvajalcaopis>
+    OSNOVNO ZDRAVSTVO
+   </tipizvajalcaopis>
+  </tipizvajalca>
+  <obcina>
+   <obcinasifra>
+    61
+   </obcinasifra>
+   <obcinanaziv>
+    LJUBLJANA
+   </obcinanaziv>
+  </obcina>
+  <veljaod>
+   2022-10-13
+  </veljaod>
+  <vzd>
+   <sifravzd>
+    706
+   </sifravzd>
+   <opisvzd>
+    Urejanje zdr.,iz.,kult., drugih soc.st.
+   </opisvzd>
+   <veljaod>
+    2022-10-13
+   </veljaod>
+  </vzd>
+ </ivzizvajalec>
+ <ivzizvajalec>
+  <sifraivzizvajalca>
+   1004
+  </sifraivzizvajalca>
+  <sifralokacije>
+   1
+  </sifralokacije>
+  <zzzsstevilka>
+   10020498
+  </zzzsstevilka>
+  <organizacijskastruktura>
+   <sifraivzosnovni>
+    1004
+   </sifraivzosnovni>
+  </organizacijskastruktura>
+  <nazivinnaslov>
+   <nazivorganizacijskeenote>
+    DENTALNI DIAGNOSTIČNI CENTER LJUBLJANA D.O.O., POSLOVNA
+   </nazivorganizacijskeenote>
+   <dodatninazivorganizacijskeenote>
+    ENOTA PERIČEVA 31
+   </dodatninazivorganizacijskeenote>
+   <ulicaorganizacijskeenote>
+    PERIČEVA ULICA 31
+   </ulicaorganizacijskeenote>
+   <postaorganizacijskeenote>
+    1000 LJUBLJANA
+   </postaorganizacijskeenote>
+  </nazivinnaslov>
+  <pravnistatus>
+   <pravnistatussifra>
+    2
+   </pravnistatussifra>
+   <pravnistatusopis>
+    GOSPODARSKA DRUŽBA / ZASEBNI ZAVOD
+   </pravnistatusopis>
+  </pravnistatus>
+  <tipizvajalca>
+   <tipizvajalcasifra>
+    1
+   </tipizvajalcasifra>
+   <tipizvajalcaopis>
+    OSNOVNO ZDRAVSTVO
+   </tipizvajalcaopis>
+  </tipizvajalca>
+  <obcina>
+   <obcinasifra>
+    61
+   </obcinasifra>
+   <obcinanaziv>
+    LJUBLJANA
+   </obcinanaziv>
+  </obcina>
+  <veljaod>
+   1900-01-01
+  </veljaod>
+  <vzd>
+   <sifravzd>
+    404
+   </sifravzd>
+   <opisvzd>
+    Splošno zobozdravstvo
+   </opisvzd>
+   <veljaod>
+    2022-10-18
+   </veljaod>
+  </vzd>
+ </ivzizvajalec>
+ <ivzizvajalec>
+  <sifraivzizvajalca>
    1005
   </sifraivzizvajalca>
   <sifralokacije>
@@ -160868,6 +161069,74 @@
  </ivzizvajalec>
  <ivzizvajalec>
   <sifraivzizvajalca>
+   1777
+  </sifraivzizvajalca>
+  <sifralokacije>
+   2
+  </sifralokacije>
+  <zzzsstevilka>
+   10020467
+  </zzzsstevilka>
+  <organizacijskastruktura>
+   <sifraivzosnovni>
+    1777
+   </sifraivzosnovni>
+  </organizacijskastruktura>
+  <nazivinnaslov>
+   <nazivorganizacijskeenote>
+    LENART OVSENIK S.P.
+   </nazivorganizacijskeenote>
+   <dodatninazivorganizacijskeenote>
+    PODRUŽNICA STOMATOESTETIKA OVSENIK
+   </dodatninazivorganizacijskeenote>
+   <ulicaorganizacijskeenote>
+    PERIČEVA ULICA 23
+   </ulicaorganizacijskeenote>
+   <postaorganizacijskeenote>
+    1000 LJUBLJANA
+   </postaorganizacijskeenote>
+  </nazivinnaslov>
+  <pravnistatus>
+   <pravnistatussifra>
+    5
+   </pravnistatussifra>
+   <pravnistatusopis>
+    SAMOSTOJNI PODJETNIK
+   </pravnistatusopis>
+  </pravnistatus>
+  <tipizvajalca>
+   <tipizvajalcasifra>
+    1
+   </tipizvajalcasifra>
+   <tipizvajalcaopis>
+    OSNOVNO ZDRAVSTVO
+   </tipizvajalcaopis>
+  </tipizvajalca>
+  <obcina>
+   <obcinasifra>
+    61
+   </obcinasifra>
+   <obcinanaziv>
+    LJUBLJANA
+   </obcinanaziv>
+  </obcina>
+  <veljaod>
+   2026-01-13
+  </veljaod>
+  <vzd>
+   <sifravzd>
+    404
+   </sifravzd>
+   <opisvzd>
+    Splošno zobozdravstvo
+   </opisvzd>
+   <veljaod>
+    2026-01-13
+   </veljaod>
+  </vzd>
+ </ivzizvajalec>
+ <ivzizvajalec>
+  <sifraivzizvajalca>
    1778
   </sifraivzizvajalca>
   <sifralokacije>
@@ -169602,6 +169871,71 @@
    </opisvzd>
    <veljaod>
     2025-01-30
+   </veljaod>
+  </vzd>
+ </ivzizvajalec>
+ <ivzizvajalec>
+  <sifraivzizvajalca>
+   1877
+  </sifraivzizvajalca>
+  <sifralokacije>
+   0
+  </sifralokacije>
+  <zzzsstevilka>
+   7248504
+  </zzzsstevilka>
+  <organizacijskastruktura>
+   <sifraivzosnovni>
+    1877
+   </sifraivzosnovni>
+  </organizacijskastruktura>
+  <nazivinnaslov>
+   <nazivorganizacijskeenote>
+    LUKA KLEMEN S.P.
+   </nazivorganizacijskeenote>
+   <ulicaorganizacijskeenote>
+    MOČILNIKARJEVA ULICA 8
+   </ulicaorganizacijskeenote>
+   <postaorganizacijskeenote>
+    1260 LJUBLJANA - POLJE
+   </postaorganizacijskeenote>
+  </nazivinnaslov>
+  <pravnistatus>
+   <pravnistatussifra>
+    6
+   </pravnistatussifra>
+   <pravnistatusopis>
+    SAMOSTOJNI PODJETNIK - BREZ AMBULANTE
+   </pravnistatusopis>
+  </pravnistatus>
+  <tipizvajalca>
+   <tipizvajalcasifra>
+    2
+   </tipizvajalcasifra>
+   <tipizvajalcaopis>
+    SPECIALISTIČNA AMBULANTA
+   </tipizvajalcaopis>
+  </tipizvajalca>
+  <obcina>
+   <obcinasifra>
+    61
+   </obcinasifra>
+   <obcinanaziv>
+    LJUBLJANA
+   </obcinanaziv>
+  </obcina>
+  <veljaod>
+   2025-01-28
+  </veljaod>
+  <vzd>
+   <sifravzd>
+    706
+   </sifravzd>
+   <opisvzd>
+    Urejanje zdr.,iz.,kult., drugih soc.st.
+   </opisvzd>
+   <veljaod>
+    2025-01-28
    </veljaod>
   </vzd>
  </ivzizvajalec>
