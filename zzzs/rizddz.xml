@@ -2,10 +2,10 @@
 <bpi xmlns="http://zzzs.si/b2b/bpi" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemalocation="http://zzzs.si/b2b/bpi bpi.xsd">
  <posiljka>
   <verzijaposiljke>
-   4960
+   4961
   </verzijaposiljke>
   <datumposiljke>
-   2026-08-06
+   2026-08-07
   </datumposiljke>
   <verzijasheme>
    1.0
@@ -316313,6 +316313,9 @@
   <veljaod>
    2005-01-01
   </veljaod>
+  <veljado>
+   2026-07-01
+  </veljado>
   <vzd>
    <sifravzd>
     714
@@ -316323,6 +316326,9 @@
    <veljaod>
     2005-01-01
    </veljaod>
+   <veljado>
+    2026-07-01
+   </veljado>
   </vzd>
  </ivzizvajalec>
  <ivzizvajalec>
@@ -490844,77 +490850,6 @@
    <veljaod>
     2000-01-01
    </veljaod>
-  </vzd>
- </ivzizvajalec>
- <ivzizvajalec>
-  <sifraivzizvajalca>
-   24278
-  </sifraivzizvajalca>
-  <sifralokacije>
-   0
-  </sifralokacije>
-  <zzzsstevilka>
-   3139750
-  </zzzsstevilka>
-  <organizacijskastruktura>
-   <sifraivznadrejeni>
-    24278
-   </sifraivznadrejeni>
-  </organizacijskastruktura>
-  <nazivinnaslov>
-   <nazivorganizacijskeenote>
-    JURIJ HRIBAR - ZOBNI LABORATORIJ
-   </nazivorganizacijskeenote>
-   <ulicaorganizacijskeenote>
-    POD GOZDOM CESTA I 14
-   </ulicaorganizacijskeenote>
-   <postaorganizacijskeenote>
-    1290 GROSUPLJE
-   </postaorganizacijskeenote>
-  </nazivinnaslov>
-  <pravnistatus>
-   <pravnistatussifra>
-    3
-   </pravnistatussifra>
-   <pravnistatusopis>
-    ZASEBNI ZDRAVSTVENI DELAVEC
-   </pravnistatusopis>
-  </pravnistatus>
-  <tipizvajalca>
-   <tipizvajalcasifra>
-    1
-   </tipizvajalcasifra>
-   <tipizvajalcaopis>
-    OSNOVNO ZDRAVSTVO
-   </tipizvajalcaopis>
-  </tipizvajalca>
-  <obcina>
-   <obcinasifra>
-    32
-   </obcinasifra>
-   <obcinanaziv>
-    GROSUPLJE
-   </obcinanaziv>
-  </obcina>
-  <veljaod>
-   1993-12-01
-  </veljaod>
-  <veljado>
-   2023-08-06
-  </veljado>
-  <vzd>
-   <sifravzd>
-    714
-   </sifravzd>
-   <opisvzd>
-    Zobotehnika
-   </opisvzd>
-   <veljaod>
-    1993-12-01
-   </veljaod>
-   <veljado>
-    2023-08-06
-   </veljado>
   </vzd>
  </ivzizvajalec>
  <ivzizvajalec>
