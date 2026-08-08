@@ -494,7 +494,6 @@ postZZZS,addressZZZS,lat,lon,street,streetAlt,housenumber,housenumberAppendix,ci
 2000 MARIBOR,ŽOLGARJEVA ULICA 14,46.54949,15.64170,Žolgarjeva ulica,,14,,Maribor,,Magdalena,Maribor,2000,Maribor,Podravska
 2000 MARIBOR,ŽOLGARJEVA ULICA 7,46.55030,15.64122,Žolgarjeva ulica,,7,,Maribor,,Magdalena,Maribor,2000,Maribor,Podravska
 2103 MARIBOR,PROLETARSKE BRIGADE,,,,,,,,,,,,,
-2103 MARIBOR,SODNA UL. 13,,,,,,,,,,,,,
 2103 MARIBOR,UL. TALCEV 5,,,,,,,,,,,,,
 2103 MARIBOR,UL. ŠAVHOVIH 11,,,,,,,,,,,,,
 2103 MARIBOR,VOŠNJAKOVA 2,,,,,,,,,,,,,
@@ -872,6 +871,7 @@ postZZZS,addressZZZS,lat,lon,street,streetAlt,housenumber,housenumberAppendix,ci
 4000 KRANJ,JELENČEVA ULICA 24,46.24832,14.36780,Jelenčeva ulica,,24,,Kranj,,Primskovo,Kranj,4000,Kranj,Gorenjska
 4000 KRANJ,KIDRIČEVA CESTA 38 A,46.24863,14.35402,Kidričeva cesta,,38,a,Kranj,,Zlato polje,Kranj,4000,Kranj,Gorenjska
 4000 KRANJ,KIDRIČEVA CESTA 47 A,46.25078,14.35186,Kidričeva cesta,,47,a,Kranj,,Zlato polje,Kranj,4000,Kranj,Gorenjska
+4000 KRANJ,KIDRIČEVA CESTA 49,46.25053,14.35338,Kidričeva cesta,,49,,Kranj,,Zlato polje,Kranj,4000,Kranj,Gorenjska
 4000 KRANJ,KIDRIČEVA CESTA 51,46.25138,14.35198,Kidričeva cesta,,51,,Kranj,,Zlato polje,Kranj,4000,Kranj,Gorenjska
 4000 KRANJ,KIDRIČEVA CESTA 53,46.25199,14.34933,Kidričeva cesta,,53,,Kranj,,Zlato polje,Kranj,4000,Kranj,Gorenjska
 4000 KRANJ,LJUBLJANSKA CESTA 24A,46.22457,14.35459,Ljubljanska cesta,,24,a,Kranj,,Stražišče,Kranj,4000,Kranj,Gorenjska
