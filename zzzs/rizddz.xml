@@ -2,10 +2,10 @@
 <bpi xmlns="http://zzzs.si/b2b/bpi" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemalocation="http://zzzs.si/b2b/bpi bpi.xsd">
  <posiljka>
   <verzijaposiljke>
-   4964
+   4965
   </verzijaposiljke>
   <datumposiljke>
-   2026-08-10
+   2026-08-11
   </datumposiljke>
   <verzijasheme>
    1.0
@@ -101259,6 +101259,71 @@
    </opisvzd>
    <veljaod>
     2022-11-08
+   </veljaod>
+  </vzd>
+ </ivzizvajalec>
+ <ivzizvajalec>
+  <sifraivzizvajalca>
+   1068
+  </sifraivzizvajalca>
+  <sifralokacije>
+   0
+  </sifralokacije>
+  <zzzsstevilka>
+   8539750
+  </zzzsstevilka>
+  <organizacijskastruktura>
+   <sifraivzosnovni>
+    1068
+   </sifraivzosnovni>
+  </organizacijskastruktura>
+  <nazivinnaslov>
+   <nazivorganizacijskeenote>
+    KARPIN, KARLO PINTARIĆ, S.P.
+   </nazivorganizacijskeenote>
+   <ulicaorganizacijskeenote>
+    CESTA V KOSTANJ 3 B
+   </ulicaorganizacijskeenote>
+   <postaorganizacijskeenote>
+    1000 LJUBLJANA
+   </postaorganizacijskeenote>
+  </nazivinnaslov>
+  <pravnistatus>
+   <pravnistatussifra>
+    6
+   </pravnistatussifra>
+   <pravnistatusopis>
+    SAMOSTOJNI PODJETNIK - BREZ AMBULANTE
+   </pravnistatusopis>
+  </pravnistatus>
+  <tipizvajalca>
+   <tipizvajalcasifra>
+    2
+   </tipizvajalcasifra>
+   <tipizvajalcaopis>
+    SPECIALISTIČNA AMBULANTA
+   </tipizvajalcaopis>
+  </tipizvajalca>
+  <obcina>
+   <obcinasifra>
+    61
+   </obcinasifra>
+   <obcinanaziv>
+    LJUBLJANA
+   </obcinanaziv>
+  </obcina>
+  <veljaod>
+   2022-11-04
+  </veljaod>
+  <vzd>
+   <sifravzd>
+    706
+   </sifravzd>
+   <opisvzd>
+    Urejanje zdr.,iz.,kult., drugih soc.st.
+   </opisvzd>
+   <veljaod>
+    2022-11-04
    </veljaod>
   </vzd>
  </ivzizvajalec>
@@ -466459,6 +466524,17 @@
     1999-04-22
    </veljaod>
   </vzd>
+  <vzd>
+   <sifravzd>
+    256
+   </sifravzd>
+   <opisvzd>
+    Klinična prehrana v spec. ZunajBolDej
+   </opisvzd>
+   <veljaod>
+    2026-07-01
+   </veljaod>
+  </vzd>
  </ivzizvajalec>
  <ivzizvajalec>
   <sifraivzizvajalca>
@@ -473919,6 +473995,17 @@
    </opisvzd>
    <veljaod>
     2025-01-01
+   </veljaod>
+  </vzd>
+  <vzd>
+   <sifravzd>
+    256
+   </sifravzd>
+   <opisvzd>
+    Klinična prehrana v spec. ZunajBolDej
+   </opisvzd>
+   <veljaod>
+    2026-07-01
    </veljaod>
   </vzd>
  </ivzizvajalec>
