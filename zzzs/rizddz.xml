@@ -2,10 +2,10 @@
 <bpi xmlns="http://zzzs.si/b2b/bpi" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemalocation="http://zzzs.si/b2b/bpi bpi.xsd">
  <posiljka>
   <verzijaposiljke>
-   4965
+   4966
   </verzijaposiljke>
   <datumposiljke>
-   2026-08-11
+   2026-08-12
   </datumposiljke>
   <verzijasheme>
    1.0
@@ -218583,6 +218583,17 @@
    </opisvzd>
    <veljaod>
     2025-01-01
+   </veljaod>
+  </vzd>
+  <vzd>
+   <sifravzd>
+    255
+   </sifravzd>
+   <opisvzd>
+    Klinična psihologija v spec. ZunajBolDej
+   </opisvzd>
+   <veljaod>
+    2026-08-14
    </veljaod>
   </vzd>
  </ivzizvajalec>
@@ -473547,6 +473558,17 @@
   <veljaod>
    2013-01-01
   </veljaod>
+  <vzd>
+   <sifravzd>
+    255
+   </sifravzd>
+   <opisvzd>
+    Klinična psihologija v spec. ZunajBolDej
+   </opisvzd>
+   <veljaod>
+    2013-01-01
+   </veljaod>
+  </vzd>
   <vzd>
    <sifravzd>
     127
