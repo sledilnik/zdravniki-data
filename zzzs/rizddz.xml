@@ -2,10 +2,10 @@
 <bpi xmlns="http://zzzs.si/b2b/bpi" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemalocation="http://zzzs.si/b2b/bpi bpi.xsd">
  <posiljka>
   <verzijaposiljke>
-   4966
+   4967
   </verzijaposiljke>
   <datumposiljke>
-   2026-08-12
+   2026-08-13
   </datumposiljke>
   <verzijasheme>
    1.0
@@ -81084,7 +81084,7 @@
   </organizacijskastruktura>
   <nazivinnaslov>
    <nazivorganizacijskeenote>
-    T-MEDIC, BOJAN TEPIĆ S.P.
+    T-MON, BOJAN TEPIĆ S.P.
    </nazivorganizacijskeenote>
    <ulicaorganizacijskeenote>
     DOLENJSKA CESTA 324 A
@@ -402133,7 +402133,7 @@
    1
   </sifralokacije>
   <zzzsstevilka>
-   3821029
+   9998611
   </zzzsstevilka>
   <organizacijskastruktura>
    <sifraivzosnovni>
@@ -402142,10 +402142,10 @@
   </organizacijskastruktura>
   <nazivinnaslov>
    <nazivorganizacijskeenote>
-    ZASEBNA GINEK. AMBULANTA
+    E &amp; A, D.O.O.
    </nazivorganizacijskeenote>
    <dodatninazivorganizacijskeenote>
-    LOKACIJA 01
+    PE GINEKOLOŠKA AMBULANTA
    </dodatninazivorganizacijskeenote>
    <ulicaorganizacijskeenote>
     FORŠT 28
@@ -402190,6 +402190,74 @@
    </opisvzd>
    <veljaod>
     2003-01-01
+   </veljaod>
+  </vzd>
+ </ivzizvajalec>
+ <ivzizvajalec>
+  <sifraivzizvajalca>
+   31158
+  </sifraivzizvajalca>
+  <sifralokacije>
+   2
+  </sifralokacije>
+  <zzzsstevilka>
+   9997741
+  </zzzsstevilka>
+  <organizacijskastruktura>
+   <sifraivzosnovni>
+    31158
+   </sifraivzosnovni>
+  </organizacijskastruktura>
+  <nazivinnaslov>
+   <nazivorganizacijskeenote>
+    E &amp; A, D.O.O.
+   </nazivorganizacijskeenote>
+   <dodatninazivorganizacijskeenote>
+    PE KLINIKA OPTIMUM
+   </dodatninazivorganizacijskeenote>
+   <ulicaorganizacijskeenote>
+    CESTA V MESTNI LOG 55
+   </ulicaorganizacijskeenote>
+   <postaorganizacijskeenote>
+    1000 LJUBLJANA
+   </postaorganizacijskeenote>
+  </nazivinnaslov>
+  <pravnistatus>
+   <pravnistatussifra>
+    2
+   </pravnistatussifra>
+   <pravnistatusopis>
+    GOSPODARSKA DRUŽBA / ZASEBNI ZAVOD
+   </pravnistatusopis>
+  </pravnistatus>
+  <tipizvajalca>
+   <tipizvajalcasifra>
+    2
+   </tipizvajalcasifra>
+   <tipizvajalcaopis>
+    SPECIALISTIČNA AMBULANTA
+   </tipizvajalcaopis>
+  </tipizvajalca>
+  <obcina>
+   <obcinasifra>
+    61
+   </obcinasifra>
+   <obcinanaziv>
+    LJUBLJANA
+   </obcinanaziv>
+  </obcina>
+  <veljaod>
+   2025-08-23
+  </veljaod>
+  <vzd>
+   <sifravzd>
+    507
+   </sifravzd>
+   <opisvzd>
+    Fizioterapija
+   </opisvzd>
+   <veljaod>
+    2025-08-23
    </veljaod>
   </vzd>
  </ivzizvajalec>
