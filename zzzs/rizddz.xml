@@ -2,10 +2,10 @@
 <bpi xmlns="http://zzzs.si/b2b/bpi" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemalocation="http://zzzs.si/b2b/bpi bpi.xsd">
  <posiljka>
   <verzijaposiljke>
-   4967
+   4968
   </verzijaposiljke>
   <datumposiljke>
-   2026-08-13
+   2026-08-14
   </datumposiljke>
   <verzijasheme>
    1.0
@@ -183094,6 +183094,17 @@
    </opisvzd>
    <veljaod>
     2023-11-06
+   </veljaod>
+  </vzd>
+  <vzd>
+   <sifravzd>
+    706
+   </sifravzd>
+   <opisvzd>
+    Urejanje zdr.,iz.,kult., drugih soc.st.
+   </opisvzd>
+   <veljaod>
+    1976-01-01
    </veljaod>
   </vzd>
  </ivzizvajalec>
