@@ -2,10 +2,10 @@
 <bpi xmlns="http://zzzs.si/b2b/bpi" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemalocation="http://zzzs.si/b2b/bpi bpi.xsd">
  <posiljka>
   <verzijaposiljke>
-   4969
+   4970
   </verzijaposiljke>
   <datumposiljke>
-   2026-08-15
+   2026-08-16
   </datumposiljke>
   <verzijasheme>
    1.0
@@ -276178,20 +276178,6 @@
   <veljaod>
    2023-01-03
   </veljaod>
-  <vzd>
-   <sifravzd>
-    602
-   </sifravzd>
-   <opisvzd>
-    Dnevno varstvo v socialnovarst.zavodih
-   </opisvzd>
-   <veljaod>
-    2023-01-03
-   </veljaod>
-   <veljado>
-    2023-08-15
-   </veljado>
-  </vzd>
   <vzd>
    <sifravzd>
     644
