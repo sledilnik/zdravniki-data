@@ -2,10 +2,10 @@
 <bpi xmlns="http://zzzs.si/b2b/bpi" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemalocation="http://zzzs.si/b2b/bpi bpi.xsd">
  <posiljka>
   <verzijaposiljke>
-   4972
+   4973
   </verzijaposiljke>
   <datumposiljke>
-   2026-08-18
+   2026-08-19
   </datumposiljke>
   <verzijasheme>
    1.0
@@ -86790,6 +86790,71 @@
  </ivzizvajalec>
  <ivzizvajalec>
   <sifraivzizvajalca>
+   888
+  </sifraivzizvajalca>
+  <sifralokacije>
+   0
+  </sifralokacije>
+  <zzzsstevilka>
+   5974386
+  </zzzsstevilka>
+  <organizacijskastruktura>
+   <sifraivzosnovni>
+    888
+   </sifraivzosnovni>
+  </organizacijskastruktura>
+  <nazivinnaslov>
+   <nazivorganizacijskeenote>
+    IVANA PRKIĆ, DR. DENT. MED., S.P.
+   </nazivorganizacijskeenote>
+   <ulicaorganizacijskeenote>
+    DUNAJSKA CESTA 129
+   </ulicaorganizacijskeenote>
+   <postaorganizacijskeenote>
+    1000 LJUBLJANA
+   </postaorganizacijskeenote>
+  </nazivinnaslov>
+  <pravnistatus>
+   <pravnistatussifra>
+    5
+   </pravnistatussifra>
+   <pravnistatusopis>
+    SAMOSTOJNI PODJETNIK
+   </pravnistatusopis>
+  </pravnistatus>
+  <tipizvajalca>
+   <tipizvajalcasifra>
+    1
+   </tipizvajalcasifra>
+   <tipizvajalcaopis>
+    OSNOVNO ZDRAVSTVO
+   </tipizvajalcaopis>
+  </tipizvajalca>
+  <obcina>
+   <obcinasifra>
+    61
+   </obcinasifra>
+   <obcinanaziv>
+    LJUBLJANA
+   </obcinanaziv>
+  </obcina>
+  <veljaod>
+   1900-01-01
+  </veljaod>
+  <vzd>
+   <sifravzd>
+    404
+   </sifravzd>
+   <opisvzd>
+    Splošno zobozdravstvo
+   </opisvzd>
+   <veljaod>
+    2015-11-20
+   </veljaod>
+  </vzd>
+ </ivzizvajalec>
+ <ivzizvajalec>
+  <sifraivzizvajalca>
    891
   </sifraivzizvajalca>
   <sifralokacije>
@@ -91839,6 +91904,71 @@
    </opisvzd>
    <veljaod>
     2022-06-28
+   </veljaod>
+  </vzd>
+ </ivzizvajalec>
+ <ivzizvajalec>
+  <sifraivzizvajalca>
+   959
+  </sifraivzizvajalca>
+  <sifralokacije>
+   0
+  </sifralokacije>
+  <zzzsstevilka>
+   7080043
+  </zzzsstevilka>
+  <organizacijskastruktura>
+   <sifraivzosnovni>
+    959
+   </sifraivzosnovni>
+  </organizacijskastruktura>
+  <nazivinnaslov>
+   <nazivorganizacijskeenote>
+    MOJCA KNEZ S.P.
+   </nazivorganizacijskeenote>
+   <ulicaorganizacijskeenote>
+    PRVOMAJSKA ULICA 9
+   </ulicaorganizacijskeenote>
+   <postaorganizacijskeenote>
+    1000 LJUBLJANA
+   </postaorganizacijskeenote>
+  </nazivinnaslov>
+  <pravnistatus>
+   <pravnistatussifra>
+    6
+   </pravnistatussifra>
+   <pravnistatusopis>
+    SAMOSTOJNI PODJETNIK - BREZ AMBULANTE
+   </pravnistatusopis>
+  </pravnistatus>
+  <tipizvajalca>
+   <tipizvajalcasifra>
+    2
+   </tipizvajalcasifra>
+   <tipizvajalcaopis>
+    SPECIALISTIČNA AMBULANTA
+   </tipizvajalcaopis>
+  </tipizvajalca>
+  <obcina>
+   <obcinasifra>
+    61
+   </obcinasifra>
+   <obcinanaziv>
+    LJUBLJANA
+   </obcinanaziv>
+  </obcina>
+  <veljaod>
+   2022-06-17
+  </veljaod>
+  <vzd>
+   <sifravzd>
+    706
+   </sifravzd>
+   <opisvzd>
+    Urejanje zdr.,iz.,kult., drugih soc.st.
+   </opisvzd>
+   <veljaod>
+    2022-06-17
    </veljaod>
   </vzd>
  </ivzizvajalec>
@@ -125198,7 +125328,7 @@
   </organizacijskastruktura>
   <nazivinnaslov>
    <nazivorganizacijskeenote>
-    MAJA NAVODNIK PRELOŽNIK S.P.
+    MEDICINSKI CENTER EVITA, MAJA NAVODNIK PRELOŽNIK S.P.
    </nazivorganizacijskeenote>
    <ulicaorganizacijskeenote>
     CESTA X 5
@@ -125263,10 +125393,10 @@
   </organizacijskastruktura>
   <nazivinnaslov>
    <nazivorganizacijskeenote>
-    MAJA NAVODNIK PRELOŽNIK S.P.
+    MEDICINSKI CENTER EVITA, MAJA NAVODNIK PRELOŽNIK S.P.
    </nazivorganizacijskeenote>
    <dodatninazivorganizacijskeenote>
-    PE MEDICINSKI CENTER EVITA
+    PE
    </dodatninazivorganizacijskeenote>
    <ulicaorganizacijskeenote>
     KIDRIČEVA CESTA 2 B
@@ -222211,6 +222341,71 @@
  </ivzizvajalec>
  <ivzizvajalec>
   <sifraivzizvajalca>
+   2640
+  </sifraivzizvajalca>
+  <sifralokacije>
+   0
+  </sifralokacije>
+  <zzzsstevilka>
+   9127704
+  </zzzsstevilka>
+  <organizacijskastruktura>
+   <sifraivzosnovni>
+    2640
+   </sifraivzosnovni>
+  </organizacijskastruktura>
+  <nazivinnaslov>
+   <nazivorganizacijskeenote>
+    VISIOMED D.O.O.
+   </nazivorganizacijskeenote>
+   <ulicaorganizacijskeenote>
+    TURNERJEVA ULICA 17 A
+   </ulicaorganizacijskeenote>
+   <postaorganizacijskeenote>
+    2000 MARIBOR
+   </postaorganizacijskeenote>
+  </nazivinnaslov>
+  <pravnistatus>
+   <pravnistatussifra>
+    2
+   </pravnistatussifra>
+   <pravnistatusopis>
+    GOSPODARSKA DRUŽBA / ZASEBNI ZAVOD
+   </pravnistatusopis>
+  </pravnistatus>
+  <tipizvajalca>
+   <tipizvajalcasifra>
+    2
+   </tipizvajalcasifra>
+   <tipizvajalcaopis>
+    SPECIALISTIČNA AMBULANTA
+   </tipizvajalcaopis>
+  </tipizvajalca>
+  <obcina>
+   <obcinasifra>
+    70
+   </obcinasifra>
+   <obcinanaziv>
+    MARIBOR
+   </obcinanaziv>
+  </obcina>
+  <veljaod>
+   2026-08-07
+  </veljaod>
+  <vzd>
+   <sifravzd>
+    220
+   </sifravzd>
+   <opisvzd>
+    Oftalmologija v spec. ZunajBolDej
+   </opisvzd>
+   <veljaod>
+    2026-08-07
+   </veljaod>
+  </vzd>
+ </ivzizvajalec>
+ <ivzizvajalec>
+  <sifraivzizvajalca>
    2641
   </sifraivzizvajalca>
   <sifralokacije>
@@ -311677,6 +311872,9 @@
   <veljaod>
    1998-07-01
   </veljaod>
+  <veljado>
+   2026-06-30
+  </veljado>
   <vzd>
    <sifravzd>
     404
@@ -311687,6 +311885,9 @@
    <veljaod>
     1998-07-01
    </veljaod>
+   <veljado>
+    2026-06-30
+   </veljado>
   </vzd>
  </ivzizvajalec>
  <ivzizvajalec>
@@ -401577,6 +401778,74 @@
    </opisvzd>
    <veljaod>
     2001-03-01
+   </veljaod>
+  </vzd>
+ </ivzizvajalec>
+ <ivzizvajalec>
+  <sifraivzizvajalca>
+   31143
+  </sifraivzizvajalca>
+  <sifralokacije>
+   1
+  </sifralokacije>
+  <zzzsstevilka>
+   9821520
+  </zzzsstevilka>
+  <organizacijskastruktura>
+   <sifraivzosnovni>
+    31143
+   </sifraivzosnovni>
+  </organizacijskastruktura>
+  <nazivinnaslov>
+   <nazivorganizacijskeenote>
+    DENTAL ŠRIMPF IN DRUGI, D.N.O.
+   </nazivorganizacijskeenote>
+   <dodatninazivorganizacijskeenote>
+    PE MARIBOR
+   </dodatninazivorganizacijskeenote>
+   <ulicaorganizacijskeenote>
+    OB BREGU 8
+   </ulicaorganizacijskeenote>
+   <postaorganizacijskeenote>
+    2000 MARIBOR
+   </postaorganizacijskeenote>
+  </nazivinnaslov>
+  <pravnistatus>
+   <pravnistatussifra>
+    2
+   </pravnistatussifra>
+   <pravnistatusopis>
+    GOSPODARSKA DRUŽBA / ZASEBNI ZAVOD
+   </pravnistatusopis>
+  </pravnistatus>
+  <tipizvajalca>
+   <tipizvajalcasifra>
+    1
+   </tipizvajalcasifra>
+   <tipizvajalcaopis>
+    OSNOVNO ZDRAVSTVO
+   </tipizvajalcaopis>
+  </tipizvajalca>
+  <obcina>
+   <obcinasifra>
+    70
+   </obcinasifra>
+   <obcinanaziv>
+    MARIBOR
+   </obcinanaziv>
+  </obcina>
+  <veljaod>
+   2026-03-19
+  </veljaod>
+  <vzd>
+   <sifravzd>
+    404
+   </sifravzd>
+   <opisvzd>
+    Splošno zobozdravstvo
+   </opisvzd>
+   <veljaod>
+    2026-03-19
    </veljaod>
   </vzd>
  </ivzizvajalec>
