@@ -2,10 +2,10 @@
 <bpi xmlns="http://zzzs.si/b2b/bpi" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemalocation="http://zzzs.si/b2b/bpi bpi.xsd">
  <posiljka>
   <verzijaposiljke>
-   4973
+   4974
   </verzijaposiljke>
   <datumposiljke>
-   2026-08-19
+   2026-08-20
   </datumposiljke>
   <verzijasheme>
    1.0
@@ -85094,6 +85094,71 @@
    </opisvzd>
    <veljaod>
     2015-02-07
+   </veljaod>
+  </vzd>
+ </ivzizvajalec>
+ <ivzizvajalec>
+  <sifraivzizvajalca>
+   868
+  </sifraivzizvajalca>
+  <sifralokacije>
+   0
+  </sifralokacije>
+  <zzzsstevilka>
+   5968529
+  </zzzsstevilka>
+  <organizacijskastruktura>
+   <sifraivzosnovni>
+    868
+   </sifraivzosnovni>
+  </organizacijskastruktura>
+  <nazivinnaslov>
+   <nazivorganizacijskeenote>
+    THERAMOSAIC D.O.O.
+   </nazivorganizacijskeenote>
+   <ulicaorganizacijskeenote>
+    BEVKOVA ULICA 11
+   </ulicaorganizacijskeenote>
+   <postaorganizacijskeenote>
+    1241 KAMNIK
+   </postaorganizacijskeenote>
+  </nazivinnaslov>
+  <pravnistatus>
+   <pravnistatussifra>
+    2
+   </pravnistatussifra>
+   <pravnistatusopis>
+    GOSPODARSKA DRUŽBA / ZASEBNI ZAVOD
+   </pravnistatusopis>
+  </pravnistatus>
+  <tipizvajalca>
+   <tipizvajalcasifra>
+    1
+   </tipizvajalcasifra>
+   <tipizvajalcaopis>
+    OSNOVNO ZDRAVSTVO
+   </tipizvajalcaopis>
+  </tipizvajalca>
+  <obcina>
+   <obcinasifra>
+    43
+   </obcinasifra>
+   <obcinanaziv>
+    KAMNIK
+   </obcinanaziv>
+  </obcina>
+  <veljaod>
+   2015-01-29
+  </veljaod>
+  <vzd>
+   <sifravzd>
+    706
+   </sifravzd>
+   <opisvzd>
+    Urejanje zdr.,iz.,kult., drugih soc.st.
+   </opisvzd>
+   <veljaod>
+    2015-01-29
    </veljaod>
   </vzd>
  </ivzizvajalec>
@@ -217409,6 +217474,71 @@
  </ivzizvajalec>
  <ivzizvajalec>
   <sifraivzizvajalca>
+   2530
+  </sifraivzizvajalca>
+  <sifralokacije>
+   0
+  </sifralokacije>
+  <zzzsstevilka>
+   9827048
+  </zzzsstevilka>
+  <organizacijskastruktura>
+   <sifraivzosnovni>
+    2530
+   </sifraivzosnovni>
+  </organizacijskastruktura>
+  <nazivinnaslov>
+   <nazivorganizacijskeenote>
+    DIA-RAD D.O.O.
+   </nazivorganizacijskeenote>
+   <ulicaorganizacijskeenote>
+    HUM 74
+   </ulicaorganizacijskeenote>
+   <postaorganizacijskeenote>
+    5211 KOJSKO
+   </postaorganizacijskeenote>
+  </nazivinnaslov>
+  <pravnistatus>
+   <pravnistatussifra>
+    7
+   </pravnistatussifra>
+   <pravnistatusopis>
+    GOSPODARSKA DRUŽBA - BREZ AMBULANTE
+   </pravnistatusopis>
+  </pravnistatus>
+  <tipizvajalca>
+   <tipizvajalcasifra>
+    2
+   </tipizvajalcasifra>
+   <tipizvajalcaopis>
+    SPECIALISTIČNA AMBULANTA
+   </tipizvajalcaopis>
+  </tipizvajalca>
+  <obcina>
+   <obcinasifra>
+    7
+   </obcinasifra>
+   <obcinanaziv>
+    BRDA
+   </obcinanaziv>
+  </obcina>
+  <veljaod>
+   2026-03-19
+  </veljaod>
+  <vzd>
+   <sifravzd>
+    706
+   </sifravzd>
+   <opisvzd>
+    Urejanje zdr.,iz.,kult., drugih soc.st.
+   </opisvzd>
+   <veljaod>
+    2026-03-19
+   </veljaod>
+  </vzd>
+ </ivzizvajalec>
+ <ivzizvajalec>
+  <sifraivzizvajalca>
    2532
   </sifraivzizvajalca>
   <sifralokacije>
@@ -221799,6 +221929,139 @@
    </opisvzd>
    <veljaod>
     2026-06-29
+   </veljaod>
+  </vzd>
+ </ivzizvajalec>
+ <ivzizvajalec>
+  <sifraivzizvajalca>
+   2611
+  </sifraivzizvajalca>
+  <sifralokacije>
+   0
+  </sifralokacije>
+  <zzzsstevilka>
+   9929370
+  </zzzsstevilka>
+  <organizacijskastruktura>
+   <sifraivzosnovni>
+    2611
+   </sifraivzosnovni>
+  </organizacijskastruktura>
+  <nazivinnaslov>
+   <nazivorganizacijskeenote>
+    BREDA ŽUNKOVIČ S.P.
+   </nazivorganizacijskeenote>
+   <ulicaorganizacijskeenote>
+    ZLATOLIČJE 63
+   </ulicaorganizacijskeenote>
+   <postaorganizacijskeenote>
+    2205 STARŠE
+   </postaorganizacijskeenote>
+  </nazivinnaslov>
+  <pravnistatus>
+   <pravnistatussifra>
+    5
+   </pravnistatussifra>
+   <pravnistatusopis>
+    SAMOSTOJNI PODJETNIK
+   </pravnistatusopis>
+  </pravnistatus>
+  <tipizvajalca>
+   <tipizvajalcasifra>
+    2
+   </tipizvajalcasifra>
+   <tipizvajalcaopis>
+    SPECIALISTIČNA AMBULANTA
+   </tipizvajalcaopis>
+  </tipizvajalca>
+  <obcina>
+   <obcinasifra>
+    115
+   </obcinasifra>
+   <obcinanaziv>
+    STARŠE
+   </obcinanaziv>
+  </obcina>
+  <veljaod>
+   2026-07-03
+  </veljaod>
+  <vzd>
+   <sifravzd>
+    706
+   </sifravzd>
+   <opisvzd>
+    Urejanje zdr.,iz.,kult., drugih soc.st.
+   </opisvzd>
+   <veljaod>
+    2026-07-03
+   </veljaod>
+  </vzd>
+ </ivzizvajalec>
+ <ivzizvajalec>
+  <sifraivzizvajalca>
+   2611
+  </sifraivzizvajalca>
+  <sifralokacije>
+   1
+  </sifralokacije>
+  <zzzsstevilka>
+   10001092
+  </zzzsstevilka>
+  <organizacijskastruktura>
+   <sifraivzosnovni>
+    2611
+   </sifraivzosnovni>
+  </organizacijskastruktura>
+  <nazivinnaslov>
+   <nazivorganizacijskeenote>
+    BREDA ŽUNKOVIČ S.P.
+   </nazivorganizacijskeenote>
+   <dodatninazivorganizacijskeenote>
+    PE BETNAVA
+   </dodatninazivorganizacijskeenote>
+   <ulicaorganizacijskeenote>
+    LJUBLJANSKA ULICA 89
+   </ulicaorganizacijskeenote>
+   <postaorganizacijskeenote>
+    2000 MARIBOR
+   </postaorganizacijskeenote>
+  </nazivinnaslov>
+  <pravnistatus>
+   <pravnistatussifra>
+    5
+   </pravnistatussifra>
+   <pravnistatusopis>
+    SAMOSTOJNI PODJETNIK
+   </pravnistatusopis>
+  </pravnistatus>
+  <tipizvajalca>
+   <tipizvajalcasifra>
+    2
+   </tipizvajalcasifra>
+   <tipizvajalcaopis>
+    SPECIALISTIČNA AMBULANTA
+   </tipizvajalcaopis>
+  </tipizvajalca>
+  <obcina>
+   <obcinasifra>
+    70
+   </obcinasifra>
+   <obcinanaziv>
+    MARIBOR
+   </obcinanaziv>
+  </obcina>
+  <veljaod>
+   2026-07-03
+  </veljaod>
+  <vzd>
+   <sifravzd>
+    218
+   </sifravzd>
+   <opisvzd>
+    Nevrologija v spec. ZunajBolDej
+   </opisvzd>
+   <veljaod>
+    2026-07-03
    </veljaod>
   </vzd>
  </ivzizvajalec>
@@ -268509,6 +268772,17 @@
    </opisvzd>
    <veljaod>
     2014-01-01
+   </veljaod>
+  </vzd>
+  <vzd>
+   <sifravzd>
+    231
+   </sifravzd>
+   <opisvzd>
+    Radiologija v spec. ZunajBolDej
+   </opisvzd>
+   <veljaod>
+    2026-08-13
    </veljaod>
   </vzd>
  </ivzizvajalec>
