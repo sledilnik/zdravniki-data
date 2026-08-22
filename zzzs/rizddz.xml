@@ -2,10 +2,10 @@
 <bpi xmlns="http://zzzs.si/b2b/bpi" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemalocation="http://zzzs.si/b2b/bpi bpi.xsd">
  <posiljka>
   <verzijaposiljke>
-   4975
+   4976
   </verzijaposiljke>
   <datumposiljke>
-   2026-08-21
+   2026-08-22
   </datumposiljke>
   <verzijasheme>
    1.0
@@ -13757,6 +13757,17 @@
    </opisvzd>
    <veljaod>
     1992-05-20
+   </veljaod>
+  </vzd>
+  <vzd>
+   <sifravzd>
+    203
+   </sifravzd>
+   <opisvzd>
+    Dermatovenerologija v spec. ZunajBolDej
+   </opisvzd>
+   <veljaod>
+    2026-05-01
    </veljaod>
   </vzd>
  </ivzizvajalec>
@@ -61919,6 +61930,142 @@
  </ivzizvajalec>
  <ivzizvajalec>
   <sifraivzizvajalca>
+   538
+  </sifraivzizvajalca>
+  <sifralokacije>
+   3
+  </sifralokacije>
+  <zzzsstevilka>
+   10008238
+  </zzzsstevilka>
+  <organizacijskastruktura>
+   <sifraivzosnovni>
+    538
+   </sifraivzosnovni>
+  </organizacijskastruktura>
+  <nazivinnaslov>
+   <nazivorganizacijskeenote>
+    USTNA HIGIENA IN DRUGE ZDRAVSTVENE DEJAVNOSTI, JOŽE KOŠICA S
+   </nazivorganizacijskeenote>
+   <dodatninazivorganizacijskeenote>
+    LOKACIJA LJUBLJANSKE BRIGADE
+   </dodatninazivorganizacijskeenote>
+   <ulicaorganizacijskeenote>
+    CESTA LJUBLJANSKE BRIGADE 23
+   </ulicaorganizacijskeenote>
+   <postaorganizacijskeenote>
+    1000 LJUBLJANA
+   </postaorganizacijskeenote>
+  </nazivinnaslov>
+  <pravnistatus>
+   <pravnistatussifra>
+    6
+   </pravnistatussifra>
+   <pravnistatusopis>
+    SAMOSTOJNI PODJETNIK - BREZ AMBULANTE
+   </pravnistatusopis>
+  </pravnistatus>
+  <tipizvajalca>
+   <tipizvajalcasifra>
+    20
+   </tipizvajalcasifra>
+   <tipizvajalcaopis>
+    OSTALI, KI OPRAVLJAJO ZDR. DEJ.
+   </tipizvajalcaopis>
+  </tipizvajalca>
+  <obcina>
+   <obcinasifra>
+    61
+   </obcinasifra>
+   <obcinanaziv>
+    LJUBLJANA
+   </obcinanaziv>
+  </obcina>
+  <veljaod>
+   2025-11-04
+  </veljaod>
+  <vzd>
+   <sifravzd>
+    550
+   </sifravzd>
+   <opisvzd>
+    Ustna higiena
+   </opisvzd>
+   <veljaod>
+    2025-11-04
+   </veljaod>
+  </vzd>
+ </ivzizvajalec>
+ <ivzizvajalec>
+  <sifraivzizvajalca>
+   538
+  </sifraivzizvajalca>
+  <sifralokacije>
+   4
+  </sifralokacije>
+  <zzzsstevilka>
+   10036878
+  </zzzsstevilka>
+  <organizacijskastruktura>
+   <sifraivzosnovni>
+    538
+   </sifraivzosnovni>
+  </organizacijskastruktura>
+  <nazivinnaslov>
+   <nazivorganizacijskeenote>
+    USTNA HIGIENA IN DRUGE ZDRAVSTVENE DEJAVNOSTI, JOŽE KOŠICA S
+   </nazivorganizacijskeenote>
+   <dodatninazivorganizacijskeenote>
+    LOKACIJA POLZELA
+   </dodatninazivorganizacijskeenote>
+   <ulicaorganizacijskeenote>
+    GLAVNI TRG 15
+   </ulicaorganizacijskeenote>
+   <postaorganizacijskeenote>
+    3313 POLZELA
+   </postaorganizacijskeenote>
+  </nazivinnaslov>
+  <pravnistatus>
+   <pravnistatussifra>
+    6
+   </pravnistatussifra>
+   <pravnistatusopis>
+    SAMOSTOJNI PODJETNIK - BREZ AMBULANTE
+   </pravnistatusopis>
+  </pravnistatus>
+  <tipizvajalca>
+   <tipizvajalcasifra>
+    20
+   </tipizvajalcasifra>
+   <tipizvajalcaopis>
+    OSTALI, KI OPRAVLJAJO ZDR. DEJ.
+   </tipizvajalcaopis>
+  </tipizvajalca>
+  <obcina>
+   <obcinasifra>
+    173
+   </obcinasifra>
+   <obcinanaziv>
+    POLZELA
+   </obcinanaziv>
+  </obcina>
+  <veljaod>
+   2026-04-02
+  </veljaod>
+  <vzd>
+   <sifravzd>
+    550
+   </sifravzd>
+   <opisvzd>
+    Ustna higiena
+   </opisvzd>
+   <veljaod>
+    2026-04-02
+   </veljaod>
+  </vzd>
+ </ivzizvajalec>
+ <ivzizvajalec>
+  <sifraivzizvajalca>
    539
   </sifraivzizvajalca>
   <sifralokacije>
@@ -106499,6 +106646,142 @@
  </ivzizvajalec>
  <ivzizvajalec>
   <sifraivzizvajalca>
+   1130
+  </sifraivzizvajalca>
+  <sifralokacije>
+   3
+  </sifralokacije>
+  <zzzsstevilka>
+   10036907
+  </zzzsstevilka>
+  <organizacijskastruktura>
+   <sifraivzosnovni>
+    1130
+   </sifraivzosnovni>
+  </organizacijskastruktura>
+  <nazivinnaslov>
+   <nazivorganizacijskeenote>
+    ZDRAVSTVENE STORITVE IN SVETOVANJE, NEJC PLANINC S.P.
+   </nazivorganizacijskeenote>
+   <dodatninazivorganizacijskeenote>
+    LOKACIJA ČOPOVA
+   </dodatninazivorganizacijskeenote>
+   <ulicaorganizacijskeenote>
+    ČOPOVA ULICA 20
+   </ulicaorganizacijskeenote>
+   <postaorganizacijskeenote>
+    3000 CELJE
+   </postaorganizacijskeenote>
+  </nazivinnaslov>
+  <pravnistatus>
+   <pravnistatussifra>
+    6
+   </pravnistatussifra>
+   <pravnistatusopis>
+    SAMOSTOJNI PODJETNIK - BREZ AMBULANTE
+   </pravnistatusopis>
+  </pravnistatus>
+  <tipizvajalca>
+   <tipizvajalcasifra>
+    1
+   </tipizvajalcasifra>
+   <tipizvajalcaopis>
+    OSNOVNO ZDRAVSTVO
+   </tipizvajalcaopis>
+  </tipizvajalca>
+  <obcina>
+   <obcinasifra>
+    11
+   </obcinasifra>
+   <obcinanaziv>
+    CELJE
+   </obcinanaziv>
+  </obcina>
+  <veljaod>
+   2026-02-06
+  </veljaod>
+  <vzd>
+   <sifravzd>
+    301
+   </sifravzd>
+   <opisvzd>
+    Medicina dela, prometa in športa
+   </opisvzd>
+   <veljaod>
+    2026-02-06
+   </veljaod>
+  </vzd>
+ </ivzizvajalec>
+ <ivzizvajalec>
+  <sifraivzizvajalca>
+   1130
+  </sifraivzizvajalca>
+  <sifralokacije>
+   4
+  </sifralokacije>
+  <zzzsstevilka>
+   10036938
+  </zzzsstevilka>
+  <organizacijskastruktura>
+   <sifraivzosnovni>
+    1130
+   </sifraivzosnovni>
+  </organizacijskastruktura>
+  <nazivinnaslov>
+   <nazivorganizacijskeenote>
+    ZDRAVSTVENE STORITVE IN SVETOVANJE, NEJC PLANINC S.P.
+   </nazivorganizacijskeenote>
+   <dodatninazivorganizacijskeenote>
+    LOKACIJA HACQUETOVA
+   </dodatninazivorganizacijskeenote>
+   <ulicaorganizacijskeenote>
+    HACQUETOVA ULICA 6
+   </ulicaorganizacijskeenote>
+   <postaorganizacijskeenote>
+    1000 LJUBLJANA
+   </postaorganizacijskeenote>
+  </nazivinnaslov>
+  <pravnistatus>
+   <pravnistatussifra>
+    6
+   </pravnistatussifra>
+   <pravnistatusopis>
+    SAMOSTOJNI PODJETNIK - BREZ AMBULANTE
+   </pravnistatusopis>
+  </pravnistatus>
+  <tipizvajalca>
+   <tipizvajalcasifra>
+    1
+   </tipizvajalcasifra>
+   <tipizvajalcaopis>
+    OSNOVNO ZDRAVSTVO
+   </tipizvajalcaopis>
+  </tipizvajalca>
+  <obcina>
+   <obcinasifra>
+    61
+   </obcinasifra>
+   <obcinanaziv>
+    LJUBLJANA
+   </obcinanaziv>
+  </obcina>
+  <veljaod>
+   2026-02-06
+  </veljaod>
+  <vzd>
+   <sifravzd>
+    301
+   </sifravzd>
+   <opisvzd>
+    Medicina dela, prometa in športa
+   </opisvzd>
+   <veljaod>
+    2026-02-06
+   </veljaod>
+  </vzd>
+ </ivzizvajalec>
+ <ivzizvajalec>
+  <sifraivzizvajalca>
    1133
   </sifraivzizvajalca>
   <sifralokacije>
@@ -109079,10 +109362,10 @@
   </organizacijskastruktura>
   <nazivinnaslov>
    <nazivorganizacijskeenote>
-    KLINIKA MOZAIK D.O.O.
+    MEDICINSKI CENTER MOZAIK D.O.O.
    </nazivorganizacijskeenote>
    <ulicaorganizacijskeenote>
-    KOVAČEVA ULICA 8 D
+    SAVSKA CESTA 10
    </ulicaorganizacijskeenote>
    <postaorganizacijskeenote>
     1000 LJUBLJANA
@@ -184164,6 +184447,17 @@
     2026-04-17
    </veljaod>
   </vzd>
+  <vzd>
+   <sifravzd>
+    228
+   </sifravzd>
+   <opisvzd>
+    Plast., rek., est.krg v spec.ZunajBolDej
+   </opisvzd>
+   <veljaod>
+    2026-08-17
+   </veljaod>
+  </vzd>
  </ivzizvajalec>
  <ivzizvajalec>
   <sifraivzizvajalca>
@@ -215152,6 +215446,74 @@
  </ivzizvajalec>
  <ivzizvajalec>
   <sifraivzizvajalca>
+   2495
+  </sifraivzizvajalca>
+  <sifralokacije>
+   1
+  </sifralokacije>
+  <zzzsstevilka>
+   10007186
+  </zzzsstevilka>
+  <organizacijskastruktura>
+   <sifraivzosnovni>
+    2495
+   </sifraivzosnovni>
+  </organizacijskastruktura>
+  <nazivinnaslov>
+   <nazivorganizacijskeenote>
+    BOŠTJAN BERCKO S.P., KARDIOLOŠKE STORITVE
+   </nazivorganizacijskeenote>
+   <dodatninazivorganizacijskeenote>
+    LOKACIJA ŠENTJUR
+   </dodatninazivorganizacijskeenote>
+   <ulicaorganizacijskeenote>
+    CESTA LEONA DOBROTINŠKA 6
+   </ulicaorganizacijskeenote>
+   <postaorganizacijskeenote>
+    3230 ŠENTJUR
+   </postaorganizacijskeenote>
+  </nazivinnaslov>
+  <pravnistatus>
+   <pravnistatussifra>
+    6
+   </pravnistatussifra>
+   <pravnistatusopis>
+    SAMOSTOJNI PODJETNIK - BREZ AMBULANTE
+   </pravnistatusopis>
+  </pravnistatus>
+  <tipizvajalca>
+   <tipizvajalcasifra>
+    2
+   </tipizvajalcasifra>
+   <tipizvajalcaopis>
+    SPECIALISTIČNA AMBULANTA
+   </tipizvajalcaopis>
+  </tipizvajalca>
+  <obcina>
+   <obcinasifra>
+    120
+   </obcinasifra>
+   <obcinanaziv>
+    ŠENTJUR
+   </obcinanaziv>
+  </obcina>
+  <veljaod>
+   2026-02-07
+  </veljaod>
+  <vzd>
+   <sifravzd>
+    211
+   </sifravzd>
+   <opisvzd>
+    Kardio. in vask.med. v spec. ZunajBolDej
+   </opisvzd>
+   <veljaod>
+    2026-02-07
+   </veljaod>
+  </vzd>
+ </ivzizvajalec>
+ <ivzizvajalec>
+  <sifraivzizvajalca>
    2496
   </sifraivzizvajalca>
   <sifralokacije>
@@ -215212,6 +215574,142 @@
    </opisvzd>
    <veljaod>
     2026-01-23
+   </veljaod>
+  </vzd>
+ </ivzizvajalec>
+ <ivzizvajalec>
+  <sifraivzizvajalca>
+   2496
+  </sifraivzizvajalca>
+  <sifralokacije>
+   1
+  </sifralokacije>
+  <zzzsstevilka>
+   10007155
+  </zzzsstevilka>
+  <organizacijskastruktura>
+   <sifraivzosnovni>
+    2496
+   </sifraivzosnovni>
+  </organizacijskastruktura>
+  <nazivinnaslov>
+   <nazivorganizacijskeenote>
+    AMBULANTA ZA BORELIOZO IN DRUGA INFEKCIJSKA OBOLENJA, BRANKO
+   </nazivorganizacijskeenote>
+   <dodatninazivorganizacijskeenote>
+    LOKACIJA DOBRNA
+   </dodatninazivorganizacijskeenote>
+   <ulicaorganizacijskeenote>
+    DOBRNA 46
+   </ulicaorganizacijskeenote>
+   <postaorganizacijskeenote>
+    3204 DOBRNA
+   </postaorganizacijskeenote>
+  </nazivinnaslov>
+  <pravnistatus>
+   <pravnistatussifra>
+    6
+   </pravnistatussifra>
+   <pravnistatusopis>
+    SAMOSTOJNI PODJETNIK - BREZ AMBULANTE
+   </pravnistatusopis>
+  </pravnistatus>
+  <tipizvajalca>
+   <tipizvajalcasifra>
+    2
+   </tipizvajalcasifra>
+   <tipizvajalcaopis>
+    SPECIALISTIČNA AMBULANTA
+   </tipizvajalcaopis>
+  </tipizvajalca>
+  <obcina>
+   <obcinasifra>
+    155
+   </obcinasifra>
+   <obcinanaziv>
+    DOBRNA
+   </obcinanaziv>
+  </obcina>
+  <veljaod>
+   2026-02-10
+  </veljaod>
+  <vzd>
+   <sifravzd>
+    208
+   </sifravzd>
+   <opisvzd>
+    Infektologija v spec. ZunajBolDej
+   </opisvzd>
+   <veljaod>
+    2026-02-10
+   </veljaod>
+  </vzd>
+ </ivzizvajalec>
+ <ivzizvajalec>
+  <sifraivzizvajalca>
+   2496
+  </sifraivzizvajalca>
+  <sifralokacije>
+   2
+  </sifralokacije>
+  <zzzsstevilka>
+   10035977
+  </zzzsstevilka>
+  <organizacijskastruktura>
+   <sifraivzosnovni>
+    2496
+   </sifraivzosnovni>
+  </organizacijskastruktura>
+  <nazivinnaslov>
+   <nazivorganizacijskeenote>
+    AMBULANTA ZA BORELIOZO IN DRUGA INFEKCIJSKA OBOLENJA, BRANKO
+   </nazivorganizacijskeenote>
+   <dodatninazivorganizacijskeenote>
+    LOKACIJA CELJE
+   </dodatninazivorganizacijskeenote>
+   <ulicaorganizacijskeenote>
+    LJUBLJANSKA CESTA 5 A
+   </ulicaorganizacijskeenote>
+   <postaorganizacijskeenote>
+    3000 CELJE
+   </postaorganizacijskeenote>
+  </nazivinnaslov>
+  <pravnistatus>
+   <pravnistatussifra>
+    6
+   </pravnistatussifra>
+   <pravnistatusopis>
+    SAMOSTOJNI PODJETNIK - BREZ AMBULANTE
+   </pravnistatusopis>
+  </pravnistatus>
+  <tipizvajalca>
+   <tipizvajalcasifra>
+    2
+   </tipizvajalcasifra>
+   <tipizvajalcaopis>
+    SPECIALISTIČNA AMBULANTA
+   </tipizvajalcaopis>
+  </tipizvajalca>
+  <obcina>
+   <obcinasifra>
+    11
+   </obcinasifra>
+   <obcinanaziv>
+    CELJE
+   </obcinanaziv>
+  </obcina>
+  <veljaod>
+   2026-02-10
+  </veljaod>
+  <vzd>
+   <sifravzd>
+    208
+   </sifravzd>
+   <opisvzd>
+    Infektologija v spec. ZunajBolDej
+   </opisvzd>
+   <veljaod>
+    2026-02-10
    </veljaod>
   </vzd>
  </ivzizvajalec>
@@ -222932,6 +223430,74 @@
  </ivzizvajalec>
  <ivzizvajalec>
   <sifraivzizvajalca>
+   2640
+  </sifraivzizvajalca>
+  <sifralokacije>
+   1
+  </sifralokacije>
+  <zzzsstevilka>
+   10035733
+  </zzzsstevilka>
+  <organizacijskastruktura>
+   <sifraivzosnovni>
+    2640
+   </sifraivzosnovni>
+  </organizacijskastruktura>
+  <nazivinnaslov>
+   <nazivorganizacijskeenote>
+    VISIOMED D.O.O.
+   </nazivorganizacijskeenote>
+   <dodatninazivorganizacijskeenote>
+    PE MINUS 50
+   </dodatninazivorganizacijskeenote>
+   <ulicaorganizacijskeenote>
+    TRŽAŠKA CESTA 67 A
+   </ulicaorganizacijskeenote>
+   <postaorganizacijskeenote>
+    2000 MARIBOR
+   </postaorganizacijskeenote>
+  </nazivinnaslov>
+  <pravnistatus>
+   <pravnistatussifra>
+    2
+   </pravnistatussifra>
+   <pravnistatusopis>
+    GOSPODARSKA DRUŽBA / ZASEBNI ZAVOD
+   </pravnistatusopis>
+  </pravnistatus>
+  <tipizvajalca>
+   <tipizvajalcasifra>
+    2
+   </tipizvajalcasifra>
+   <tipizvajalcaopis>
+    SPECIALISTIČNA AMBULANTA
+   </tipizvajalcaopis>
+  </tipizvajalca>
+  <obcina>
+   <obcinasifra>
+    70
+   </obcinasifra>
+   <obcinanaziv>
+    MARIBOR
+   </obcinanaziv>
+  </obcina>
+  <veljaod>
+   2026-08-07
+  </veljaod>
+  <vzd>
+   <sifravzd>
+    220
+   </sifravzd>
+   <opisvzd>
+    Oftalmologija v spec. ZunajBolDej
+   </opisvzd>
+   <veljaod>
+    2026-08-07
+   </veljaod>
+  </vzd>
+ </ivzizvajalec>
+ <ivzizvajalec>
+  <sifraivzizvajalca>
    2641
   </sifraivzizvajalca>
   <sifralokacije>
@@ -223764,6 +224330,74 @@
    </sifravzd>
    <opisvzd>
     Urejanje zdr.,iz.,kult., drugih soc.st.
+   </opisvzd>
+   <veljaod>
+    2026-07-22
+   </veljaod>
+  </vzd>
+ </ivzizvajalec>
+ <ivzizvajalec>
+  <sifraivzizvajalca>
+   2643
+  </sifraivzizvajalca>
+  <sifralokacije>
+   1
+  </sifralokacije>
+  <zzzsstevilka>
+   10036180
+  </zzzsstevilka>
+  <organizacijskastruktura>
+   <sifraivzosnovni>
+    2643
+   </sifraivzosnovni>
+  </organizacijskastruktura>
+  <nazivinnaslov>
+   <nazivorganizacijskeenote>
+    ETVITA D.O.O.
+   </nazivorganizacijskeenote>
+   <dodatninazivorganizacijskeenote>
+    PE
+   </dodatninazivorganizacijskeenote>
+   <ulicaorganizacijskeenote>
+    TRATA 7
+   </ulicaorganizacijskeenote>
+   <postaorganizacijskeenote>
+    4224 GORENJA VAS
+   </postaorganizacijskeenote>
+  </nazivinnaslov>
+  <pravnistatus>
+   <pravnistatussifra>
+    2
+   </pravnistatussifra>
+   <pravnistatusopis>
+    GOSPODARSKA DRUŽBA / ZASEBNI ZAVOD
+   </pravnistatusopis>
+  </pravnistatus>
+  <tipizvajalca>
+   <tipizvajalcasifra>
+    1
+   </tipizvajalcasifra>
+   <tipizvajalcaopis>
+    OSNOVNO ZDRAVSTVO
+   </tipizvajalcaopis>
+  </tipizvajalca>
+  <obcina>
+   <obcinasifra>
+    27
+   </obcinasifra>
+   <obcinanaziv>
+    GORENJA VAS-POLJANE
+   </obcinanaziv>
+  </obcina>
+  <veljaod>
+   2026-07-22
+  </veljaod>
+  <vzd>
+   <sifravzd>
+    306
+   </sifravzd>
+   <opisvzd>
+    Ginekologija v splošni zunajBolDej
    </opisvzd>
    <veljaod>
     2026-07-22
@@ -333519,91 +334153,6 @@
    <veljaod>
     2014-11-01
    </veljaod>
-  </vzd>
- </ivzizvajalec>
- <ivzizvajalec>
-  <sifraivzizvajalca>
-   20729
-  </sifraivzizvajalca>
-  <sifralokacije>
-   0
-  </sifralokacije>
-  <zzzsstevilka>
-   6375740
-  </zzzsstevilka>
-  <organizacijskastruktura>
-   <sifraivzosnovni>
-    20729
-   </sifraivzosnovni>
-  </organizacijskastruktura>
-  <nazivinnaslov>
-   <nazivorganizacijskeenote>
-    ZZ ALBINA DREVENŠEK, ZGORNJI DUPLEK
-   </nazivorganizacijskeenote>
-   <ulicaorganizacijskeenote>
-    ZGORNJI DUPLEK 103 A
-   </ulicaorganizacijskeenote>
-   <postaorganizacijskeenote>
-    2241 SPODNJI DUPLEK
-   </postaorganizacijskeenote>
-  </nazivinnaslov>
-  <pravnistatus>
-   <pravnistatussifra>
-    4
-   </pravnistatussifra>
-   <pravnistatusopis>
-    OSTALO
-   </pravnistatusopis>
-  </pravnistatus>
-  <tipizvajalca>
-   <tipizvajalcasifra>
-    1
-   </tipizvajalcasifra>
-   <tipizvajalcaopis>
-    OSNOVNO ZDRAVSTVO
-   </tipizvajalcaopis>
-  </tipizvajalca>
-  <obcina>
-   <obcinasifra>
-    26
-   </obcinasifra>
-   <obcinanaziv>
-    DUPLEK
-   </obcinanaziv>
-  </obcina>
-  <veljaod>
-   2015-01-01
-  </veljaod>
-  <veljado>
-   2023-08-21
-  </veljado>
-  <vzd>
-   <sifravzd>
-    510
-   </sifravzd>
-   <opisvzd>
-    Patronažno varstvo
-   </opisvzd>
-   <veljaod>
-    2015-01-01
-   </veljaod>
-   <veljado>
-    2023-08-21
-   </veljado>
-  </vzd>
-  <vzd>
-   <sifravzd>
-    544
-   </sifravzd>
-   <opisvzd>
-    Zdravstvena nega v drugih dejavnostih
-   </opisvzd>
-   <veljaod>
-    2014-10-01
-   </veljaod>
-   <veljado>
-    2023-08-21
-   </veljado>
   </vzd>
  </ivzizvajalec>
  <ivzizvajalec>
