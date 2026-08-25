@@ -2,10 +2,10 @@
 <bpi xmlns="http://zzzs.si/b2b/bpi" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemalocation="http://zzzs.si/b2b/bpi bpi.xsd">
  <posiljka>
   <verzijaposiljke>
-   4978
+   4979
   </verzijaposiljke>
   <datumposiljke>
-   2026-08-24
+   2026-08-25
   </datumposiljke>
   <verzijasheme>
    1.0
@@ -85165,7 +85165,7 @@
    </obcinanaziv>
   </obcina>
   <veljaod>
-   1900-01-01
+   2015-01-27
   </veljaod>
   <vzd>
    <sifravzd>
@@ -113110,7 +113110,7 @@
    </obcinanaziv>
   </obcina>
   <veljaod>
-   2023-07-01
+   2023-06-07
   </veljaod>
   <vzd>
    <sifravzd>
@@ -150772,10 +150772,10 @@
   </nazivinnaslov>
   <pravnistatus>
    <pravnistatussifra>
-    6
+    5
    </pravnistatussifra>
    <pravnistatusopis>
-    SAMOSTOJNI PODJETNIK - BREZ AMBULANTE
+    SAMOSTOJNI PODJETNIK
    </pravnistatusopis>
   </pravnistatus>
   <tipizvajalca>
@@ -150840,10 +150840,10 @@
   </nazivinnaslov>
   <pravnistatus>
    <pravnistatussifra>
-    6
+    5
    </pravnistatussifra>
    <pravnistatusopis>
-    SAMOSTOJNI PODJETNIK - BREZ AMBULANTE
+    SAMOSTOJNI PODJETNIK
    </pravnistatusopis>
   </pravnistatus>
   <tipizvajalca>
@@ -150874,6 +150874,74 @@
    </opisvzd>
    <veljaod>
     2024-12-18
+   </veljaod>
+  </vzd>
+ </ivzizvajalec>
+ <ivzizvajalec>
+  <sifraivzizvajalca>
+   1617
+  </sifraivzizvajalca>
+  <sifralokacije>
+   2
+  </sifralokacije>
+  <zzzsstevilka>
+   9998426
+  </zzzsstevilka>
+  <organizacijskastruktura>
+   <sifraivzosnovni>
+    1617
+   </sifraivzosnovni>
+  </organizacijskastruktura>
+  <nazivinnaslov>
+   <nazivorganizacijskeenote>
+    FRANIĆ-IVANIŠEVIĆ MAJA S.P.
+   </nazivorganizacijskeenote>
+   <dodatninazivorganizacijskeenote>
+    POSLOVNA ENOTA MARIBOR
+   </dodatninazivorganizacijskeenote>
+   <ulicaorganizacijskeenote>
+    SMETANOVA ULICA 49
+   </ulicaorganizacijskeenote>
+   <postaorganizacijskeenote>
+    2000 MARIBOR
+   </postaorganizacijskeenote>
+  </nazivinnaslov>
+  <pravnistatus>
+   <pravnistatussifra>
+    5
+   </pravnistatussifra>
+   <pravnistatusopis>
+    SAMOSTOJNI PODJETNIK
+   </pravnistatusopis>
+  </pravnistatus>
+  <tipizvajalca>
+   <tipizvajalcasifra>
+    2
+   </tipizvajalcasifra>
+   <tipizvajalcaopis>
+    SPECIALISTIČNA AMBULANTA
+   </tipizvajalcaopis>
+  </tipizvajalca>
+  <obcina>
+   <obcinasifra>
+    70
+   </obcinasifra>
+   <obcinanaziv>
+    MARIBOR
+   </obcinanaziv>
+  </obcina>
+  <veljaod>
+   2026-04-09
+  </veljaod>
+  <vzd>
+   <sifravzd>
+    206
+   </sifravzd>
+   <opisvzd>
+    Ginek. in porod. v spec. ZunajBolDej
+   </opisvzd>
+   <veljaod>
+    2026-04-09
    </veljaod>
   </vzd>
  </ivzizvajalec>
