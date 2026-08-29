@@ -2,10 +2,10 @@
 <bpi xmlns="http://zzzs.si/b2b/bpi" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemalocation="http://zzzs.si/b2b/bpi bpi.xsd">
  <posiljka>
   <verzijaposiljke>
-   4982
+   4983
   </verzijaposiljke>
   <datumposiljke>
-   2026-08-28
+   2026-08-29
   </datumposiljke>
   <verzijasheme>
    1.0
@@ -114203,151 +114203,6 @@
    <veljaod>
     2023-08-01
    </veljaod>
-  </vzd>
- </ivzizvajalec>
- <ivzizvajalec>
-  <sifraivzizvajalca>
-   1209
-  </sifraivzizvajalca>
-  <sifralokacije>
-   0
-  </sifralokacije>
-  <zzzsstevilka>
-   9005050
-  </zzzsstevilka>
-  <organizacijskastruktura>
-   <sifraivzosnovni>
-    1209
-   </sifraivzosnovni>
-  </organizacijskastruktura>
-  <nazivinnaslov>
-   <nazivorganizacijskeenote>
-    URŠKA TREBIČNIK S.P.
-   </nazivorganizacijskeenote>
-   <ulicaorganizacijskeenote>
-    JERIHOVA CESTA 36
-   </ulicaorganizacijskeenote>
-   <postaorganizacijskeenote>
-    3320 VELENJE
-   </postaorganizacijskeenote>
-  </nazivinnaslov>
-  <pravnistatus>
-   <pravnistatussifra>
-    5
-   </pravnistatussifra>
-   <pravnistatusopis>
-    SAMOSTOJNI PODJETNIK
-   </pravnistatusopis>
-  </pravnistatus>
-  <tipizvajalca>
-   <tipizvajalcasifra>
-    1
-   </tipizvajalcasifra>
-   <tipizvajalcaopis>
-    OSNOVNO ZDRAVSTVO
-   </tipizvajalcaopis>
-  </tipizvajalca>
-  <obcina>
-   <obcinasifra>
-    133
-   </obcinasifra>
-   <obcinanaziv>
-    VELENJE
-   </obcinanaziv>
-  </obcina>
-  <veljaod>
-   2023-08-28
-  </veljaod>
-  <veljado>
-   2023-08-28
-  </veljado>
-  <vzd>
-   <sifravzd>
-    706
-   </sifravzd>
-   <opisvzd>
-    Urejanje zdr.,iz.,kult., drugih soc.st.
-   </opisvzd>
-   <veljaod>
-    2023-08-28
-   </veljaod>
-   <veljado>
-    2023-08-28
-   </veljado>
-  </vzd>
- </ivzizvajalec>
- <ivzizvajalec>
-  <sifraivzizvajalca>
-   1209
-  </sifraivzizvajalca>
-  <sifralokacije>
-   1
-  </sifralokacije>
-  <zzzsstevilka>
-   9015653
-  </zzzsstevilka>
-  <organizacijskastruktura>
-   <sifraivzosnovni>
-    1209
-   </sifraivzosnovni>
-  </organizacijskastruktura>
-  <nazivinnaslov>
-   <nazivorganizacijskeenote>
-    URŠKA TREBIČNIK S.P.
-   </nazivorganizacijskeenote>
-   <dodatninazivorganizacijskeenote>
-    POSLOVNA ENOTA
-   </dodatninazivorganizacijskeenote>
-   <ulicaorganizacijskeenote>
-    VODNIKOVA CESTA 1
-   </ulicaorganizacijskeenote>
-   <postaorganizacijskeenote>
-    3320 VELENJE
-   </postaorganizacijskeenote>
-  </nazivinnaslov>
-  <pravnistatus>
-   <pravnistatussifra>
-    5
-   </pravnistatussifra>
-   <pravnistatusopis>
-    SAMOSTOJNI PODJETNIK
-   </pravnistatusopis>
-  </pravnistatus>
-  <tipizvajalca>
-   <tipizvajalcasifra>
-    1
-   </tipizvajalcasifra>
-   <tipizvajalcaopis>
-    OSNOVNO ZDRAVSTVO
-   </tipizvajalcaopis>
-  </tipizvajalca>
-  <obcina>
-   <obcinasifra>
-    133
-   </obcinasifra>
-   <obcinanaziv>
-    VELENJE
-   </obcinanaziv>
-  </obcina>
-  <veljaod>
-   2023-08-28
-  </veljaod>
-  <veljado>
-   2023-08-28
-  </veljado>
-  <vzd>
-   <sifravzd>
-    302
-   </sifravzd>
-   <opisvzd>
-    Splošna in družinska medicina
-   </opisvzd>
-   <veljaod>
-    2023-08-28
-   </veljaod>
-   <veljado>
-    2023-08-28
-   </veljado>
   </vzd>
  </ivzizvajalec>
  <ivzizvajalec>
