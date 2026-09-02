@@ -2,10 +2,10 @@
 <bpi xmlns="http://zzzs.si/b2b/bpi" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemalocation="http://zzzs.si/b2b/bpi bpi.xsd">
  <posiljka>
   <verzijaposiljke>
-   4986
+   4987
   </verzijaposiljke>
   <datumposiljke>
-   2026-09-01
+   2026-09-02
   </datumposiljke>
   <verzijasheme>
    1.0
@@ -4249,6 +4249,142 @@
    </opisvzd>
    <veljaod>
     2019-08-21
+   </veljaod>
+  </vzd>
+ </ivzizvajalec>
+ <ivzizvajalec>
+  <sifraivzizvajalca>
+   48
+  </sifraivzizvajalca>
+  <sifralokacije>
+   2
+  </sifralokacije>
+  <zzzsstevilka>
+   9664943
+  </zzzsstevilka>
+  <organizacijskastruktura>
+   <sifraivzosnovni>
+    48
+   </sifraivzosnovni>
+  </organizacijskastruktura>
+  <nazivinnaslov>
+   <nazivorganizacijskeenote>
+    ZOBNA ORDINACIJA BOJANA VOČANEC D.O.O.
+   </nazivorganizacijskeenote>
+   <dodatninazivorganizacijskeenote>
+    PE ZOBNA ORDINACIJA ORMOŽ
+   </dodatninazivorganizacijskeenote>
+   <ulicaorganizacijskeenote>
+    LJUTOMERSKA CESTA 30 A
+   </ulicaorganizacijskeenote>
+   <postaorganizacijskeenote>
+    2270 ORMOŽ
+   </postaorganizacijskeenote>
+  </nazivinnaslov>
+  <pravnistatus>
+   <pravnistatussifra>
+    2
+   </pravnistatussifra>
+   <pravnistatusopis>
+    GOSPODARSKA DRUŽBA / ZASEBNI ZAVOD
+   </pravnistatusopis>
+  </pravnistatus>
+  <tipizvajalca>
+   <tipizvajalcasifra>
+    1
+   </tipizvajalcasifra>
+   <tipizvajalcaopis>
+    OSNOVNO ZDRAVSTVO
+   </tipizvajalcaopis>
+  </tipizvajalca>
+  <obcina>
+   <obcinasifra>
+    87
+   </obcinasifra>
+   <obcinanaziv>
+    ORMOŽ
+   </obcinanaziv>
+  </obcina>
+  <veljaod>
+   2025-09-01
+  </veljaod>
+  <vzd>
+   <sifravzd>
+    404
+   </sifravzd>
+   <opisvzd>
+    Splošno zobozdravstvo
+   </opisvzd>
+   <veljaod>
+    2025-09-01
+   </veljaod>
+  </vzd>
+ </ivzizvajalec>
+ <ivzizvajalec>
+  <sifraivzizvajalca>
+   48
+  </sifraivzizvajalca>
+  <sifralokacije>
+   3
+  </sifralokacije>
+  <zzzsstevilka>
+   10013007
+  </zzzsstevilka>
+  <organizacijskastruktura>
+   <sifraivzosnovni>
+    48
+   </sifraivzosnovni>
+  </organizacijskastruktura>
+  <nazivinnaslov>
+   <nazivorganizacijskeenote>
+    ZOBNA ORDINACIJA BOJANA VOČANEC D.O.O.
+   </nazivorganizacijskeenote>
+   <dodatninazivorganizacijskeenote>
+    PE ZOBNA ORDINACIJA MAJŠPERK
+   </dodatninazivorganizacijskeenote>
+   <ulicaorganizacijskeenote>
+    BREG 6 A
+   </ulicaorganizacijskeenote>
+   <postaorganizacijskeenote>
+    2322 MAJŠPERK
+   </postaorganizacijskeenote>
+  </nazivinnaslov>
+  <pravnistatus>
+   <pravnistatussifra>
+    2
+   </pravnistatussifra>
+   <pravnistatusopis>
+    GOSPODARSKA DRUŽBA / ZASEBNI ZAVOD
+   </pravnistatusopis>
+  </pravnistatus>
+  <tipizvajalca>
+   <tipizvajalcasifra>
+    1
+   </tipizvajalcasifra>
+   <tipizvajalcaopis>
+    OSNOVNO ZDRAVSTVO
+   </tipizvajalcaopis>
+  </tipizvajalca>
+  <obcina>
+   <obcinasifra>
+    69
+   </obcinasifra>
+   <obcinanaziv>
+    MAJŠPERK
+   </obcinanaziv>
+  </obcina>
+  <veljaod>
+   2026-09-01
+  </veljaod>
+  <vzd>
+   <sifravzd>
+    404
+   </sifravzd>
+   <opisvzd>
+    Splošno zobozdravstvo
+   </opisvzd>
+   <veljaod>
+    2026-09-01
    </veljaod>
   </vzd>
  </ivzizvajalec>
@@ -209380,6 +209516,139 @@
  </ivzizvajalec>
  <ivzizvajalec>
   <sifraivzizvajalca>
+   2405
+  </sifraivzizvajalca>
+  <sifralokacije>
+   0
+  </sifralokacije>
+  <zzzsstevilka>
+   9213856
+  </zzzsstevilka>
+  <organizacijskastruktura>
+   <sifraivzosnovni>
+    2405
+   </sifraivzosnovni>
+  </organizacijskastruktura>
+  <nazivinnaslov>
+   <nazivorganizacijskeenote>
+    LARISA MERNIK S.P.
+   </nazivorganizacijskeenote>
+   <ulicaorganizacijskeenote>
+    JANŠKOVO SELO 16 B
+   </ulicaorganizacijskeenote>
+   <postaorganizacijskeenote>
+    3320 VELENJE
+   </postaorganizacijskeenote>
+  </nazivinnaslov>
+  <pravnistatus>
+   <pravnistatussifra>
+    5
+   </pravnistatussifra>
+   <pravnistatusopis>
+    SAMOSTOJNI PODJETNIK
+   </pravnistatusopis>
+  </pravnistatus>
+  <tipizvajalca>
+   <tipizvajalcasifra>
+    1
+   </tipizvajalcasifra>
+   <tipizvajalcaopis>
+    OSNOVNO ZDRAVSTVO
+   </tipizvajalcaopis>
+  </tipizvajalca>
+  <obcina>
+   <obcinasifra>
+    133
+   </obcinasifra>
+   <obcinanaziv>
+    VELENJE
+   </obcinanaziv>
+  </obcina>
+  <veljaod>
+   2025-12-30
+  </veljaod>
+  <vzd>
+   <sifravzd>
+    706
+   </sifravzd>
+   <opisvzd>
+    Urejanje zdr.,iz.,kult., drugih soc.st.
+   </opisvzd>
+   <veljaod>
+    2025-12-30
+   </veljaod>
+  </vzd>
+ </ivzizvajalec>
+ <ivzizvajalec>
+  <sifraivzizvajalca>
+   2405
+  </sifraivzizvajalca>
+  <sifralokacije>
+   2
+  </sifralokacije>
+  <zzzsstevilka>
+   10038010
+  </zzzsstevilka>
+  <organizacijskastruktura>
+   <sifraivzosnovni>
+    2405
+   </sifraivzosnovni>
+  </organizacijskastruktura>
+  <nazivinnaslov>
+   <nazivorganizacijskeenote>
+    LARISA MERNIK S.P.
+   </nazivorganizacijskeenote>
+   <dodatninazivorganizacijskeenote>
+    PE LAGUNA
+   </dodatninazivorganizacijskeenote>
+   <ulicaorganizacijskeenote>
+    LINHARTOVA CESTA 9
+   </ulicaorganizacijskeenote>
+   <postaorganizacijskeenote>
+    1000 LJUBLJANA
+   </postaorganizacijskeenote>
+  </nazivinnaslov>
+  <pravnistatus>
+   <pravnistatussifra>
+    5
+   </pravnistatussifra>
+   <pravnistatusopis>
+    SAMOSTOJNI PODJETNIK
+   </pravnistatusopis>
+  </pravnistatus>
+  <tipizvajalca>
+   <tipizvajalcasifra>
+    1
+   </tipizvajalcasifra>
+   <tipizvajalcaopis>
+    OSNOVNO ZDRAVSTVO
+   </tipizvajalcaopis>
+  </tipizvajalca>
+  <obcina>
+   <obcinasifra>
+    61
+   </obcinasifra>
+   <obcinanaziv>
+    LJUBLJANA
+   </obcinanaziv>
+  </obcina>
+  <veljaod>
+   2025-12-30
+  </veljaod>
+  <vzd>
+   <sifravzd>
+    507
+   </sifravzd>
+   <opisvzd>
+    Fizioterapija
+   </opisvzd>
+   <veljaod>
+    2025-12-30
+   </veljaod>
+  </vzd>
+ </ivzizvajalec>
+ <ivzizvajalec>
+  <sifraivzizvajalca>
    2406
   </sifraivzizvajalca>
   <sifralokacije>
@@ -273771,6 +274040,17 @@
    </opisvzd>
    <veljaod>
     2007-06-19
+   </veljaod>
+  </vzd>
+  <vzd>
+   <sifravzd>
+    255
+   </sifravzd>
+   <opisvzd>
+    Klinična psihologija v spec. ZunajBolDej
+   </opisvzd>
+   <veljaod>
+    2026-09-01
    </veljaod>
   </vzd>
  </ivzizvajalec>
