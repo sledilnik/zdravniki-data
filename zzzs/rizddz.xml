@@ -2,10 +2,10 @@
 <bpi xmlns="http://zzzs.si/b2b/bpi" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemalocation="http://zzzs.si/b2b/bpi bpi.xsd">
  <posiljka>
   <verzijaposiljke>
-   4987
+   4988
   </verzijaposiljke>
   <datumposiljke>
-   2026-09-02
+   2026-09-03
   </datumposiljke>
   <verzijasheme>
    1.0
@@ -182778,6 +182778,139 @@
  </ivzizvajalec>
  <ivzizvajalec>
   <sifraivzizvajalca>
+   2029
+  </sifraivzizvajalca>
+  <sifralokacije>
+   0
+  </sifralokacije>
+  <zzzsstevilka>
+   6647621
+  </zzzsstevilka>
+  <organizacijskastruktura>
+   <sifraivzosnovni>
+    2029
+   </sifraivzosnovni>
+  </organizacijskastruktura>
+  <nazivinnaslov>
+   <nazivorganizacijskeenote>
+    TVIPSI NEVENKA GRIČAR S.P.
+   </nazivorganizacijskeenote>
+   <ulicaorganizacijskeenote>
+    POT K ČUVAJNICI 16
+   </ulicaorganizacijskeenote>
+   <postaorganizacijskeenote>
+    1351 BREZOVICA PRI LJUBLJANI
+   </postaorganizacijskeenote>
+  </nazivinnaslov>
+  <pravnistatus>
+   <pravnistatussifra>
+    5
+   </pravnistatussifra>
+   <pravnistatusopis>
+    SAMOSTOJNI PODJETNIK
+   </pravnistatusopis>
+  </pravnistatus>
+  <tipizvajalca>
+   <tipizvajalcasifra>
+    1
+   </tipizvajalcasifra>
+   <tipizvajalcaopis>
+    OSNOVNO ZDRAVSTVO
+   </tipizvajalcaopis>
+  </tipizvajalca>
+  <obcina>
+   <obcinasifra>
+    8
+   </obcinasifra>
+   <obcinanaziv>
+    BREZOVICA
+   </obcinanaziv>
+  </obcina>
+  <veljaod>
+   2017-11-20
+  </veljaod>
+  <vzd>
+   <sifravzd>
+    706
+   </sifravzd>
+   <opisvzd>
+    Urejanje zdr.,iz.,kult., drugih soc.st.
+   </opisvzd>
+   <veljaod>
+    2017-11-20
+   </veljaod>
+  </vzd>
+ </ivzizvajalec>
+ <ivzizvajalec>
+  <sifraivzizvajalca>
+   2029
+  </sifraivzizvajalca>
+  <sifralokacije>
+   1
+  </sifralokacije>
+  <zzzsstevilka>
+   10040595
+  </zzzsstevilka>
+  <organizacijskastruktura>
+   <sifraivzosnovni>
+    2029
+   </sifraivzosnovni>
+  </organizacijskastruktura>
+  <nazivinnaslov>
+   <nazivorganizacijskeenote>
+    TVIPSI NEVENKA GRIČAR S.P.
+   </nazivorganizacijskeenote>
+   <dodatninazivorganizacijskeenote>
+    POSLOVNA ENOTA MURGLE
+   </dodatninazivorganizacijskeenote>
+   <ulicaorganizacijskeenote>
+    CESTA V MESTNI LOG 55
+   </ulicaorganizacijskeenote>
+   <postaorganizacijskeenote>
+    1000 LJUBLJANA
+   </postaorganizacijskeenote>
+  </nazivinnaslov>
+  <pravnistatus>
+   <pravnistatussifra>
+    5
+   </pravnistatussifra>
+   <pravnistatusopis>
+    SAMOSTOJNI PODJETNIK
+   </pravnistatusopis>
+  </pravnistatus>
+  <tipizvajalca>
+   <tipizvajalcasifra>
+    1
+   </tipizvajalcasifra>
+   <tipizvajalcaopis>
+    OSNOVNO ZDRAVSTVO
+   </tipizvajalcaopis>
+  </tipizvajalca>
+  <obcina>
+   <obcinasifra>
+    61
+   </obcinasifra>
+   <obcinanaziv>
+    LJUBLJANA
+   </obcinanaziv>
+  </obcina>
+  <veljaod>
+   2017-11-20
+  </veljaod>
+  <vzd>
+   <sifravzd>
+    506
+   </sifravzd>
+   <opisvzd>
+    Delovna terapija
+   </opisvzd>
+   <veljaod>
+    2017-11-20
+   </veljaod>
+  </vzd>
+ </ivzizvajalec>
+ <ivzizvajalec>
+  <sifraivzizvajalca>
    2034
   </sifraivzizvajalca>
   <sifralokacije>
@@ -218655,7 +218788,7 @@
   </organizacijskastruktura>
   <nazivinnaslov>
    <nazivorganizacijskeenote>
-    INOVACIJSKI CENTER ZDRAVJA NOVO MESTO
+    INOVACIJSKI CENTER ZDRAVJA NOVO MESTO - V LIKVIDACIJI
    </nazivorganizacijskeenote>
    <ulicaorganizacijskeenote>
     NA LOKO 2
@@ -222782,6 +222915,71 @@
    </sifravzd>
    <opisvzd>
     Ustna higiena
+   </opisvzd>
+   <veljaod>
+    2026-04-17
+   </veljaod>
+  </vzd>
+ </ivzizvajalec>
+ <ivzizvajalec>
+  <sifraivzizvajalca>
+   2559
+  </sifraivzizvajalca>
+  <sifralokacije>
+   0
+  </sifralokacije>
+  <zzzsstevilka>
+   8940362
+  </zzzsstevilka>
+  <organizacijskastruktura>
+   <sifraivzosnovni>
+    2559
+   </sifraivzosnovni>
+  </organizacijskastruktura>
+  <nazivinnaslov>
+   <nazivorganizacijskeenote>
+    MR FIZIO, MATEJ ROT S.P.
+   </nazivorganizacijskeenote>
+   <ulicaorganizacijskeenote>
+    ULICA MESTA GREVENBROICH 9
+   </ulicaorganizacijskeenote>
+   <postaorganizacijskeenote>
+    3000 CELJE
+   </postaorganizacijskeenote>
+  </nazivinnaslov>
+  <pravnistatus>
+   <pravnistatussifra>
+    5
+   </pravnistatussifra>
+   <pravnistatusopis>
+    SAMOSTOJNI PODJETNIK
+   </pravnistatusopis>
+  </pravnistatus>
+  <tipizvajalca>
+   <tipizvajalcasifra>
+    1
+   </tipizvajalcasifra>
+   <tipizvajalcaopis>
+    OSNOVNO ZDRAVSTVO
+   </tipizvajalcaopis>
+  </tipizvajalca>
+  <obcina>
+   <obcinasifra>
+    11
+   </obcinasifra>
+   <obcinanaziv>
+    CELJE
+   </obcinanaziv>
+  </obcina>
+  <veljaod>
+   2026-04-17
+  </veljaod>
+  <vzd>
+   <sifravzd>
+    507
+   </sifravzd>
+   <opisvzd>
+    Fizioterapija
    </opisvzd>
    <veljaod>
     2026-04-17
@@ -248646,6 +248844,9 @@
    <veljaod>
     2026-09-01
    </veljaod>
+   <veljado>
+    2026-09-01
+   </veljado>
   </vzd>
   <vzd>
    <sifravzd>
@@ -396712,6 +396913,9 @@
   <veljaod>
    2006-12-01
   </veljaod>
+  <veljado>
+   2026-08-31
+  </veljado>
   <vzd>
    <sifravzd>
     706
@@ -396722,6 +396926,9 @@
    <veljaod>
     2006-12-01
    </veljaod>
+   <veljado>
+    2026-08-31
+   </veljado>
   </vzd>
  </ivzizvajalec>
  <ivzizvajalec>
@@ -396780,6 +396987,9 @@
   <veljaod>
    2006-12-01
   </veljaod>
+  <veljado>
+   2026-08-31
+  </veljado>
   <vzd>
    <sifravzd>
     230
@@ -396790,6 +397000,9 @@
    <veljaod>
     2006-12-01
    </veljaod>
+   <veljado>
+    2026-08-31
+   </veljado>
   </vzd>
  </ivzizvajalec>
  <ivzizvajalec>
