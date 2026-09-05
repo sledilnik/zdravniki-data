@@ -2,10 +2,10 @@
 <bpi xmlns="http://zzzs.si/b2b/bpi" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemalocation="http://zzzs.si/b2b/bpi bpi.xsd">
  <posiljka>
   <verzijaposiljke>
-   4989
+   4990
   </verzijaposiljke>
   <datumposiljke>
-   2026-09-04
+   2026-09-05
   </datumposiljke>
   <verzijasheme>
    1.0
@@ -81853,10 +81853,10 @@
   </nazivinnaslov>
   <pravnistatus>
    <pravnistatussifra>
-    5
+    6
    </pravnistatussifra>
    <pravnistatusopis>
-    SAMOSTOJNI PODJETNIK
+    SAMOSTOJNI PODJETNIK - BREZ AMBULANTE
    </pravnistatusopis>
   </pravnistatus>
   <tipizvajalca>
@@ -81921,10 +81921,10 @@
   </nazivinnaslov>
   <pravnistatus>
    <pravnistatussifra>
-    5
+    6
    </pravnistatussifra>
    <pravnistatusopis>
-    SAMOSTOJNI PODJETNIK
+    SAMOSTOJNI PODJETNIK - BREZ AMBULANTE
    </pravnistatusopis>
   </pravnistatus>
   <tipizvajalca>
@@ -180570,10 +180570,10 @@
     PE WIZIL POGAČAR
    </dodatninazivorganizacijskeenote>
    <ulicaorganizacijskeenote>
-    ŽELEZNA CESTA 8
+    ZGORNJE LOKE 19 A
    </ulicaorganizacijskeenote>
    <postaorganizacijskeenote>
-    1000 LJUBLJANA
+    1223 BLAGOVICA
    </postaorganizacijskeenote>
   </nazivinnaslov>
   <pravnistatus>
@@ -180594,10 +180594,10 @@
   </tipizvajalca>
   <obcina>
    <obcinasifra>
-    61
+    68
    </obcinasifra>
    <obcinanaziv>
-    LJUBLJANA
+    LUKOVICA
    </obcinanaziv>
   </obcina>
   <veljaod>
@@ -368101,6 +368101,161 @@
  </ivzizvajalec>
  <ivzizvajalec>
   <sifraivzizvajalca>
+   25200
+  </sifraivzizvajalca>
+  <sifralokacije>
+   0
+  </sifralokacije>
+  <zzzsstevilka>
+   3111940
+  </zzzsstevilka>
+  <organizacijskastruktura>
+   <sifraivzosnovni>
+    25200
+   </sifraivzosnovni>
+  </organizacijskastruktura>
+  <nazivinnaslov>
+   <nazivorganizacijskeenote>
+    SZO HELENA BOŽIČ
+   </nazivorganizacijskeenote>
+   <ulicaorganizacijskeenote>
+    ŠTORJE 41 A
+   </ulicaorganizacijskeenote>
+   <postaorganizacijskeenote>
+    6210 SEŽANA
+   </postaorganizacijskeenote>
+  </nazivinnaslov>
+  <pravnistatus>
+   <pravnistatussifra>
+    3
+   </pravnistatussifra>
+   <pravnistatusopis>
+    ZASEBNI ZDRAVSTVENI DELAVEC
+   </pravnistatusopis>
+  </pravnistatus>
+  <tipizvajalca>
+   <tipizvajalcasifra>
+    1
+   </tipizvajalcasifra>
+   <tipizvajalcaopis>
+    OSNOVNO ZDRAVSTVO
+   </tipizvajalcaopis>
+  </tipizvajalca>
+  <obcina>
+   <obcinasifra>
+    111
+   </obcinasifra>
+   <obcinanaziv>
+    SEŽANA
+   </obcinanaziv>
+  </obcina>
+  <veljaod>
+   1998-11-25
+  </veljaod>
+  <vzd>
+   <sifravzd>
+    401
+   </sifravzd>
+   <opisvzd>
+    Čeljustna in zobna ortopedija
+   </opisvzd>
+   <veljaod>
+    2003-01-01
+   </veljaod>
+  </vzd>
+  <vzd>
+   <sifravzd>
+    404
+   </sifravzd>
+   <opisvzd>
+    Splošno zobozdravstvo
+   </opisvzd>
+   <veljaod>
+    1998-11-25
+   </veljaod>
+  </vzd>
+ </ivzizvajalec>
+ <ivzizvajalec>
+  <sifraivzizvajalca>
+   25200
+  </sifraivzizvajalca>
+  <sifralokacije>
+   1
+  </sifralokacije>
+  <zzzsstevilka>
+   4124161
+  </zzzsstevilka>
+  <organizacijskastruktura>
+   <sifraivzosnovni>
+    25200
+   </sifraivzosnovni>
+  </organizacijskastruktura>
+  <nazivinnaslov>
+   <nazivorganizacijskeenote>
+    SZO HELENA BOŽIČ
+   </nazivorganizacijskeenote>
+   <dodatninazivorganizacijskeenote>
+    SZO BOŽIČ, HELENA BOŽIČ
+   </dodatninazivorganizacijskeenote>
+   <ulicaorganizacijskeenote>
+    ZATIŠJE 5
+   </ulicaorganizacijskeenote>
+   <postaorganizacijskeenote>
+    6320 PORTOROŽ - PORTOROSE
+   </postaorganizacijskeenote>
+  </nazivinnaslov>
+  <pravnistatus>
+   <pravnistatussifra>
+    3
+   </pravnistatussifra>
+   <pravnistatusopis>
+    ZASEBNI ZDRAVSTVENI DELAVEC
+   </pravnistatusopis>
+  </pravnistatus>
+  <tipizvajalca>
+   <tipizvajalcasifra>
+    1
+   </tipizvajalcasifra>
+   <tipizvajalcaopis>
+    OSNOVNO ZDRAVSTVO
+   </tipizvajalcaopis>
+  </tipizvajalca>
+  <obcina>
+   <obcinasifra>
+    90
+   </obcinasifra>
+   <obcinanaziv>
+    PIRAN
+   </obcinanaziv>
+  </obcina>
+  <veljaod>
+   2004-04-05
+  </veljaod>
+  <vzd>
+   <sifravzd>
+    401
+   </sifravzd>
+   <opisvzd>
+    Čeljustna in zobna ortopedija
+   </opisvzd>
+   <veljaod>
+    2004-04-05
+   </veljaod>
+  </vzd>
+  <vzd>
+   <sifravzd>
+    404
+   </sifravzd>
+   <opisvzd>
+    Splošno zobozdravstvo
+   </opisvzd>
+   <veljaod>
+    2004-04-05
+   </veljaod>
+  </vzd>
+ </ivzizvajalec>
+ <ivzizvajalec>
+  <sifraivzizvajalca>
    25206
   </sifraivzizvajalca>
   <sifralokacije>
@@ -368530,6 +368685,74 @@
  </ivzizvajalec>
  <ivzizvajalec>
   <sifraivzizvajalca>
+   25211
+  </sifraivzizvajalca>
+  <sifralokacije>
+   0
+  </sifralokacije>
+  <zzzsstevilka>
+   3197957
+  </zzzsstevilka>
+  <organizacijskastruktura>
+   <sifraivzosnovni>
+    25211
+   </sifraivzosnovni>
+  </organizacijskastruktura>
+  <nazivinnaslov>
+   <nazivorganizacijskeenote>
+    DOM DVA TOPOLA, D.O.O.
+   </nazivorganizacijskeenote>
+   <dodatninazivorganizacijskeenote>
+    ENOTA REHABILITACIJA
+   </dodatninazivorganizacijskeenote>
+   <ulicaorganizacijskeenote>
+    LEVSTIKOVA ULICA 1
+   </ulicaorganizacijskeenote>
+   <postaorganizacijskeenote>
+    6310 IZOLA - ISOLA
+   </postaorganizacijskeenote>
+  </nazivinnaslov>
+  <pravnistatus>
+   <pravnistatussifra>
+    2
+   </pravnistatussifra>
+   <pravnistatusopis>
+    GOSPODARSKA DRUŽBA / ZASEBNI ZAVOD
+   </pravnistatusopis>
+  </pravnistatus>
+  <tipizvajalca>
+   <tipizvajalcasifra>
+    7
+   </tipizvajalcasifra>
+   <tipizvajalcaopis>
+    SOCIALNI ZAVOD
+   </tipizvajalcaopis>
+  </tipizvajalca>
+  <obcina>
+   <obcinasifra>
+    40
+   </obcinasifra>
+   <obcinanaziv>
+    IZOLA
+   </obcinanaziv>
+  </obcina>
+  <veljaod>
+   2001-01-01
+  </veljaod>
+  <vzd>
+   <sifravzd>
+    507
+   </sifravzd>
+   <opisvzd>
+    Fizioterapija
+   </opisvzd>
+   <veljaod>
+    2001-01-01
+   </veljaod>
+  </vzd>
+ </ivzizvajalec>
+ <ivzizvajalec>
+  <sifraivzizvajalca>
    25212
   </sifraivzizvajalca>
   <sifralokacije>
@@ -368857,6 +369080,71 @@
    <veljado>
     2025-02-25
    </veljado>
+  </vzd>
+ </ivzizvajalec>
+ <ivzizvajalec>
+  <sifraivzizvajalca>
+   25220
+  </sifraivzizvajalca>
+  <sifralokacije>
+   0
+  </sifralokacije>
+  <zzzsstevilka>
+   3201880
+  </zzzsstevilka>
+  <organizacijskastruktura>
+   <sifraivzosnovni>
+    25220
+   </sifraivzosnovni>
+  </organizacijskastruktura>
+  <nazivinnaslov>
+   <nazivorganizacijskeenote>
+    MAJA FORTUNAT S.P.
+   </nazivorganizacijskeenote>
+   <ulicaorganizacijskeenote>
+    FERRARSKA ULICA 8
+   </ulicaorganizacijskeenote>
+   <postaorganizacijskeenote>
+    6000 KOPER - CAPODISTRIA
+   </postaorganizacijskeenote>
+  </nazivinnaslov>
+  <pravnistatus>
+   <pravnistatussifra>
+    5
+   </pravnistatussifra>
+   <pravnistatusopis>
+    SAMOSTOJNI PODJETNIK
+   </pravnistatusopis>
+  </pravnistatus>
+  <tipizvajalca>
+   <tipizvajalcasifra>
+    1
+   </tipizvajalcasifra>
+   <tipizvajalcaopis>
+    OSNOVNO ZDRAVSTVO
+   </tipizvajalcaopis>
+  </tipizvajalca>
+  <obcina>
+   <obcinasifra>
+    50
+   </obcinasifra>
+   <obcinanaziv>
+    KOPER
+   </obcinanaziv>
+  </obcina>
+  <veljaod>
+   2003-02-11
+  </veljaod>
+  <vzd>
+   <sifravzd>
+    507
+   </sifravzd>
+   <opisvzd>
+    Fizioterapija
+   </opisvzd>
+   <veljaod>
+    2003-02-11
+   </veljaod>
   </vzd>
  </ivzizvajalec>
  <ivzizvajalec>
@@ -369252,6 +369540,150 @@
    </opisvzd>
    <veljaod>
     2017-12-15
+   </veljaod>
+  </vzd>
+ </ivzizvajalec>
+ <ivzizvajalec>
+  <sifraivzizvajalca>
+   25229
+  </sifraivzizvajalca>
+  <sifralokacije>
+   0
+  </sifralokacije>
+  <zzzsstevilka>
+   524583
+  </zzzsstevilka>
+  <organizacijskastruktura>
+   <sifraivzosnovni>
+    25229
+   </sifraivzosnovni>
+  </organizacijskastruktura>
+  <nazivinnaslov>
+   <nazivorganizacijskeenote>
+    TOMMAS D.O.O.
+   </nazivorganizacijskeenote>
+   <ulicaorganizacijskeenote>
+    ANKARANSKA CESTA 5 C
+   </ulicaorganizacijskeenote>
+   <postaorganizacijskeenote>
+    6000 KOPER - CAPODISTRIA
+   </postaorganizacijskeenote>
+  </nazivinnaslov>
+  <pravnistatus>
+   <pravnistatussifra>
+    2
+   </pravnistatussifra>
+   <pravnistatusopis>
+    GOSPODARSKA DRUŽBA / ZASEBNI ZAVOD
+   </pravnistatusopis>
+  </pravnistatus>
+  <tipizvajalca>
+   <tipizvajalcasifra>
+    20
+   </tipizvajalcasifra>
+   <tipizvajalcaopis>
+    OSTALI, KI OPRAVLJAJO ZDR. DEJ.
+   </tipizvajalcaopis>
+  </tipizvajalca>
+  <obcina>
+   <obcinasifra>
+    50
+   </obcinasifra>
+   <obcinanaziv>
+    KOPER
+   </obcinanaziv>
+  </obcina>
+  <veljaod>
+   2003-09-15
+  </veljaod>
+  <vzd>
+   <sifravzd>
+    220
+   </sifravzd>
+   <opisvzd>
+    Oftalmologija v spec. ZunajBolDej
+   </opisvzd>
+   <veljaod>
+    2004-01-01
+   </veljaod>
+  </vzd>
+  <vzd>
+   <sifravzd>
+    706
+   </sifravzd>
+   <opisvzd>
+    Urejanje zdr.,iz.,kult., drugih soc.st.
+   </opisvzd>
+   <veljaod>
+    2021-01-07
+   </veljaod>
+  </vzd>
+ </ivzizvajalec>
+ <ivzizvajalec>
+  <sifraivzizvajalca>
+   25229
+  </sifraivzizvajalca>
+  <sifralokacije>
+   1
+  </sifralokacije>
+  <zzzsstevilka>
+   8222754
+  </zzzsstevilka>
+  <organizacijskastruktura>
+   <sifraivzosnovni>
+    25229
+   </sifraivzosnovni>
+  </organizacijskastruktura>
+  <nazivinnaslov>
+   <nazivorganizacijskeenote>
+    TOMMAS D.O.O.
+   </nazivorganizacijskeenote>
+   <dodatninazivorganizacijskeenote>
+    PE OPTIKA TOMMAS
+   </dodatninazivorganizacijskeenote>
+   <ulicaorganizacijskeenote>
+    PIRANSKA CESTA 2 A
+   </ulicaorganizacijskeenote>
+   <postaorganizacijskeenote>
+    6000 KOPER - CAPODISTRIA
+   </postaorganizacijskeenote>
+  </nazivinnaslov>
+  <pravnistatus>
+   <pravnistatussifra>
+    2
+   </pravnistatussifra>
+   <pravnistatusopis>
+    GOSPODARSKA DRUŽBA / ZASEBNI ZAVOD
+   </pravnistatusopis>
+  </pravnistatus>
+  <tipizvajalca>
+   <tipizvajalcasifra>
+    20
+   </tipizvajalcasifra>
+   <tipizvajalcaopis>
+    OSTALI, KI OPRAVLJAJO ZDR. DEJ.
+   </tipizvajalcaopis>
+  </tipizvajalca>
+  <obcina>
+   <obcinasifra>
+    50
+   </obcinasifra>
+   <obcinanaziv>
+    KOPER
+   </obcinanaziv>
+  </obcina>
+  <veljaod>
+   2021-01-07
+  </veljaod>
+  <vzd>
+   <sifravzd>
+    220
+   </sifravzd>
+   <opisvzd>
+    Oftalmologija v spec. ZunajBolDej
+   </opisvzd>
+   <veljaod>
+    2021-01-07
    </veljaod>
   </vzd>
  </ivzizvajalec>
@@ -370182,6 +370614,71 @@
  </ivzizvajalec>
  <ivzizvajalec>
   <sifraivzizvajalca>
+   25244
+  </sifraivzizvajalca>
+  <sifralokacije>
+   0
+  </sifralokacije>
+  <zzzsstevilka>
+   3488469
+  </zzzsstevilka>
+  <organizacijskastruktura>
+   <sifraivzosnovni>
+    25244
+   </sifraivzosnovni>
+  </organizacijskastruktura>
+  <nazivinnaslov>
+   <nazivorganizacijskeenote>
+    ZOBOTEHNIČNI LABORATORIJ - ROLIČ INGRID
+   </nazivorganizacijskeenote>
+   <ulicaorganizacijskeenote>
+    STANIČEV TRG 1
+   </ulicaorganizacijskeenote>
+   <postaorganizacijskeenote>
+    6000 KOPER - CAPODISTRIA
+   </postaorganizacijskeenote>
+  </nazivinnaslov>
+  <pravnistatus>
+   <pravnistatussifra>
+    3
+   </pravnistatussifra>
+   <pravnistatusopis>
+    ZASEBNI ZDRAVSTVENI DELAVEC
+   </pravnistatusopis>
+  </pravnistatus>
+  <tipizvajalca>
+   <tipizvajalcasifra>
+    1
+   </tipizvajalcasifra>
+   <tipizvajalcaopis>
+    OSNOVNO ZDRAVSTVO
+   </tipizvajalcaopis>
+  </tipizvajalca>
+  <obcina>
+   <obcinasifra>
+    50
+   </obcinasifra>
+   <obcinanaziv>
+    KOPER
+   </obcinanaziv>
+  </obcina>
+  <veljaod>
+   2000-11-01
+  </veljaod>
+  <vzd>
+   <sifravzd>
+    714
+   </sifravzd>
+   <opisvzd>
+    Zobotehnika
+   </opisvzd>
+   <veljaod>
+    2000-11-01
+   </veljaod>
+  </vzd>
+ </ivzizvajalec>
+ <ivzizvajalec>
+  <sifraivzizvajalca>
    25246
   </sifraivzizvajalca>
   <sifralokacije>
@@ -370313,6 +370810,71 @@
    </opisvzd>
    <veljaod>
     1992-03-25
+   </veljaod>
+  </vzd>
+ </ivzizvajalec>
+ <ivzizvajalec>
+  <sifraivzizvajalca>
+   25251
+  </sifraivzizvajalca>
+  <sifralokacije>
+   0
+  </sifralokacije>
+  <zzzsstevilka>
+   4113614
+  </zzzsstevilka>
+  <organizacijskastruktura>
+   <sifraivzosnovni>
+    25251
+   </sifraivzosnovni>
+  </organizacijskastruktura>
+  <nazivinnaslov>
+   <nazivorganizacijskeenote>
+    LIPC D.O.O. SEŽANA
+   </nazivorganizacijskeenote>
+   <ulicaorganizacijskeenote>
+    PARTIZANSKA CESTA 63
+   </ulicaorganizacijskeenote>
+   <postaorganizacijskeenote>
+    6210 SEŽANA
+   </postaorganizacijskeenote>
+  </nazivinnaslov>
+  <pravnistatus>
+   <pravnistatussifra>
+    2
+   </pravnistatussifra>
+   <pravnistatusopis>
+    GOSPODARSKA DRUŽBA / ZASEBNI ZAVOD
+   </pravnistatusopis>
+  </pravnistatus>
+  <tipizvajalca>
+   <tipizvajalcasifra>
+    1
+   </tipizvajalcasifra>
+   <tipizvajalcaopis>
+    OSNOVNO ZDRAVSTVO
+   </tipizvajalcaopis>
+  </tipizvajalca>
+  <obcina>
+   <obcinasifra>
+    111
+   </obcinasifra>
+   <obcinanaziv>
+    SEŽANA
+   </obcinanaziv>
+  </obcina>
+  <veljaod>
+   2005-10-01
+  </veljaod>
+  <vzd>
+   <sifravzd>
+    714
+   </sifravzd>
+   <opisvzd>
+    Zobotehnika
+   </opisvzd>
+   <veljaod>
+    2005-10-01
    </veljaod>
   </vzd>
  </ivzizvajalec>
@@ -371459,6 +372021,150 @@
    </opisvzd>
    <veljaod>
     2006-03-03
+   </veljaod>
+  </vzd>
+ </ivzizvajalec>
+ <ivzizvajalec>
+  <sifraivzizvajalca>
+   25270
+  </sifraivzizvajalca>
+  <sifralokacije>
+   0
+  </sifralokacije>
+  <zzzsstevilka>
+   4246512
+  </zzzsstevilka>
+  <organizacijskastruktura>
+   <sifraivzosnovni>
+    25270
+   </sifraivzosnovni>
+  </organizacijskastruktura>
+  <nazivinnaslov>
+   <nazivorganizacijskeenote>
+    FIZIATRIJA IZOLA
+   </nazivorganizacijskeenote>
+   <ulicaorganizacijskeenote>
+    MALIJA 102
+   </ulicaorganizacijskeenote>
+   <postaorganizacijskeenote>
+    6310 IZOLA - ISOLA
+   </postaorganizacijskeenote>
+  </nazivinnaslov>
+  <pravnistatus>
+   <pravnistatussifra>
+    2
+   </pravnistatussifra>
+   <pravnistatusopis>
+    GOSPODARSKA DRUŽBA / ZASEBNI ZAVOD
+   </pravnistatusopis>
+  </pravnistatus>
+  <tipizvajalca>
+   <tipizvajalcasifra>
+    2
+   </tipizvajalcasifra>
+   <tipizvajalcaopis>
+    SPECIALISTIČNA AMBULANTA
+   </tipizvajalcaopis>
+  </tipizvajalca>
+  <obcina>
+   <obcinasifra>
+    40
+   </obcinasifra>
+   <obcinanaziv>
+    IZOLA
+   </obcinanaziv>
+  </obcina>
+  <veljaod>
+   2006-12-01
+  </veljaod>
+  <vzd>
+   <sifravzd>
+    706
+   </sifravzd>
+   <opisvzd>
+    Urejanje zdr.,iz.,kult., drugih soc.st.
+   </opisvzd>
+   <veljaod>
+    2010-06-10
+   </veljaod>
+  </vzd>
+ </ivzizvajalec>
+ <ivzizvajalec>
+  <sifraivzizvajalca>
+   25270
+  </sifraivzizvajalca>
+  <sifralokacije>
+   1
+  </sifralokacije>
+  <zzzsstevilka>
+   6799956
+  </zzzsstevilka>
+  <organizacijskastruktura>
+   <sifraivzosnovni>
+    25270
+   </sifraivzosnovni>
+  </organizacijskastruktura>
+  <nazivinnaslov>
+   <nazivorganizacijskeenote>
+    FIZIATRIJA IZOLA
+   </nazivorganizacijskeenote>
+   <dodatninazivorganizacijskeenote>
+    PE SPEC. FIZIATRIČNA AMBULANTA IN FIZIOTERAPIJA
+   </dodatninazivorganizacijskeenote>
+   <ulicaorganizacijskeenote>
+    KAJUHOVA ULICA 38
+   </ulicaorganizacijskeenote>
+   <postaorganizacijskeenote>
+    6310 IZOLA - ISOLA
+   </postaorganizacijskeenote>
+  </nazivinnaslov>
+  <pravnistatus>
+   <pravnistatussifra>
+    2
+   </pravnistatussifra>
+   <pravnistatusopis>
+    GOSPODARSKA DRUŽBA / ZASEBNI ZAVOD
+   </pravnistatusopis>
+  </pravnistatus>
+  <tipizvajalca>
+   <tipizvajalcasifra>
+    2
+   </tipizvajalcasifra>
+   <tipizvajalcaopis>
+    SPECIALISTIČNA AMBULANTA
+   </tipizvajalcaopis>
+  </tipizvajalca>
+  <obcina>
+   <obcinasifra>
+    40
+   </obcinasifra>
+   <obcinanaziv>
+    IZOLA
+   </obcinanaziv>
+  </obcina>
+  <veljaod>
+   2008-11-04
+  </veljaod>
+  <vzd>
+   <sifravzd>
+    507
+   </sifravzd>
+   <opisvzd>
+    Fizioterapija
+   </opisvzd>
+   <veljaod>
+    2008-11-04
+   </veljaod>
+  </vzd>
+  <vzd>
+   <sifravzd>
+    204
+   </sifravzd>
+   <opisvzd>
+    Fizikalna in reh.med. v spec.ZunajBolDej
+   </opisvzd>
+   <veljaod>
+    2010-06-10
    </veljaod>
   </vzd>
  </ivzizvajalec>
@@ -372911,6 +373617,183 @@
  </ivzizvajalec>
  <ivzizvajalec>
   <sifraivzizvajalca>
+   25286
+  </sifraivzizvajalca>
+  <sifralokacije>
+   0
+  </sifralokacije>
+  <zzzsstevilka>
+   4425371
+  </zzzsstevilka>
+  <organizacijskastruktura>
+   <sifraivzosnovni>
+    25286
+   </sifraivzosnovni>
+  </organizacijskastruktura>
+  <nazivinnaslov>
+   <nazivorganizacijskeenote>
+    CENTER ZA STAREJŠE OBČANE LUCIJA D.O.O. CENTRO PER LA TERZA
+   </nazivorganizacijskeenote>
+   <dodatninazivorganizacijskeenote>
+    ETA LUCIA S.R.L.
+   </dodatninazivorganizacijskeenote>
+   <ulicaorganizacijskeenote>
+    SEČA 197 B
+   </ulicaorganizacijskeenote>
+   <postaorganizacijskeenote>
+    6320 PORTOROŽ - PORTOROSE
+   </postaorganizacijskeenote>
+  </nazivinnaslov>
+  <pravnistatus>
+   <pravnistatussifra>
+    2
+   </pravnistatussifra>
+   <pravnistatusopis>
+    GOSPODARSKA DRUŽBA / ZASEBNI ZAVOD
+   </pravnistatusopis>
+  </pravnistatus>
+  <tipizvajalca>
+   <tipizvajalcasifra>
+    7
+   </tipizvajalcasifra>
+   <tipizvajalcaopis>
+    SOCIALNI ZAVOD
+   </tipizvajalcaopis>
+  </tipizvajalca>
+  <obcina>
+   <obcinasifra>
+    90
+   </obcinasifra>
+   <obcinanaziv>
+    PIRAN
+   </obcinanaziv>
+  </obcina>
+  <veljaod>
+   2008-12-01
+  </veljaod>
+  <vzd>
+   <sifravzd>
+    510
+   </sifravzd>
+   <opisvzd>
+    Patronažno varstvo
+   </opisvzd>
+   <veljaod>
+    2011-07-15
+   </veljaod>
+  </vzd>
+  <vzd>
+   <sifravzd>
+    602
+   </sifravzd>
+   <opisvzd>
+    Dnevno varstvo v socialnovarst.zavodih
+   </opisvzd>
+   <veljaod>
+    2014-01-01
+   </veljaod>
+  </vzd>
+  <vzd>
+   <sifravzd>
+    644
+   </sifravzd>
+   <opisvzd>
+    Zdr.nega v dej.nast.ustanov za bol.nego
+   </opisvzd>
+   <veljaod>
+    2008-12-01
+   </veljaod>
+  </vzd>
+  <vzd>
+   <sifravzd>
+    544
+   </sifravzd>
+   <opisvzd>
+    Zdravstvena nega v drugih dejavnostih
+   </opisvzd>
+   <veljaod>
+    2020-05-26
+   </veljaod>
+  </vzd>
+ </ivzizvajalec>
+ <ivzizvajalec>
+  <sifraivzizvajalca>
+   25287
+  </sifraivzizvajalca>
+  <sifralokacije>
+   0
+  </sifralokacije>
+  <zzzsstevilka>
+   4467870
+  </zzzsstevilka>
+  <organizacijskastruktura>
+   <sifraivzosnovni>
+    25287
+   </sifraivzosnovni>
+  </organizacijskastruktura>
+  <nazivinnaslov>
+   <nazivorganizacijskeenote>
+    ARDENS D.O.O.
+   </nazivorganizacijskeenote>
+   <ulicaorganizacijskeenote>
+    ULICA 15.MAJA 19 D
+   </ulicaorganizacijskeenote>
+   <postaorganizacijskeenote>
+    6000 KOPER - CAPODISTRIA
+   </postaorganizacijskeenote>
+  </nazivinnaslov>
+  <pravnistatus>
+   <pravnistatussifra>
+    2
+   </pravnistatussifra>
+   <pravnistatusopis>
+    GOSPODARSKA DRUŽBA / ZASEBNI ZAVOD
+   </pravnistatusopis>
+  </pravnistatus>
+  <tipizvajalca>
+   <tipizvajalcasifra>
+    1
+   </tipizvajalcasifra>
+   <tipizvajalcaopis>
+    OSNOVNO ZDRAVSTVO
+   </tipizvajalcaopis>
+  </tipizvajalca>
+  <obcina>
+   <obcinasifra>
+    50
+   </obcinasifra>
+   <obcinanaziv>
+    KOPER
+   </obcinanaziv>
+  </obcina>
+  <veljaod>
+   2008-12-12
+  </veljaod>
+  <vzd>
+   <sifravzd>
+    403
+   </sifravzd>
+   <opisvzd>
+    Paradontologija
+   </opisvzd>
+   <veljaod>
+    2018-10-01
+   </veljaod>
+  </vzd>
+  <vzd>
+   <sifravzd>
+    406
+   </sifravzd>
+   <opisvzd>
+    Zobne bolezni in endodontija
+   </opisvzd>
+   <veljaod>
+    2018-10-01
+   </veljaod>
+  </vzd>
+ </ivzizvajalec>
+ <ivzizvajalec>
+  <sifraivzizvajalca>
    25289
   </sifraivzizvajalca>
   <sifralokacije>
@@ -373039,6 +373922,136 @@
    </opisvzd>
    <veljaod>
     2009-01-26
+   </veljaod>
+  </vzd>
+ </ivzizvajalec>
+ <ivzizvajalec>
+  <sifraivzizvajalca>
+   25290
+  </sifraivzizvajalca>
+  <sifralokacije>
+   0
+  </sifralokacije>
+  <zzzsstevilka>
+   4529856
+  </zzzsstevilka>
+  <organizacijskastruktura>
+   <sifraivzosnovni>
+    25290
+   </sifraivzosnovni>
+  </organizacijskastruktura>
+  <nazivinnaslov>
+   <nazivorganizacijskeenote>
+    ZDRAVJE METKA IN BRANIMIR D.O.O.
+   </nazivorganizacijskeenote>
+   <ulicaorganizacijskeenote>
+    KOLOMBAN 38 F
+   </ulicaorganizacijskeenote>
+   <postaorganizacijskeenote>
+    6280 ANKARAN - ANCARANO
+   </postaorganizacijskeenote>
+  </nazivinnaslov>
+  <pravnistatus>
+   <pravnistatussifra>
+    2
+   </pravnistatussifra>
+   <pravnistatusopis>
+    GOSPODARSKA DRUŽBA / ZASEBNI ZAVOD
+   </pravnistatusopis>
+  </pravnistatus>
+  <tipizvajalca>
+   <tipizvajalcasifra>
+    1
+   </tipizvajalcasifra>
+   <tipizvajalcaopis>
+    OSNOVNO ZDRAVSTVO
+   </tipizvajalcaopis>
+  </tipizvajalca>
+  <obcina>
+   <obcinasifra>
+    50
+   </obcinasifra>
+   <obcinanaziv>
+    KOPER
+   </obcinanaziv>
+  </obcina>
+  <veljaod>
+   2008-12-01
+  </veljaod>
+  <vzd>
+   <sifravzd>
+    706
+   </sifravzd>
+   <opisvzd>
+    Urejanje zdr.,iz.,kult., drugih soc.st.
+   </opisvzd>
+   <veljaod>
+    2009-01-01
+   </veljaod>
+  </vzd>
+ </ivzizvajalec>
+ <ivzizvajalec>
+  <sifraivzizvajalca>
+   25290
+  </sifraivzizvajalca>
+  <sifralokacije>
+   1
+  </sifralokacije>
+  <zzzsstevilka>
+   7712651
+  </zzzsstevilka>
+  <organizacijskastruktura>
+   <sifraivzosnovni>
+    25290
+   </sifraivzosnovni>
+  </organizacijskastruktura>
+  <nazivinnaslov>
+   <nazivorganizacijskeenote>
+    ZDRAVJE METKA IN BRANIMIR D.O.O., PE ORDINACIJA KOPER
+   </nazivorganizacijskeenote>
+   <ulicaorganizacijskeenote>
+    BELVEDER 8
+   </ulicaorganizacijskeenote>
+   <postaorganizacijskeenote>
+    6000 KOPER - CAPODISTRIA
+   </postaorganizacijskeenote>
+  </nazivinnaslov>
+  <pravnistatus>
+   <pravnistatussifra>
+    2
+   </pravnistatussifra>
+   <pravnistatusopis>
+    GOSPODARSKA DRUŽBA / ZASEBNI ZAVOD
+   </pravnistatusopis>
+  </pravnistatus>
+  <tipizvajalca>
+   <tipizvajalcasifra>
+    1
+   </tipizvajalcasifra>
+   <tipizvajalcaopis>
+    OSNOVNO ZDRAVSTVO
+   </tipizvajalcaopis>
+  </tipizvajalca>
+  <obcina>
+   <obcinasifra>
+    50
+   </obcinasifra>
+   <obcinanaziv>
+    KOPER
+   </obcinanaziv>
+  </obcina>
+  <veljaod>
+   2009-01-01
+  </veljaod>
+  <vzd>
+   <sifravzd>
+    327
+   </sifravzd>
+   <opisvzd>
+    Pediatrija v splošni zunajBolDej
+   </opisvzd>
+   <veljaod>
+    2009-01-01
    </veljaod>
   </vzd>
  </ivzizvajalec>
@@ -373199,6 +374212,481 @@
  </ivzizvajalec>
  <ivzizvajalec>
   <sifraivzizvajalca>
+   25294
+  </sifraivzizvajalca>
+  <sifralokacije>
+   0
+  </sifralokacije>
+  <zzzsstevilka>
+   4623421
+  </zzzsstevilka>
+  <organizacijskastruktura>
+   <sifraivzosnovni>
+    25294
+   </sifraivzosnovni>
+  </organizacijskastruktura>
+  <nazivinnaslov>
+   <nazivorganizacijskeenote>
+    ZZ BELDENT
+   </nazivorganizacijskeenote>
+   <ulicaorganizacijskeenote>
+    ŠARED 51
+   </ulicaorganizacijskeenote>
+   <postaorganizacijskeenote>
+    6310 IZOLA - ISOLA
+   </postaorganizacijskeenote>
+  </nazivinnaslov>
+  <pravnistatus>
+   <pravnistatussifra>
+    2
+   </pravnistatussifra>
+   <pravnistatusopis>
+    GOSPODARSKA DRUŽBA / ZASEBNI ZAVOD
+   </pravnistatusopis>
+  </pravnistatus>
+  <tipizvajalca>
+   <tipizvajalcasifra>
+    1
+   </tipizvajalcasifra>
+   <tipizvajalcaopis>
+    OSNOVNO ZDRAVSTVO
+   </tipizvajalcaopis>
+  </tipizvajalca>
+  <obcina>
+   <obcinasifra>
+    40
+   </obcinasifra>
+   <obcinanaziv>
+    IZOLA
+   </obcinanaziv>
+  </obcina>
+  <veljaod>
+   2009-07-01
+  </veljaod>
+  <vzd>
+   <sifravzd>
+    706
+   </sifravzd>
+   <opisvzd>
+    Urejanje zdr.,iz.,kult., drugih soc.st.
+   </opisvzd>
+   <veljaod>
+    2009-07-01
+   </veljaod>
+  </vzd>
+ </ivzizvajalec>
+ <ivzizvajalec>
+  <sifraivzizvajalca>
+   25294
+  </sifraivzizvajalca>
+  <sifralokacije>
+   1
+  </sifralokacije>
+  <zzzsstevilka>
+   6795894
+  </zzzsstevilka>
+  <organizacijskastruktura>
+   <sifraivzosnovni>
+    25294
+   </sifraivzosnovni>
+  </organizacijskastruktura>
+  <nazivinnaslov>
+   <nazivorganizacijskeenote>
+    ZZ BELDENT
+   </nazivorganizacijskeenote>
+   <dodatninazivorganizacijskeenote>
+    PE ZOBNA AMBULANTA LUCIJA
+   </dodatninazivorganizacijskeenote>
+   <ulicaorganizacijskeenote>
+    CESTA SOLINARJEV 1
+   </ulicaorganizacijskeenote>
+   <postaorganizacijskeenote>
+    6320 PORTOROŽ - PORTOROSE
+   </postaorganizacijskeenote>
+  </nazivinnaslov>
+  <pravnistatus>
+   <pravnistatussifra>
+    2
+   </pravnistatussifra>
+   <pravnistatusopis>
+    GOSPODARSKA DRUŽBA / ZASEBNI ZAVOD
+   </pravnistatusopis>
+  </pravnistatus>
+  <tipizvajalca>
+   <tipizvajalcasifra>
+    1
+   </tipizvajalcasifra>
+   <tipizvajalcaopis>
+    OSNOVNO ZDRAVSTVO
+   </tipizvajalcaopis>
+  </tipizvajalca>
+  <obcina>
+   <obcinasifra>
+    90
+   </obcinasifra>
+   <obcinanaziv>
+    PIRAN
+   </obcinanaziv>
+  </obcina>
+  <veljaod>
+   2009-07-01
+  </veljaod>
+  <vzd>
+   <sifravzd>
+    404
+   </sifravzd>
+   <opisvzd>
+    Splošno zobozdravstvo
+   </opisvzd>
+   <veljaod>
+    2009-07-01
+   </veljaod>
+  </vzd>
+ </ivzizvajalec>
+ <ivzizvajalec>
+  <sifraivzizvajalca>
+   25296
+  </sifraivzizvajalca>
+  <sifralokacije>
+   0
+  </sifralokacije>
+  <zzzsstevilka>
+   4976435
+  </zzzsstevilka>
+  <organizacijskastruktura>
+   <sifraivzosnovni>
+    25296
+   </sifraivzosnovni>
+  </organizacijskastruktura>
+  <nazivinnaslov>
+   <nazivorganizacijskeenote>
+    ZZ ZOBOVILKA KOPER
+   </nazivorganizacijskeenote>
+   <ulicaorganizacijskeenote>
+    VATOVČEVA ULICA 1
+   </ulicaorganizacijskeenote>
+   <postaorganizacijskeenote>
+    6000 KOPER - CAPODISTRIA
+   </postaorganizacijskeenote>
+  </nazivinnaslov>
+  <pravnistatus>
+   <pravnistatussifra>
+    2
+   </pravnistatussifra>
+   <pravnistatusopis>
+    GOSPODARSKA DRUŽBA / ZASEBNI ZAVOD
+   </pravnistatusopis>
+  </pravnistatus>
+  <tipizvajalca>
+   <tipizvajalcasifra>
+    1
+   </tipizvajalcasifra>
+   <tipizvajalcaopis>
+    OSNOVNO ZDRAVSTVO
+   </tipizvajalcaopis>
+  </tipizvajalca>
+  <obcina>
+   <obcinasifra>
+    50
+   </obcinasifra>
+   <obcinanaziv>
+    KOPER
+   </obcinanaziv>
+  </obcina>
+  <veljaod>
+   2009-04-10
+  </veljaod>
+  <vzd>
+   <sifravzd>
+    706
+   </sifravzd>
+   <opisvzd>
+    Urejanje zdr.,iz.,kult., drugih soc.st.
+   </opisvzd>
+   <veljaod>
+    2009-04-10
+   </veljaod>
+  </vzd>
+ </ivzizvajalec>
+ <ivzizvajalec>
+  <sifraivzizvajalca>
+   25296
+  </sifraivzizvajalca>
+  <sifralokacije>
+   1
+  </sifralokacije>
+  <zzzsstevilka>
+   7998998
+  </zzzsstevilka>
+  <organizacijskastruktura>
+   <sifraivzosnovni>
+    25296
+   </sifraivzosnovni>
+  </organizacijskastruktura>
+  <nazivinnaslov>
+   <nazivorganizacijskeenote>
+    ZZ ZOBOVILKA KOPER
+   </nazivorganizacijskeenote>
+   <dodatninazivorganizacijskeenote>
+    PE SPECIALISTIČNA PEDONTOLOŠKA AMBULANTA KOPER
+   </dodatninazivorganizacijskeenote>
+   <ulicaorganizacijskeenote>
+    DELLAVALLEJEVA ULICA 3
+   </ulicaorganizacijskeenote>
+   <postaorganizacijskeenote>
+    6000 KOPER - CAPODISTRIA
+   </postaorganizacijskeenote>
+  </nazivinnaslov>
+  <pravnistatus>
+   <pravnistatussifra>
+    2
+   </pravnistatussifra>
+   <pravnistatusopis>
+    GOSPODARSKA DRUŽBA / ZASEBNI ZAVOD
+   </pravnistatusopis>
+  </pravnistatus>
+  <tipizvajalca>
+   <tipizvajalcasifra>
+    1
+   </tipizvajalcasifra>
+   <tipizvajalcaopis>
+    OSNOVNO ZDRAVSTVO
+   </tipizvajalcaopis>
+  </tipizvajalca>
+  <obcina>
+   <obcinasifra>
+    50
+   </obcinasifra>
+   <obcinanaziv>
+    KOPER
+   </obcinanaziv>
+  </obcina>
+  <veljaod>
+   2011-06-01
+  </veljaod>
+  <vzd>
+   <sifravzd>
+    402
+   </sifravzd>
+   <opisvzd>
+    Otroško in preventivno zobozdravstvo
+   </opisvzd>
+   <veljaod>
+    2011-06-01
+   </veljaod>
+  </vzd>
+  <vzd>
+   <sifravzd>
+    446
+   </sifravzd>
+   <opisvzd>
+    Javno zdravje v zobozdr.dej.
+   </opisvzd>
+   <veljaod>
+    2011-06-01
+   </veljaod>
+  </vzd>
+ </ivzizvajalec>
+ <ivzizvajalec>
+  <sifraivzizvajalca>
+   25296
+  </sifraivzizvajalca>
+  <sifralokacije>
+   2
+  </sifralokacije>
+  <zzzsstevilka>
+   7998967
+  </zzzsstevilka>
+  <organizacijskastruktura>
+   <sifraivzosnovni>
+    25296
+   </sifraivzosnovni>
+  </organizacijskastruktura>
+  <nazivinnaslov>
+   <nazivorganizacijskeenote>
+    ZZ ZOBOVILKA KOPER
+   </nazivorganizacijskeenote>
+   <dodatninazivorganizacijskeenote>
+    PE SPECIALISTIČNA PEDONTOLOŠKA AMBULANTA STRUNJAN
+   </dodatninazivorganizacijskeenote>
+   <ulicaorganizacijskeenote>
+    STRUNJAN 40
+   </ulicaorganizacijskeenote>
+   <postaorganizacijskeenote>
+    6320 PORTOROŽ - PORTOROSE
+   </postaorganizacijskeenote>
+  </nazivinnaslov>
+  <pravnistatus>
+   <pravnistatussifra>
+    2
+   </pravnistatussifra>
+   <pravnistatusopis>
+    GOSPODARSKA DRUŽBA / ZASEBNI ZAVOD
+   </pravnistatusopis>
+  </pravnistatus>
+  <tipizvajalca>
+   <tipizvajalcasifra>
+    1
+   </tipizvajalcasifra>
+   <tipizvajalcaopis>
+    OSNOVNO ZDRAVSTVO
+   </tipizvajalcaopis>
+  </tipizvajalca>
+  <obcina>
+   <obcinasifra>
+    90
+   </obcinasifra>
+   <obcinanaziv>
+    PIRAN
+   </obcinanaziv>
+  </obcina>
+  <veljaod>
+   2011-09-01
+  </veljaod>
+  <vzd>
+   <sifravzd>
+    402
+   </sifravzd>
+   <opisvzd>
+    Otroško in preventivno zobozdravstvo
+   </opisvzd>
+   <veljaod>
+    2011-09-01
+   </veljaod>
+  </vzd>
+ </ivzizvajalec>
+ <ivzizvajalec>
+  <sifraivzizvajalca>
+   25297
+  </sifraivzizvajalca>
+  <sifralokacije>
+   0
+  </sifralokacije>
+  <zzzsstevilka>
+   3901634
+  </zzzsstevilka>
+  <organizacijskastruktura>
+   <sifraivzosnovni>
+    25297
+   </sifraivzosnovni>
+  </organizacijskastruktura>
+  <nazivinnaslov>
+   <nazivorganizacijskeenote>
+    URBAN BUBNIČ - ZOBOTEHNIK
+   </nazivorganizacijskeenote>
+   <ulicaorganizacijskeenote>
+    CESTA NA LENIVEC 7
+   </ulicaorganizacijskeenote>
+   <postaorganizacijskeenote>
+    6210 SEŽANA
+   </postaorganizacijskeenote>
+  </nazivinnaslov>
+  <pravnistatus>
+   <pravnistatussifra>
+    3
+   </pravnistatussifra>
+   <pravnistatusopis>
+    ZASEBNI ZDRAVSTVENI DELAVEC
+   </pravnistatusopis>
+  </pravnistatus>
+  <tipizvajalca>
+   <tipizvajalcasifra>
+    1
+   </tipizvajalcasifra>
+   <tipizvajalcaopis>
+    OSNOVNO ZDRAVSTVO
+   </tipizvajalcaopis>
+  </tipizvajalca>
+  <obcina>
+   <obcinasifra>
+    111
+   </obcinasifra>
+   <obcinanaziv>
+    SEŽANA
+   </obcinanaziv>
+  </obcina>
+  <veljaod>
+   2004-01-01
+  </veljaod>
+  <vzd>
+   <sifravzd>
+    714
+   </sifravzd>
+   <opisvzd>
+    Zobotehnika
+   </opisvzd>
+   <veljaod>
+    2004-01-01
+   </veljaod>
+  </vzd>
+ </ivzizvajalec>
+ <ivzizvajalec>
+  <sifraivzizvajalca>
+   25298
+  </sifraivzizvajalca>
+  <sifralokacije>
+   0
+  </sifralokacije>
+  <zzzsstevilka>
+   4718174
+  </zzzsstevilka>
+  <organizacijskastruktura>
+   <sifraivzosnovni>
+    25298
+   </sifraivzosnovni>
+  </organizacijskastruktura>
+  <nazivinnaslov>
+   <nazivorganizacijskeenote>
+    BLAŽ KNEZ DR. DENT. MED.
+   </nazivorganizacijskeenote>
+   <ulicaorganizacijskeenote>
+    PREČNA ULICA 2
+   </ulicaorganizacijskeenote>
+   <postaorganizacijskeenote>
+    6230 POSTOJNA
+   </postaorganizacijskeenote>
+  </nazivinnaslov>
+  <pravnistatus>
+   <pravnistatussifra>
+    3
+   </pravnistatussifra>
+   <pravnistatusopis>
+    ZASEBNI ZDRAVSTVENI DELAVEC
+   </pravnistatusopis>
+  </pravnistatus>
+  <tipizvajalca>
+   <tipizvajalcasifra>
+    1
+   </tipizvajalcasifra>
+   <tipizvajalcaopis>
+    OSNOVNO ZDRAVSTVO
+   </tipizvajalcaopis>
+  </tipizvajalca>
+  <obcina>
+   <obcinasifra>
+    94
+   </obcinasifra>
+   <obcinanaziv>
+    POSTOJNA
+   </obcinanaziv>
+  </obcina>
+  <veljaod>
+   2010-01-01
+  </veljaod>
+  <vzd>
+   <sifravzd>
+    404
+   </sifravzd>
+   <opisvzd>
+    Splošno zobozdravstvo
+   </opisvzd>
+   <veljaod>
+    2010-01-01
+   </veljaod>
+  </vzd>
+ </ivzizvajalec>
+ <ivzizvajalec>
+  <sifraivzizvajalca>
    25301
   </sifraivzizvajalca>
   <sifralokacije>
@@ -373270,6 +374758,139 @@
    </opisvzd>
    <veljaod>
     2010-10-01
+   </veljaod>
+  </vzd>
+ </ivzizvajalec>
+ <ivzizvajalec>
+  <sifraivzizvajalca>
+   25302
+  </sifraivzizvajalca>
+  <sifralokacije>
+   0
+  </sifralokacije>
+  <zzzsstevilka>
+   4980118
+  </zzzsstevilka>
+  <organizacijskastruktura>
+   <sifraivzosnovni>
+    25302
+   </sifraivzosnovni>
+  </organizacijskastruktura>
+  <nazivinnaslov>
+   <nazivorganizacijskeenote>
+    V. DENS IZOLA
+   </nazivorganizacijskeenote>
+   <ulicaorganizacijskeenote>
+    JUŽNA CESTA 4 B
+   </ulicaorganizacijskeenote>
+   <postaorganizacijskeenote>
+    6310 IZOLA - ISOLA
+   </postaorganizacijskeenote>
+  </nazivinnaslov>
+  <pravnistatus>
+   <pravnistatussifra>
+    2
+   </pravnistatussifra>
+   <pravnistatusopis>
+    GOSPODARSKA DRUŽBA / ZASEBNI ZAVOD
+   </pravnistatusopis>
+  </pravnistatus>
+  <tipizvajalca>
+   <tipizvajalcasifra>
+    1
+   </tipizvajalcasifra>
+   <tipizvajalcaopis>
+    OSNOVNO ZDRAVSTVO
+   </tipizvajalcaopis>
+  </tipizvajalca>
+  <obcina>
+   <obcinasifra>
+    40
+   </obcinasifra>
+   <obcinanaziv>
+    IZOLA
+   </obcinanaziv>
+  </obcina>
+  <veljaod>
+   2010-01-01
+  </veljaod>
+  <vzd>
+   <sifravzd>
+    706
+   </sifravzd>
+   <opisvzd>
+    Urejanje zdr.,iz.,kult., drugih soc.st.
+   </opisvzd>
+   <veljaod>
+    2015-10-01
+   </veljaod>
+  </vzd>
+ </ivzizvajalec>
+ <ivzizvajalec>
+  <sifraivzizvajalca>
+   25302
+  </sifraivzizvajalca>
+  <sifralokacije>
+   1
+  </sifralokacije>
+  <zzzsstevilka>
+   6705238
+  </zzzsstevilka>
+  <organizacijskastruktura>
+   <sifraivzosnovni>
+    25302
+   </sifraivzosnovni>
+  </organizacijskastruktura>
+  <nazivinnaslov>
+   <nazivorganizacijskeenote>
+    V. DENS IZOLA
+   </nazivorganizacijskeenote>
+   <dodatninazivorganizacijskeenote>
+    PE ZOBNA AMBULANTA KOPER
+   </dodatninazivorganizacijskeenote>
+   <ulicaorganizacijskeenote>
+    PRISTANIŠKA ULICA 6
+   </ulicaorganizacijskeenote>
+   <postaorganizacijskeenote>
+    6000 KOPER - CAPODISTRIA
+   </postaorganizacijskeenote>
+  </nazivinnaslov>
+  <pravnistatus>
+   <pravnistatussifra>
+    2
+   </pravnistatussifra>
+   <pravnistatusopis>
+    GOSPODARSKA DRUŽBA / ZASEBNI ZAVOD
+   </pravnistatusopis>
+  </pravnistatus>
+  <tipizvajalca>
+   <tipizvajalcasifra>
+    1
+   </tipizvajalcasifra>
+   <tipizvajalcaopis>
+    OSNOVNO ZDRAVSTVO
+   </tipizvajalcaopis>
+  </tipizvajalca>
+  <obcina>
+   <obcinasifra>
+    50
+   </obcinasifra>
+   <obcinanaziv>
+    KOPER
+   </obcinanaziv>
+  </obcina>
+  <veljaod>
+   2015-10-01
+  </veljaod>
+  <vzd>
+   <sifravzd>
+    404
+   </sifravzd>
+   <opisvzd>
+    Splošno zobozdravstvo
+   </opisvzd>
+   <veljaod>
+    2015-10-01
    </veljaod>
   </vzd>
  </ivzizvajalec>
@@ -374515,6 +376136,82 @@
  </ivzizvajalec>
  <ivzizvajalec>
   <sifraivzizvajalca>
+   25325
+  </sifraivzizvajalca>
+  <sifralokacije>
+   0
+  </sifralokacije>
+  <zzzsstevilka>
+   5992084
+  </zzzsstevilka>
+  <organizacijskastruktura>
+   <sifraivzosnovni>
+    25325
+   </sifraivzosnovni>
+  </organizacijskastruktura>
+  <nazivinnaslov>
+   <nazivorganizacijskeenote>
+    DENTARTES KOPER
+   </nazivorganizacijskeenote>
+   <ulicaorganizacijskeenote>
+    VLAČIČEVA ULICA 2 A
+   </ulicaorganizacijskeenote>
+   <postaorganizacijskeenote>
+    6000 KOPER - CAPODISTRIA
+   </postaorganizacijskeenote>
+  </nazivinnaslov>
+  <pravnistatus>
+   <pravnistatussifra>
+    2
+   </pravnistatussifra>
+   <pravnistatusopis>
+    GOSPODARSKA DRUŽBA / ZASEBNI ZAVOD
+   </pravnistatusopis>
+  </pravnistatus>
+  <tipizvajalca>
+   <tipizvajalcasifra>
+    1
+   </tipizvajalcasifra>
+   <tipizvajalcaopis>
+    OSNOVNO ZDRAVSTVO
+   </tipizvajalcaopis>
+  </tipizvajalca>
+  <obcina>
+   <obcinasifra>
+    50
+   </obcinasifra>
+   <obcinanaziv>
+    KOPER
+   </obcinanaziv>
+  </obcina>
+  <veljaod>
+   2013-07-01
+  </veljaod>
+  <vzd>
+   <sifravzd>
+    404
+   </sifravzd>
+   <opisvzd>
+    Splošno zobozdravstvo
+   </opisvzd>
+   <veljaod>
+    2013-07-01
+   </veljaod>
+  </vzd>
+  <vzd>
+   <sifravzd>
+    706
+   </sifravzd>
+   <opisvzd>
+    Urejanje zdr.,iz.,kult., drugih soc.st.
+   </opisvzd>
+   <veljaod>
+    2013-07-01
+   </veljaod>
+  </vzd>
+ </ivzizvajalec>
+ <ivzizvajalec>
+  <sifraivzizvajalca>
    25326
   </sifraivzizvajalca>
   <sifralokacije>
@@ -374534,6 +376231,71 @@
    </nazivorganizacijskeenote>
    <ulicaorganizacijskeenote>
     BENČIČEVA ULICA 2 D
+   </ulicaorganizacijskeenote>
+   <postaorganizacijskeenote>
+    6000 KOPER - CAPODISTRIA
+   </postaorganizacijskeenote>
+  </nazivinnaslov>
+  <pravnistatus>
+   <pravnistatussifra>
+    2
+   </pravnistatussifra>
+   <pravnistatusopis>
+    GOSPODARSKA DRUŽBA / ZASEBNI ZAVOD
+   </pravnistatusopis>
+  </pravnistatus>
+  <tipizvajalca>
+   <tipizvajalcasifra>
+    1
+   </tipizvajalcasifra>
+   <tipizvajalcaopis>
+    OSNOVNO ZDRAVSTVO
+   </tipizvajalcaopis>
+  </tipizvajalca>
+  <obcina>
+   <obcinasifra>
+    50
+   </obcinasifra>
+   <obcinanaziv>
+    KOPER
+   </obcinanaziv>
+  </obcina>
+  <veljaod>
+   2013-07-01
+  </veljaod>
+  <vzd>
+   <sifravzd>
+    404
+   </sifravzd>
+   <opisvzd>
+    Splošno zobozdravstvo
+   </opisvzd>
+   <veljaod>
+    2013-07-01
+   </veljaod>
+  </vzd>
+ </ivzizvajalec>
+ <ivzizvajalec>
+  <sifraivzizvajalca>
+   25327
+  </sifraivzizvajalca>
+  <sifralokacije>
+   0
+  </sifralokacije>
+  <zzzsstevilka>
+   5951814
+  </zzzsstevilka>
+  <organizacijskastruktura>
+   <sifraivzosnovni>
+    25327
+   </sifraivzosnovni>
+  </organizacijskastruktura>
+  <nazivinnaslov>
+   <nazivorganizacijskeenote>
+    ZAVOD MARKDENS
+   </nazivorganizacijskeenote>
+   <ulicaorganizacijskeenote>
+    BEBLERJEVA ULICA 7
    </ulicaorganizacijskeenote>
    <postaorganizacijskeenote>
     6000 KOPER - CAPODISTRIA
@@ -375937,6 +377699,571 @@
    </opisvzd>
    <veljaod>
     2015-03-10
+   </veljaod>
+  </vzd>
+ </ivzizvajalec>
+ <ivzizvajalec>
+  <sifraivzizvajalca>
+   25342
+  </sifraivzizvajalca>
+  <sifralokacije>
+   0
+  </sifralokacije>
+  <zzzsstevilka>
+   5220515
+  </zzzsstevilka>
+  <organizacijskastruktura>
+   <sifraivzosnovni>
+    25342
+   </sifraivzosnovni>
+  </organizacijskastruktura>
+  <nazivinnaslov>
+   <nazivorganizacijskeenote>
+    GAIA MED D.O.O.
+   </nazivorganizacijskeenote>
+   <ulicaorganizacijskeenote>
+    JAMSKA CESTA 23
+   </ulicaorganizacijskeenote>
+   <postaorganizacijskeenote>
+    6230 POSTOJNA
+   </postaorganizacijskeenote>
+  </nazivinnaslov>
+  <pravnistatus>
+   <pravnistatussifra>
+    2
+   </pravnistatussifra>
+   <pravnistatusopis>
+    GOSPODARSKA DRUŽBA / ZASEBNI ZAVOD
+   </pravnistatusopis>
+  </pravnistatus>
+  <tipizvajalca>
+   <tipizvajalcasifra>
+    1
+   </tipizvajalcasifra>
+   <tipizvajalcaopis>
+    OSNOVNO ZDRAVSTVO
+   </tipizvajalcaopis>
+  </tipizvajalca>
+  <obcina>
+   <obcinasifra>
+    94
+   </obcinasifra>
+   <obcinanaziv>
+    POSTOJNA
+   </obcinanaziv>
+  </obcina>
+  <veljaod>
+   2015-04-01
+  </veljaod>
+  <vzd>
+   <sifravzd>
+    706
+   </sifravzd>
+   <opisvzd>
+    Urejanje zdr.,iz.,kult., drugih soc.st.
+   </opisvzd>
+   <veljaod>
+    2015-04-01
+   </veljaod>
+  </vzd>
+ </ivzizvajalec>
+ <ivzizvajalec>
+  <sifraivzizvajalca>
+   25342
+  </sifraivzizvajalca>
+  <sifralokacije>
+   1
+  </sifralokacije>
+  <zzzsstevilka>
+   6292414
+  </zzzsstevilka>
+  <organizacijskastruktura>
+   <sifraivzosnovni>
+    25342
+   </sifraivzosnovni>
+  </organizacijskastruktura>
+  <nazivinnaslov>
+   <nazivorganizacijskeenote>
+    GAIA MED D.O.O.
+   </nazivorganizacijskeenote>
+   <dodatninazivorganizacijskeenote>
+    PE GAIA
+   </dodatninazivorganizacijskeenote>
+   <ulicaorganizacijskeenote>
+    PREČNA ULICA 2
+   </ulicaorganizacijskeenote>
+   <postaorganizacijskeenote>
+    6230 POSTOJNA
+   </postaorganizacijskeenote>
+  </nazivinnaslov>
+  <pravnistatus>
+   <pravnistatussifra>
+    2
+   </pravnistatussifra>
+   <pravnistatusopis>
+    GOSPODARSKA DRUŽBA / ZASEBNI ZAVOD
+   </pravnistatusopis>
+  </pravnistatus>
+  <tipizvajalca>
+   <tipizvajalcasifra>
+    1
+   </tipizvajalcasifra>
+   <tipizvajalcaopis>
+    OSNOVNO ZDRAVSTVO
+   </tipizvajalcaopis>
+  </tipizvajalca>
+  <obcina>
+   <obcinasifra>
+    94
+   </obcinasifra>
+   <obcinanaziv>
+    POSTOJNA
+   </obcinanaziv>
+  </obcina>
+  <veljaod>
+   2015-04-01
+  </veljaod>
+  <vzd>
+   <sifravzd>
+    231
+   </sifravzd>
+   <opisvzd>
+    Radiologija v spec. ZunajBolDej
+   </opisvzd>
+   <veljaod>
+    2015-04-01
+   </veljaod>
+  </vzd>
+  <vzd>
+   <sifravzd>
+    302
+   </sifravzd>
+   <opisvzd>
+    Splošna in družinska medicina
+   </opisvzd>
+   <veljaod>
+    2015-04-01
+   </veljaod>
+  </vzd>
+  <vzd>
+   <sifravzd>
+    346
+   </sifravzd>
+   <opisvzd>
+    Javno zdravje v splošni zunajBolDej
+   </opisvzd>
+   <veljaod>
+    2015-04-01
+   </veljaod>
+  </vzd>
+ </ivzizvajalec>
+ <ivzizvajalec>
+  <sifraivzizvajalca>
+   25342
+  </sifraivzizvajalca>
+  <sifralokacije>
+   2
+  </sifralokacije>
+  <zzzsstevilka>
+   6587968
+  </zzzsstevilka>
+  <organizacijskastruktura>
+   <sifraivzosnovni>
+    25342
+   </sifraivzosnovni>
+  </organizacijskastruktura>
+  <nazivinnaslov>
+   <nazivorganizacijskeenote>
+    LOKACIJA PRESTRANEK
+   </nazivorganizacijskeenote>
+   <ulicaorganizacijskeenote>
+    ULICA PADLIH BORCEV 22
+   </ulicaorganizacijskeenote>
+   <postaorganizacijskeenote>
+    6258 PRESTRANEK
+   </postaorganizacijskeenote>
+  </nazivinnaslov>
+  <pravnistatus>
+   <pravnistatussifra>
+    2
+   </pravnistatussifra>
+   <pravnistatusopis>
+    GOSPODARSKA DRUŽBA / ZASEBNI ZAVOD
+   </pravnistatusopis>
+  </pravnistatus>
+  <tipizvajalca>
+   <tipizvajalcasifra>
+    1
+   </tipizvajalcasifra>
+   <tipizvajalcaopis>
+    OSNOVNO ZDRAVSTVO
+   </tipizvajalcaopis>
+  </tipizvajalca>
+  <obcina>
+   <obcinasifra>
+    94
+   </obcinasifra>
+   <obcinanaziv>
+    POSTOJNA
+   </obcinanaziv>
+  </obcina>
+  <veljaod>
+   2015-04-01
+  </veljaod>
+  <vzd>
+   <sifravzd>
+    222
+   </sifravzd>
+   <opisvzd>
+    Ortopedska kirurgija v spec. ZunajBolDej
+   </opisvzd>
+   <veljaod>
+    2015-04-01
+   </veljaod>
+  </vzd>
+  <vzd>
+   <sifravzd>
+    231
+   </sifravzd>
+   <opisvzd>
+    Radiologija v spec. ZunajBolDej
+   </opisvzd>
+   <veljaod>
+    2015-01-30
+   </veljaod>
+  </vzd>
+ </ivzizvajalec>
+ <ivzizvajalec>
+  <sifraivzizvajalca>
+   25342
+  </sifraivzizvajalca>
+  <sifralokacije>
+   3
+  </sifralokacije>
+  <zzzsstevilka>
+   9667049
+  </zzzsstevilka>
+  <organizacijskastruktura>
+   <sifraivzosnovni>
+    25342
+   </sifraivzosnovni>
+  </organizacijskastruktura>
+  <nazivinnaslov>
+   <nazivorganizacijskeenote>
+    GAIA MED, KLINIKA ZA SPLOŠNO MEDICINO IN OSTEOPOROZO, D.O.O.
+   </nazivorganizacijskeenote>
+   <dodatninazivorganizacijskeenote>
+    PE AMBULANTA DSO PIVKA
+   </dodatninazivorganizacijskeenote>
+   <ulicaorganizacijskeenote>
+    POSTOJNSKA CESTA 18 B
+   </ulicaorganizacijskeenote>
+   <postaorganizacijskeenote>
+    6257 PIVKA
+   </postaorganizacijskeenote>
+  </nazivinnaslov>
+  <pravnistatus>
+   <pravnistatussifra>
+    2
+   </pravnistatussifra>
+   <pravnistatusopis>
+    GOSPODARSKA DRUŽBA / ZASEBNI ZAVOD
+   </pravnistatusopis>
+  </pravnistatus>
+  <tipizvajalca>
+   <tipizvajalcasifra>
+    1
+   </tipizvajalcasifra>
+   <tipizvajalcaopis>
+    OSNOVNO ZDRAVSTVO
+   </tipizvajalcaopis>
+  </tipizvajalca>
+  <obcina>
+   <obcinasifra>
+    91
+   </obcinasifra>
+   <obcinanaziv>
+    PIVKA
+   </obcinanaziv>
+  </obcina>
+  <veljaod>
+   2025-07-22
+  </veljaod>
+  <vzd>
+   <sifravzd>
+    302
+   </sifravzd>
+   <opisvzd>
+    Splošna in družinska medicina
+   </opisvzd>
+   <veljaod>
+    2025-07-22
+   </veljaod>
+  </vzd>
+ </ivzizvajalec>
+ <ivzizvajalec>
+  <sifraivzizvajalca>
+   25343
+  </sifraivzizvajalca>
+  <sifralokacije>
+   0
+  </sifralokacije>
+  <zzzsstevilka>
+   6520822
+  </zzzsstevilka>
+  <organizacijskastruktura>
+   <sifraivzosnovni>
+    25343
+   </sifraivzosnovni>
+  </organizacijskastruktura>
+  <nazivinnaslov>
+   <nazivorganizacijskeenote>
+    MEDICADENS ŠKORJA SORIĆ
+   </nazivorganizacijskeenote>
+   <ulicaorganizacijskeenote>
+    ČENTUR 23
+   </ulicaorganizacijskeenote>
+   <postaorganizacijskeenote>
+    6273 MAREZIGE
+   </postaorganizacijskeenote>
+  </nazivinnaslov>
+  <pravnistatus>
+   <pravnistatussifra>
+    2
+   </pravnistatussifra>
+   <pravnistatusopis>
+    GOSPODARSKA DRUŽBA / ZASEBNI ZAVOD
+   </pravnistatusopis>
+  </pravnistatus>
+  <tipizvajalca>
+   <tipizvajalcasifra>
+    1
+   </tipizvajalcasifra>
+   <tipizvajalcaopis>
+    OSNOVNO ZDRAVSTVO
+   </tipizvajalcaopis>
+  </tipizvajalca>
+  <obcina>
+   <obcinasifra>
+    50
+   </obcinasifra>
+   <obcinanaziv>
+    KOPER
+   </obcinanaziv>
+  </obcina>
+  <veljaod>
+   2015-04-01
+  </veljaod>
+  <vzd>
+   <sifravzd>
+    706
+   </sifravzd>
+   <opisvzd>
+    Urejanje zdr.,iz.,kult., drugih soc.st.
+   </opisvzd>
+   <veljaod>
+    2015-04-01
+   </veljaod>
+  </vzd>
+ </ivzizvajalec>
+ <ivzizvajalec>
+  <sifraivzizvajalca>
+   25343
+  </sifraivzizvajalca>
+  <sifralokacije>
+   1
+  </sifralokacije>
+  <zzzsstevilka>
+   6540413
+  </zzzsstevilka>
+  <organizacijskastruktura>
+   <sifraivzosnovni>
+    25343
+   </sifraivzosnovni>
+  </organizacijskastruktura>
+  <nazivinnaslov>
+   <nazivorganizacijskeenote>
+    MEDICADENS ŠKORJA SORIĆ
+   </nazivorganizacijskeenote>
+   <dodatninazivorganizacijskeenote>
+    PE ZOBNA AMBULANTA SEČOVLJE
+   </dodatninazivorganizacijskeenote>
+   <ulicaorganizacijskeenote>
+    SEČOVLJE 44
+   </ulicaorganizacijskeenote>
+   <postaorganizacijskeenote>
+    6333 SEČOVLJE - SICCIOLE
+   </postaorganizacijskeenote>
+  </nazivinnaslov>
+  <pravnistatus>
+   <pravnistatussifra>
+    2
+   </pravnistatussifra>
+   <pravnistatusopis>
+    GOSPODARSKA DRUŽBA / ZASEBNI ZAVOD
+   </pravnistatusopis>
+  </pravnistatus>
+  <tipizvajalca>
+   <tipizvajalcasifra>
+    1
+   </tipizvajalcasifra>
+   <tipizvajalcaopis>
+    OSNOVNO ZDRAVSTVO
+   </tipizvajalcaopis>
+  </tipizvajalca>
+  <obcina>
+   <obcinasifra>
+    90
+   </obcinasifra>
+   <obcinanaziv>
+    PIRAN
+   </obcinanaziv>
+  </obcina>
+  <veljaod>
+   2015-04-01
+  </veljaod>
+  <vzd>
+   <sifravzd>
+    404
+   </sifravzd>
+   <opisvzd>
+    Splošno zobozdravstvo
+   </opisvzd>
+   <veljaod>
+    2015-04-01
+   </veljaod>
+  </vzd>
+ </ivzizvajalec>
+ <ivzizvajalec>
+  <sifraivzizvajalca>
+   25343
+  </sifraivzizvajalca>
+  <sifralokacije>
+   2
+  </sifralokacije>
+  <zzzsstevilka>
+   7412740
+  </zzzsstevilka>
+  <organizacijskastruktura>
+   <sifraivzosnovni>
+    25343
+   </sifraivzosnovni>
+  </organizacijskastruktura>
+  <nazivinnaslov>
+   <nazivorganizacijskeenote>
+    MEDICADENS ŠKORJA SORIĆ
+   </nazivorganizacijskeenote>
+   <dodatninazivorganizacijskeenote>
+    PE ZOBNA AMBULANTA VANGANEL
+   </dodatninazivorganizacijskeenote>
+   <ulicaorganizacijskeenote>
+    VANGANEL 38
+   </ulicaorganizacijskeenote>
+   <postaorganizacijskeenote>
+    6000 KOPER - CAPODISTRIA
+   </postaorganizacijskeenote>
+  </nazivinnaslov>
+  <pravnistatus>
+   <pravnistatussifra>
+    2
+   </pravnistatussifra>
+   <pravnistatusopis>
+    GOSPODARSKA DRUŽBA / ZASEBNI ZAVOD
+   </pravnistatusopis>
+  </pravnistatus>
+  <tipizvajalca>
+   <tipizvajalcasifra>
+    1
+   </tipizvajalcasifra>
+   <tipizvajalcaopis>
+    OSNOVNO ZDRAVSTVO
+   </tipizvajalcaopis>
+  </tipizvajalca>
+  <obcina>
+   <obcinasifra>
+    50
+   </obcinasifra>
+   <obcinanaziv>
+    KOPER
+   </obcinanaziv>
+  </obcina>
+  <veljaod>
+   2018-02-13
+  </veljaod>
+  <vzd>
+   <sifravzd>
+    404
+   </sifravzd>
+   <opisvzd>
+    Splošno zobozdravstvo
+   </opisvzd>
+   <veljaod>
+    2018-02-13
+   </veljaod>
+  </vzd>
+ </ivzizvajalec>
+ <ivzizvajalec>
+  <sifraivzizvajalca>
+   25344
+  </sifraivzizvajalca>
+  <sifralokacije>
+   0
+  </sifralokacije>
+  <zzzsstevilka>
+   6628382
+  </zzzsstevilka>
+  <organizacijskastruktura>
+   <sifraivzosnovni>
+    25344
+   </sifraivzosnovni>
+  </organizacijskastruktura>
+  <nazivinnaslov>
+   <nazivorganizacijskeenote>
+    FIZIOTERAPIJA FRANK D.O.O.
+   </nazivorganizacijskeenote>
+   <ulicaorganizacijskeenote>
+    TRNOVSKA ULICA 34
+   </ulicaorganizacijskeenote>
+   <postaorganizacijskeenote>
+    6250 ILIRSKA BISTRICA
+   </postaorganizacijskeenote>
+  </nazivinnaslov>
+  <pravnistatus>
+   <pravnistatussifra>
+    2
+   </pravnistatussifra>
+   <pravnistatusopis>
+    GOSPODARSKA DRUŽBA / ZASEBNI ZAVOD
+   </pravnistatusopis>
+  </pravnistatus>
+  <tipizvajalca>
+   <tipizvajalcasifra>
+    1
+   </tipizvajalcasifra>
+   <tipizvajalcaopis>
+    OSNOVNO ZDRAVSTVO
+   </tipizvajalcaopis>
+  </tipizvajalca>
+  <obcina>
+   <obcinasifra>
+    38
+   </obcinasifra>
+   <obcinanaziv>
+    ILIRSKA BISTRICA
+   </obcinanaziv>
+  </obcina>
+  <veljaod>
+   2015-07-01
+  </veljaod>
+  <vzd>
+   <sifravzd>
+    507
+   </sifravzd>
+   <opisvzd>
+    Fizioterapija
+   </opisvzd>
+   <veljaod>
+    2015-07-01
    </veljaod>
   </vzd>
  </ivzizvajalec>
@@ -498035,229 +500362,6 @@
  </ivzizvajalec>
  <ivzizvajalec>
   <sifraivzizvajalca>
-   25200
-  </sifraivzizvajalca>
-  <sifralokacije>
-   0
-  </sifralokacije>
-  <zzzsstevilka>
-   3111940
-  </zzzsstevilka>
-  <organizacijskastruktura>
-   <sifraivznadrejeni>
-    25200
-   </sifraivznadrejeni>
-  </organizacijskastruktura>
-  <nazivinnaslov>
-   <nazivorganizacijskeenote>
-    SZO HELENA BOŽIČ
-   </nazivorganizacijskeenote>
-   <ulicaorganizacijskeenote>
-    ŠTORJE 41 A
-   </ulicaorganizacijskeenote>
-   <postaorganizacijskeenote>
-    6210 SEŽANA
-   </postaorganizacijskeenote>
-  </nazivinnaslov>
-  <pravnistatus>
-   <pravnistatussifra>
-    3
-   </pravnistatussifra>
-   <pravnistatusopis>
-    ZASEBNI ZDRAVSTVENI DELAVEC
-   </pravnistatusopis>
-  </pravnistatus>
-  <tipizvajalca>
-   <tipizvajalcasifra>
-    1
-   </tipizvajalcasifra>
-   <tipizvajalcaopis>
-    OSNOVNO ZDRAVSTVO
-   </tipizvajalcaopis>
-  </tipizvajalca>
-  <obcina>
-   <obcinasifra>
-    111
-   </obcinasifra>
-   <obcinanaziv>
-    SEŽANA
-   </obcinanaziv>
-  </obcina>
-  <veljaod>
-   1998-11-25
-  </veljaod>
-  <vzd>
-   <sifravzd>
-    401
-   </sifravzd>
-   <opisvzd>
-    Čeljustna in zobna ortopedija
-   </opisvzd>
-   <veljaod>
-    2003-01-01
-   </veljaod>
-  </vzd>
-  <vzd>
-   <sifravzd>
-    404
-   </sifravzd>
-   <opisvzd>
-    Splošno zobozdravstvo
-   </opisvzd>
-   <veljaod>
-    1998-11-25
-   </veljaod>
-  </vzd>
- </ivzizvajalec>
- <ivzizvajalec>
-  <sifraivzizvajalca>
-   25200
-  </sifraivzizvajalca>
-  <sifralokacije>
-   1
-  </sifralokacije>
-  <zzzsstevilka>
-   4124161
-  </zzzsstevilka>
-  <organizacijskastruktura>
-   <sifraivznadrejeni>
-    25200
-   </sifraivznadrejeni>
-  </organizacijskastruktura>
-  <nazivinnaslov>
-   <nazivorganizacijskeenote>
-    SZO HELENA BOŽIČ
-   </nazivorganizacijskeenote>
-   <dodatninazivorganizacijskeenote>
-    SZO BOŽIČ, HELENA BOŽIČ
-   </dodatninazivorganizacijskeenote>
-   <ulicaorganizacijskeenote>
-    ZATIŠJE 5
-   </ulicaorganizacijskeenote>
-   <postaorganizacijskeenote>
-    6320 PORTOROŽ - PORTOROSE
-   </postaorganizacijskeenote>
-  </nazivinnaslov>
-  <pravnistatus>
-   <pravnistatussifra>
-    3
-   </pravnistatussifra>
-   <pravnistatusopis>
-    ZASEBNI ZDRAVSTVENI DELAVEC
-   </pravnistatusopis>
-  </pravnistatus>
-  <tipizvajalca>
-   <tipizvajalcasifra>
-    1
-   </tipizvajalcasifra>
-   <tipizvajalcaopis>
-    OSNOVNO ZDRAVSTVO
-   </tipizvajalcaopis>
-  </tipizvajalca>
-  <obcina>
-   <obcinasifra>
-    90
-   </obcinasifra>
-   <obcinanaziv>
-    PIRAN
-   </obcinanaziv>
-  </obcina>
-  <veljaod>
-   2004-04-05
-  </veljaod>
-  <vzd>
-   <sifravzd>
-    401
-   </sifravzd>
-   <opisvzd>
-    Čeljustna in zobna ortopedija
-   </opisvzd>
-   <veljaod>
-    2004-04-05
-   </veljaod>
-  </vzd>
-  <vzd>
-   <sifravzd>
-    404
-   </sifravzd>
-   <opisvzd>
-    Splošno zobozdravstvo
-   </opisvzd>
-   <veljaod>
-    2004-04-05
-   </veljaod>
-  </vzd>
- </ivzizvajalec>
- <ivzizvajalec>
-  <sifraivzizvajalca>
-   25211
-  </sifraivzizvajalca>
-  <sifralokacije>
-   0
-  </sifralokacije>
-  <zzzsstevilka>
-   3197957
-  </zzzsstevilka>
-  <organizacijskastruktura>
-   <sifraivznadrejeni>
-    25211
-   </sifraivznadrejeni>
-  </organizacijskastruktura>
-  <nazivinnaslov>
-   <nazivorganizacijskeenote>
-    DOM DVA TOPOLA, D.O.O.
-   </nazivorganizacijskeenote>
-   <dodatninazivorganizacijskeenote>
-    ENOTA REHABILITACIJA
-   </dodatninazivorganizacijskeenote>
-   <ulicaorganizacijskeenote>
-    LEVSTIKOVA ULICA 1
-   </ulicaorganizacijskeenote>
-   <postaorganizacijskeenote>
-    6310 IZOLA - ISOLA
-   </postaorganizacijskeenote>
-  </nazivinnaslov>
-  <pravnistatus>
-   <pravnistatussifra>
-    2
-   </pravnistatussifra>
-   <pravnistatusopis>
-    GOSPODARSKA DRUŽBA / ZASEBNI ZAVOD
-   </pravnistatusopis>
-  </pravnistatus>
-  <tipizvajalca>
-   <tipizvajalcasifra>
-    7
-   </tipizvajalcasifra>
-   <tipizvajalcaopis>
-    SOCIALNI ZAVOD
-   </tipizvajalcaopis>
-  </tipizvajalca>
-  <obcina>
-   <obcinasifra>
-    40
-   </obcinasifra>
-   <obcinanaziv>
-    IZOLA
-   </obcinanaziv>
-  </obcina>
-  <veljaod>
-   2001-01-01
-  </veljaod>
-  <vzd>
-   <sifravzd>
-    507
-   </sifravzd>
-   <opisvzd>
-    Fizioterapija
-   </opisvzd>
-   <veljaod>
-    2001-01-01
-   </veljaod>
-  </vzd>
- </ivzizvajalec>
- <ivzizvajalec>
-  <sifraivzizvajalca>
    25219
   </sifraivzizvajalca>
   <sifralokacije>
@@ -498318,2110 +500422,6 @@
    </opisvzd>
    <veljaod>
     2002-04-17
-   </veljaod>
-  </vzd>
- </ivzizvajalec>
- <ivzizvajalec>
-  <sifraivzizvajalca>
-   25220
-  </sifraivzizvajalca>
-  <sifralokacije>
-   0
-  </sifralokacije>
-  <zzzsstevilka>
-   3201880
-  </zzzsstevilka>
-  <organizacijskastruktura>
-   <sifraivznadrejeni>
-    25220
-   </sifraivznadrejeni>
-  </organizacijskastruktura>
-  <nazivinnaslov>
-   <nazivorganizacijskeenote>
-    MAJA FORTUNAT S.P.
-   </nazivorganizacijskeenote>
-   <ulicaorganizacijskeenote>
-    FERRARSKA ULICA 8
-   </ulicaorganizacijskeenote>
-   <postaorganizacijskeenote>
-    6000 KOPER - CAPODISTRIA
-   </postaorganizacijskeenote>
-  </nazivinnaslov>
-  <pravnistatus>
-   <pravnistatussifra>
-    5
-   </pravnistatussifra>
-   <pravnistatusopis>
-    SAMOSTOJNI PODJETNIK
-   </pravnistatusopis>
-  </pravnistatus>
-  <tipizvajalca>
-   <tipizvajalcasifra>
-    1
-   </tipizvajalcasifra>
-   <tipizvajalcaopis>
-    OSNOVNO ZDRAVSTVO
-   </tipizvajalcaopis>
-  </tipizvajalca>
-  <obcina>
-   <obcinasifra>
-    50
-   </obcinasifra>
-   <obcinanaziv>
-    KOPER
-   </obcinanaziv>
-  </obcina>
-  <veljaod>
-   2003-02-11
-  </veljaod>
-  <vzd>
-   <sifravzd>
-    507
-   </sifravzd>
-   <opisvzd>
-    Fizioterapija
-   </opisvzd>
-   <veljaod>
-    2003-02-11
-   </veljaod>
-  </vzd>
- </ivzizvajalec>
- <ivzizvajalec>
-  <sifraivzizvajalca>
-   25229
-  </sifraivzizvajalca>
-  <sifralokacije>
-   0
-  </sifralokacije>
-  <zzzsstevilka>
-   524583
-  </zzzsstevilka>
-  <organizacijskastruktura>
-   <sifraivznadrejeni>
-    25229
-   </sifraivznadrejeni>
-  </organizacijskastruktura>
-  <nazivinnaslov>
-   <nazivorganizacijskeenote>
-    TOMMAS D.O.O.
-   </nazivorganizacijskeenote>
-   <ulicaorganizacijskeenote>
-    ANKARANSKA CESTA 5 C
-   </ulicaorganizacijskeenote>
-   <postaorganizacijskeenote>
-    6000 KOPER - CAPODISTRIA
-   </postaorganizacijskeenote>
-  </nazivinnaslov>
-  <pravnistatus>
-   <pravnistatussifra>
-    2
-   </pravnistatussifra>
-   <pravnistatusopis>
-    GOSPODARSKA DRUŽBA / ZASEBNI ZAVOD
-   </pravnistatusopis>
-  </pravnistatus>
-  <tipizvajalca>
-   <tipizvajalcasifra>
-    20
-   </tipizvajalcasifra>
-   <tipizvajalcaopis>
-    OSTALI, KI OPRAVLJAJO ZDR. DEJ.
-   </tipizvajalcaopis>
-  </tipizvajalca>
-  <obcina>
-   <obcinasifra>
-    50
-   </obcinasifra>
-   <obcinanaziv>
-    KOPER
-   </obcinanaziv>
-  </obcina>
-  <veljaod>
-   2003-09-15
-  </veljaod>
-  <vzd>
-   <sifravzd>
-    220
-   </sifravzd>
-   <opisvzd>
-    Oftalmologija v spec. ZunajBolDej
-   </opisvzd>
-   <veljaod>
-    2004-01-01
-   </veljaod>
-  </vzd>
-  <vzd>
-   <sifravzd>
-    706
-   </sifravzd>
-   <opisvzd>
-    Urejanje zdr.,iz.,kult., drugih soc.st.
-   </opisvzd>
-   <veljaod>
-    2021-01-07
-   </veljaod>
-  </vzd>
- </ivzizvajalec>
- <ivzizvajalec>
-  <sifraivzizvajalca>
-   25229
-  </sifraivzizvajalca>
-  <sifralokacije>
-   1
-  </sifralokacije>
-  <zzzsstevilka>
-   8222754
-  </zzzsstevilka>
-  <organizacijskastruktura>
-   <sifraivznadrejeni>
-    25229
-   </sifraivznadrejeni>
-  </organizacijskastruktura>
-  <nazivinnaslov>
-   <nazivorganizacijskeenote>
-    TOMMAS D.O.O.
-   </nazivorganizacijskeenote>
-   <dodatninazivorganizacijskeenote>
-    PE OPTIKA TOMMAS
-   </dodatninazivorganizacijskeenote>
-   <ulicaorganizacijskeenote>
-    PIRANSKA CESTA 2 A
-   </ulicaorganizacijskeenote>
-   <postaorganizacijskeenote>
-    6000 KOPER - CAPODISTRIA
-   </postaorganizacijskeenote>
-  </nazivinnaslov>
-  <pravnistatus>
-   <pravnistatussifra>
-    2
-   </pravnistatussifra>
-   <pravnistatusopis>
-    GOSPODARSKA DRUŽBA / ZASEBNI ZAVOD
-   </pravnistatusopis>
-  </pravnistatus>
-  <tipizvajalca>
-   <tipizvajalcasifra>
-    20
-   </tipizvajalcasifra>
-   <tipizvajalcaopis>
-    OSTALI, KI OPRAVLJAJO ZDR. DEJ.
-   </tipizvajalcaopis>
-  </tipizvajalca>
-  <obcina>
-   <obcinasifra>
-    50
-   </obcinasifra>
-   <obcinanaziv>
-    KOPER
-   </obcinanaziv>
-  </obcina>
-  <veljaod>
-   2021-01-07
-  </veljaod>
-  <vzd>
-   <sifravzd>
-    220
-   </sifravzd>
-   <opisvzd>
-    Oftalmologija v spec. ZunajBolDej
-   </opisvzd>
-   <veljaod>
-    2021-01-07
-   </veljaod>
-  </vzd>
- </ivzizvajalec>
- <ivzizvajalec>
-  <sifraivzizvajalca>
-   25244
-  </sifraivzizvajalca>
-  <sifralokacije>
-   0
-  </sifralokacije>
-  <zzzsstevilka>
-   3488469
-  </zzzsstevilka>
-  <organizacijskastruktura>
-   <sifraivznadrejeni>
-    25244
-   </sifraivznadrejeni>
-  </organizacijskastruktura>
-  <nazivinnaslov>
-   <nazivorganizacijskeenote>
-    ZOBOTEHNIČNI LABORATORIJ - ROLIČ INGRID
-   </nazivorganizacijskeenote>
-   <ulicaorganizacijskeenote>
-    STANIČEV TRG 1
-   </ulicaorganizacijskeenote>
-   <postaorganizacijskeenote>
-    6000 KOPER - CAPODISTRIA
-   </postaorganizacijskeenote>
-  </nazivinnaslov>
-  <pravnistatus>
-   <pravnistatussifra>
-    3
-   </pravnistatussifra>
-   <pravnistatusopis>
-    ZASEBNI ZDRAVSTVENI DELAVEC
-   </pravnistatusopis>
-  </pravnistatus>
-  <tipizvajalca>
-   <tipizvajalcasifra>
-    1
-   </tipizvajalcasifra>
-   <tipizvajalcaopis>
-    OSNOVNO ZDRAVSTVO
-   </tipizvajalcaopis>
-  </tipizvajalca>
-  <obcina>
-   <obcinasifra>
-    50
-   </obcinasifra>
-   <obcinanaziv>
-    KOPER
-   </obcinanaziv>
-  </obcina>
-  <veljaod>
-   2000-11-01
-  </veljaod>
-  <vzd>
-   <sifravzd>
-    714
-   </sifravzd>
-   <opisvzd>
-    Zobotehnika
-   </opisvzd>
-   <veljaod>
-    2000-11-01
-   </veljaod>
-  </vzd>
- </ivzizvajalec>
- <ivzizvajalec>
-  <sifraivzizvajalca>
-   25251
-  </sifraivzizvajalca>
-  <sifralokacije>
-   0
-  </sifralokacije>
-  <zzzsstevilka>
-   4113614
-  </zzzsstevilka>
-  <organizacijskastruktura>
-   <sifraivznadrejeni>
-    25251
-   </sifraivznadrejeni>
-  </organizacijskastruktura>
-  <nazivinnaslov>
-   <nazivorganizacijskeenote>
-    LIPC D.O.O. SEŽANA
-   </nazivorganizacijskeenote>
-   <ulicaorganizacijskeenote>
-    PARTIZANSKA CESTA 63
-   </ulicaorganizacijskeenote>
-   <postaorganizacijskeenote>
-    6210 SEŽANA
-   </postaorganizacijskeenote>
-  </nazivinnaslov>
-  <pravnistatus>
-   <pravnistatussifra>
-    2
-   </pravnistatussifra>
-   <pravnistatusopis>
-    GOSPODARSKA DRUŽBA / ZASEBNI ZAVOD
-   </pravnistatusopis>
-  </pravnistatus>
-  <tipizvajalca>
-   <tipizvajalcasifra>
-    1
-   </tipizvajalcasifra>
-   <tipizvajalcaopis>
-    OSNOVNO ZDRAVSTVO
-   </tipizvajalcaopis>
-  </tipizvajalca>
-  <obcina>
-   <obcinasifra>
-    111
-   </obcinasifra>
-   <obcinanaziv>
-    SEŽANA
-   </obcinanaziv>
-  </obcina>
-  <veljaod>
-   2005-10-01
-  </veljaod>
-  <vzd>
-   <sifravzd>
-    714
-   </sifravzd>
-   <opisvzd>
-    Zobotehnika
-   </opisvzd>
-   <veljaod>
-    2005-10-01
-   </veljaod>
-  </vzd>
- </ivzizvajalec>
- <ivzizvajalec>
-  <sifraivzizvajalca>
-   25270
-  </sifraivzizvajalca>
-  <sifralokacije>
-   0
-  </sifralokacije>
-  <zzzsstevilka>
-   4246512
-  </zzzsstevilka>
-  <organizacijskastruktura>
-   <sifraivznadrejeni>
-    25270
-   </sifraivznadrejeni>
-  </organizacijskastruktura>
-  <nazivinnaslov>
-   <nazivorganizacijskeenote>
-    FIZIATRIJA IZOLA
-   </nazivorganizacijskeenote>
-   <ulicaorganizacijskeenote>
-    MALIJA 102
-   </ulicaorganizacijskeenote>
-   <postaorganizacijskeenote>
-    6310 IZOLA - ISOLA
-   </postaorganizacijskeenote>
-  </nazivinnaslov>
-  <pravnistatus>
-   <pravnistatussifra>
-    2
-   </pravnistatussifra>
-   <pravnistatusopis>
-    GOSPODARSKA DRUŽBA / ZASEBNI ZAVOD
-   </pravnistatusopis>
-  </pravnistatus>
-  <tipizvajalca>
-   <tipizvajalcasifra>
-    2
-   </tipizvajalcasifra>
-   <tipizvajalcaopis>
-    SPECIALISTIČNA AMBULANTA
-   </tipizvajalcaopis>
-  </tipizvajalca>
-  <obcina>
-   <obcinasifra>
-    40
-   </obcinasifra>
-   <obcinanaziv>
-    IZOLA
-   </obcinanaziv>
-  </obcina>
-  <veljaod>
-   2006-12-01
-  </veljaod>
-  <vzd>
-   <sifravzd>
-    706
-   </sifravzd>
-   <opisvzd>
-    Urejanje zdr.,iz.,kult., drugih soc.st.
-   </opisvzd>
-   <veljaod>
-    2010-06-10
-   </veljaod>
-  </vzd>
- </ivzizvajalec>
- <ivzizvajalec>
-  <sifraivzizvajalca>
-   25270
-  </sifraivzizvajalca>
-  <sifralokacije>
-   1
-  </sifralokacije>
-  <zzzsstevilka>
-   6799956
-  </zzzsstevilka>
-  <organizacijskastruktura>
-   <sifraivznadrejeni>
-    25270
-   </sifraivznadrejeni>
-  </organizacijskastruktura>
-  <nazivinnaslov>
-   <nazivorganizacijskeenote>
-    FIZIATRIJA IZOLA
-   </nazivorganizacijskeenote>
-   <dodatninazivorganizacijskeenote>
-    PE SPEC. FIZIATRIČNA AMBULANTA IN FIZIOTERAPIJA
-   </dodatninazivorganizacijskeenote>
-   <ulicaorganizacijskeenote>
-    KAJUHOVA ULICA 38
-   </ulicaorganizacijskeenote>
-   <postaorganizacijskeenote>
-    6310 IZOLA - ISOLA
-   </postaorganizacijskeenote>
-  </nazivinnaslov>
-  <pravnistatus>
-   <pravnistatussifra>
-    2
-   </pravnistatussifra>
-   <pravnistatusopis>
-    GOSPODARSKA DRUŽBA / ZASEBNI ZAVOD
-   </pravnistatusopis>
-  </pravnistatus>
-  <tipizvajalca>
-   <tipizvajalcasifra>
-    2
-   </tipizvajalcasifra>
-   <tipizvajalcaopis>
-    SPECIALISTIČNA AMBULANTA
-   </tipizvajalcaopis>
-  </tipizvajalca>
-  <obcina>
-   <obcinasifra>
-    40
-   </obcinasifra>
-   <obcinanaziv>
-    IZOLA
-   </obcinanaziv>
-  </obcina>
-  <veljaod>
-   2008-11-04
-  </veljaod>
-  <vzd>
-   <sifravzd>
-    507
-   </sifravzd>
-   <opisvzd>
-    Fizioterapija
-   </opisvzd>
-   <veljaod>
-    2008-11-04
-   </veljaod>
-  </vzd>
-  <vzd>
-   <sifravzd>
-    204
-   </sifravzd>
-   <opisvzd>
-    Fizikalna in reh.med. v spec.ZunajBolDej
-   </opisvzd>
-   <veljaod>
-    2010-06-10
-   </veljaod>
-  </vzd>
- </ivzizvajalec>
- <ivzizvajalec>
-  <sifraivzizvajalca>
-   25286
-  </sifraivzizvajalca>
-  <sifralokacije>
-   0
-  </sifralokacije>
-  <zzzsstevilka>
-   4425371
-  </zzzsstevilka>
-  <organizacijskastruktura>
-   <sifraivznadrejeni>
-    25286
-   </sifraivznadrejeni>
-  </organizacijskastruktura>
-  <nazivinnaslov>
-   <nazivorganizacijskeenote>
-    CENTER ZA STAREJŠE OBČANE LUCIJA D.O.O. CENTRO PER LA TERZA
-   </nazivorganizacijskeenote>
-   <dodatninazivorganizacijskeenote>
-    ETA LUCIA S.R.L.
-   </dodatninazivorganizacijskeenote>
-   <ulicaorganizacijskeenote>
-    SEČA 197 B
-   </ulicaorganizacijskeenote>
-   <postaorganizacijskeenote>
-    6320 PORTOROŽ - PORTOROSE
-   </postaorganizacijskeenote>
-  </nazivinnaslov>
-  <pravnistatus>
-   <pravnistatussifra>
-    2
-   </pravnistatussifra>
-   <pravnistatusopis>
-    GOSPODARSKA DRUŽBA / ZASEBNI ZAVOD
-   </pravnistatusopis>
-  </pravnistatus>
-  <tipizvajalca>
-   <tipizvajalcasifra>
-    7
-   </tipizvajalcasifra>
-   <tipizvajalcaopis>
-    SOCIALNI ZAVOD
-   </tipizvajalcaopis>
-  </tipizvajalca>
-  <obcina>
-   <obcinasifra>
-    90
-   </obcinasifra>
-   <obcinanaziv>
-    PIRAN
-   </obcinanaziv>
-  </obcina>
-  <veljaod>
-   2008-12-01
-  </veljaod>
-  <vzd>
-   <sifravzd>
-    510
-   </sifravzd>
-   <opisvzd>
-    Patronažno varstvo
-   </opisvzd>
-   <veljaod>
-    2011-07-15
-   </veljaod>
-  </vzd>
-  <vzd>
-   <sifravzd>
-    602
-   </sifravzd>
-   <opisvzd>
-    Dnevno varstvo v socialnovarst.zavodih
-   </opisvzd>
-   <veljaod>
-    2014-01-01
-   </veljaod>
-  </vzd>
-  <vzd>
-   <sifravzd>
-    644
-   </sifravzd>
-   <opisvzd>
-    Zdr.nega v dej.nast.ustanov za bol.nego
-   </opisvzd>
-   <veljaod>
-    2008-12-01
-   </veljaod>
-  </vzd>
-  <vzd>
-   <sifravzd>
-    544
-   </sifravzd>
-   <opisvzd>
-    Zdravstvena nega v drugih dejavnostih
-   </opisvzd>
-   <veljaod>
-    2020-05-26
-   </veljaod>
-  </vzd>
- </ivzizvajalec>
- <ivzizvajalec>
-  <sifraivzizvajalca>
-   25287
-  </sifraivzizvajalca>
-  <sifralokacije>
-   0
-  </sifralokacije>
-  <zzzsstevilka>
-   4467870
-  </zzzsstevilka>
-  <organizacijskastruktura>
-   <sifraivznadrejeni>
-    25287
-   </sifraivznadrejeni>
-  </organizacijskastruktura>
-  <nazivinnaslov>
-   <nazivorganizacijskeenote>
-    ARDENS D.O.O.
-   </nazivorganizacijskeenote>
-   <ulicaorganizacijskeenote>
-    ULICA 15.MAJA 19 D
-   </ulicaorganizacijskeenote>
-   <postaorganizacijskeenote>
-    6000 KOPER - CAPODISTRIA
-   </postaorganizacijskeenote>
-  </nazivinnaslov>
-  <pravnistatus>
-   <pravnistatussifra>
-    2
-   </pravnistatussifra>
-   <pravnistatusopis>
-    GOSPODARSKA DRUŽBA / ZASEBNI ZAVOD
-   </pravnistatusopis>
-  </pravnistatus>
-  <tipizvajalca>
-   <tipizvajalcasifra>
-    1
-   </tipizvajalcasifra>
-   <tipizvajalcaopis>
-    OSNOVNO ZDRAVSTVO
-   </tipizvajalcaopis>
-  </tipizvajalca>
-  <obcina>
-   <obcinasifra>
-    50
-   </obcinasifra>
-   <obcinanaziv>
-    KOPER
-   </obcinanaziv>
-  </obcina>
-  <veljaod>
-   2008-12-12
-  </veljaod>
-  <vzd>
-   <sifravzd>
-    403
-   </sifravzd>
-   <opisvzd>
-    Paradontologija
-   </opisvzd>
-   <veljaod>
-    2018-10-01
-   </veljaod>
-  </vzd>
-  <vzd>
-   <sifravzd>
-    406
-   </sifravzd>
-   <opisvzd>
-    Zobne bolezni in endodontija
-   </opisvzd>
-   <veljaod>
-    2018-10-01
-   </veljaod>
-  </vzd>
- </ivzizvajalec>
- <ivzizvajalec>
-  <sifraivzizvajalca>
-   25290
-  </sifraivzizvajalca>
-  <sifralokacije>
-   0
-  </sifralokacije>
-  <zzzsstevilka>
-   4529856
-  </zzzsstevilka>
-  <organizacijskastruktura>
-   <sifraivznadrejeni>
-    25290
-   </sifraivznadrejeni>
-  </organizacijskastruktura>
-  <nazivinnaslov>
-   <nazivorganizacijskeenote>
-    ZDRAVJE METKA IN BRANIMIR D.O.O.
-   </nazivorganizacijskeenote>
-   <ulicaorganizacijskeenote>
-    KOLOMBAN 38 F
-   </ulicaorganizacijskeenote>
-   <postaorganizacijskeenote>
-    6280 ANKARAN - ANCARANO
-   </postaorganizacijskeenote>
-  </nazivinnaslov>
-  <pravnistatus>
-   <pravnistatussifra>
-    2
-   </pravnistatussifra>
-   <pravnistatusopis>
-    GOSPODARSKA DRUŽBA / ZASEBNI ZAVOD
-   </pravnistatusopis>
-  </pravnistatus>
-  <tipizvajalca>
-   <tipizvajalcasifra>
-    1
-   </tipizvajalcasifra>
-   <tipizvajalcaopis>
-    OSNOVNO ZDRAVSTVO
-   </tipizvajalcaopis>
-  </tipizvajalca>
-  <obcina>
-   <obcinasifra>
-    50
-   </obcinasifra>
-   <obcinanaziv>
-    KOPER
-   </obcinanaziv>
-  </obcina>
-  <veljaod>
-   2008-12-01
-  </veljaod>
-  <vzd>
-   <sifravzd>
-    706
-   </sifravzd>
-   <opisvzd>
-    Urejanje zdr.,iz.,kult., drugih soc.st.
-   </opisvzd>
-   <veljaod>
-    2009-01-01
-   </veljaod>
-  </vzd>
- </ivzizvajalec>
- <ivzizvajalec>
-  <sifraivzizvajalca>
-   25290
-  </sifraivzizvajalca>
-  <sifralokacije>
-   1
-  </sifralokacije>
-  <zzzsstevilka>
-   7712651
-  </zzzsstevilka>
-  <organizacijskastruktura>
-   <sifraivznadrejeni>
-    25290
-   </sifraivznadrejeni>
-  </organizacijskastruktura>
-  <nazivinnaslov>
-   <nazivorganizacijskeenote>
-    ZDRAVJE METKA IN BRANIMIR D.O.O., PE ORDINACIJA KOPER
-   </nazivorganizacijskeenote>
-   <ulicaorganizacijskeenote>
-    BELVEDER 8
-   </ulicaorganizacijskeenote>
-   <postaorganizacijskeenote>
-    6000 KOPER - CAPODISTRIA
-   </postaorganizacijskeenote>
-  </nazivinnaslov>
-  <pravnistatus>
-   <pravnistatussifra>
-    2
-   </pravnistatussifra>
-   <pravnistatusopis>
-    GOSPODARSKA DRUŽBA / ZASEBNI ZAVOD
-   </pravnistatusopis>
-  </pravnistatus>
-  <tipizvajalca>
-   <tipizvajalcasifra>
-    1
-   </tipizvajalcasifra>
-   <tipizvajalcaopis>
-    OSNOVNO ZDRAVSTVO
-   </tipizvajalcaopis>
-  </tipizvajalca>
-  <obcina>
-   <obcinasifra>
-    50
-   </obcinasifra>
-   <obcinanaziv>
-    KOPER
-   </obcinanaziv>
-  </obcina>
-  <veljaod>
-   2009-01-01
-  </veljaod>
-  <vzd>
-   <sifravzd>
-    327
-   </sifravzd>
-   <opisvzd>
-    Pediatrija v splošni zunajBolDej
-   </opisvzd>
-   <veljaod>
-    2009-01-01
-   </veljaod>
-  </vzd>
- </ivzizvajalec>
- <ivzizvajalec>
-  <sifraivzizvajalca>
-   25294
-  </sifraivzizvajalca>
-  <sifralokacije>
-   0
-  </sifralokacije>
-  <zzzsstevilka>
-   4623421
-  </zzzsstevilka>
-  <organizacijskastruktura>
-   <sifraivznadrejeni>
-    25294
-   </sifraivznadrejeni>
-  </organizacijskastruktura>
-  <nazivinnaslov>
-   <nazivorganizacijskeenote>
-    ZZ BELDENT
-   </nazivorganizacijskeenote>
-   <ulicaorganizacijskeenote>
-    ŠARED 51
-   </ulicaorganizacijskeenote>
-   <postaorganizacijskeenote>
-    6310 IZOLA - ISOLA
-   </postaorganizacijskeenote>
-  </nazivinnaslov>
-  <pravnistatus>
-   <pravnistatussifra>
-    2
-   </pravnistatussifra>
-   <pravnistatusopis>
-    GOSPODARSKA DRUŽBA / ZASEBNI ZAVOD
-   </pravnistatusopis>
-  </pravnistatus>
-  <tipizvajalca>
-   <tipizvajalcasifra>
-    1
-   </tipizvajalcasifra>
-   <tipizvajalcaopis>
-    OSNOVNO ZDRAVSTVO
-   </tipizvajalcaopis>
-  </tipizvajalca>
-  <obcina>
-   <obcinasifra>
-    40
-   </obcinasifra>
-   <obcinanaziv>
-    IZOLA
-   </obcinanaziv>
-  </obcina>
-  <veljaod>
-   2009-07-01
-  </veljaod>
-  <vzd>
-   <sifravzd>
-    706
-   </sifravzd>
-   <opisvzd>
-    Urejanje zdr.,iz.,kult., drugih soc.st.
-   </opisvzd>
-   <veljaod>
-    2009-07-01
-   </veljaod>
-  </vzd>
- </ivzizvajalec>
- <ivzizvajalec>
-  <sifraivzizvajalca>
-   25294
-  </sifraivzizvajalca>
-  <sifralokacije>
-   1
-  </sifralokacije>
-  <zzzsstevilka>
-   6795894
-  </zzzsstevilka>
-  <organizacijskastruktura>
-   <sifraivznadrejeni>
-    25294
-   </sifraivznadrejeni>
-  </organizacijskastruktura>
-  <nazivinnaslov>
-   <nazivorganizacijskeenote>
-    ZZ BELDENT
-   </nazivorganizacijskeenote>
-   <dodatninazivorganizacijskeenote>
-    PE ZOBNA AMBULANTA LUCIJA
-   </dodatninazivorganizacijskeenote>
-   <ulicaorganizacijskeenote>
-    CESTA SOLINARJEV 1
-   </ulicaorganizacijskeenote>
-   <postaorganizacijskeenote>
-    6320 PORTOROŽ - PORTOROSE
-   </postaorganizacijskeenote>
-  </nazivinnaslov>
-  <pravnistatus>
-   <pravnistatussifra>
-    2
-   </pravnistatussifra>
-   <pravnistatusopis>
-    GOSPODARSKA DRUŽBA / ZASEBNI ZAVOD
-   </pravnistatusopis>
-  </pravnistatus>
-  <tipizvajalca>
-   <tipizvajalcasifra>
-    1
-   </tipizvajalcasifra>
-   <tipizvajalcaopis>
-    OSNOVNO ZDRAVSTVO
-   </tipizvajalcaopis>
-  </tipizvajalca>
-  <obcina>
-   <obcinasifra>
-    90
-   </obcinasifra>
-   <obcinanaziv>
-    PIRAN
-   </obcinanaziv>
-  </obcina>
-  <veljaod>
-   2009-07-01
-  </veljaod>
-  <vzd>
-   <sifravzd>
-    404
-   </sifravzd>
-   <opisvzd>
-    Splošno zobozdravstvo
-   </opisvzd>
-   <veljaod>
-    2009-07-01
-   </veljaod>
-  </vzd>
- </ivzizvajalec>
- <ivzizvajalec>
-  <sifraivzizvajalca>
-   25296
-  </sifraivzizvajalca>
-  <sifralokacije>
-   0
-  </sifralokacije>
-  <zzzsstevilka>
-   4976435
-  </zzzsstevilka>
-  <organizacijskastruktura>
-   <sifraivznadrejeni>
-    25296
-   </sifraivznadrejeni>
-  </organizacijskastruktura>
-  <nazivinnaslov>
-   <nazivorganizacijskeenote>
-    ZZ ZOBOVILKA KOPER
-   </nazivorganizacijskeenote>
-   <ulicaorganizacijskeenote>
-    VATOVČEVA ULICA 1
-   </ulicaorganizacijskeenote>
-   <postaorganizacijskeenote>
-    6000 KOPER - CAPODISTRIA
-   </postaorganizacijskeenote>
-  </nazivinnaslov>
-  <pravnistatus>
-   <pravnistatussifra>
-    2
-   </pravnistatussifra>
-   <pravnistatusopis>
-    GOSPODARSKA DRUŽBA / ZASEBNI ZAVOD
-   </pravnistatusopis>
-  </pravnistatus>
-  <tipizvajalca>
-   <tipizvajalcasifra>
-    1
-   </tipizvajalcasifra>
-   <tipizvajalcaopis>
-    OSNOVNO ZDRAVSTVO
-   </tipizvajalcaopis>
-  </tipizvajalca>
-  <obcina>
-   <obcinasifra>
-    50
-   </obcinasifra>
-   <obcinanaziv>
-    KOPER
-   </obcinanaziv>
-  </obcina>
-  <veljaod>
-   2009-04-10
-  </veljaod>
-  <vzd>
-   <sifravzd>
-    706
-   </sifravzd>
-   <opisvzd>
-    Urejanje zdr.,iz.,kult., drugih soc.st.
-   </opisvzd>
-   <veljaod>
-    2009-04-10
-   </veljaod>
-  </vzd>
- </ivzizvajalec>
- <ivzizvajalec>
-  <sifraivzizvajalca>
-   25296
-  </sifraivzizvajalca>
-  <sifralokacije>
-   1
-  </sifralokacije>
-  <zzzsstevilka>
-   7998998
-  </zzzsstevilka>
-  <organizacijskastruktura>
-   <sifraivznadrejeni>
-    25296
-   </sifraivznadrejeni>
-  </organizacijskastruktura>
-  <nazivinnaslov>
-   <nazivorganizacijskeenote>
-    ZZ ZOBOVILKA KOPER
-   </nazivorganizacijskeenote>
-   <dodatninazivorganizacijskeenote>
-    PE SPECIALISTIČNA PEDONTOLOŠKA AMBULANTA KOPER
-   </dodatninazivorganizacijskeenote>
-   <ulicaorganizacijskeenote>
-    DELLAVALLEJEVA ULICA 3
-   </ulicaorganizacijskeenote>
-   <postaorganizacijskeenote>
-    6000 KOPER - CAPODISTRIA
-   </postaorganizacijskeenote>
-  </nazivinnaslov>
-  <pravnistatus>
-   <pravnistatussifra>
-    2
-   </pravnistatussifra>
-   <pravnistatusopis>
-    GOSPODARSKA DRUŽBA / ZASEBNI ZAVOD
-   </pravnistatusopis>
-  </pravnistatus>
-  <tipizvajalca>
-   <tipizvajalcasifra>
-    1
-   </tipizvajalcasifra>
-   <tipizvajalcaopis>
-    OSNOVNO ZDRAVSTVO
-   </tipizvajalcaopis>
-  </tipizvajalca>
-  <obcina>
-   <obcinasifra>
-    50
-   </obcinasifra>
-   <obcinanaziv>
-    KOPER
-   </obcinanaziv>
-  </obcina>
-  <veljaod>
-   2011-06-01
-  </veljaod>
-  <vzd>
-   <sifravzd>
-    402
-   </sifravzd>
-   <opisvzd>
-    Otroško in preventivno zobozdravstvo
-   </opisvzd>
-   <veljaod>
-    2011-06-01
-   </veljaod>
-  </vzd>
-  <vzd>
-   <sifravzd>
-    446
-   </sifravzd>
-   <opisvzd>
-    Javno zdravje v zobozdr.dej.
-   </opisvzd>
-   <veljaod>
-    2011-06-01
-   </veljaod>
-  </vzd>
- </ivzizvajalec>
- <ivzizvajalec>
-  <sifraivzizvajalca>
-   25296
-  </sifraivzizvajalca>
-  <sifralokacije>
-   2
-  </sifralokacije>
-  <zzzsstevilka>
-   7998967
-  </zzzsstevilka>
-  <organizacijskastruktura>
-   <sifraivznadrejeni>
-    25296
-   </sifraivznadrejeni>
-  </organizacijskastruktura>
-  <nazivinnaslov>
-   <nazivorganizacijskeenote>
-    ZZ ZOBOVILKA KOPER
-   </nazivorganizacijskeenote>
-   <dodatninazivorganizacijskeenote>
-    PE SPECIALISTIČNA PEDONTOLOŠKA AMBULANTA STRUNJAN
-   </dodatninazivorganizacijskeenote>
-   <ulicaorganizacijskeenote>
-    STRUNJAN 40
-   </ulicaorganizacijskeenote>
-   <postaorganizacijskeenote>
-    6320 PORTOROŽ - PORTOROSE
-   </postaorganizacijskeenote>
-  </nazivinnaslov>
-  <pravnistatus>
-   <pravnistatussifra>
-    2
-   </pravnistatussifra>
-   <pravnistatusopis>
-    GOSPODARSKA DRUŽBA / ZASEBNI ZAVOD
-   </pravnistatusopis>
-  </pravnistatus>
-  <tipizvajalca>
-   <tipizvajalcasifra>
-    1
-   </tipizvajalcasifra>
-   <tipizvajalcaopis>
-    OSNOVNO ZDRAVSTVO
-   </tipizvajalcaopis>
-  </tipizvajalca>
-  <obcina>
-   <obcinasifra>
-    90
-   </obcinasifra>
-   <obcinanaziv>
-    PIRAN
-   </obcinanaziv>
-  </obcina>
-  <veljaod>
-   2011-09-01
-  </veljaod>
-  <vzd>
-   <sifravzd>
-    402
-   </sifravzd>
-   <opisvzd>
-    Otroško in preventivno zobozdravstvo
-   </opisvzd>
-   <veljaod>
-    2011-09-01
-   </veljaod>
-  </vzd>
- </ivzizvajalec>
- <ivzizvajalec>
-  <sifraivzizvajalca>
-   25297
-  </sifraivzizvajalca>
-  <sifralokacije>
-   0
-  </sifralokacije>
-  <zzzsstevilka>
-   3901634
-  </zzzsstevilka>
-  <organizacijskastruktura>
-   <sifraivznadrejeni>
-    25297
-   </sifraivznadrejeni>
-  </organizacijskastruktura>
-  <nazivinnaslov>
-   <nazivorganizacijskeenote>
-    URBAN BUBNIČ - ZOBOTEHNIK
-   </nazivorganizacijskeenote>
-   <ulicaorganizacijskeenote>
-    CESTA NA LENIVEC 7
-   </ulicaorganizacijskeenote>
-   <postaorganizacijskeenote>
-    6210 SEŽANA
-   </postaorganizacijskeenote>
-  </nazivinnaslov>
-  <pravnistatus>
-   <pravnistatussifra>
-    3
-   </pravnistatussifra>
-   <pravnistatusopis>
-    ZASEBNI ZDRAVSTVENI DELAVEC
-   </pravnistatusopis>
-  </pravnistatus>
-  <tipizvajalca>
-   <tipizvajalcasifra>
-    1
-   </tipizvajalcasifra>
-   <tipizvajalcaopis>
-    OSNOVNO ZDRAVSTVO
-   </tipizvajalcaopis>
-  </tipizvajalca>
-  <obcina>
-   <obcinasifra>
-    111
-   </obcinasifra>
-   <obcinanaziv>
-    SEŽANA
-   </obcinanaziv>
-  </obcina>
-  <veljaod>
-   2004-01-01
-  </veljaod>
-  <vzd>
-   <sifravzd>
-    714
-   </sifravzd>
-   <opisvzd>
-    Zobotehnika
-   </opisvzd>
-   <veljaod>
-    2004-01-01
-   </veljaod>
-  </vzd>
- </ivzizvajalec>
- <ivzizvajalec>
-  <sifraivzizvajalca>
-   25298
-  </sifraivzizvajalca>
-  <sifralokacije>
-   0
-  </sifralokacije>
-  <zzzsstevilka>
-   4718174
-  </zzzsstevilka>
-  <organizacijskastruktura>
-   <sifraivznadrejeni>
-    25298
-   </sifraivznadrejeni>
-  </organizacijskastruktura>
-  <nazivinnaslov>
-   <nazivorganizacijskeenote>
-    BLAŽ KNEZ DR. DENT. MED.
-   </nazivorganizacijskeenote>
-   <ulicaorganizacijskeenote>
-    PREČNA ULICA 2
-   </ulicaorganizacijskeenote>
-   <postaorganizacijskeenote>
-    6230 POSTOJNA
-   </postaorganizacijskeenote>
-  </nazivinnaslov>
-  <pravnistatus>
-   <pravnistatussifra>
-    3
-   </pravnistatussifra>
-   <pravnistatusopis>
-    ZASEBNI ZDRAVSTVENI DELAVEC
-   </pravnistatusopis>
-  </pravnistatus>
-  <tipizvajalca>
-   <tipizvajalcasifra>
-    1
-   </tipizvajalcasifra>
-   <tipizvajalcaopis>
-    OSNOVNO ZDRAVSTVO
-   </tipizvajalcaopis>
-  </tipizvajalca>
-  <obcina>
-   <obcinasifra>
-    94
-   </obcinasifra>
-   <obcinanaziv>
-    POSTOJNA
-   </obcinanaziv>
-  </obcina>
-  <veljaod>
-   2010-01-01
-  </veljaod>
-  <vzd>
-   <sifravzd>
-    404
-   </sifravzd>
-   <opisvzd>
-    Splošno zobozdravstvo
-   </opisvzd>
-   <veljaod>
-    2010-01-01
-   </veljaod>
-  </vzd>
- </ivzizvajalec>
- <ivzizvajalec>
-  <sifraivzizvajalca>
-   25302
-  </sifraivzizvajalca>
-  <sifralokacije>
-   0
-  </sifralokacije>
-  <zzzsstevilka>
-   4980118
-  </zzzsstevilka>
-  <organizacijskastruktura>
-   <sifraivznadrejeni>
-    25302
-   </sifraivznadrejeni>
-  </organizacijskastruktura>
-  <nazivinnaslov>
-   <nazivorganizacijskeenote>
-    V. DENS IZOLA
-   </nazivorganizacijskeenote>
-   <ulicaorganizacijskeenote>
-    JUŽNA CESTA 4 B
-   </ulicaorganizacijskeenote>
-   <postaorganizacijskeenote>
-    6310 IZOLA - ISOLA
-   </postaorganizacijskeenote>
-  </nazivinnaslov>
-  <pravnistatus>
-   <pravnistatussifra>
-    2
-   </pravnistatussifra>
-   <pravnistatusopis>
-    GOSPODARSKA DRUŽBA / ZASEBNI ZAVOD
-   </pravnistatusopis>
-  </pravnistatus>
-  <tipizvajalca>
-   <tipizvajalcasifra>
-    1
-   </tipizvajalcasifra>
-   <tipizvajalcaopis>
-    OSNOVNO ZDRAVSTVO
-   </tipizvajalcaopis>
-  </tipizvajalca>
-  <obcina>
-   <obcinasifra>
-    40
-   </obcinasifra>
-   <obcinanaziv>
-    IZOLA
-   </obcinanaziv>
-  </obcina>
-  <veljaod>
-   2010-01-01
-  </veljaod>
-  <vzd>
-   <sifravzd>
-    706
-   </sifravzd>
-   <opisvzd>
-    Urejanje zdr.,iz.,kult., drugih soc.st.
-   </opisvzd>
-   <veljaod>
-    2015-10-01
-   </veljaod>
-  </vzd>
- </ivzizvajalec>
- <ivzizvajalec>
-  <sifraivzizvajalca>
-   25302
-  </sifraivzizvajalca>
-  <sifralokacije>
-   1
-  </sifralokacije>
-  <zzzsstevilka>
-   6705238
-  </zzzsstevilka>
-  <organizacijskastruktura>
-   <sifraivznadrejeni>
-    25302
-   </sifraivznadrejeni>
-  </organizacijskastruktura>
-  <nazivinnaslov>
-   <nazivorganizacijskeenote>
-    V. DENS IZOLA
-   </nazivorganizacijskeenote>
-   <dodatninazivorganizacijskeenote>
-    PE ZOBNA AMBULANTA KOPER
-   </dodatninazivorganizacijskeenote>
-   <ulicaorganizacijskeenote>
-    PRISTANIŠKA ULICA 6
-   </ulicaorganizacijskeenote>
-   <postaorganizacijskeenote>
-    6000 KOPER - CAPODISTRIA
-   </postaorganizacijskeenote>
-  </nazivinnaslov>
-  <pravnistatus>
-   <pravnistatussifra>
-    2
-   </pravnistatussifra>
-   <pravnistatusopis>
-    GOSPODARSKA DRUŽBA / ZASEBNI ZAVOD
-   </pravnistatusopis>
-  </pravnistatus>
-  <tipizvajalca>
-   <tipizvajalcasifra>
-    1
-   </tipizvajalcasifra>
-   <tipizvajalcaopis>
-    OSNOVNO ZDRAVSTVO
-   </tipizvajalcaopis>
-  </tipizvajalca>
-  <obcina>
-   <obcinasifra>
-    50
-   </obcinasifra>
-   <obcinanaziv>
-    KOPER
-   </obcinanaziv>
-  </obcina>
-  <veljaod>
-   2015-10-01
-  </veljaod>
-  <vzd>
-   <sifravzd>
-    404
-   </sifravzd>
-   <opisvzd>
-    Splošno zobozdravstvo
-   </opisvzd>
-   <veljaod>
-    2015-10-01
-   </veljaod>
-  </vzd>
- </ivzizvajalec>
- <ivzizvajalec>
-  <sifraivzizvajalca>
-   25325
-  </sifraivzizvajalca>
-  <sifralokacije>
-   0
-  </sifralokacije>
-  <zzzsstevilka>
-   5992084
-  </zzzsstevilka>
-  <organizacijskastruktura>
-   <sifraivznadrejeni>
-    25325
-   </sifraivznadrejeni>
-  </organizacijskastruktura>
-  <nazivinnaslov>
-   <nazivorganizacijskeenote>
-    DENTARTES KOPER
-   </nazivorganizacijskeenote>
-   <ulicaorganizacijskeenote>
-    VLAČIČEVA ULICA 2 A
-   </ulicaorganizacijskeenote>
-   <postaorganizacijskeenote>
-    6000 KOPER - CAPODISTRIA
-   </postaorganizacijskeenote>
-  </nazivinnaslov>
-  <pravnistatus>
-   <pravnistatussifra>
-    2
-   </pravnistatussifra>
-   <pravnistatusopis>
-    GOSPODARSKA DRUŽBA / ZASEBNI ZAVOD
-   </pravnistatusopis>
-  </pravnistatus>
-  <tipizvajalca>
-   <tipizvajalcasifra>
-    1
-   </tipizvajalcasifra>
-   <tipizvajalcaopis>
-    OSNOVNO ZDRAVSTVO
-   </tipizvajalcaopis>
-  </tipizvajalca>
-  <obcina>
-   <obcinasifra>
-    50
-   </obcinasifra>
-   <obcinanaziv>
-    KOPER
-   </obcinanaziv>
-  </obcina>
-  <veljaod>
-   2013-07-01
-  </veljaod>
-  <vzd>
-   <sifravzd>
-    404
-   </sifravzd>
-   <opisvzd>
-    Splošno zobozdravstvo
-   </opisvzd>
-   <veljaod>
-    2013-07-01
-   </veljaod>
-  </vzd>
-  <vzd>
-   <sifravzd>
-    706
-   </sifravzd>
-   <opisvzd>
-    Urejanje zdr.,iz.,kult., drugih soc.st.
-   </opisvzd>
-   <veljaod>
-    2013-07-01
-   </veljaod>
-  </vzd>
- </ivzizvajalec>
- <ivzizvajalec>
-  <sifraivzizvajalca>
-   25327
-  </sifraivzizvajalca>
-  <sifralokacije>
-   0
-  </sifralokacije>
-  <zzzsstevilka>
-   5951814
-  </zzzsstevilka>
-  <organizacijskastruktura>
-   <sifraivznadrejeni>
-    25327
-   </sifraivznadrejeni>
-  </organizacijskastruktura>
-  <nazivinnaslov>
-   <nazivorganizacijskeenote>
-    ZAVOD MARKDENS
-   </nazivorganizacijskeenote>
-   <ulicaorganizacijskeenote>
-    BEBLERJEVA ULICA 7
-   </ulicaorganizacijskeenote>
-   <postaorganizacijskeenote>
-    6000 KOPER - CAPODISTRIA
-   </postaorganizacijskeenote>
-  </nazivinnaslov>
-  <pravnistatus>
-   <pravnistatussifra>
-    2
-   </pravnistatussifra>
-   <pravnistatusopis>
-    GOSPODARSKA DRUŽBA / ZASEBNI ZAVOD
-   </pravnistatusopis>
-  </pravnistatus>
-  <tipizvajalca>
-   <tipizvajalcasifra>
-    1
-   </tipizvajalcasifra>
-   <tipizvajalcaopis>
-    OSNOVNO ZDRAVSTVO
-   </tipizvajalcaopis>
-  </tipizvajalca>
-  <obcina>
-   <obcinasifra>
-    50
-   </obcinasifra>
-   <obcinanaziv>
-    KOPER
-   </obcinanaziv>
-  </obcina>
-  <veljaod>
-   2013-07-01
-  </veljaod>
-  <vzd>
-   <sifravzd>
-    404
-   </sifravzd>
-   <opisvzd>
-    Splošno zobozdravstvo
-   </opisvzd>
-   <veljaod>
-    2013-07-01
-   </veljaod>
-  </vzd>
- </ivzizvajalec>
- <ivzizvajalec>
-  <sifraivzizvajalca>
-   25342
-  </sifraivzizvajalca>
-  <sifralokacije>
-   0
-  </sifralokacije>
-  <zzzsstevilka>
-   5220515
-  </zzzsstevilka>
-  <organizacijskastruktura>
-   <sifraivznadrejeni>
-    25342
-   </sifraivznadrejeni>
-  </organizacijskastruktura>
-  <nazivinnaslov>
-   <nazivorganizacijskeenote>
-    GAIA MED D.O.O.
-   </nazivorganizacijskeenote>
-   <ulicaorganizacijskeenote>
-    JAMSKA CESTA 23
-   </ulicaorganizacijskeenote>
-   <postaorganizacijskeenote>
-    6230 POSTOJNA
-   </postaorganizacijskeenote>
-  </nazivinnaslov>
-  <pravnistatus>
-   <pravnistatussifra>
-    2
-   </pravnistatussifra>
-   <pravnistatusopis>
-    GOSPODARSKA DRUŽBA / ZASEBNI ZAVOD
-   </pravnistatusopis>
-  </pravnistatus>
-  <tipizvajalca>
-   <tipizvajalcasifra>
-    1
-   </tipizvajalcasifra>
-   <tipizvajalcaopis>
-    OSNOVNO ZDRAVSTVO
-   </tipizvajalcaopis>
-  </tipizvajalca>
-  <obcina>
-   <obcinasifra>
-    94
-   </obcinasifra>
-   <obcinanaziv>
-    POSTOJNA
-   </obcinanaziv>
-  </obcina>
-  <veljaod>
-   2015-04-01
-  </veljaod>
-  <vzd>
-   <sifravzd>
-    706
-   </sifravzd>
-   <opisvzd>
-    Urejanje zdr.,iz.,kult., drugih soc.st.
-   </opisvzd>
-   <veljaod>
-    2015-04-01
-   </veljaod>
-  </vzd>
- </ivzizvajalec>
- <ivzizvajalec>
-  <sifraivzizvajalca>
-   25342
-  </sifraivzizvajalca>
-  <sifralokacije>
-   1
-  </sifralokacije>
-  <zzzsstevilka>
-   6292414
-  </zzzsstevilka>
-  <organizacijskastruktura>
-   <sifraivznadrejeni>
-    25342
-   </sifraivznadrejeni>
-  </organizacijskastruktura>
-  <nazivinnaslov>
-   <nazivorganizacijskeenote>
-    GAIA MED D.O.O.
-   </nazivorganizacijskeenote>
-   <dodatninazivorganizacijskeenote>
-    PE GAIA
-   </dodatninazivorganizacijskeenote>
-   <ulicaorganizacijskeenote>
-    PREČNA ULICA 2
-   </ulicaorganizacijskeenote>
-   <postaorganizacijskeenote>
-    6230 POSTOJNA
-   </postaorganizacijskeenote>
-  </nazivinnaslov>
-  <pravnistatus>
-   <pravnistatussifra>
-    2
-   </pravnistatussifra>
-   <pravnistatusopis>
-    GOSPODARSKA DRUŽBA / ZASEBNI ZAVOD
-   </pravnistatusopis>
-  </pravnistatus>
-  <tipizvajalca>
-   <tipizvajalcasifra>
-    1
-   </tipizvajalcasifra>
-   <tipizvajalcaopis>
-    OSNOVNO ZDRAVSTVO
-   </tipizvajalcaopis>
-  </tipizvajalca>
-  <obcina>
-   <obcinasifra>
-    94
-   </obcinasifra>
-   <obcinanaziv>
-    POSTOJNA
-   </obcinanaziv>
-  </obcina>
-  <veljaod>
-   2015-04-01
-  </veljaod>
-  <vzd>
-   <sifravzd>
-    231
-   </sifravzd>
-   <opisvzd>
-    Radiologija v spec. ZunajBolDej
-   </opisvzd>
-   <veljaod>
-    2015-04-01
-   </veljaod>
-  </vzd>
-  <vzd>
-   <sifravzd>
-    302
-   </sifravzd>
-   <opisvzd>
-    Splošna in družinska medicina
-   </opisvzd>
-   <veljaod>
-    2015-04-01
-   </veljaod>
-  </vzd>
-  <vzd>
-   <sifravzd>
-    346
-   </sifravzd>
-   <opisvzd>
-    Javno zdravje v splošni zunajBolDej
-   </opisvzd>
-   <veljaod>
-    2015-04-01
-   </veljaod>
-  </vzd>
- </ivzizvajalec>
- <ivzizvajalec>
-  <sifraivzizvajalca>
-   25342
-  </sifraivzizvajalca>
-  <sifralokacije>
-   2
-  </sifralokacije>
-  <zzzsstevilka>
-   6587968
-  </zzzsstevilka>
-  <organizacijskastruktura>
-   <sifraivznadrejeni>
-    25342
-   </sifraivznadrejeni>
-  </organizacijskastruktura>
-  <nazivinnaslov>
-   <nazivorganizacijskeenote>
-    LOKACIJA PRESTRANEK
-   </nazivorganizacijskeenote>
-   <ulicaorganizacijskeenote>
-    ULICA PADLIH BORCEV 22
-   </ulicaorganizacijskeenote>
-   <postaorganizacijskeenote>
-    6258 PRESTRANEK
-   </postaorganizacijskeenote>
-  </nazivinnaslov>
-  <pravnistatus>
-   <pravnistatussifra>
-    2
-   </pravnistatussifra>
-   <pravnistatusopis>
-    GOSPODARSKA DRUŽBA / ZASEBNI ZAVOD
-   </pravnistatusopis>
-  </pravnistatus>
-  <tipizvajalca>
-   <tipizvajalcasifra>
-    1
-   </tipizvajalcasifra>
-   <tipizvajalcaopis>
-    OSNOVNO ZDRAVSTVO
-   </tipizvajalcaopis>
-  </tipizvajalca>
-  <obcina>
-   <obcinasifra>
-    94
-   </obcinasifra>
-   <obcinanaziv>
-    POSTOJNA
-   </obcinanaziv>
-  </obcina>
-  <veljaod>
-   2015-04-01
-  </veljaod>
-  <vzd>
-   <sifravzd>
-    222
-   </sifravzd>
-   <opisvzd>
-    Ortopedska kirurgija v spec. ZunajBolDej
-   </opisvzd>
-   <veljaod>
-    2015-04-01
-   </veljaod>
-  </vzd>
-  <vzd>
-   <sifravzd>
-    231
-   </sifravzd>
-   <opisvzd>
-    Radiologija v spec. ZunajBolDej
-   </opisvzd>
-   <veljaod>
-    2015-01-30
-   </veljaod>
-  </vzd>
- </ivzizvajalec>
- <ivzizvajalec>
-  <sifraivzizvajalca>
-   25342
-  </sifraivzizvajalca>
-  <sifralokacije>
-   3
-  </sifralokacije>
-  <zzzsstevilka>
-   9667049
-  </zzzsstevilka>
-  <organizacijskastruktura>
-   <sifraivznadrejeni>
-    25342
-   </sifraivznadrejeni>
-  </organizacijskastruktura>
-  <nazivinnaslov>
-   <nazivorganizacijskeenote>
-    GAIA MED, KLINIKA ZA SPLOŠNO MEDICINO IN OSTEOPOROZO, D.O.O.
-   </nazivorganizacijskeenote>
-   <dodatninazivorganizacijskeenote>
-    PE AMBULANTA DSO PIVKA
-   </dodatninazivorganizacijskeenote>
-   <ulicaorganizacijskeenote>
-    POSTOJNSKA CESTA 18 B
-   </ulicaorganizacijskeenote>
-   <postaorganizacijskeenote>
-    6257 PIVKA
-   </postaorganizacijskeenote>
-  </nazivinnaslov>
-  <pravnistatus>
-   <pravnistatussifra>
-    2
-   </pravnistatussifra>
-   <pravnistatusopis>
-    GOSPODARSKA DRUŽBA / ZASEBNI ZAVOD
-   </pravnistatusopis>
-  </pravnistatus>
-  <tipizvajalca>
-   <tipizvajalcasifra>
-    1
-   </tipizvajalcasifra>
-   <tipizvajalcaopis>
-    OSNOVNO ZDRAVSTVO
-   </tipizvajalcaopis>
-  </tipizvajalca>
-  <obcina>
-   <obcinasifra>
-    91
-   </obcinasifra>
-   <obcinanaziv>
-    PIVKA
-   </obcinanaziv>
-  </obcina>
-  <veljaod>
-   2025-07-22
-  </veljaod>
-  <vzd>
-   <sifravzd>
-    302
-   </sifravzd>
-   <opisvzd>
-    Splošna in družinska medicina
-   </opisvzd>
-   <veljaod>
-    2025-07-22
-   </veljaod>
-  </vzd>
- </ivzizvajalec>
- <ivzizvajalec>
-  <sifraivzizvajalca>
-   25343
-  </sifraivzizvajalca>
-  <sifralokacije>
-   0
-  </sifralokacije>
-  <zzzsstevilka>
-   6520822
-  </zzzsstevilka>
-  <organizacijskastruktura>
-   <sifraivznadrejeni>
-    25343
-   </sifraivznadrejeni>
-  </organizacijskastruktura>
-  <nazivinnaslov>
-   <nazivorganizacijskeenote>
-    MEDICADENS ŠKORJA SORIĆ
-   </nazivorganizacijskeenote>
-   <ulicaorganizacijskeenote>
-    ČENTUR 23
-   </ulicaorganizacijskeenote>
-   <postaorganizacijskeenote>
-    6273 MAREZIGE
-   </postaorganizacijskeenote>
-  </nazivinnaslov>
-  <pravnistatus>
-   <pravnistatussifra>
-    2
-   </pravnistatussifra>
-   <pravnistatusopis>
-    GOSPODARSKA DRUŽBA / ZASEBNI ZAVOD
-   </pravnistatusopis>
-  </pravnistatus>
-  <tipizvajalca>
-   <tipizvajalcasifra>
-    1
-   </tipizvajalcasifra>
-   <tipizvajalcaopis>
-    OSNOVNO ZDRAVSTVO
-   </tipizvajalcaopis>
-  </tipizvajalca>
-  <obcina>
-   <obcinasifra>
-    50
-   </obcinasifra>
-   <obcinanaziv>
-    KOPER
-   </obcinanaziv>
-  </obcina>
-  <veljaod>
-   2015-04-01
-  </veljaod>
-  <vzd>
-   <sifravzd>
-    706
-   </sifravzd>
-   <opisvzd>
-    Urejanje zdr.,iz.,kult., drugih soc.st.
-   </opisvzd>
-   <veljaod>
-    2015-04-01
-   </veljaod>
-  </vzd>
- </ivzizvajalec>
- <ivzizvajalec>
-  <sifraivzizvajalca>
-   25343
-  </sifraivzizvajalca>
-  <sifralokacije>
-   1
-  </sifralokacije>
-  <zzzsstevilka>
-   6540413
-  </zzzsstevilka>
-  <organizacijskastruktura>
-   <sifraivznadrejeni>
-    25343
-   </sifraivznadrejeni>
-  </organizacijskastruktura>
-  <nazivinnaslov>
-   <nazivorganizacijskeenote>
-    MEDICADENS ŠKORJA SORIĆ
-   </nazivorganizacijskeenote>
-   <dodatninazivorganizacijskeenote>
-    PE ZOBNA AMBULANTA SEČOVLJE
-   </dodatninazivorganizacijskeenote>
-   <ulicaorganizacijskeenote>
-    SEČOVLJE 44
-   </ulicaorganizacijskeenote>
-   <postaorganizacijskeenote>
-    6333 SEČOVLJE - SICCIOLE
-   </postaorganizacijskeenote>
-  </nazivinnaslov>
-  <pravnistatus>
-   <pravnistatussifra>
-    2
-   </pravnistatussifra>
-   <pravnistatusopis>
-    GOSPODARSKA DRUŽBA / ZASEBNI ZAVOD
-   </pravnistatusopis>
-  </pravnistatus>
-  <tipizvajalca>
-   <tipizvajalcasifra>
-    1
-   </tipizvajalcasifra>
-   <tipizvajalcaopis>
-    OSNOVNO ZDRAVSTVO
-   </tipizvajalcaopis>
-  </tipizvajalca>
-  <obcina>
-   <obcinasifra>
-    90
-   </obcinasifra>
-   <obcinanaziv>
-    PIRAN
-   </obcinanaziv>
-  </obcina>
-  <veljaod>
-   2015-04-01
-  </veljaod>
-  <vzd>
-   <sifravzd>
-    404
-   </sifravzd>
-   <opisvzd>
-    Splošno zobozdravstvo
-   </opisvzd>
-   <veljaod>
-    2015-04-01
-   </veljaod>
-  </vzd>
- </ivzizvajalec>
- <ivzizvajalec>
-  <sifraivzizvajalca>
-   25343
-  </sifraivzizvajalca>
-  <sifralokacije>
-   2
-  </sifralokacije>
-  <zzzsstevilka>
-   7412740
-  </zzzsstevilka>
-  <organizacijskastruktura>
-   <sifraivznadrejeni>
-    25343
-   </sifraivznadrejeni>
-  </organizacijskastruktura>
-  <nazivinnaslov>
-   <nazivorganizacijskeenote>
-    MEDICADENS ŠKORJA SORIĆ
-   </nazivorganizacijskeenote>
-   <dodatninazivorganizacijskeenote>
-    PE ZOBNA AMBULANTA VANGANEL
-   </dodatninazivorganizacijskeenote>
-   <ulicaorganizacijskeenote>
-    VANGANEL 38
-   </ulicaorganizacijskeenote>
-   <postaorganizacijskeenote>
-    6000 KOPER - CAPODISTRIA
-   </postaorganizacijskeenote>
-  </nazivinnaslov>
-  <pravnistatus>
-   <pravnistatussifra>
-    2
-   </pravnistatussifra>
-   <pravnistatusopis>
-    GOSPODARSKA DRUŽBA / ZASEBNI ZAVOD
-   </pravnistatusopis>
-  </pravnistatus>
-  <tipizvajalca>
-   <tipizvajalcasifra>
-    1
-   </tipizvajalcasifra>
-   <tipizvajalcaopis>
-    OSNOVNO ZDRAVSTVO
-   </tipizvajalcaopis>
-  </tipizvajalca>
-  <obcina>
-   <obcinasifra>
-    50
-   </obcinasifra>
-   <obcinanaziv>
-    KOPER
-   </obcinanaziv>
-  </obcina>
-  <veljaod>
-   2018-02-13
-  </veljaod>
-  <vzd>
-   <sifravzd>
-    404
-   </sifravzd>
-   <opisvzd>
-    Splošno zobozdravstvo
-   </opisvzd>
-   <veljaod>
-    2018-02-13
-   </veljaod>
-  </vzd>
- </ivzizvajalec>
- <ivzizvajalec>
-  <sifraivzizvajalca>
-   25344
-  </sifraivzizvajalca>
-  <sifralokacije>
-   0
-  </sifralokacije>
-  <zzzsstevilka>
-   6628382
-  </zzzsstevilka>
-  <organizacijskastruktura>
-   <sifraivznadrejeni>
-    25344
-   </sifraivznadrejeni>
-  </organizacijskastruktura>
-  <nazivinnaslov>
-   <nazivorganizacijskeenote>
-    FIZIOTERAPIJA FRANK D.O.O.
-   </nazivorganizacijskeenote>
-   <ulicaorganizacijskeenote>
-    TRNOVSKA ULICA 34
-   </ulicaorganizacijskeenote>
-   <postaorganizacijskeenote>
-    6250 ILIRSKA BISTRICA
-   </postaorganizacijskeenote>
-  </nazivinnaslov>
-  <pravnistatus>
-   <pravnistatussifra>
-    2
-   </pravnistatussifra>
-   <pravnistatusopis>
-    GOSPODARSKA DRUŽBA / ZASEBNI ZAVOD
-   </pravnistatusopis>
-  </pravnistatus>
-  <tipizvajalca>
-   <tipizvajalcasifra>
-    1
-   </tipizvajalcasifra>
-   <tipizvajalcaopis>
-    OSNOVNO ZDRAVSTVO
-   </tipizvajalcaopis>
-  </tipizvajalca>
-  <obcina>
-   <obcinasifra>
-    38
-   </obcinasifra>
-   <obcinanaziv>
-    ILIRSKA BISTRICA
-   </obcinanaziv>
-  </obcina>
-  <veljaod>
-   2015-07-01
-  </veljaod>
-  <vzd>
-   <sifravzd>
-    507
-   </sifravzd>
-   <opisvzd>
-    Fizioterapija
-   </opisvzd>
-   <veljaod>
-    2015-07-01
    </veljaod>
   </vzd>
  </ivzizvajalec>
