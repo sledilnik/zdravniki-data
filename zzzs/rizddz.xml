@@ -2,10 +2,10 @@
 <bpi xmlns="http://zzzs.si/b2b/bpi" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemalocation="http://zzzs.si/b2b/bpi bpi.xsd">
  <posiljka>
   <verzijaposiljke>
-   4992
+   4993
   </verzijaposiljke>
   <datumposiljke>
-   2026-09-07
+   2026-09-08
   </datumposiljke>
   <verzijasheme>
    1.0
@@ -385973,6 +385973,74 @@
    <veljado>
     2025-08-21
    </veljado>
+  </vzd>
+ </ivzizvajalec>
+ <ivzizvajalec>
+  <sifraivzizvajalca>
+   27173
+  </sifraivzizvajalca>
+  <sifralokacije>
+   2
+  </sifralokacije>
+  <zzzsstevilka>
+   10011205
+  </zzzsstevilka>
+  <organizacijskastruktura>
+   <sifraivzosnovni>
+    27173
+   </sifraivzosnovni>
+  </organizacijskastruktura>
+  <nazivinnaslov>
+   <nazivorganizacijskeenote>
+    AMBULANTE EOS D.O.O.
+   </nazivorganizacijskeenote>
+   <dodatninazivorganizacijskeenote>
+    PE
+   </dodatninazivorganizacijskeenote>
+   <ulicaorganizacijskeenote>
+    ŽANOVA ULICA 3
+   </ulicaorganizacijskeenote>
+   <postaorganizacijskeenote>
+    4000 KRANJ
+   </postaorganizacijskeenote>
+  </nazivinnaslov>
+  <pravnistatus>
+   <pravnistatussifra>
+    2
+   </pravnistatussifra>
+   <pravnistatusopis>
+    GOSPODARSKA DRUŽBA / ZASEBNI ZAVOD
+   </pravnistatusopis>
+  </pravnistatus>
+  <tipizvajalca>
+   <tipizvajalcasifra>
+    1
+   </tipizvajalcasifra>
+   <tipizvajalcaopis>
+    OSNOVNO ZDRAVSTVO
+   </tipizvajalcaopis>
+  </tipizvajalca>
+  <obcina>
+   <obcinasifra>
+    52
+   </obcinasifra>
+   <obcinanaziv>
+    KRANJ
+   </obcinanaziv>
+  </obcina>
+  <veljaod>
+   2026-09-01
+  </veljaod>
+  <vzd>
+   <sifravzd>
+    301
+   </sifravzd>
+   <opisvzd>
+    Medicina dela, prometa in športa
+   </opisvzd>
+   <veljaod>
+    2026-09-01
+   </veljaod>
   </vzd>
  </ivzizvajalec>
  <ivzizvajalec>
