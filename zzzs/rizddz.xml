@@ -2,10 +2,10 @@
 <bpi xmlns="http://zzzs.si/b2b/bpi" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemalocation="http://zzzs.si/b2b/bpi bpi.xsd">
  <posiljka>
   <verzijaposiljke>
-   4994
+   4995
   </verzijaposiljke>
   <datumposiljke>
-   2026-09-09
+   2026-09-10
   </datumposiljke>
   <verzijasheme>
    1.0
@@ -41168,6 +41168,17 @@
    </opisvzd>
    <veljaod>
     2025-01-01
+   </veljaod>
+  </vzd>
+  <vzd>
+   <sifravzd>
+    507
+   </sifravzd>
+   <opisvzd>
+    Fizioterapija
+   </opisvzd>
+   <veljaod>
+    2026-09-01
    </veljaod>
   </vzd>
  </ivzizvajalec>
@@ -92164,6 +92175,71 @@
    </opisvzd>
    <veljaod>
     2014-02-13
+   </veljaod>
+  </vzd>
+ </ivzizvajalec>
+ <ivzizvajalec>
+  <sifraivzizvajalca>
+   952
+  </sifraivzizvajalca>
+  <sifralokacije>
+   0
+  </sifralokacije>
+  <zzzsstevilka>
+   4981374
+  </zzzsstevilka>
+  <organizacijskastruktura>
+   <sifraivzosnovni>
+    952
+   </sifraivzosnovni>
+  </organizacijskastruktura>
+  <nazivinnaslov>
+   <nazivorganizacijskeenote>
+    MANA - ROBERT ŠARMAN S.P.
+   </nazivorganizacijskeenote>
+   <ulicaorganizacijskeenote>
+    LEVSTIKOVA ULICA 2
+   </ulicaorganizacijskeenote>
+   <postaorganizacijskeenote>
+    2310 SLOVENSKA BISTRICA
+   </postaorganizacijskeenote>
+  </nazivinnaslov>
+  <pravnistatus>
+   <pravnistatussifra>
+    5
+   </pravnistatussifra>
+   <pravnistatusopis>
+    SAMOSTOJNI PODJETNIK
+   </pravnistatusopis>
+  </pravnistatus>
+  <tipizvajalca>
+   <tipizvajalcasifra>
+    1
+   </tipizvajalcasifra>
+   <tipizvajalcaopis>
+    OSNOVNO ZDRAVSTVO
+   </tipizvajalcaopis>
+  </tipizvajalca>
+  <obcina>
+   <obcinasifra>
+    113
+   </obcinasifra>
+   <obcinanaziv>
+    SLOVENSKA BISTRICA
+   </obcinanaziv>
+  </obcina>
+  <veljaod>
+   1900-01-01
+  </veljaod>
+  <vzd>
+   <sifravzd>
+    507
+   </sifravzd>
+   <opisvzd>
+    Fizioterapija
+   </opisvzd>
+   <veljaod>
+    2014-01-30
    </veljaod>
   </vzd>
  </ivzizvajalec>
