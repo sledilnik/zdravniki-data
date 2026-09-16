@@ -2,10 +2,10 @@
 <bpi xmlns="http://zzzs.si/b2b/bpi" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemalocation="http://zzzs.si/b2b/bpi bpi.xsd">
  <posiljka>
   <verzijaposiljke>
-   4995
+   5001
   </verzijaposiljke>
   <datumposiljke>
-   2026-09-10
+   2026-09-16
   </datumposiljke>
   <verzijasheme>
    1.0
@@ -66560,13 +66560,13 @@
   </organizacijskastruktura>
   <nazivinnaslov>
    <nazivorganizacijskeenote>
-    JURE IVARTNIK S.P.
+    MODRA FIZIOTERAPIJA, JURE IVARTNIK S.P.
    </nazivorganizacijskeenote>
    <ulicaorganizacijskeenote>
-    STRŽOVO 74
+    UL KOROŠKEGA BATALJONA 12
    </ulicaorganizacijskeenote>
    <postaorganizacijskeenote>
-    2392 MEŽICA
+    1231 LJUBLJANA - ČRNUČE
    </postaorganizacijskeenote>
   </nazivinnaslov>
   <pravnistatus>
@@ -66587,10 +66587,10 @@
   </tipizvajalca>
   <obcina>
    <obcinasifra>
-    74
+    61
    </obcinasifra>
    <obcinanaziv>
-    MEŽICA
+    LJUBLJANA
    </obcinanaziv>
   </obcina>
   <veljaod>
@@ -85725,10 +85725,10 @@
     KRUNOSLAV PAVLOVIĆ S.P.
    </nazivorganizacijskeenote>
    <ulicaorganizacijskeenote>
-    HRENOVA ULICA 11
+    VOLČJE 51
    </ulicaorganizacijskeenote>
    <postaorganizacijskeenote>
-    1292 IG
+    1385 NOVA VAS
    </postaorganizacijskeenote>
   </nazivinnaslov>
   <pravnistatus>
@@ -85749,10 +85749,10 @@
   </tipizvajalca>
   <obcina>
    <obcinasifra>
-    37
+    150
    </obcinasifra>
    <obcinanaziv>
-    IG
+    BLOKE
    </obcinanaziv>
   </obcina>
   <veljaod>
@@ -184511,6 +184511,107 @@
  </ivzizvajalec>
  <ivzizvajalec>
   <sifraivzizvajalca>
+   2057
+  </sifraivzizvajalca>
+  <sifralokacije>
+   1
+  </sifralokacije>
+  <zzzsstevilka>
+   10013670
+  </zzzsstevilka>
+  <organizacijskastruktura>
+   <sifraivzosnovni>
+    2057
+   </sifraivzosnovni>
+  </organizacijskastruktura>
+  <nazivinnaslov>
+   <nazivorganizacijskeenote>
+    CVD GOLOVEC CELJE
+   </nazivorganizacijskeenote>
+   <dodatninazivorganizacijskeenote>
+    PE LJUBEČNA
+   </dodatninazivorganizacijskeenote>
+   <ulicaorganizacijskeenote>
+    KOCBEKOVA CESTA 28
+   </ulicaorganizacijskeenote>
+   <postaorganizacijskeenote>
+    3202 LJUBEČNA
+   </postaorganizacijskeenote>
+  </nazivinnaslov>
+  <pravnistatus>
+   <pravnistatussifra>
+    1
+   </pravnistatussifra>
+   <pravnistatusopis>
+    JAVNI ZAVOD
+   </pravnistatusopis>
+  </pravnistatus>
+  <tipizvajalca>
+   <tipizvajalcasifra>
+    7
+   </tipizvajalcasifra>
+   <tipizvajalcaopis>
+    SOCIALNI ZAVOD
+   </tipizvajalcaopis>
+  </tipizvajalca>
+  <obcina>
+   <obcinasifra>
+    11
+   </obcinasifra>
+   <obcinanaziv>
+    CELJE
+   </obcinanaziv>
+  </obcina>
+  <veljaod>
+   2009-02-01
+  </veljaod>
+  <vzd>
+   <sifravzd>
+    506
+   </sifravzd>
+   <opisvzd>
+    Delovna terapija
+   </opisvzd>
+   <veljaod>
+    2022-05-06
+   </veljaod>
+  </vzd>
+  <vzd>
+   <sifravzd>
+    507
+   </sifravzd>
+   <opisvzd>
+    Fizioterapija
+   </opisvzd>
+   <veljaod>
+    2022-05-06
+   </veljaod>
+  </vzd>
+  <vzd>
+   <sifravzd>
+    544
+   </sifravzd>
+   <opisvzd>
+    Zdravstvena nega v drugih dejavnostih
+   </opisvzd>
+   <veljaod>
+    2022-05-06
+   </veljaod>
+  </vzd>
+  <vzd>
+   <sifravzd>
+    644
+   </sifravzd>
+   <opisvzd>
+    Zdr.nega v dej.nast.ustanov za bol.nego
+   </opisvzd>
+   <veljaod>
+    2009-02-01
+   </veljaod>
+  </vzd>
+ </ivzizvajalec>
+ <ivzizvajalec>
+  <sifraivzizvajalca>
    2058
   </sifraivzizvajalca>
   <sifralokacije>
@@ -224982,7 +225083,7 @@
     TERAPIJE FM, MIHA RAŠČAN S.P.
    </nazivorganizacijskeenote>
    <dodatninazivorganizacijskeenote>
-    POSLOVNA ENOTA MURSKA SOBOTA
+    PE
    </dodatninazivorganizacijskeenote>
    <ulicaorganizacijskeenote>
     CVETKOVA ULICA 10
@@ -227063,6 +227164,71 @@
    </opisvzd>
    <veljaod>
     2026-08-25
+   </veljaod>
+  </vzd>
+ </ivzizvajalec>
+ <ivzizvajalec>
+  <sifraivzizvajalca>
+   2657
+  </sifraivzizvajalca>
+  <sifralokacije>
+   0
+  </sifralokacije>
+  <zzzsstevilka>
+   9980275
+  </zzzsstevilka>
+  <organizacijskastruktura>
+   <sifraivzosnovni>
+    2657
+   </sifraivzosnovni>
+  </organizacijskastruktura>
+  <nazivinnaslov>
+   <nazivorganizacijskeenote>
+    GALENUS, RADE STANIĆ, S.P.
+   </nazivorganizacijskeenote>
+   <ulicaorganizacijskeenote>
+    GRADIŠČE 6
+   </ulicaorganizacijskeenote>
+   <postaorganizacijskeenote>
+    1000 LJUBLJANA
+   </postaorganizacijskeenote>
+  </nazivinnaslov>
+  <pravnistatus>
+   <pravnistatussifra>
+    6
+   </pravnistatussifra>
+   <pravnistatusopis>
+    SAMOSTOJNI PODJETNIK - BREZ AMBULANTE
+   </pravnistatusopis>
+  </pravnistatus>
+  <tipizvajalca>
+   <tipizvajalcasifra>
+    2
+   </tipizvajalcasifra>
+   <tipizvajalcaopis>
+    SPECIALISTIČNA AMBULANTA
+   </tipizvajalcaopis>
+  </tipizvajalca>
+  <obcina>
+   <obcinasifra>
+    61
+   </obcinasifra>
+   <obcinanaziv>
+    LJUBLJANA
+   </obcinanaziv>
+  </obcina>
+  <veljaod>
+   2026-08-27
+  </veljaod>
+  <vzd>
+   <sifravzd>
+    706
+   </sifravzd>
+   <opisvzd>
+    Urejanje zdr.,iz.,kult., drugih soc.st.
+   </opisvzd>
+   <veljaod>
+    2026-08-27
    </veljaod>
   </vzd>
  </ivzizvajalec>
@@ -483769,6 +483935,17 @@
    </opisvzd>
    <veljaod>
     2024-01-01
+   </veljaod>
+  </vzd>
+  <vzd>
+   <sifravzd>
+    255
+   </sifravzd>
+   <opisvzd>
+    Klinična psihologija v spec. ZunajBolDej
+   </opisvzd>
+   <veljaod>
+    2026-01-01
    </veljaod>
   </vzd>
  </ivzizvajalec>
