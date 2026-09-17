@@ -2,10 +2,10 @@
 <bpi xmlns="http://zzzs.si/b2b/bpi" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemalocation="http://zzzs.si/b2b/bpi bpi.xsd">
  <posiljka>
   <verzijaposiljke>
-   5001
+   5002
   </verzijaposiljke>
   <datumposiljke>
-   2026-09-16
+   2026-09-17
   </datumposiljke>
   <verzijasheme>
    1.0
@@ -158718,10 +158718,10 @@
     MANUS, LEON ČULK S.P.
    </nazivorganizacijskeenote>
    <ulicaorganizacijskeenote>
-    OREHOVLJE 2 B
+    ULICA 9. SEPTEMBRA 240 A
    </ulicaorganizacijskeenote>
    <postaorganizacijskeenote>
-    5291 MIREN
+    5290 ŠEMPETER PRI GORICI
    </postaorganizacijskeenote>
   </nazivinnaslov>
   <pravnistatus>
@@ -158742,10 +158742,10 @@
   </tipizvajalca>
   <obcina>
    <obcinasifra>
-    75
+    183
    </obcinasifra>
    <obcinanaziv>
-    MIREN-KOSTANJEVICA
+    ŠEMPETER-VRTOJBA
    </obcinanaziv>
   </obcina>
   <veljaod>
@@ -176673,6 +176673,71 @@
    </opisvzd>
    <veljaod>
     2025-02-25
+   </veljaod>
+  </vzd>
+ </ivzizvajalec>
+ <ivzizvajalec>
+  <sifraivzizvajalca>
+   1947
+  </sifraivzizvajalca>
+  <sifralokacije>
+   0
+  </sifralokacije>
+  <zzzsstevilka>
+   9428000
+  </zzzsstevilka>
+  <organizacijskastruktura>
+   <sifraivzosnovni>
+    1947
+   </sifraivzosnovni>
+  </organizacijskastruktura>
+  <nazivinnaslov>
+   <nazivorganizacijskeenote>
+    LIZA RAJIČ BELINA S.P.
+   </nazivorganizacijskeenote>
+   <ulicaorganizacijskeenote>
+    CESTA NA MESARICO 24
+   </ulicaorganizacijskeenote>
+   <postaorganizacijskeenote>
+    1000 LJUBLJANA
+   </postaorganizacijskeenote>
+  </nazivinnaslov>
+  <pravnistatus>
+   <pravnistatussifra>
+    5
+   </pravnistatussifra>
+   <pravnistatusopis>
+    SAMOSTOJNI PODJETNIK
+   </pravnistatusopis>
+  </pravnistatus>
+  <tipizvajalca>
+   <tipizvajalcasifra>
+    1
+   </tipizvajalcasifra>
+   <tipizvajalcaopis>
+    OSNOVNO ZDRAVSTVO
+   </tipizvajalcaopis>
+  </tipizvajalca>
+  <obcina>
+   <obcinasifra>
+    61
+   </obcinasifra>
+   <obcinanaziv>
+    LJUBLJANA
+   </obcinanaziv>
+  </obcina>
+  <veljaod>
+   2025-01-31
+  </veljaod>
+  <vzd>
+   <sifravzd>
+    706
+   </sifravzd>
+   <opisvzd>
+    Urejanje zdr.,iz.,kult., drugih soc.st.
+   </opisvzd>
+   <veljaod>
+    2025-01-31
    </veljaod>
   </vzd>
  </ivzizvajalec>
@@ -316702,7 +316767,7 @@
     VDC POLŽ MARIBOR
    </nazivorganizacijskeenote>
    <dodatninazivorganizacijskeenote>
-    PE SS MARIBOR
+    PE BE LJUBLJANSKA
    </dodatninazivorganizacijskeenote>
    <ulicaorganizacijskeenote>
     LJUBLJANSKA ULICA 52
