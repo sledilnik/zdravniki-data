@@ -2,10 +2,10 @@
 <bpi xmlns="http://zzzs.si/b2b/bpi" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemalocation="http://zzzs.si/b2b/bpi bpi.xsd">
  <posiljka>
   <verzijaposiljke>
-   5003
+   5004
   </verzijaposiljke>
   <datumposiljke>
-   2026-09-18
+   2026-09-19
   </datumposiljke>
   <verzijasheme>
    1.0
@@ -225461,6 +225461,136 @@
  </ivzizvajalec>
  <ivzizvajalec>
   <sifraivzizvajalca>
+   2613
+  </sifraivzizvajalca>
+  <sifralokacije>
+   0
+  </sifralokacije>
+  <zzzsstevilka>
+   8830970
+  </zzzsstevilka>
+  <organizacijskastruktura>
+   <sifraivzosnovni>
+    2613
+   </sifraivzosnovni>
+  </organizacijskastruktura>
+  <nazivinnaslov>
+   <nazivorganizacijskeenote>
+    AUDIO CLARUS D.O.O.
+   </nazivorganizacijskeenote>
+   <ulicaorganizacijskeenote>
+    GRŠKA ULICA 13
+   </ulicaorganizacijskeenote>
+   <postaorganizacijskeenote>
+    1000 LJUBLJANA
+   </postaorganizacijskeenote>
+  </nazivinnaslov>
+  <pravnistatus>
+   <pravnistatussifra>
+    2
+   </pravnistatussifra>
+   <pravnistatusopis>
+    GOSPODARSKA DRUŽBA / ZASEBNI ZAVOD
+   </pravnistatusopis>
+  </pravnistatus>
+  <tipizvajalca>
+   <tipizvajalcasifra>
+    2
+   </tipizvajalcasifra>
+   <tipizvajalcaopis>
+    SPECIALISTIČNA AMBULANTA
+   </tipizvajalcaopis>
+  </tipizvajalca>
+  <obcina>
+   <obcinasifra>
+    61
+   </obcinasifra>
+   <obcinanaziv>
+    LJUBLJANA
+   </obcinanaziv>
+  </obcina>
+  <veljaod>
+   2026-07-17
+  </veljaod>
+  <vzd>
+   <sifravzd>
+    706
+   </sifravzd>
+   <opisvzd>
+    Urejanje zdr.,iz.,kult., drugih soc.st.
+   </opisvzd>
+   <veljaod>
+    2026-07-17
+   </veljaod>
+  </vzd>
+ </ivzizvajalec>
+ <ivzizvajalec>
+  <sifraivzizvajalca>
+   2613
+  </sifraivzizvajalca>
+  <sifralokacije>
+   1
+  </sifralokacije>
+  <zzzsstevilka>
+   8859100
+  </zzzsstevilka>
+  <organizacijskastruktura>
+   <sifraivzosnovni>
+    2613
+   </sifraivzosnovni>
+  </organizacijskastruktura>
+  <nazivinnaslov>
+   <nazivorganizacijskeenote>
+    AUDIO CLARUS D.O.O., PE AUDIO CLARUS TAVČARJEVA
+   </nazivorganizacijskeenote>
+   <ulicaorganizacijskeenote>
+    TAVČARJEVA ULICA 1
+   </ulicaorganizacijskeenote>
+   <postaorganizacijskeenote>
+    1000 LJUBLJANA
+   </postaorganizacijskeenote>
+  </nazivinnaslov>
+  <pravnistatus>
+   <pravnistatussifra>
+    2
+   </pravnistatussifra>
+   <pravnistatusopis>
+    GOSPODARSKA DRUŽBA / ZASEBNI ZAVOD
+   </pravnistatusopis>
+  </pravnistatus>
+  <tipizvajalca>
+   <tipizvajalcasifra>
+    2
+   </tipizvajalcasifra>
+   <tipizvajalcaopis>
+    SPECIALISTIČNA AMBULANTA
+   </tipizvajalcaopis>
+  </tipizvajalca>
+  <obcina>
+   <obcinasifra>
+    61
+   </obcinasifra>
+   <obcinanaziv>
+    LJUBLJANA
+   </obcinanaziv>
+  </obcina>
+  <veljaod>
+   2026-07-17
+  </veljaod>
+  <vzd>
+   <sifravzd>
+    223
+   </sifravzd>
+   <opisvzd>
+    Otorinolaringologija v spec. ZunajBolDej
+   </opisvzd>
+   <veljaod>
+    2026-07-17
+   </veljaod>
+  </vzd>
+ </ivzizvajalec>
+ <ivzizvajalec>
+  <sifraivzizvajalca>
    2614
   </sifraivzizvajalca>
   <sifralokacije>
@@ -227294,6 +227424,71 @@
    </opisvzd>
    <veljaod>
     2026-08-27
+   </veljaod>
+  </vzd>
+ </ivzizvajalec>
+ <ivzizvajalec>
+  <sifraivzizvajalca>
+   2659
+  </sifraivzizvajalca>
+  <sifralokacije>
+   0
+  </sifralokacije>
+  <zzzsstevilka>
+   9970862
+  </zzzsstevilka>
+  <organizacijskastruktura>
+   <sifraivzosnovni>
+    2659
+   </sifraivzosnovni>
+  </organizacijskastruktura>
+  <nazivinnaslov>
+   <nazivorganizacijskeenote>
+    DENT 360 D.O.O.
+   </nazivorganizacijskeenote>
+   <ulicaorganizacijskeenote>
+    GREGORČIČEVA ULICA 4
+   </ulicaorganizacijskeenote>
+   <postaorganizacijskeenote>
+    3000 CELJE
+   </postaorganizacijskeenote>
+  </nazivinnaslov>
+  <pravnistatus>
+   <pravnistatussifra>
+    2
+   </pravnistatussifra>
+   <pravnistatusopis>
+    GOSPODARSKA DRUŽBA / ZASEBNI ZAVOD
+   </pravnistatusopis>
+  </pravnistatus>
+  <tipizvajalca>
+   <tipizvajalcasifra>
+    1
+   </tipizvajalcasifra>
+   <tipizvajalcaopis>
+    OSNOVNO ZDRAVSTVO
+   </tipizvajalcaopis>
+  </tipizvajalca>
+  <obcina>
+   <obcinasifra>
+    11
+   </obcinasifra>
+   <obcinanaziv>
+    CELJE
+   </obcinanaziv>
+  </obcina>
+  <veljaod>
+   2026-07-31
+  </veljaod>
+  <vzd>
+   <sifravzd>
+    404
+   </sifravzd>
+   <opisvzd>
+    Splošno zobozdravstvo
+   </opisvzd>
+   <veljaod>
+    2026-07-31
    </veljaod>
   </vzd>
  </ivzizvajalec>
@@ -485478,6 +485673,77 @@
    </opisvzd>
    <veljaod>
     1999-04-22
+   </veljaod>
+  </vzd>
+ </ivzizvajalec>
+ <ivzizvajalec>
+  <sifraivzizvajalca>
+   50024
+  </sifraivzizvajalca>
+  <sifralokacije>
+   1
+  </sifralokacije>
+  <zzzsstevilka>
+   10034270
+  </zzzsstevilka>
+  <organizacijskastruktura>
+   <sifraivznadrejeni>
+    6001
+   </sifraivznadrejeni>
+   <sifraivzosnovni>
+    50024
+   </sifraivzosnovni>
+  </organizacijskastruktura>
+  <nazivinnaslov>
+   <nazivorganizacijskeenote>
+    UKC LJUBLJANA, STRATEŠKO UPRAVLJANJE IN POSLOVNO ADMINISTRAT
+   </nazivorganizacijskeenote>
+   <dodatninazivorganizacijskeenote>
+    CENTER ZA TKIVNO DIAGNOSTIKO IN CELIČNO TERAPIJO
+   </dodatninazivorganizacijskeenote>
+   <ulicaorganizacijskeenote>
+    ŠLAJMERJEVA ULICA 2
+   </ulicaorganizacijskeenote>
+   <postaorganizacijskeenote>
+    1000 LJUBLJANA
+   </postaorganizacijskeenote>
+  </nazivinnaslov>
+  <pravnistatus>
+   <pravnistatussifra>
+    1
+   </pravnistatussifra>
+   <pravnistatusopis>
+    JAVNI ZAVOD
+   </pravnistatusopis>
+  </pravnistatus>
+  <tipizvajalca>
+   <tipizvajalcasifra>
+    13
+   </tipizvajalcasifra>
+   <tipizvajalcaopis>
+    KLINIKA
+   </tipizvajalcaopis>
+  </tipizvajalca>
+  <obcina>
+   <obcinasifra>
+    61
+   </obcinasifra>
+   <obcinanaziv>
+    LJUBLJANA
+   </obcinanaziv>
+  </obcina>
+  <veljaod>
+   2026-09-01
+  </veljaod>
+  <vzd>
+   <sifravzd>
+    505
+   </sifravzd>
+   <opisvzd>
+    Medicinska biokemija
+   </opisvzd>
+   <veljaod>
+    2026-09-01
    </veljaod>
   </vzd>
  </ivzizvajalec>
