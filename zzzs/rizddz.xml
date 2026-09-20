@@ -2,10 +2,10 @@
 <bpi xmlns="http://zzzs.si/b2b/bpi" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemalocation="http://zzzs.si/b2b/bpi bpi.xsd">
  <posiljka>
   <verzijaposiljke>
-   5004
+   5005
   </verzijaposiljke>
   <datumposiljke>
-   2026-09-19
+   2026-09-20
   </datumposiljke>
   <verzijasheme>
    1.0
@@ -119402,10 +119402,10 @@
   </organizacijskastruktura>
   <nazivinnaslov>
    <nazivorganizacijskeenote>
-    MNLTH D.O.O.
+    LAM KLINIKA D.O.O.
    </nazivorganizacijskeenote>
    <ulicaorganizacijskeenote>
-    ŠTIHOVA ULICA 25
+    KRANJČEVA ULICA 30
    </ulicaorganizacijskeenote>
    <postaorganizacijskeenote>
     1000 LJUBLJANA
