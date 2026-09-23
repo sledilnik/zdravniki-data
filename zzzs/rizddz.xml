@@ -2,10 +2,10 @@
 <bpi xmlns="http://zzzs.si/b2b/bpi" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemalocation="http://zzzs.si/b2b/bpi bpi.xsd">
  <posiljka>
   <verzijaposiljke>
-   5007
+   5008
   </verzijaposiljke>
   <datumposiljke>
-   2026-09-22
+   2026-09-23
   </datumposiljke>
   <verzijasheme>
    1.0
@@ -54236,6 +54236,74 @@
    </opisvzd>
    <veljaod>
     2024-11-22
+   </veljaod>
+  </vzd>
+ </ivzizvajalec>
+ <ivzizvajalec>
+  <sifraivzizvajalca>
+   437
+  </sifraivzizvajalca>
+  <sifralokacije>
+   9
+  </sifralokacije>
+  <zzzsstevilka>
+   10032188
+  </zzzsstevilka>
+  <organizacijskastruktura>
+   <sifraivzosnovni>
+    437
+   </sifraivzosnovni>
+  </organizacijskastruktura>
+  <nazivinnaslov>
+   <nazivorganizacijskeenote>
+    MEDICINA MATALN D.O.O.
+   </nazivorganizacijskeenote>
+   <dodatninazivorganizacijskeenote>
+    PE AMBULANTA KAMNIK
+   </dodatninazivorganizacijskeenote>
+   <ulicaorganizacijskeenote>
+    NOVI TRG 26 A
+   </ulicaorganizacijskeenote>
+   <postaorganizacijskeenote>
+    1241 KAMNIK
+   </postaorganizacijskeenote>
+  </nazivinnaslov>
+  <pravnistatus>
+   <pravnistatussifra>
+    2
+   </pravnistatussifra>
+   <pravnistatusopis>
+    GOSPODARSKA DRUŽBA / ZASEBNI ZAVOD
+   </pravnistatusopis>
+  </pravnistatus>
+  <tipizvajalca>
+   <tipizvajalcasifra>
+    1
+   </tipizvajalcasifra>
+   <tipizvajalcaopis>
+    OSNOVNO ZDRAVSTVO
+   </tipizvajalcaopis>
+  </tipizvajalca>
+  <obcina>
+   <obcinasifra>
+    43
+   </obcinasifra>
+   <obcinanaziv>
+    KAMNIK
+   </obcinanaziv>
+  </obcina>
+  <veljaod>
+   2026-10-01
+  </veljaod>
+  <vzd>
+   <sifravzd>
+    302
+   </sifravzd>
+   <opisvzd>
+    Splošna in družinska medicina
+   </opisvzd>
+   <veljaod>
+    2026-10-01
    </veljaod>
   </vzd>
  </ivzizvajalec>
@@ -154590,7 +154658,7 @@
   </organizacijskastruktura>
   <nazivinnaslov>
    <nazivorganizacijskeenote>
-    DERMART, KATJA KRAMBERGER S.P.
+    DERMART, KATJA KRAMBERGER SITAR S.P.
    </nazivorganizacijskeenote>
    <ulicaorganizacijskeenote>
     VRBANSKA CESTA 31
@@ -354711,6 +354779,74 @@
    </opisvzd>
    <veljaod>
     2005-10-07
+   </veljaod>
+  </vzd>
+ </ivzizvajalec>
+ <ivzizvajalec>
+  <sifraivzizvajalca>
+   24440
+  </sifraivzizvajalca>
+  <sifralokacije>
+   1
+  </sifralokacije>
+  <zzzsstevilka>
+   9656263
+  </zzzsstevilka>
+  <organizacijskastruktura>
+   <sifraivzosnovni>
+    24440
+   </sifraivzosnovni>
+  </organizacijskastruktura>
+  <nazivinnaslov>
+   <nazivorganizacijskeenote>
+    B DENT D.O.O.
+   </nazivorganizacijskeenote>
+   <dodatninazivorganizacijskeenote>
+    PE VIR
+   </dodatninazivorganizacijskeenote>
+   <ulicaorganizacijskeenote>
+    ŠARANOVIČEVA CESTA 25 A
+   </ulicaorganizacijskeenote>
+   <postaorganizacijskeenote>
+    1230 DOMŽALE
+   </postaorganizacijskeenote>
+  </nazivinnaslov>
+  <pravnistatus>
+   <pravnistatussifra>
+    2
+   </pravnistatussifra>
+   <pravnistatusopis>
+    GOSPODARSKA DRUŽBA / ZASEBNI ZAVOD
+   </pravnistatusopis>
+  </pravnistatus>
+  <tipizvajalca>
+   <tipizvajalcasifra>
+    1
+   </tipizvajalcasifra>
+   <tipizvajalcaopis>
+    OSNOVNO ZDRAVSTVO
+   </tipizvajalcaopis>
+  </tipizvajalca>
+  <obcina>
+   <obcinasifra>
+    23
+   </obcinasifra>
+   <obcinanaziv>
+    DOMŽALE
+   </obcinanaziv>
+  </obcina>
+  <veljaod>
+   2017-06-22
+  </veljaod>
+  <vzd>
+   <sifravzd>
+    404
+   </sifravzd>
+   <opisvzd>
+    Splošno zobozdravstvo
+   </opisvzd>
+   <veljaod>
+    2017-06-22
    </veljaod>
   </vzd>
  </ivzizvajalec>
