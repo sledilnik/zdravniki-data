@@ -2,10 +2,10 @@
 <bpi xmlns="http://zzzs.si/b2b/bpi" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemalocation="http://zzzs.si/b2b/bpi bpi.xsd">
  <posiljka>
   <verzijaposiljke>
-   5008
+   5009
   </verzijaposiljke>
   <datumposiljke>
-   2026-09-23
+   2026-09-24
   </datumposiljke>
   <verzijasheme>
    1.0
@@ -66678,6 +66678,74 @@
  </ivzizvajalec>
  <ivzizvajalec>
   <sifraivzizvajalca>
+   598
+  </sifraivzizvajalca>
+  <sifralokacije>
+   2
+  </sifralokacije>
+  <zzzsstevilka>
+   10031580
+  </zzzsstevilka>
+  <organizacijskastruktura>
+   <sifraivzosnovni>
+    598
+   </sifraivzosnovni>
+  </organizacijskastruktura>
+  <nazivinnaslov>
+   <nazivorganizacijskeenote>
+    MODRA FIZIOTERAPIJA, JURE IVARTNIK S.P.
+   </nazivorganizacijskeenote>
+   <dodatninazivorganizacijskeenote>
+    POSLOVNA ENOTA KOTNIKOVA
+   </dodatninazivorganizacijskeenote>
+   <ulicaorganizacijskeenote>
+    KOTNIKOVA ULICA 30
+   </ulicaorganizacijskeenote>
+   <postaorganizacijskeenote>
+    1000 LJUBLJANA
+   </postaorganizacijskeenote>
+  </nazivinnaslov>
+  <pravnistatus>
+   <pravnistatussifra>
+    5
+   </pravnistatussifra>
+   <pravnistatusopis>
+    SAMOSTOJNI PODJETNIK
+   </pravnistatusopis>
+  </pravnistatus>
+  <tipizvajalca>
+   <tipizvajalcasifra>
+    1
+   </tipizvajalcasifra>
+   <tipizvajalcaopis>
+    OSNOVNO ZDRAVSTVO
+   </tipizvajalcaopis>
+  </tipizvajalca>
+  <obcina>
+   <obcinasifra>
+    61
+   </obcinasifra>
+   <obcinanaziv>
+    LJUBLJANA
+   </obcinanaziv>
+  </obcina>
+  <veljaod>
+   2020-06-19
+  </veljaod>
+  <vzd>
+   <sifravzd>
+    507
+   </sifravzd>
+   <opisvzd>
+    Fizioterapija
+   </opisvzd>
+   <veljaod>
+    2020-06-19
+   </veljaod>
+  </vzd>
+ </ivzizvajalec>
+ <ivzizvajalec>
+  <sifraivzizvajalca>
    599
   </sifraivzizvajalca>
   <sifralokacije>
@@ -102727,6 +102795,74 @@
    </opisvzd>
    <veljaod>
     2022-11-14
+   </veljaod>
+  </vzd>
+ </ivzizvajalec>
+ <ivzizvajalec>
+  <sifraivzizvajalca>
+   1069
+  </sifraivzizvajalca>
+  <sifralokacije>
+   5
+  </sifralokacije>
+  <zzzsstevilka>
+   10064831
+  </zzzsstevilka>
+  <organizacijskastruktura>
+   <sifraivzosnovni>
+    1069
+   </sifraivzosnovni>
+  </organizacijskastruktura>
+  <nazivinnaslov>
+   <nazivorganizacijskeenote>
+    RADIOLOŠKA DIAGNOSTIKA IN SVETOVANJE, NINA TUŠEK RANT S.P.
+   </nazivorganizacijskeenote>
+   <dodatninazivorganizacijskeenote>
+    LOKACIJA MOSTE
+   </dodatninazivorganizacijskeenote>
+   <ulicaorganizacijskeenote>
+    MOSTE 101
+   </ulicaorganizacijskeenote>
+   <postaorganizacijskeenote>
+    4274 ŽIROVNICA
+   </postaorganizacijskeenote>
+  </nazivinnaslov>
+  <pravnistatus>
+   <pravnistatussifra>
+    6
+   </pravnistatussifra>
+   <pravnistatusopis>
+    SAMOSTOJNI PODJETNIK - BREZ AMBULANTE
+   </pravnistatusopis>
+  </pravnistatus>
+  <tipizvajalca>
+   <tipizvajalcasifra>
+    2
+   </tipizvajalcasifra>
+   <tipizvajalcaopis>
+    SPECIALISTIČNA AMBULANTA
+   </tipizvajalcaopis>
+  </tipizvajalca>
+  <obcina>
+   <obcinasifra>
+    192
+   </obcinasifra>
+   <obcinanaziv>
+    ŽIROVNICA
+   </obcinanaziv>
+  </obcina>
+  <veljaod>
+   2026-05-26
+  </veljaod>
+  <vzd>
+   <sifravzd>
+    231
+   </sifravzd>
+   <opisvzd>
+    Radiologija v spec. ZunajBolDej
+   </opisvzd>
+   <veljaod>
+    2026-05-26
    </veljaod>
   </vzd>
  </ivzizvajalec>
@@ -227497,6 +227633,139 @@
  </ivzizvajalec>
  <ivzizvajalec>
   <sifraivzizvajalca>
+   2658
+  </sifraivzizvajalca>
+  <sifralokacije>
+   0
+  </sifralokacije>
+  <zzzsstevilka>
+   9999526
+  </zzzsstevilka>
+  <organizacijskastruktura>
+   <sifraivzosnovni>
+    2658
+   </sifraivzosnovni>
+  </organizacijskastruktura>
+  <nazivinnaslov>
+   <nazivorganizacijskeenote>
+    SONJA NIKOLAVČIČ S.P.
+   </nazivorganizacijskeenote>
+   <ulicaorganizacijskeenote>
+    OHONICA 4
+   </ulicaorganizacijskeenote>
+   <postaorganizacijskeenote>
+    1353 BOROVNICA
+   </postaorganizacijskeenote>
+  </nazivinnaslov>
+  <pravnistatus>
+   <pravnistatussifra>
+    5
+   </pravnistatussifra>
+   <pravnistatusopis>
+    SAMOSTOJNI PODJETNIK
+   </pravnistatusopis>
+  </pravnistatus>
+  <tipizvajalca>
+   <tipizvajalcasifra>
+    1
+   </tipizvajalcasifra>
+   <tipizvajalcaopis>
+    OSNOVNO ZDRAVSTVO
+   </tipizvajalcaopis>
+  </tipizvajalca>
+  <obcina>
+   <obcinasifra>
+    5
+   </obcinasifra>
+   <obcinanaziv>
+    BOROVNICA
+   </obcinanaziv>
+  </obcina>
+  <veljaod>
+   2026-08-26
+  </veljaod>
+  <vzd>
+   <sifravzd>
+    706
+   </sifravzd>
+   <opisvzd>
+    Urejanje zdr.,iz.,kult., drugih soc.st.
+   </opisvzd>
+   <veljaod>
+    2026-08-26
+   </veljaod>
+  </vzd>
+ </ivzizvajalec>
+ <ivzizvajalec>
+  <sifraivzizvajalca>
+   2658
+  </sifraivzizvajalca>
+  <sifralokacije>
+   1
+  </sifralokacije>
+  <zzzsstevilka>
+   9999557
+  </zzzsstevilka>
+  <organizacijskastruktura>
+   <sifraivzosnovni>
+    2658
+   </sifraivzosnovni>
+  </organizacijskastruktura>
+  <nazivinnaslov>
+   <nazivorganizacijskeenote>
+    SONJA NIKOLAVČIČ S.P.
+   </nazivorganizacijskeenote>
+   <dodatninazivorganizacijskeenote>
+    PE
+   </dodatninazivorganizacijskeenote>
+   <ulicaorganizacijskeenote>
+    BRIGADIRSKA CESTA 16
+   </ulicaorganizacijskeenote>
+   <postaorganizacijskeenote>
+    1360 VRHNIKA
+   </postaorganizacijskeenote>
+  </nazivinnaslov>
+  <pravnistatus>
+   <pravnistatussifra>
+    5
+   </pravnistatussifra>
+   <pravnistatusopis>
+    SAMOSTOJNI PODJETNIK
+   </pravnistatusopis>
+  </pravnistatus>
+  <tipizvajalca>
+   <tipizvajalcasifra>
+    1
+   </tipizvajalcasifra>
+   <tipizvajalcaopis>
+    OSNOVNO ZDRAVSTVO
+   </tipizvajalcaopis>
+  </tipizvajalca>
+  <obcina>
+   <obcinasifra>
+    140
+   </obcinasifra>
+   <obcinanaziv>
+    VRHNIKA
+   </obcinanaziv>
+  </obcina>
+  <veljaod>
+   2026-08-26
+  </veljaod>
+  <vzd>
+   <sifravzd>
+    550
+   </sifravzd>
+   <opisvzd>
+    Ustna higiena
+   </opisvzd>
+   <veljaod>
+    2026-08-26
+   </veljaod>
+  </vzd>
+ </ivzizvajalec>
+ <ivzizvajalec>
+  <sifraivzizvajalca>
    2659
   </sifraivzizvajalca>
   <sifralokacije>
@@ -286635,6 +286904,9 @@
   <veljaod>
    1999-05-01
   </veljaod>
+  <veljado>
+   2026-09-16
+  </veljado>
   <vzd>
    <sifravzd>
     404
@@ -286645,6 +286917,9 @@
    <veljaod>
     1999-05-01
    </veljaod>
+   <veljado>
+    2026-09-16
+   </veljado>
   </vzd>
  </ivzizvajalec>
  <ivzizvajalec>
