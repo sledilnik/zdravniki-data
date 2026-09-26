@@ -2,10 +2,10 @@
 <bpi xmlns="http://zzzs.si/b2b/bpi" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemalocation="http://zzzs.si/b2b/bpi bpi.xsd">
  <posiljka>
   <verzijaposiljke>
-   5010
+   5011
   </verzijaposiljke>
   <datumposiljke>
-   2026-09-25
+   2026-09-26
   </datumposiljke>
   <verzijasheme>
    1.0
@@ -194238,6 +194238,136 @@
  </ivzizvajalec>
  <ivzizvajalec>
   <sifraivzizvajalca>
+   2211
+  </sifraivzizvajalca>
+  <sifralokacije>
+   0
+  </sifralokacije>
+  <zzzsstevilka>
+   3483458
+  </zzzsstevilka>
+  <organizacijskastruktura>
+   <sifraivzosnovni>
+    2211
+   </sifraivzosnovni>
+  </organizacijskastruktura>
+  <nazivinnaslov>
+   <nazivorganizacijskeenote>
+    MOJCA VAN MIDDEN - ORDINACIJA ZA ULTRAZVOK
+   </nazivorganizacijskeenote>
+   <ulicaorganizacijskeenote>
+    GABRJE PRI STIČNI 6
+   </ulicaorganizacijskeenote>
+   <postaorganizacijskeenote>
+    1295 IVANČNA GORICA
+   </postaorganizacijskeenote>
+  </nazivinnaslov>
+  <pravnistatus>
+   <pravnistatussifra>
+    3
+   </pravnistatussifra>
+   <pravnistatusopis>
+    ZASEBNI ZDRAVSTVENI DELAVEC
+   </pravnistatusopis>
+  </pravnistatus>
+  <tipizvajalca>
+   <tipizvajalcasifra>
+    2
+   </tipizvajalcasifra>
+   <tipizvajalcaopis>
+    SPECIALISTIČNA AMBULANTA
+   </tipizvajalcaopis>
+  </tipizvajalca>
+  <obcina>
+   <obcinasifra>
+    39
+   </obcinasifra>
+   <obcinanaziv>
+    IVANČNA GORICA
+   </obcinanaziv>
+  </obcina>
+  <veljaod>
+   2002-11-29
+  </veljaod>
+  <vzd>
+   <sifravzd>
+    231
+   </sifravzd>
+   <opisvzd>
+    Radiologija v spec. ZunajBolDej
+   </opisvzd>
+   <veljaod>
+    2002-11-29
+   </veljaod>
+  </vzd>
+ </ivzizvajalec>
+ <ivzizvajalec>
+  <sifraivzizvajalca>
+   2211
+  </sifraivzizvajalca>
+  <sifralokacije>
+   1
+  </sifralokacije>
+  <zzzsstevilka>
+   10038041
+  </zzzsstevilka>
+  <organizacijskastruktura>
+   <sifraivzosnovni>
+    2211
+   </sifraivzosnovni>
+  </organizacijskastruktura>
+  <nazivinnaslov>
+   <nazivorganizacijskeenote>
+    VAN MIDDEN MOJCA - ORDINACIJA ZA ULTRAZVOK, PE
+   </nazivorganizacijskeenote>
+   <ulicaorganizacijskeenote>
+    MALI TRG 8
+   </ulicaorganizacijskeenote>
+   <postaorganizacijskeenote>
+    1000 LJUBLJANA
+   </postaorganizacijskeenote>
+  </nazivinnaslov>
+  <pravnistatus>
+   <pravnistatussifra>
+    3
+   </pravnistatussifra>
+   <pravnistatusopis>
+    ZASEBNI ZDRAVSTVENI DELAVEC
+   </pravnistatusopis>
+  </pravnistatus>
+  <tipizvajalca>
+   <tipizvajalcasifra>
+    2
+   </tipizvajalcasifra>
+   <tipizvajalcaopis>
+    SPECIALISTIČNA AMBULANTA
+   </tipizvajalcaopis>
+  </tipizvajalca>
+  <obcina>
+   <obcinasifra>
+    61
+   </obcinasifra>
+   <obcinanaziv>
+    LJUBLJANA
+   </obcinanaziv>
+  </obcina>
+  <veljaod>
+   2020-12-09
+  </veljaod>
+  <vzd>
+   <sifravzd>
+    231
+   </sifravzd>
+   <opisvzd>
+    Radiologija v spec. ZunajBolDej
+   </opisvzd>
+   <veljaod>
+    2020-12-09
+   </veljaod>
+  </vzd>
+ </ivzizvajalec>
+ <ivzizvajalec>
+  <sifraivzizvajalca>
    2212
   </sifraivzizvajalca>
   <sifralokacije>
@@ -223321,6 +223451,71 @@
  </ivzizvajalec>
  <ivzizvajalec>
   <sifraivzizvajalca>
+   2549
+  </sifraivzizvajalca>
+  <sifralokacije>
+   0
+  </sifralokacije>
+  <zzzsstevilka>
+   8903528
+  </zzzsstevilka>
+  <organizacijskastruktura>
+   <sifraivzosnovni>
+    2549
+   </sifraivzosnovni>
+  </organizacijskastruktura>
+  <nazivinnaslov>
+   <nazivorganizacijskeenote>
+    GREGOR CUNDRIČ S.P.
+   </nazivorganizacijskeenote>
+   <ulicaorganizacijskeenote>
+    SPODNJE GORJE 80 A
+   </ulicaorganizacijskeenote>
+   <postaorganizacijskeenote>
+    4247 ZGORNJE GORJE
+   </postaorganizacijskeenote>
+  </nazivinnaslov>
+  <pravnistatus>
+   <pravnistatussifra>
+    5
+   </pravnistatussifra>
+   <pravnistatusopis>
+    SAMOSTOJNI PODJETNIK
+   </pravnistatusopis>
+  </pravnistatus>
+  <tipizvajalca>
+   <tipizvajalcasifra>
+    1
+   </tipizvajalcasifra>
+   <tipizvajalcaopis>
+    OSNOVNO ZDRAVSTVO
+   </tipizvajalcaopis>
+  </tipizvajalca>
+  <obcina>
+   <obcinasifra>
+    207
+   </obcinasifra>
+   <obcinanaziv>
+    GORJE
+   </obcinanaziv>
+  </obcina>
+  <veljaod>
+   2026-04-10
+  </veljaod>
+  <vzd>
+   <sifravzd>
+    506
+   </sifravzd>
+   <opisvzd>
+    Delovna terapija
+   </opisvzd>
+   <veljaod>
+    2026-04-10
+   </veljaod>
+  </vzd>
+ </ivzizvajalec>
+ <ivzizvajalec>
+  <sifraivzizvajalca>
    2552
   </sifraivzizvajalca>
   <sifralokacije>
@@ -225762,6 +225957,71 @@
    </opisvzd>
    <veljaod>
     2026-06-09
+   </veljaod>
+  </vzd>
+ </ivzizvajalec>
+ <ivzizvajalec>
+  <sifraivzizvajalca>
+   2607
+  </sifraivzizvajalca>
+  <sifralokacije>
+   0
+  </sifralokacije>
+  <zzzsstevilka>
+   9614010
+  </zzzsstevilka>
+  <organizacijskastruktura>
+   <sifraivzosnovni>
+    2607
+   </sifraivzosnovni>
+  </organizacijskastruktura>
+  <nazivinnaslov>
+   <nazivorganizacijskeenote>
+    ZZO-OV D.O.O.
+   </nazivorganizacijskeenote>
+   <ulicaorganizacijskeenote>
+    CELJSKA CESTA 24 B
+   </ulicaorganizacijskeenote>
+   <postaorganizacijskeenote>
+    3212 VOJNIK
+   </postaorganizacijskeenote>
+  </nazivinnaslov>
+  <pravnistatus>
+   <pravnistatussifra>
+    2
+   </pravnistatussifra>
+   <pravnistatusopis>
+    GOSPODARSKA DRUŽBA / ZASEBNI ZAVOD
+   </pravnistatusopis>
+  </pravnistatus>
+  <tipizvajalca>
+   <tipizvajalcasifra>
+    1
+   </tipizvajalcasifra>
+   <tipizvajalcaopis>
+    OSNOVNO ZDRAVSTVO
+   </tipizvajalcaopis>
+  </tipizvajalca>
+  <obcina>
+   <obcinasifra>
+    139
+   </obcinasifra>
+   <obcinanaziv>
+    VOJNIK
+   </obcinanaziv>
+  </obcina>
+  <veljaod>
+   2026-06-17
+  </veljaod>
+  <vzd>
+   <sifravzd>
+    302
+   </sifravzd>
+   <opisvzd>
+    Splošna in družinska medicina
+   </opisvzd>
+   <veljaod>
+    2026-06-17
    </veljaod>
   </vzd>
  </ivzizvajalec>
