@@ -2,10 +2,10 @@
 <bpi xmlns="http://zzzs.si/b2b/bpi" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemalocation="http://zzzs.si/b2b/bpi bpi.xsd">
  <posiljka>
   <verzijaposiljke>
-   5013
+   5014
   </verzijaposiljke>
   <datumposiljke>
-   2026-09-28
+   2026-09-29
   </datumposiljke>
   <verzijasheme>
    1.0
@@ -223646,6 +223646,71 @@
  </ivzizvajalec>
  <ivzizvajalec>
   <sifraivzizvajalca>
+   2555
+  </sifraivzizvajalca>
+  <sifralokacije>
+   0
+  </sifralokacije>
+  <zzzsstevilka>
+   7706430
+  </zzzsstevilka>
+  <organizacijskastruktura>
+   <sifraivzosnovni>
+    2555
+   </sifraivzosnovni>
+  </organizacijskastruktura>
+  <nazivinnaslov>
+   <nazivorganizacijskeenote>
+    TANJA KOREN GORJANC S.P.
+   </nazivorganizacijskeenote>
+   <ulicaorganizacijskeenote>
+    TRATA 7 A
+   </ulicaorganizacijskeenote>
+   <postaorganizacijskeenote>
+    4224 GORENJA VAS
+   </postaorganizacijskeenote>
+  </nazivinnaslov>
+  <pravnistatus>
+   <pravnistatussifra>
+    5
+   </pravnistatussifra>
+   <pravnistatusopis>
+    SAMOSTOJNI PODJETNIK
+   </pravnistatusopis>
+  </pravnistatus>
+  <tipizvajalca>
+   <tipizvajalcasifra>
+    1
+   </tipizvajalcasifra>
+   <tipizvajalcaopis>
+    OSNOVNO ZDRAVSTVO
+   </tipizvajalcaopis>
+  </tipizvajalca>
+  <obcina>
+   <obcinasifra>
+    27
+   </obcinasifra>
+   <obcinanaziv>
+    GORENJA VAS-POLJANE
+   </obcinanaziv>
+  </obcina>
+  <veljaod>
+   2026-04-10
+  </veljaod>
+  <vzd>
+   <sifravzd>
+    706
+   </sifravzd>
+   <opisvzd>
+    Urejanje zdr.,iz.,kult., drugih soc.st.
+   </opisvzd>
+   <veljaod>
+    2026-04-10
+   </veljaod>
+  </vzd>
+ </ivzizvajalec>
+ <ivzizvajalec>
+  <sifraivzizvajalca>
    2556
   </sifraivzizvajalca>
   <sifralokacije>
@@ -225298,6 +225363,71 @@
    </opisvzd>
    <veljaod>
     2026-03-09
+   </veljaod>
+  </vzd>
+ </ivzizvajalec>
+ <ivzizvajalec>
+  <sifraivzizvajalca>
+   2594
+  </sifraivzizvajalca>
+  <sifralokacije>
+   0
+  </sifralokacije>
+  <zzzsstevilka>
+   9265373
+  </zzzsstevilka>
+  <organizacijskastruktura>
+   <sifraivzosnovni>
+    2594
+   </sifraivzosnovni>
+  </organizacijskastruktura>
+  <nazivinnaslov>
+   <nazivorganizacijskeenote>
+    LEA MARTINA RWANKUBA S.P.
+   </nazivorganizacijskeenote>
+   <ulicaorganizacijskeenote>
+    PLANINA 17
+   </ulicaorganizacijskeenote>
+   <postaorganizacijskeenote>
+    4000 KRANJ
+   </postaorganizacijskeenote>
+  </nazivinnaslov>
+  <pravnistatus>
+   <pravnistatussifra>
+    6
+   </pravnistatussifra>
+   <pravnistatusopis>
+    SAMOSTOJNI PODJETNIK - BREZ AMBULANTE
+   </pravnistatusopis>
+  </pravnistatus>
+  <tipizvajalca>
+   <tipizvajalcasifra>
+    1
+   </tipizvajalcasifra>
+   <tipizvajalcaopis>
+    OSNOVNO ZDRAVSTVO
+   </tipizvajalcaopis>
+  </tipizvajalca>
+  <obcina>
+   <obcinasifra>
+    52
+   </obcinasifra>
+   <obcinanaziv>
+    KRANJ
+   </obcinanaziv>
+  </obcina>
+  <veljaod>
+   2026-06-03
+  </veljaod>
+  <vzd>
+   <sifravzd>
+    507
+   </sifravzd>
+   <opisvzd>
+    Fizioterapija
+   </opisvzd>
+   <veljaod>
+    2026-06-03
    </veljaod>
   </vzd>
  </ivzizvajalec>
@@ -318677,6 +318807,9 @@
   <veljaod>
    1997-11-01
   </veljaod>
+  <veljado>
+   2026-07-31
+  </veljado>
   <vzd>
    <sifravzd>
     206
@@ -318687,6 +318820,9 @@
    <veljaod>
     1997-11-01
    </veljaod>
+   <veljado>
+    2026-07-31
+   </veljado>
   </vzd>
   <vzd>
    <sifravzd>
@@ -318698,6 +318834,9 @@
    <veljaod>
     1997-11-01
    </veljaod>
+   <veljado>
+    2026-07-31
+   </veljado>
   </vzd>
  </ivzizvajalec>
  <ivzizvajalec>
