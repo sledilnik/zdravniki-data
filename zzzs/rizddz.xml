@@ -2,10 +2,10 @@
 <bpi xmlns="http://zzzs.si/b2b/bpi" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemalocation="http://zzzs.si/b2b/bpi bpi.xsd">
  <posiljka>
   <verzijaposiljke>
-   5014
+   5015
   </verzijaposiljke>
   <datumposiljke>
-   2026-09-29
+   2026-09-30
   </datumposiljke>
   <verzijasheme>
    1.0
@@ -31629,7 +31629,7 @@
   </organizacijskastruktura>
   <nazivinnaslov>
    <nazivorganizacijskeenote>
-    FIZIOTERAPIJA SIMON BOLE S.P.
+    SIMON BOLE S.P.
    </nazivorganizacijskeenote>
    <ulicaorganizacijskeenote>
     SAVSKA CESTA 10
@@ -125089,6 +125089,74 @@
    </opisvzd>
    <veljaod>
     2026-03-09
+   </veljaod>
+  </vzd>
+ </ivzizvajalec>
+ <ivzizvajalec>
+  <sifraivzizvajalca>
+   1329
+  </sifraivzizvajalca>
+  <sifralokacije>
+   4
+  </sifralokacije>
+  <zzzsstevilka>
+   9924447
+  </zzzsstevilka>
+  <organizacijskastruktura>
+   <sifraivzosnovni>
+    1329
+   </sifraivzosnovni>
+  </organizacijskastruktura>
+  <nazivinnaslov>
+   <nazivorganizacijskeenote>
+    ORL SOKLIČ KOŠAK D.O.O.
+   </nazivorganizacijskeenote>
+   <dodatninazivorganizacijskeenote>
+    PE AMBULANTE FRANKOPANSKA
+   </dodatninazivorganizacijskeenote>
+   <ulicaorganizacijskeenote>
+    FRANKOPANSKA ULICA 3 A
+   </ulicaorganizacijskeenote>
+   <postaorganizacijskeenote>
+    1000 LJUBLJANA
+   </postaorganizacijskeenote>
+  </nazivinnaslov>
+  <pravnistatus>
+   <pravnistatussifra>
+    2
+   </pravnistatussifra>
+   <pravnistatusopis>
+    GOSPODARSKA DRUŽBA / ZASEBNI ZAVOD
+   </pravnistatusopis>
+  </pravnistatus>
+  <tipizvajalca>
+   <tipizvajalcasifra>
+    2
+   </tipizvajalcasifra>
+   <tipizvajalcaopis>
+    SPECIALISTIČNA AMBULANTA
+   </tipizvajalcaopis>
+  </tipizvajalca>
+  <obcina>
+   <obcinasifra>
+    61
+   </obcinasifra>
+   <obcinanaziv>
+    LJUBLJANA
+   </obcinanaziv>
+  </obcina>
+  <veljaod>
+   2026-09-23
+  </veljaod>
+  <vzd>
+   <sifravzd>
+    223
+   </sifravzd>
+   <opisvzd>
+    Otorinolaringologija v spec. ZunajBolDej
+   </opisvzd>
+   <veljaod>
+    2026-09-23
    </veljaod>
   </vzd>
  </ivzizvajalec>
