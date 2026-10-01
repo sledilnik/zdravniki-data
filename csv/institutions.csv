@@ -170,6 +170,7 @@ id_inst,zzzsSt,name,unit,address,post,city,municipalityPart,municipality,lat,lon
 4666700,4666700,"GEMINI, SPECIALISTIČNA AMBULANTA ZA GINEKOLOGIJO, PERINATOLOGIJO IN ULTRAZVOČNO DIAGNOSTIKO, SIMONA ČOPI",OE MURSKA SOBOTA,Puconci 251,9201 Puconci,Puconci,Puconci,Puconci,46.69401,16.17399,,http://www.gemini-ambulanta.si/
 4496920,4496920,GERONTOLOŠKA IN SPLOŠNA AMBULANTA POLONCA VOBOVNIK GROBELNIK,OE MARIBOR,Železnikova ulica 4,2000 Maribor,Maribor,Pobrežje,Maribor,46.55037,15.66738,(05) 912 95 00,https://www.ambulanta-grobelnik.si/
 5823780,5823780,"GINEKOLOGIJA DR. FRANIĆ, ZDRAVSTVENE IN IZOBRAŽEVALNE DEJAVNOSTI, D.O.O.",IZPOSTAVA ŠMARJE PRI JELŠAH,Celjska cesta 7,3250 Rogaška Slatina,Rogaška Slatina,Rogaška Slatina,Rogaška Slatina,46.23915,15.63321,03 581 55 50,http://www.ginekologija.si
+7325810,7325810,GINEKOLOGIJA DR. FRANIĆ-IVANIŠEVIĆ MAJA S.P.,OE MARIBOR,,,,,,,,,
 7663617,7663617,"GINEKOLOGIJA MEGLIČ, SPECIALISTIČNA DEJAVNOST NA PODROČJU GINEKOLOGIJE, PERINATOLOGIJE, ULTRAZVOČNE DIAGNOSTIKE, OPERATIVNE IN ESTETSKE GINEKOLOGIJE, D.O.O.",OE LJUBLJANA,Cesta 25,8213 Veliki Gaber,Cesta,Veliki Gaber,Trebnje,45.94446,14.89143,01 439 49 10,http://www.ginekologijameglic.si
 6492911,6492911,GINEKOLOGIJA STRAŽAR D.O.O.,IZPOSTAVA ŠKOFJA LOKA,Hafnerjevo naselje 24,4220 Škofja Loka,Škofja Loka,Trata,Škofja Loka,46.16977,14.33432,ginekologija.strazar@gmail.com,http://www.ginekologija-strazar.si
 8500250,8500250,"GINEKOLOŠKA AMBULANTA, MIRJAM HORVAT ČETINA S.P.",IZPOSTAVA ŽALEC,Rimska cesta 70,3311 Šempeter v Savinjski dolini,Šempeter v Savinj. dolini,Šempeter,Žalec,46.25651,15.12077,,
@@ -641,7 +642,7 @@ zdlsi,,ZD LJUBLJANA - ŠIŠKA,OE LJUBLJANA,Derčeva ulica 5,1000 Ljubljana,Ljubl
 205445,205445,ZDRAVSTVENI DOM KOČEVJE,IZPOSTAVA KOČEVJE,Roška cesta 18,1330 Kočevje,Kočevje,Kočevje-mesto,Kočevje,45.63938,14.86562,01 893 90 00,https://www.zdkocevje.si/
 91770,91770,ZDRAVSTVENI DOM KRŠKO,OE KRŠKO,Cesta krških žrtev 132c,8270 Krško,Krško,Krško,Krško,45.94307,15.48349,074 880 200,http://www.zd-krsko.si/
 664360,664360,ZDRAVSTVENI DOM LAŠKO,IZPOSTAVA LAŠKO,Kidričeva ulica 5b,3270 Laško,Laško,Laško,Laško,46.1545,15.2373,03 734 36 00,http://www.zd-lasko.si
-130345,130345,ZDRAVSTVENI DOM LENART,IZPOSTAVA LENART,Maistrova ulica 22,2230 Lenart v Slov. goricah,Lenart v Slov. goricah,Lenart,Lenart,46.57734,15.82896,02 729 18 12,http://www.zd-lenart.si
+130345,130345,ZDRAVSTVENI DOM LENART,IZPOSTAVA LENART,Maistrova ulica 22,2230 Lenart v Slov. goricah,Lenart v Slov. goricah,Lenart,Lenart,46.57734,15.82896,02 729 18 00,http://www.zd-lenart.si
 772419,772419,ZDRAVSTVENI DOM LENDAVA - EGESZSEGHAZ LENDVA,IZPOSTAVA LENDAVA,Kidričeva ulica 34,9220 Lendava - Lendva,Lendava,Lendava / Lendva,Lendava,46.55821,16.45692,,https://www.zd-lendava.si
 96289,96289,ZDRAVSTVENI DOM LITIJA,IZPOSTAVA LITIJA,Partizanska pot 8a,1270 Litija,Litija,Mestna skupnost Litija,Litija,46.05389,14.83656,,http://www.zd-litija.si
 786482,786482,ZDRAVSTVENI DOM LJUTOMER,IZPOSTAVA LJUTOMER,Cesta I. slovenskega tabora 2,9240 Ljutomer,Ljutomer,Ljutomer,Ljutomer,46.52172,16.19326,02 585 14 00,http://www.zd-lju.si

@@ -2,10 +2,10 @@
 <bpi xmlns="http://zzzs.si/b2b/bpi" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemalocation="http://zzzs.si/b2b/bpi bpi.xsd">
  <posiljka>
   <verzijaposiljke>
-   5015
+   5016
   </verzijaposiljke>
   <datumposiljke>
-   2026-09-30
+   2026-10-01
   </datumposiljke>
   <verzijasheme>
    1.0
@@ -305,7 +305,7 @@
     PE AMBULANTE BRASLOVČE
    </dodatninazivorganizacijskeenote>
    <ulicaorganizacijskeenote>
-    BRASLOVČE 29
+    SPODNJE GORČE 1 C
    </ulicaorganizacijskeenote>
    <postaorganizacijskeenote>
     3314 BRASLOVČE
@@ -313098,77 +313098,6 @@
  </ivzizvajalec>
  <ivzizvajalec>
   <sifraivzizvajalca>
-   20139
-  </sifraivzizvajalca>
-  <sifralokacije>
-   0
-  </sifralokacije>
-  <zzzsstevilka>
-   3096542
-  </zzzsstevilka>
-  <organizacijskastruktura>
-   <sifraivzosnovni>
-    20139
-   </sifraivzosnovni>
-  </organizacijskastruktura>
-  <nazivinnaslov>
-   <nazivorganizacijskeenote>
-    SPECIALISTIČNA INTERNISTIČNA IN DIEBETOLOŠKA AMBULANTA
-   </nazivorganizacijskeenote>
-   <ulicaorganizacijskeenote>
-    ZGORNJA HAJDINA 127
-   </ulicaorganizacijskeenote>
-   <postaorganizacijskeenote>
-    2288 HAJDINA
-   </postaorganizacijskeenote>
-  </nazivinnaslov>
-  <pravnistatus>
-   <pravnistatussifra>
-    3
-   </pravnistatussifra>
-   <pravnistatusopis>
-    ZASEBNI ZDRAVSTVENI DELAVEC
-   </pravnistatusopis>
-  </pravnistatus>
-  <tipizvajalca>
-   <tipizvajalcasifra>
-    2
-   </tipizvajalcasifra>
-   <tipizvajalcaopis>
-    SPECIALISTIČNA AMBULANTA
-   </tipizvajalcaopis>
-  </tipizvajalca>
-  <obcina>
-   <obcinasifra>
-    159
-   </obcinasifra>
-   <obcinanaziv>
-    HAJDINA
-   </obcinanaziv>
-  </obcina>
-  <veljaod>
-   1995-10-01
-  </veljaod>
-  <veljado>
-   2023-09-30
-  </veljado>
-  <vzd>
-   <sifravzd>
-    249
-   </sifravzd>
-   <opisvzd>
-    Endokr. diab. in tir. v spec.ZunajBolDej
-   </opisvzd>
-   <veljaod>
-    1995-10-01
-   </veljaod>
-   <veljado>
-    2023-09-30
-   </veljado>
-  </vzd>
- </ivzizvajalec>
- <ivzizvajalec>
-  <sifraivzizvajalca>
    20141
   </sifraivzizvajalca>
   <sifralokacije>
@@ -319577,77 +319506,6 @@
  </ivzizvajalec>
  <ivzizvajalec>
   <sifraivzizvajalca>
-   20389
-  </sifraivzizvajalca>
-  <sifralokacije>
-   0
-  </sifralokacije>
-  <zzzsstevilka>
-   3465715
-  </zzzsstevilka>
-  <organizacijskastruktura>
-   <sifraivzosnovni>
-    20389
-   </sifraivzosnovni>
-  </organizacijskastruktura>
-  <nazivinnaslov>
-   <nazivorganizacijskeenote>
-    LEKARNA ARNICA MONTANA - STAMENKOVIČ MARKO
-   </nazivorganizacijskeenote>
-   <ulicaorganizacijskeenote>
-    KNAFELČEVA ULICA 31
-   </ulicaorganizacijskeenote>
-   <postaorganizacijskeenote>
-    2000 MARIBOR
-   </postaorganizacijskeenote>
-  </nazivinnaslov>
-  <pravnistatus>
-   <pravnistatussifra>
-    3
-   </pravnistatussifra>
-   <pravnistatusopis>
-    ZASEBNI ZDRAVSTVENI DELAVEC
-   </pravnistatusopis>
-  </pravnistatus>
-  <tipizvajalca>
-   <tipizvajalcasifra>
-    5
-   </tipizvajalcasifra>
-   <tipizvajalcaopis>
-    LEKARNA
-   </tipizvajalcaopis>
-  </tipizvajalca>
-  <obcina>
-   <obcinasifra>
-    70
-   </obcinasifra>
-   <obcinanaziv>
-    MARIBOR
-   </obcinanaziv>
-  </obcina>
-  <veljaod>
-   2000-10-01
-  </veljaod>
-  <veljado>
-   2023-09-30
-  </veljado>
-  <vzd>
-   <sifravzd>
-    743
-   </sifravzd>
-   <opisvzd>
-    Lekarniška dejavnost
-   </opisvzd>
-   <veljaod>
-    2000-10-01
-   </veljaod>
-   <veljado>
-    2023-09-30
-   </veljado>
-  </vzd>
- </ivzizvajalec>
- <ivzizvajalec>
-  <sifraivzizvajalca>
    20390
   </sifraivzizvajalca>
   <sifralokacije>
@@ -320968,77 +320826,6 @@
    <veljaod>
     2023-09-04
    </veljaod>
-  </vzd>
- </ivzizvajalec>
- <ivzizvajalec>
-  <sifraivzizvajalca>
-   20424
-  </sifraivzizvajalca>
-  <sifralokacije>
-   0
-  </sifralokacije>
-  <zzzsstevilka>
-   3870147
-  </zzzsstevilka>
-  <organizacijskastruktura>
-   <sifraivzosnovni>
-    20424
-   </sifraivzosnovni>
-  </organizacijskastruktura>
-  <nazivinnaslov>
-   <nazivorganizacijskeenote>
-    IRENA TENČIČ - ZASEBNA ZOBNA ORDINACIJA
-   </nazivorganizacijskeenote>
-   <ulicaorganizacijskeenote>
-    PODLEHNIK 9
-   </ulicaorganizacijskeenote>
-   <postaorganizacijskeenote>
-    2286 PODLEHNIK
-   </postaorganizacijskeenote>
-  </nazivinnaslov>
-  <pravnistatus>
-   <pravnistatussifra>
-    3
-   </pravnistatussifra>
-   <pravnistatusopis>
-    ZASEBNI ZDRAVSTVENI DELAVEC
-   </pravnistatusopis>
-  </pravnistatus>
-  <tipizvajalca>
-   <tipizvajalcasifra>
-    1
-   </tipizvajalcasifra>
-   <tipizvajalcaopis>
-    OSNOVNO ZDRAVSTVO
-   </tipizvajalcaopis>
-  </tipizvajalca>
-  <obcina>
-   <obcinasifra>
-    172
-   </obcinasifra>
-   <obcinanaziv>
-    PODLEHNIK
-   </obcinanaziv>
-  </obcina>
-  <veljaod>
-   2003-11-10
-  </veljaod>
-  <veljado>
-   2023-09-30
-  </veljado>
-  <vzd>
-   <sifravzd>
-    404
-   </sifravzd>
-   <opisvzd>
-    Splošno zobozdravstvo
-   </opisvzd>
-   <veljaod>
-    2003-11-10
-   </veljaod>
-   <veljado>
-    2023-09-30
-   </veljado>
   </vzd>
  </ivzizvajalec>
  <ivzizvajalec>
@@ -339089,77 +338876,6 @@
  </ivzizvajalec>
  <ivzizvajalec>
   <sifraivzizvajalca>
-   20742
-  </sifraivzizvajalca>
-  <sifralokacije>
-   0
-  </sifralokacije>
-  <zzzsstevilka>
-   6722433
-  </zzzsstevilka>
-  <organizacijskastruktura>
-   <sifraivzosnovni>
-    20742
-   </sifraivzosnovni>
-  </organizacijskastruktura>
-  <nazivinnaslov>
-   <nazivorganizacijskeenote>
-    MOJ PEDIATER MATJAŽ HOMŠAK
-   </nazivorganizacijskeenote>
-   <ulicaorganizacijskeenote>
-    MAISTROVA ULICA 22
-   </ulicaorganizacijskeenote>
-   <postaorganizacijskeenote>
-    2230 LENART V SLOV. GORICAH
-   </postaorganizacijskeenote>
-  </nazivinnaslov>
-  <pravnistatus>
-   <pravnistatussifra>
-    3
-   </pravnistatussifra>
-   <pravnistatusopis>
-    ZASEBNI ZDRAVSTVENI DELAVEC
-   </pravnistatusopis>
-  </pravnistatus>
-  <tipizvajalca>
-   <tipizvajalcasifra>
-    1
-   </tipizvajalcasifra>
-   <tipizvajalcaopis>
-    OSNOVNO ZDRAVSTVO
-   </tipizvajalcaopis>
-  </tipizvajalca>
-  <obcina>
-   <obcinasifra>
-    58
-   </obcinasifra>
-   <obcinanaziv>
-    LENART
-   </obcinanaziv>
-  </obcina>
-  <veljaod>
-   2015-10-01
-  </veljaod>
-  <veljado>
-   2023-09-30
-  </veljado>
-  <vzd>
-   <sifravzd>
-    327
-   </sifravzd>
-   <opisvzd>
-    Pediatrija v splošni zunajBolDej
-   </opisvzd>
-   <veljaod>
-    2015-10-01
-   </veljaod>
-   <veljado>
-    2023-09-30
-   </veljado>
-  </vzd>
- </ivzizvajalec>
- <ivzizvajalec>
-  <sifraivzizvajalca>
    20743
   </sifraivzizvajalca>
   <sifralokacije>
@@ -344662,77 +344378,6 @@
  </ivzizvajalec>
  <ivzizvajalec>
   <sifraivzizvajalca>
-   24173
-  </sifraivzizvajalca>
-  <sifralokacije>
-   0
-  </sifralokacije>
-  <zzzsstevilka>
-   3137928
-  </zzzsstevilka>
-  <organizacijskastruktura>
-   <sifraivzosnovni>
-    24173
-   </sifraivzosnovni>
-  </organizacijskastruktura>
-  <nazivinnaslov>
-   <nazivorganizacijskeenote>
-    STOMATOLOŠKA ORDINACIJA JANKO E. ŠTEFANČIČ, DR. DENT. MED.
-   </nazivorganizacijskeenote>
-   <ulicaorganizacijskeenote>
-    ALJAŽEVA ULICA 30
-   </ulicaorganizacijskeenote>
-   <postaorganizacijskeenote>
-    1000 LJUBLJANA
-   </postaorganizacijskeenote>
-  </nazivinnaslov>
-  <pravnistatus>
-   <pravnistatussifra>
-    3
-   </pravnistatussifra>
-   <pravnistatusopis>
-    ZASEBNI ZDRAVSTVENI DELAVEC
-   </pravnistatusopis>
-  </pravnistatus>
-  <tipizvajalca>
-   <tipizvajalcasifra>
-    1
-   </tipizvajalcasifra>
-   <tipizvajalcaopis>
-    OSNOVNO ZDRAVSTVO
-   </tipizvajalcaopis>
-  </tipizvajalca>
-  <obcina>
-   <obcinasifra>
-    61
-   </obcinasifra>
-   <obcinanaziv>
-    LJUBLJANA
-   </obcinanaziv>
-  </obcina>
-  <veljaod>
-   1999-01-01
-  </veljaod>
-  <veljado>
-   2023-09-30
-  </veljado>
-  <vzd>
-   <sifravzd>
-    404
-   </sifravzd>
-   <opisvzd>
-    Splošno zobozdravstvo
-   </opisvzd>
-   <veljaod>
-    1999-01-01
-   </veljaod>
-   <veljado>
-    2023-09-30
-   </veljado>
-  </vzd>
- </ivzizvajalec>
- <ivzizvajalec>
-  <sifraivzizvajalca>
    24174
   </sifraivzizvajalca>
   <sifralokacije>
@@ -348686,77 +348331,6 @@
    <veljaod>
     2000-07-11
    </veljaod>
-  </vzd>
- </ivzizvajalec>
- <ivzizvajalec>
-  <sifraivzizvajalca>
-   24262
-  </sifraivzizvajalca>
-  <sifralokacije>
-   0
-  </sifralokacije>
-  <zzzsstevilka>
-   3447468
-  </zzzsstevilka>
-  <organizacijskastruktura>
-   <sifraivzosnovni>
-    24262
-   </sifraivzosnovni>
-  </organizacijskastruktura>
-  <nazivinnaslov>
-   <nazivorganizacijskeenote>
-    MIHAELA ZEVNIK LEBEN - ZASEBNA ZOBOZDR. ORD. ZA ODRASLE
-   </nazivorganizacijskeenote>
-   <ulicaorganizacijskeenote>
-    CESTA 6. MAJA 11
-   </ulicaorganizacijskeenote>
-   <postaorganizacijskeenote>
-    1360 VRHNIKA
-   </postaorganizacijskeenote>
-  </nazivinnaslov>
-  <pravnistatus>
-   <pravnistatussifra>
-    3
-   </pravnistatussifra>
-   <pravnistatusopis>
-    ZASEBNI ZDRAVSTVENI DELAVEC
-   </pravnistatusopis>
-  </pravnistatus>
-  <tipizvajalca>
-   <tipizvajalcasifra>
-    1
-   </tipizvajalcasifra>
-   <tipizvajalcaopis>
-    OSNOVNO ZDRAVSTVO
-   </tipizvajalcaopis>
-  </tipizvajalca>
-  <obcina>
-   <obcinasifra>
-    140
-   </obcinasifra>
-   <obcinanaziv>
-    VRHNIKA
-   </obcinanaziv>
-  </obcina>
-  <veljaod>
-   2000-08-01
-  </veljaod>
-  <veljado>
-   2023-09-30
-  </veljado>
-  <vzd>
-   <sifravzd>
-    404
-   </sifravzd>
-   <opisvzd>
-    Splošno zobozdravstvo
-   </opisvzd>
-   <veljaod>
-    2000-08-01
-   </veljaod>
-   <veljado>
-    2023-09-30
-   </veljado>
   </vzd>
  </ivzizvajalec>
  <ivzizvajalec>
