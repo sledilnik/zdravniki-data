@@ -301,6 +301,7 @@ postZZZS,addressZZZS,lat,lon,street,streetAlt,housenumber,housenumberAppendix,ci
 1315 VELIKE LAŠČE,JAVORŠKOVA ULICA 9,45.83502,14.63767,Javorškova ulica,,9,,Velike Lašče,,,Velike Lašče,1315,Velike Lašče,Osrednjeslovenska
 1315 VELIKE LAŠČE,ŠOLSKA ULICA 11,45.83285,14.63442,Šolska ulica,,11,,Velike Lašče,,,Velike Lašče,1315,Velike Lašče,Osrednjeslovenska
 1317 SODRAŽICA,CESTA NOTRANJSKEGA ODREDA 16,45.76343,14.63376,Cesta Notranjskega odreda,,16,,Sodražica,,,Sodražica,1317,Sodražica,Jugovzhodna Slovenija
+1317 SODRAŽICA,CESTA NOTRANJSKEGA ODREDA 16A,,,,,,,,,,,,,
 1318 LOŠKI POTOK,HRIB-LOŠKI POTOK 102,45.70030,14.59115,Hrib-Loški Potok,,102,,Hrib-Loški Potok,,Loški potok,Loški Potok,1318,Loški Potok,Jugovzhodna Slovenija
 1330 KOČEVJE,LJUBLJANSKA CESTA 19,45.64149,14.85688,Ljubljanska cesta,,19,,Kočevje,,Kočevje-mesto,Kočevje,1330,Kočevje,Jugovzhodna Slovenija
 1330 KOČEVJE,ROŠKA CESTA 16,45.63880,14.86553,Roška cesta,,16,,Kočevje,,Kočevje-mesto,Kočevje,1330,Kočevje,Jugovzhodna Slovenija
@@ -421,6 +422,7 @@ postZZZS,addressZZZS,lat,lon,street,streetAlt,housenumber,housenumberAppendix,ci
 2000 MARIBOR,KOROŠKA CESTA 52,46.55910,15.63717,Koroška cesta,,52,,Maribor,,Koroška vrata,Maribor,2000,Maribor,Podravska
 2000 MARIBOR,KOROŠKA CESTA 78,46.55954,15.63409,Koroška cesta,,78,,Maribor,,Koroška vrata,Maribor,2000,Maribor,Podravska
 2000 MARIBOR,KOSOVA ULICA 9,46.54104,15.59950,Kosova ulica,,9,,Maribor,,Radvanje,Maribor,2000,Maribor,Podravska
+2000 MARIBOR,KREKOVA ULICA 14,46.56215,15.64566,Krekova ulica,,14,,Maribor,,Center,Maribor,2000,Maribor,Podravska
 2000 MARIBOR,KREKOVA ULICA 14 A,46.56236,15.64548,Krekova ulica,,14,a,Maribor,,Center,Maribor,2000,Maribor,Podravska
 2000 MARIBOR,KREKOVA ULICA 5,46.56182,15.64708,Krekova ulica,,5,,Maribor,,Center,Maribor,2000,Maribor,Podravska
 2000 MARIBOR,LAVRIČEVA ULICA 1,46.55817,15.63600,Lavričeva ulica,,1,,Maribor,,Koroška vrata,Maribor,2000,Maribor,Podravska
@@ -462,6 +464,7 @@ postZZZS,addressZZZS,lat,lon,street,streetAlt,housenumber,housenumberAppendix,ci
 2000 MARIBOR,ROSINOVA ULICA 2,46.56255,15.63544,Rosinova ulica,,2,,Maribor,,Koroška vrata,Maribor,2000,Maribor,Podravska
 2000 MARIBOR,SLOVENSKA ULICA 17,46.56015,15.64534,Slovenska ulica,,17,,Maribor,,Center,Maribor,2000,Maribor,Podravska
 2000 MARIBOR,SLOVENSKA ULICA 33,46.56005,15.64318,Slovenska ulica,,33,,Maribor,,Center,Maribor,2000,Maribor,Podravska
+2000 MARIBOR,SMETANOVA ULICA 49,46.56047,15.63470,Smetanova ulica,,49,,Maribor,,Koroška vrata,Maribor,2000,Maribor,Podravska
 2000 MARIBOR,STROSSMAYERJEVA ULICA 32 A,46.56260,15.64326,Strossmayerjeva ulica,,32,a,Maribor,,Center,Maribor,2000,Maribor,Podravska
 2000 MARIBOR,STROSSMAYERJEVA ULICA 32A,46.56260,15.64326,Strossmayerjeva ulica,,32,a,Maribor,,Center,Maribor,2000,Maribor,Podravska
 2000 MARIBOR,TOLSTOJEVA ULICA 3,46.54793,15.67025,Tolstojeva ulica,,3,,Maribor,,Pobrežje,Maribor,2000,Maribor,Podravska
@@ -1114,6 +1117,7 @@ postZZZS,addressZZZS,lat,lon,street,streetAlt,housenumber,housenumberAppendix,ci
 6240 KOZINA,BOROVA ULICA 2,45.60732,13.94328,Borova ulica,,2,,Hrpelje,,Hrpelje,Hrpelje-Kozina,6240,Kozina,Obalno-kraška
 6240 KOZINA,ISTRSKA ULICA 17,45.60668,13.93530,Istrska ulica,,17,,Kozina,,Kozina,Hrpelje-Kozina,6240,Kozina,Obalno-kraška
 6240 KOZINA,KRVAVI POTOK 38,45.61766,13.90904,Krvavi Potok,,38,,Krvavi Potok,,Krvavi potok,Hrpelje-Kozina,6240,Kozina,Obalno-kraška
+6242 MATERIJA,SLIVJE 7,45.57145,14.04626,Slivje,,7,,Slivje,,Slivje,Hrpelje-Kozina,6242,Materija,Obalno-kraška
 6244 PODGRAD,PODGRAD 12 B,45.52063,14.14665,Podgrad,,12,b,Podgrad,,Podgrad,Ilirska Bistrica,6244,Podgrad,Primorsko-notranjska
 6250 ILIRSKA BISTRICA,GREGORČIČEVA CESTA 6,45.56852,14.24293,Gregorčičeva cesta,,6,,Ilirska Bistrica,,Ilirska Bistrica,Ilirska Bistrica,6250,Ilirska Bistrica,Primorsko-notranjska
 6250 ILIRSKA BISTRICA,GREGORČIČEVA CESTA 8,45.56848,14.24324,Gregorčičeva cesta,,8,,Ilirska Bistrica,,Ilirska Bistrica,Ilirska Bistrica,6250,Ilirska Bistrica,Primorsko-notranjska
