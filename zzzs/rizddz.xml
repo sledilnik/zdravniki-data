@@ -2,10 +2,10 @@
 <bpi xmlns="http://zzzs.si/b2b/bpi" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemalocation="http://zzzs.si/b2b/bpi bpi.xsd">
  <posiljka>
   <verzijaposiljke>
-   5016
+   5017
   </verzijaposiljke>
   <datumposiljke>
-   2026-10-01
+   2026-10-02
   </datumposiljke>
   <verzijasheme>
    1.0
@@ -102866,6 +102866,9 @@
   <veljaod>
    2026-05-26
   </veljaod>
+  <veljado>
+   2026-09-30
+  </veljado>
   <vzd>
    <sifravzd>
     231
@@ -102876,6 +102879,9 @@
    <veljaod>
     2026-05-26
    </veljaod>
+   <veljado>
+    2026-09-30
+   </veljado>
   </vzd>
  </ivzizvajalec>
  <ivzizvajalec>
@@ -212287,6 +212293,139 @@
  </ivzizvajalec>
  <ivzizvajalec>
   <sifraivzizvajalca>
+   2418
+  </sifraivzizvajalca>
+  <sifralokacije>
+   0
+  </sifralokacije>
+  <zzzsstevilka>
+   7463566
+  </zzzsstevilka>
+  <organizacijskastruktura>
+   <sifraivzosnovni>
+    2418
+   </sifraivzosnovni>
+  </organizacijskastruktura>
+  <nazivinnaslov>
+   <nazivorganizacijskeenote>
+    ANŽE SIRC S.P.
+   </nazivorganizacijskeenote>
+   <ulicaorganizacijskeenote>
+    ADERGAS 5
+   </ulicaorganizacijskeenote>
+   <postaorganizacijskeenote>
+    4207 CERKLJE NA GORENJSKEM
+   </postaorganizacijskeenote>
+  </nazivinnaslov>
+  <pravnistatus>
+   <pravnistatussifra>
+    5
+   </pravnistatussifra>
+   <pravnistatusopis>
+    SAMOSTOJNI PODJETNIK
+   </pravnistatusopis>
+  </pravnistatus>
+  <tipizvajalca>
+   <tipizvajalcasifra>
+    1
+   </tipizvajalcasifra>
+   <tipizvajalcaopis>
+    OSNOVNO ZDRAVSTVO
+   </tipizvajalcaopis>
+  </tipizvajalca>
+  <obcina>
+   <obcinasifra>
+    12
+   </obcinasifra>
+   <obcinanaziv>
+    CERKLJE NA GORENJSKEM
+   </obcinanaziv>
+  </obcina>
+  <veljaod>
+   2025-10-10
+  </veljaod>
+  <vzd>
+   <sifravzd>
+    706
+   </sifravzd>
+   <opisvzd>
+    Urejanje zdr.,iz.,kult., drugih soc.st.
+   </opisvzd>
+   <veljaod>
+    2025-10-10
+   </veljaod>
+  </vzd>
+ </ivzizvajalec>
+ <ivzizvajalec>
+  <sifraivzizvajalca>
+   2418
+  </sifraivzizvajalca>
+  <sifralokacije>
+   1
+  </sifralokacije>
+  <zzzsstevilka>
+   9096112
+  </zzzsstevilka>
+  <organizacijskastruktura>
+   <sifraivzosnovni>
+    2418
+   </sifraivzosnovni>
+  </organizacijskastruktura>
+  <nazivinnaslov>
+   <nazivorganizacijskeenote>
+    ANŽE SIRC S.P.
+   </nazivorganizacijskeenote>
+   <dodatninazivorganizacijskeenote>
+    POSLOVNA ENOTA ŠMARTNO 71, CERKLJE
+   </dodatninazivorganizacijskeenote>
+   <ulicaorganizacijskeenote>
+    ŠMARTNO 71
+   </ulicaorganizacijskeenote>
+   <postaorganizacijskeenote>
+    4207 CERKLJE NA GORENJSKEM
+   </postaorganizacijskeenote>
+  </nazivinnaslov>
+  <pravnistatus>
+   <pravnistatussifra>
+    5
+   </pravnistatussifra>
+   <pravnistatusopis>
+    SAMOSTOJNI PODJETNIK
+   </pravnistatusopis>
+  </pravnistatus>
+  <tipizvajalca>
+   <tipizvajalcasifra>
+    1
+   </tipizvajalcasifra>
+   <tipizvajalcaopis>
+    OSNOVNO ZDRAVSTVO
+   </tipizvajalcaopis>
+  </tipizvajalca>
+  <obcina>
+   <obcinasifra>
+    12
+   </obcinasifra>
+   <obcinanaziv>
+    CERKLJE NA GORENJSKEM
+   </obcinanaziv>
+  </obcina>
+  <veljaod>
+   2025-10-10
+  </veljaod>
+  <vzd>
+   <sifravzd>
+    507
+   </sifravzd>
+   <opisvzd>
+    Fizioterapija
+   </opisvzd>
+   <veljaod>
+    2025-10-10
+   </veljaod>
+  </vzd>
+ </ivzizvajalec>
+ <ivzizvajalec>
+  <sifraivzizvajalca>
    2419
   </sifraivzizvajalca>
   <sifralokacije>
@@ -225631,6 +225770,71 @@
  </ivzizvajalec>
  <ivzizvajalec>
   <sifraivzizvajalca>
+   2599
+  </sifraivzizvajalca>
+  <sifralokacije>
+   0
+  </sifralokacije>
+  <zzzsstevilka>
+   8309419
+  </zzzsstevilka>
+  <organizacijskastruktura>
+   <sifraivzosnovni>
+    2599
+   </sifraivzosnovni>
+  </organizacijskastruktura>
+  <nazivinnaslov>
+   <nazivorganizacijskeenote>
+    ŽIGA PEGAM S.P.
+   </nazivorganizacijskeenote>
+   <ulicaorganizacijskeenote>
+    PODROVNIK 75
+   </ulicaorganizacijskeenote>
+   <postaorganizacijskeenote>
+    4201 ZGORNJA BESNICA
+   </postaorganizacijskeenote>
+  </nazivinnaslov>
+  <pravnistatus>
+   <pravnistatussifra>
+    6
+   </pravnistatussifra>
+   <pravnistatusopis>
+    SAMOSTOJNI PODJETNIK - BREZ AMBULANTE
+   </pravnistatusopis>
+  </pravnistatus>
+  <tipizvajalca>
+   <tipizvajalcasifra>
+    1
+   </tipizvajalcasifra>
+   <tipizvajalcaopis>
+    OSNOVNO ZDRAVSTVO
+   </tipizvajalcaopis>
+  </tipizvajalca>
+  <obcina>
+   <obcinasifra>
+    52
+   </obcinasifra>
+   <obcinanaziv>
+    KRANJ
+   </obcinanaziv>
+  </obcina>
+  <veljaod>
+   2026-06-03
+  </veljaod>
+  <vzd>
+   <sifravzd>
+    507
+   </sifravzd>
+   <opisvzd>
+    Fizioterapija
+   </opisvzd>
+   <veljaod>
+    2026-06-03
+   </veljaod>
+  </vzd>
+ </ivzizvajalec>
+ <ivzizvajalec>
+  <sifraivzizvajalca>
    2600
   </sifraivzizvajalca>
   <sifralokacije>
@@ -228584,6 +228788,71 @@
    </opisvzd>
    <veljaod>
     2026-07-31
+   </veljaod>
+  </vzd>
+ </ivzizvajalec>
+ <ivzizvajalec>
+  <sifraivzizvajalca>
+   2660
+  </sifraivzizvajalca>
+  <sifralokacije>
+   0
+  </sifralokacije>
+  <zzzsstevilka>
+   10028747
+  </zzzsstevilka>
+  <organizacijskastruktura>
+   <sifraivzosnovni>
+    2660
+   </sifraivzosnovni>
+  </organizacijskastruktura>
+  <nazivinnaslov>
+   <nazivorganizacijskeenote>
+    ANDREJ HOSTNIK S.P.
+   </nazivorganizacijskeenote>
+   <ulicaorganizacijskeenote>
+    TOPNIŠKA ULICA 33 B
+   </ulicaorganizacijskeenote>
+   <postaorganizacijskeenote>
+    1000 LJUBLJANA
+   </postaorganizacijskeenote>
+  </nazivinnaslov>
+  <pravnistatus>
+   <pravnistatussifra>
+    6
+   </pravnistatussifra>
+   <pravnistatusopis>
+    SAMOSTOJNI PODJETNIK - BREZ AMBULANTE
+   </pravnistatusopis>
+  </pravnistatus>
+  <tipizvajalca>
+   <tipizvajalcasifra>
+    2
+   </tipizvajalcasifra>
+   <tipizvajalcaopis>
+    SPECIALISTIČNA AMBULANTA
+   </tipizvajalcaopis>
+  </tipizvajalca>
+  <obcina>
+   <obcinasifra>
+    61
+   </obcinasifra>
+   <obcinanaziv>
+    LJUBLJANA
+   </obcinanaziv>
+  </obcina>
+  <veljaod>
+   2026-09-29
+  </veljaod>
+  <vzd>
+   <sifravzd>
+    706
+   </sifravzd>
+   <opisvzd>
+    Urejanje zdr.,iz.,kult., drugih soc.st.
+   </opisvzd>
+   <veljaod>
+    2026-09-29
    </veljaod>
   </vzd>
  </ivzizvajalec>
@@ -395717,6 +395986,9 @@
   <veljaod>
    2016-06-06
   </veljaod>
+  <veljado>
+   2026-09-30
+  </veljado>
   <vzd>
    <sifravzd>
     714
@@ -395727,6 +395999,9 @@
    <veljaod>
     2016-06-06
    </veljaod>
+   <veljado>
+    2026-09-30
+   </veljado>
   </vzd>
  </ivzizvajalec>
  <ivzizvajalec>
