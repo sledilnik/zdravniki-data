@@ -2,10 +2,10 @@
 <bpi xmlns="http://zzzs.si/b2b/bpi" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemalocation="http://zzzs.si/b2b/bpi bpi.xsd">
  <posiljka>
   <verzijaposiljke>
-   5017
+   5018
   </verzijaposiljke>
   <datumposiljke>
-   2026-10-02
+   2026-10-03
   </datumposiljke>
   <verzijasheme>
    1.0
@@ -239622,6 +239622,17 @@
     2024-07-01
    </veljaod>
   </vzd>
+  <vzd>
+   <sifravzd>
+    255
+   </sifravzd>
+   <opisvzd>
+    Klinična psihologija v spec. ZunajBolDej
+   </opisvzd>
+   <veljaod>
+    2026-10-01
+   </veljaod>
+  </vzd>
  </ivzizvajalec>
  <ivzizvajalec>
   <sifraivzizvajalca>
@@ -296862,63 +296873,6 @@
  </ivzizvajalec>
  <ivzizvajalec>
   <sifraivzizvajalca>
-   14618
-  </sifraivzizvajalca>
-  <sifralokacije>
-   0
-  </sifralokacije>
-  <zzzsstevilka>
-   3758748
-  </zzzsstevilka>
-  <organizacijskastruktura>
-   <sifraivzosnovni>
-    14618
-   </sifraivzosnovni>
-  </organizacijskastruktura>
-  <nazivinnaslov>
-   <nazivorganizacijskeenote>
-    PLUS PRO VIZIJA D.O.O.
-   </nazivorganizacijskeenote>
-   <ulicaorganizacijskeenote>
-    SENOŽETI 92 C
-   </ulicaorganizacijskeenote>
-   <postaorganizacijskeenote>
-    1262 DOL PRI LJUBLJANI
-   </postaorganizacijskeenote>
-  </nazivinnaslov>
-  <pravnistatus>
-   <pravnistatussifra>
-    2
-   </pravnistatussifra>
-   <pravnistatusopis>
-    GOSPODARSKA DRUŽBA / ZASEBNI ZAVOD
-   </pravnistatusopis>
-  </pravnistatus>
-  <tipizvajalca>
-   <tipizvajalcasifra>
-    1
-   </tipizvajalcasifra>
-   <tipizvajalcaopis>
-    OSNOVNO ZDRAVSTVO
-   </tipizvajalcaopis>
-  </tipizvajalca>
-  <obcina>
-   <obcinasifra>
-    22
-   </obcinasifra>
-   <obcinanaziv>
-    DOL PRI LJUBLJANI
-   </obcinanaziv>
-  </obcina>
-  <veljaod>
-   2002-10-01
-  </veljaod>
-  <veljado>
-   2023-10-02
-  </veljado>
- </ivzizvajalec>
- <ivzizvajalec>
-  <sifraivzizvajalca>
    14619
   </sifraivzizvajalca>
   <sifralokacije>
@@ -321755,105 +321709,6 @@
    <veljaod>
     2026-03-26
    </veljaod>
-  </vzd>
- </ivzizvajalec>
- <ivzizvajalec>
-  <sifraivzizvajalca>
-   20437
-  </sifraivzizvajalca>
-  <sifralokacije>
-   0
-  </sifralokacije>
-  <zzzsstevilka>
-   817904
-  </zzzsstevilka>
-  <organizacijskastruktura>
-   <sifraivzosnovni>
-    20437
-   </sifraivzosnovni>
-  </organizacijskastruktura>
-  <nazivinnaslov>
-   <nazivorganizacijskeenote>
-    DOM STAREJŠIH IDILA D.O.O.
-   </nazivorganizacijskeenote>
-   <ulicaorganizacijskeenote>
-    VUKOVSKI DOL 30
-   </ulicaorganizacijskeenote>
-   <postaorganizacijskeenote>
-    2221 JARENINA
-   </postaorganizacijskeenote>
-  </nazivinnaslov>
-  <pravnistatus>
-   <pravnistatussifra>
-    2
-   </pravnistatussifra>
-   <pravnistatusopis>
-    GOSPODARSKA DRUŽBA / ZASEBNI ZAVOD
-   </pravnistatusopis>
-  </pravnistatus>
-  <tipizvajalca>
-   <tipizvajalcasifra>
-    7
-   </tipizvajalcasifra>
-   <tipizvajalcaopis>
-    SOCIALNI ZAVOD
-   </tipizvajalcaopis>
-  </tipizvajalca>
-  <obcina>
-   <obcinasifra>
-    89
-   </obcinasifra>
-   <obcinanaziv>
-    PESNICA
-   </obcinanaziv>
-  </obcina>
-  <veljaod>
-   2004-12-02
-  </veljaod>
-  <veljado>
-   2023-10-02
-  </veljado>
-  <vzd>
-   <sifravzd>
-    506
-   </sifravzd>
-   <opisvzd>
-    Delovna terapija
-   </opisvzd>
-   <veljaod>
-    2004-12-02
-   </veljaod>
-   <veljado>
-    2023-10-02
-   </veljado>
-  </vzd>
-  <vzd>
-   <sifravzd>
-    507
-   </sifravzd>
-   <opisvzd>
-    Fizioterapija
-   </opisvzd>
-   <veljaod>
-    2004-12-02
-   </veljaod>
-   <veljado>
-    2023-10-02
-   </veljado>
-  </vzd>
-  <vzd>
-   <sifravzd>
-    644
-   </sifravzd>
-   <opisvzd>
-    Zdr.nega v dej.nast.ustanov za bol.nego
-   </opisvzd>
-   <veljaod>
-    2004-12-02
-   </veljaod>
-   <veljado>
-    2023-10-02
-   </veljado>
   </vzd>
  </ivzizvajalec>
  <ivzizvajalec>
@@ -382756,6 +382611,9 @@
   <veljaod>
    1996-06-17
   </veljaod>
+  <veljado>
+   2026-10-01
+  </veljado>
   <vzd>
    <sifravzd>
     714
@@ -382766,6 +382624,9 @@
    <veljaod>
     1996-06-17
    </veljaod>
+   <veljado>
+    2026-10-01
+   </veljado>
   </vzd>
  </ivzizvajalec>
  <ivzizvajalec>
@@ -395953,10 +395814,10 @@
     BARBKA ČENČIČ S.P.
    </nazivorganizacijskeenote>
    <ulicaorganizacijskeenote>
-    NA SKALI 4
+    ŽIGANJA VAS 58
    </ulicaorganizacijskeenote>
    <postaorganizacijskeenote>
-    4000 KRANJ
+    4294 KRIŽE
    </postaorganizacijskeenote>
   </nazivinnaslov>
   <pravnistatus>
@@ -395977,10 +395838,10 @@
   </tipizvajalca>
   <obcina>
    <obcinasifra>
-    52
+    131
    </obcinasifra>
    <obcinanaziv>
-    KRANJ
+    TRŽIČ
    </obcinanaziv>
   </obcina>
   <veljaod>
