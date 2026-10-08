@@ -1,2 +1,100 @@
 doctor,type,id_inst,accepts,availability,load
+Al Mahdawi Leyla,gyn,,n,0.1,118.51
+Antonić Babnik Jasmina,gyn,,n,1.0,110.57
+Anzeljc Veronika,gyn,,n,0.1,116.22
+Bali Robert,gyn,,n,0.1,109.84
+Bandelj Klančar Dušanka,gyn,,n,1.0,109.36
+Bonča Barbara,gyn,,n,0.1,126.06
+Brus Nataša,gyn,,n,0.5,102.42
+Cokan Andrej,gyn,,y,0.1,83.74
+Crnobrnja Bojana,gyn,,y,0.1,82.38
+Di Bon Nika,gyn,,y,0.1,56.09
+Dovnik Andraž,gyn,,y,0.1,71.95
+Dražić Katarina,gyn,,y,0.5,83.53
+Drozg Miha,gyn,,y,0.15,86.25
 Eršte Božena,den,,y,0.58,80.14
+Franić Damir,gyn,,n,1.0,101.23
+Franić-Ivanišević Maja,gyn,,y,1.0,1.74
+Frelih Fabjan Anita,gyn,,y,0.8,79.77
+Gavrić Lovrec Vida,gyn,,n,0.1,125.28
+Gjakov Boban,gyn,,y,0.15,25.51
+Glavan Suzana,gyn,,y,0.2,95.31
+Gradecki Mirjam,gyn,,n,0.15,182.08
+Holc Lea,gyn,,n,0.15,167.06
+Jerman Katarina,gyn,,n,1.0,100.68
+Jernejšek Anamarija,gyn,,y,0.1,94.81
+Jovič Mirko,gyn,,y,0.8,86.72
+Juvan Katja,gyn,,y,0.2,94.29
+Kerkoč Rudolf Barbara,gyn,,y,0.14,86.94
+Klanjšček Jure,gyn,,y,0.11,105.81
+Knez Jure,gyn,,y,0.1,78.47
+Kocić Zorana,gyn,,n,0.1,290.3
+Komac Andreja,gyn,,n,0.1,286.4
+Kostadinović Helena,gyn,,y,0.1,94.24
+Kovač Vilma,gyn,,n,0.1,100.96
+Kovačik Brina,gyn,,y,0.5,59.6
+Kozar Nejc,gyn,,y,0.1,72.0
+Kozinc Špela,gyn,,y,0.15,12.27
+Kočnar Nataša,gyn,,n,0.43,101.04
+Koželj Damjana,gyn,,y,0.25,85.46
+Križaj Ziljana,gyn,,y,1.0,75.73
+Kuder Lucija,gyn,,n,0.1,182.9
+Kukovica Barbarič Iva,gyn,,y,0.43,1.05
+Kužnik Marko,gyn,,y,0.15,97.17
+Lampelj Maja,gyn,,n,0.1,152.53
+Lašič Nina,gyn,,y,0.1,96.03
+Levak Hozjan Sonja,gyn,,y,1.0,95.73
+Likar Anja,gyn,,y,0.13,64.89
+Lovšin Boštjan,gyn,,n,0.2,160.17
+Lukež Podgornik Maša,gyn,,n,0.15,111.01
+Lužnik Marijan,gyn,,n,0.1,106.73
+Lužnik Marijan,gyn,,n,0.2,141.08
+Macun Eva,gyn,,y,0.4,80.79
+Mikluš Milena,gyn,,n,0.1,100.31
+Mlakar Lea,gyn,,n,0.1,106.51
+Mlinarič Marko,gyn,,y,1.04,96.86
+Mrkajić Mladen,gyn,,n,1.0,112.93
+Mugerli Sara,gyn,,y,0.1,90.93
+Mujezinović Faris,gyn,,y,0.1,94.59
+Palancsai Šiftar Janka,gyn,,n,0.1,166.67
+Preskar Aljoša,gyn,,n,1.13,134.97
+Prša Gregor,gyn,,y,0.1,26.27
+Pukl Batistić Julija,gyn,,n,0.1,112.71
+Rabzelj Špela,gyn,,y,0.15,37.78
+Rajterič Brečko Tina,gyn,,n,0.15,138.19
+Rakić Ksenija,gyn,,n,0.1,104.29
+Ranc Ana,gyn,,n,0.2,107.42
+Rant Hafner Sava,gyn,,y,0.5,98.32
+Rebolj Stare Marija,gyn,,n,0.1,143.83
+Reljič Milan,gyn,,y,0.1,61.49
+Resman Lucija,gyn,,y,0.5,90.45
+Reš Muravec Uršula,gyn,,n,0.55,101.58
+Rojnik Barbara,gyn,,y,1.0,90.85
+Rosič Dušan,gyn,,n,0.1,248.58
+Rosič Maja,gyn,,n,1.1,100.19
+Serdinšek Tamara,gyn,,n,0.1,104.3
+Simetinger Gabrijela,gyn,,n,0.2,148.65
+Simoniti Filip,gyn,,y,1.2,112.11
+Stražar Peter,gyn,,n,1.02,129.35
+Takač Iztok,gyn,,y,0.1,48.04
+Torkar Eva,gyn,,y,1.0,73.83
+Trpkovska Valentina,gyn,,n,0.1,110.02
+Venier Barbara,gyn,,n,0.12,108.11
+Verdnik Golob Branka,gyn,,y,0.2,81.67
+Vidanova Snezhana,gyn,,n,0.1,111.36
+Vostrueva Irina,gyn,,y,1.0,95.56
+Vukmanič Pohar Mateja,gyn,,n,0.43,116.91
+Zavrtanik Čelan Alenka,gyn,,n,0.13,139.67
+Završnik Mihič Renata,gyn,,n,1.2,129.27
+Zver Skomina Janja,gyn,,n,0.1,226.7
+Čopi Simona,gyn,,n,1.0,105.29
+Šadl Barbara,gyn,,y,0.1,41.38
+Šavc Helena,gyn,,n,0.2,113.04
+Šibli Ina,gyn,,y,0.1,76.41
+Šket Petra,gyn,,y,0.1,68.23
+Šket Petra,gyn,,y,0.6,59.38
+Škreblin Mateja,gyn,,n,0.5,106.49
+Šoštarič Zvonko,gyn,,y,0.2,54.64
+Špes Sara,gyn,,n,0.26,112.84
+Šumak Rok,gyn,,y,0.1,94.15
+Žegura Andrić Branka,gyn,,y,0.1,94.0
