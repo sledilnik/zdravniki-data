@@ -2,10 +2,10 @@
 <bpi xmlns="http://zzzs.si/b2b/bpi" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemalocation="http://zzzs.si/b2b/bpi bpi.xsd">
  <posiljka>
   <verzijaposiljke>
-   5023
+   5024
   </verzijaposiljke>
   <datumposiljke>
-   2026-10-08
+   2026-10-09
   </datumposiljke>
   <verzijasheme>
    1.0
@@ -71132,6 +71132,71 @@
  </ivzizvajalec>
  <ivzizvajalec>
   <sifraivzizvajalca>
+   654
+  </sifraivzizvajalca>
+  <sifralokacije>
+   0
+  </sifralokacije>
+  <zzzsstevilka>
+   7748301
+  </zzzsstevilka>
+  <organizacijskastruktura>
+   <sifraivzosnovni>
+    654
+   </sifraivzosnovni>
+  </organizacijskastruktura>
+  <nazivinnaslov>
+   <nazivorganizacijskeenote>
+    STOMADENT D.O.O.
+   </nazivorganizacijskeenote>
+   <ulicaorganizacijskeenote>
+    POLJANSKA CESTA 22 C
+   </ulicaorganizacijskeenote>
+   <postaorganizacijskeenote>
+    1000 LJUBLJANA
+   </postaorganizacijskeenote>
+  </nazivinnaslov>
+  <pravnistatus>
+   <pravnistatussifra>
+    2
+   </pravnistatussifra>
+   <pravnistatusopis>
+    GOSPODARSKA DRUŽBA / ZASEBNI ZAVOD
+   </pravnistatusopis>
+  </pravnistatus>
+  <tipizvajalca>
+   <tipizvajalcasifra>
+    1
+   </tipizvajalcasifra>
+   <tipizvajalcaopis>
+    OSNOVNO ZDRAVSTVO
+   </tipizvajalcaopis>
+  </tipizvajalca>
+  <obcina>
+   <obcinasifra>
+    61
+   </obcinasifra>
+   <obcinanaziv>
+    LJUBLJANA
+   </obcinanaziv>
+  </obcina>
+  <veljaod>
+   2019-09-24
+  </veljaod>
+  <vzd>
+   <sifravzd>
+    706
+   </sifravzd>
+   <opisvzd>
+    Urejanje zdr.,iz.,kult., drugih soc.st.
+   </opisvzd>
+   <veljaod>
+    2019-09-24
+   </veljaod>
+  </vzd>
+ </ivzizvajalec>
+ <ivzizvajalec>
+  <sifraivzizvajalca>
    655
   </sifraivzizvajalca>
   <sifralokacije>
@@ -82100,6 +82165,482 @@
    </opisvzd>
    <veljaod>
     2026-09-03
+   </veljaod>
+  </vzd>
+ </ivzizvajalec>
+ <ivzizvajalec>
+  <sifraivzizvajalca>
+   806
+  </sifraivzizvajalca>
+  <sifralokacije>
+   3
+  </sifralokacije>
+  <zzzsstevilka>
+   10054102
+  </zzzsstevilka>
+  <organizacijskastruktura>
+   <sifraivzosnovni>
+    806
+   </sifraivzosnovni>
+  </organizacijskastruktura>
+  <nazivinnaslov>
+   <nazivorganizacijskeenote>
+    PSIHOLOŠKE IN POSLOVNE STORITVE, ANAMARIJA TOTH KOSTEVC, S.P
+   </nazivorganizacijskeenote>
+   <dodatninazivorganizacijskeenote>
+    LOKACIJA KOLODVORSKA, KRŠKO
+   </dodatninazivorganizacijskeenote>
+   <ulicaorganizacijskeenote>
+    KOLODVORSKA ULICA 7 A
+   </ulicaorganizacijskeenote>
+   <postaorganizacijskeenote>
+    8270 KRŠKO
+   </postaorganizacijskeenote>
+  </nazivinnaslov>
+  <pravnistatus>
+   <pravnistatussifra>
+    6
+   </pravnistatussifra>
+   <pravnistatusopis>
+    SAMOSTOJNI PODJETNIK - BREZ AMBULANTE
+   </pravnistatusopis>
+  </pravnistatus>
+  <tipizvajalca>
+   <tipizvajalcasifra>
+    1
+   </tipizvajalcasifra>
+   <tipizvajalcaopis>
+    OSNOVNO ZDRAVSTVO
+   </tipizvajalcaopis>
+  </tipizvajalca>
+  <obcina>
+   <obcinasifra>
+    54
+   </obcinasifra>
+   <obcinanaziv>
+    KRŠKO
+   </obcinanaziv>
+  </obcina>
+  <veljaod>
+   2026-09-03
+  </veljaod>
+  <vzd>
+   <sifravzd>
+    512
+   </sifravzd>
+   <opisvzd>
+    Psihologija
+   </opisvzd>
+   <veljaod>
+    2026-09-03
+   </veljaod>
+  </vzd>
+ </ivzizvajalec>
+ <ivzizvajalec>
+  <sifraivzizvajalca>
+   806
+  </sifraivzizvajalca>
+  <sifralokacije>
+   4
+  </sifralokacije>
+  <zzzsstevilka>
+   10054133
+  </zzzsstevilka>
+  <organizacijskastruktura>
+   <sifraivzosnovni>
+    806
+   </sifraivzosnovni>
+  </organizacijskastruktura>
+  <nazivinnaslov>
+   <nazivorganizacijskeenote>
+    PSIHOLOŠKE IN POSLOVNE STORITVE, ANAMARIJA TOTH KOSTEVC, S.P
+   </nazivorganizacijskeenote>
+   <dodatninazivorganizacijskeenote>
+    LOKACIJA NOVO MESTO
+   </dodatninazivorganizacijskeenote>
+   <ulicaorganizacijskeenote>
+    GUBČEVA ULICA 22
+   </ulicaorganizacijskeenote>
+   <postaorganizacijskeenote>
+    8000 NOVO MESTO
+   </postaorganizacijskeenote>
+  </nazivinnaslov>
+  <pravnistatus>
+   <pravnistatussifra>
+    6
+   </pravnistatussifra>
+   <pravnistatusopis>
+    SAMOSTOJNI PODJETNIK - BREZ AMBULANTE
+   </pravnistatusopis>
+  </pravnistatus>
+  <tipizvajalca>
+   <tipizvajalcasifra>
+    1
+   </tipizvajalcasifra>
+   <tipizvajalcaopis>
+    OSNOVNO ZDRAVSTVO
+   </tipizvajalcaopis>
+  </tipizvajalca>
+  <obcina>
+   <obcinasifra>
+    85
+   </obcinasifra>
+   <obcinanaziv>
+    NOVO MESTO
+   </obcinanaziv>
+  </obcina>
+  <veljaod>
+   2026-09-03
+  </veljaod>
+  <vzd>
+   <sifravzd>
+    512
+   </sifravzd>
+   <opisvzd>
+    Psihologija
+   </opisvzd>
+   <veljaod>
+    2026-09-03
+   </veljaod>
+  </vzd>
+ </ivzizvajalec>
+ <ivzizvajalec>
+  <sifraivzizvajalca>
+   806
+  </sifraivzizvajalca>
+  <sifralokacije>
+   5
+  </sifralokacije>
+  <zzzsstevilka>
+   10080940
+  </zzzsstevilka>
+  <organizacijskastruktura>
+   <sifraivzosnovni>
+    806
+   </sifraivzosnovni>
+  </organizacijskastruktura>
+  <nazivinnaslov>
+   <nazivorganizacijskeenote>
+    PSIHOLOŠKE IN POSLOVNE STORITVE, ANAMARIJA TOTH KOSTEVC, S.P
+   </nazivorganizacijskeenote>
+   <dodatninazivorganizacijskeenote>
+    LOKACIJA ŠENTRUPERT
+   </dodatninazivorganizacijskeenote>
+   <ulicaorganizacijskeenote>
+    ŠENTRUPERT 124
+   </ulicaorganizacijskeenote>
+   <postaorganizacijskeenote>
+    8232 ŠENTRUPERT
+   </postaorganizacijskeenote>
+  </nazivinnaslov>
+  <pravnistatus>
+   <pravnistatussifra>
+    6
+   </pravnistatussifra>
+   <pravnistatusopis>
+    SAMOSTOJNI PODJETNIK - BREZ AMBULANTE
+   </pravnistatusopis>
+  </pravnistatus>
+  <tipizvajalca>
+   <tipizvajalcasifra>
+    1
+   </tipizvajalcasifra>
+   <tipizvajalcaopis>
+    OSNOVNO ZDRAVSTVO
+   </tipizvajalcaopis>
+  </tipizvajalca>
+  <obcina>
+   <obcinasifra>
+    211
+   </obcinasifra>
+   <obcinanaziv>
+    ŠENTRUPERT
+   </obcinanaziv>
+  </obcina>
+  <veljaod>
+   2026-09-14
+  </veljaod>
+  <vzd>
+   <sifravzd>
+    512
+   </sifravzd>
+   <opisvzd>
+    Psihologija
+   </opisvzd>
+   <veljaod>
+    2026-09-14
+   </veljaod>
+  </vzd>
+ </ivzizvajalec>
+ <ivzizvajalec>
+  <sifraivzizvajalca>
+   806
+  </sifraivzizvajalca>
+  <sifralokacije>
+   6
+  </sifralokacije>
+  <zzzsstevilka>
+   10057569
+  </zzzsstevilka>
+  <organizacijskastruktura>
+   <sifraivzosnovni>
+    806
+   </sifraivzosnovni>
+  </organizacijskastruktura>
+  <nazivinnaslov>
+   <nazivorganizacijskeenote>
+    PSIHOLOŠKE IN POSLOVNE STORITVE, ANAMARIJA TOTH KOSTEVC, S.P
+   </nazivorganizacijskeenote>
+   <dodatninazivorganizacijskeenote>
+    LOKACIJA ŠMARJEŠKA, NOVO MESTO
+   </dodatninazivorganizacijskeenote>
+   <ulicaorganizacijskeenote>
+    ŠMARJEŠKA CESTA 4
+   </ulicaorganizacijskeenote>
+   <postaorganizacijskeenote>
+    8000 NOVO MESTO
+   </postaorganizacijskeenote>
+  </nazivinnaslov>
+  <pravnistatus>
+   <pravnistatussifra>
+    6
+   </pravnistatussifra>
+   <pravnistatusopis>
+    SAMOSTOJNI PODJETNIK - BREZ AMBULANTE
+   </pravnistatusopis>
+  </pravnistatus>
+  <tipizvajalca>
+   <tipizvajalcasifra>
+    1
+   </tipizvajalcasifra>
+   <tipizvajalcaopis>
+    OSNOVNO ZDRAVSTVO
+   </tipizvajalcaopis>
+  </tipizvajalca>
+  <obcina>
+   <obcinasifra>
+    85
+   </obcinasifra>
+   <obcinanaziv>
+    NOVO MESTO
+   </obcinanaziv>
+  </obcina>
+  <veljaod>
+   2026-09-14
+  </veljaod>
+  <vzd>
+   <sifravzd>
+    512
+   </sifravzd>
+   <opisvzd>
+    Psihologija
+   </opisvzd>
+   <veljaod>
+    2026-09-14
+   </veljaod>
+  </vzd>
+ </ivzizvajalec>
+ <ivzizvajalec>
+  <sifraivzizvajalca>
+   806
+  </sifraivzizvajalca>
+  <sifralokacije>
+   7
+  </sifralokacije>
+  <zzzsstevilka>
+   10057590
+  </zzzsstevilka>
+  <organizacijskastruktura>
+   <sifraivzosnovni>
+    806
+   </sifraivzosnovni>
+  </organizacijskastruktura>
+  <nazivinnaslov>
+   <nazivorganizacijskeenote>
+    PSIHOLOŠKE IN POSLOVNE STORITVE, ANAMARIJA TOTH KOSTEVC, S.P
+   </nazivorganizacijskeenote>
+   <dodatninazivorganizacijskeenote>
+    LOKACIJA KOPER
+   </dodatninazivorganizacijskeenote>
+   <ulicaorganizacijskeenote>
+    LJUBLJANSKA CESTA 3
+   </ulicaorganizacijskeenote>
+   <postaorganizacijskeenote>
+    6000 KOPER - CAPODISTRIA
+   </postaorganizacijskeenote>
+  </nazivinnaslov>
+  <pravnistatus>
+   <pravnistatussifra>
+    6
+   </pravnistatussifra>
+   <pravnistatusopis>
+    SAMOSTOJNI PODJETNIK - BREZ AMBULANTE
+   </pravnistatusopis>
+  </pravnistatus>
+  <tipizvajalca>
+   <tipizvajalcasifra>
+    1
+   </tipizvajalcasifra>
+   <tipizvajalcaopis>
+    OSNOVNO ZDRAVSTVO
+   </tipizvajalcaopis>
+  </tipizvajalca>
+  <obcina>
+   <obcinasifra>
+    50
+   </obcinasifra>
+   <obcinanaziv>
+    KOPER
+   </obcinanaziv>
+  </obcina>
+  <veljaod>
+   2026-09-14
+  </veljaod>
+  <vzd>
+   <sifravzd>
+    512
+   </sifravzd>
+   <opisvzd>
+    Psihologija
+   </opisvzd>
+   <veljaod>
+    2026-09-14
+   </veljaod>
+  </vzd>
+ </ivzizvajalec>
+ <ivzizvajalec>
+  <sifraivzizvajalca>
+   806
+  </sifraivzizvajalca>
+  <sifralokacije>
+   8
+  </sifralokacije>
+  <zzzsstevilka>
+   10082145
+  </zzzsstevilka>
+  <organizacijskastruktura>
+   <sifraivzosnovni>
+    806
+   </sifraivzosnovni>
+  </organizacijskastruktura>
+  <nazivinnaslov>
+   <nazivorganizacijskeenote>
+    PSIHOLOŠKE IN POSLOVNE STORITVE, ANAMARIJA TOTH KOSTEVC, S.P
+   </nazivorganizacijskeenote>
+   <dodatninazivorganizacijskeenote>
+    LOKACIJA LJUBLJANSKA, NOVO MESTO
+   </dodatninazivorganizacijskeenote>
+   <ulicaorganizacijskeenote>
+    LJUBLJANSKA CESTA 3
+   </ulicaorganizacijskeenote>
+   <postaorganizacijskeenote>
+    8000 NOVO MESTO
+   </postaorganizacijskeenote>
+  </nazivinnaslov>
+  <pravnistatus>
+   <pravnistatussifra>
+    6
+   </pravnistatussifra>
+   <pravnistatusopis>
+    SAMOSTOJNI PODJETNIK - BREZ AMBULANTE
+   </pravnistatusopis>
+  </pravnistatus>
+  <tipizvajalca>
+   <tipizvajalcasifra>
+    1
+   </tipizvajalcasifra>
+   <tipizvajalcaopis>
+    OSNOVNO ZDRAVSTVO
+   </tipizvajalcaopis>
+  </tipizvajalca>
+  <obcina>
+   <obcinasifra>
+    85
+   </obcinasifra>
+   <obcinanaziv>
+    NOVO MESTO
+   </obcinanaziv>
+  </obcina>
+  <veljaod>
+   2026-09-14
+  </veljaod>
+  <vzd>
+   <sifravzd>
+    512
+   </sifravzd>
+   <opisvzd>
+    Psihologija
+   </opisvzd>
+   <veljaod>
+    2026-09-14
+   </veljaod>
+  </vzd>
+ </ivzizvajalec>
+ <ivzizvajalec>
+  <sifraivzizvajalca>
+   806
+  </sifraivzizvajalca>
+  <sifralokacije>
+   9
+  </sifralokacije>
+  <zzzsstevilka>
+   10055450
+  </zzzsstevilka>
+  <organizacijskastruktura>
+   <sifraivzosnovni>
+    806
+   </sifraivzosnovni>
+  </organizacijskastruktura>
+  <nazivinnaslov>
+   <nazivorganizacijskeenote>
+    PSIHOLOŠKE IN POSLOVNE STORITVE, ANAMARIJA TOTH KOSTEVC, S.P
+   </nazivorganizacijskeenote>
+   <dodatninazivorganizacijskeenote>
+    LOKACIJA LJUBLJANA
+   </dodatninazivorganizacijskeenote>
+   <ulicaorganizacijskeenote>
+    VILHARJEV PODHOD 19
+   </ulicaorganizacijskeenote>
+   <postaorganizacijskeenote>
+    1000 LJUBLJANA
+   </postaorganizacijskeenote>
+  </nazivinnaslov>
+  <pravnistatus>
+   <pravnistatussifra>
+    6
+   </pravnistatussifra>
+   <pravnistatusopis>
+    SAMOSTOJNI PODJETNIK - BREZ AMBULANTE
+   </pravnistatusopis>
+  </pravnistatus>
+  <tipizvajalca>
+   <tipizvajalcasifra>
+    1
+   </tipizvajalcasifra>
+   <tipizvajalcaopis>
+    OSNOVNO ZDRAVSTVO
+   </tipizvajalcaopis>
+  </tipizvajalca>
+  <obcina>
+   <obcinasifra>
+    61
+   </obcinasifra>
+   <obcinanaziv>
+    LJUBLJANA
+   </obcinanaziv>
+  </obcina>
+  <veljaod>
+   2026-09-14
+  </veljaod>
+  <vzd>
+   <sifravzd>
+    512
+   </sifravzd>
+   <opisvzd>
+    Psihologija
+   </opisvzd>
+   <veljaod>
+    2026-09-14
    </veljaod>
   </vzd>
  </ivzizvajalec>
@@ -229772,6 +230313,71 @@
  </ivzizvajalec>
  <ivzizvajalec>
   <sifraivzizvajalca>
+   2664
+  </sifraivzizvajalca>
+  <sifralokacije>
+   0
+  </sifralokacije>
+  <zzzsstevilka>
+   8829497
+  </zzzsstevilka>
+  <organizacijskastruktura>
+   <sifraivzosnovni>
+    2664
+   </sifraivzosnovni>
+  </organizacijskastruktura>
+  <nazivinnaslov>
+   <nazivorganizacijskeenote>
+    DERMATOLOGIJA BREMEC BREMEC D.O.O.
+   </nazivorganizacijskeenote>
+   <ulicaorganizacijskeenote>
+    METELKOVA ULICA 11
+   </ulicaorganizacijskeenote>
+   <postaorganizacijskeenote>
+    1000 LJUBLJANA
+   </postaorganizacijskeenote>
+  </nazivinnaslov>
+  <pravnistatus>
+   <pravnistatussifra>
+    2
+   </pravnistatussifra>
+   <pravnistatusopis>
+    GOSPODARSKA DRUŽBA / ZASEBNI ZAVOD
+   </pravnistatusopis>
+  </pravnistatus>
+  <tipizvajalca>
+   <tipizvajalcasifra>
+    2
+   </tipizvajalcasifra>
+   <tipizvajalcaopis>
+    SPECIALISTIČNA AMBULANTA
+   </tipizvajalcaopis>
+  </tipizvajalca>
+  <obcina>
+   <obcinasifra>
+    61
+   </obcinasifra>
+   <obcinanaziv>
+    LJUBLJANA
+   </obcinanaziv>
+  </obcina>
+  <veljaod>
+   2023-03-15
+  </veljaod>
+  <vzd>
+   <sifravzd>
+    203
+   </sifravzd>
+   <opisvzd>
+    Dermatovenerologija v spec. ZunajBolDej
+   </opisvzd>
+   <veljaod>
+    2023-03-15
+   </veljaod>
+  </vzd>
+ </ivzizvajalec>
+ <ivzizvajalec>
+  <sifraivzizvajalca>
    2727
   </sifraivzizvajalca>
   <sifralokacije>
@@ -233491,6 +234097,17 @@
    </sifravzd>
    <opisvzd>
     Dermatovenerologija v spec. ZunajBolDej
+   </opisvzd>
+   <veljaod>
+    2011-10-01
+   </veljaod>
+  </vzd>
+  <vzd>
+   <sifravzd>
+    209
+   </sifravzd>
+   <opisvzd>
+    Interna medicina v spec. ZunajBolDej
    </opisvzd>
    <veljaod>
     2011-10-01
