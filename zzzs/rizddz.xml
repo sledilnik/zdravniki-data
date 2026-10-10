@@ -2,10 +2,10 @@
 <bpi xmlns="http://zzzs.si/b2b/bpi" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemalocation="http://zzzs.si/b2b/bpi bpi.xsd">
  <posiljka>
   <verzijaposiljke>
-   5024
+   5025
   </verzijaposiljke>
   <datumposiljke>
-   2026-10-09
+   2026-10-10
   </datumposiljke>
   <verzijasheme>
    1.0
@@ -97014,91 +97014,6 @@
    <veljaod>
     2022-10-07
    </veljaod>
-  </vzd>
- </ivzizvajalec>
- <ivzizvajalec>
-  <sifraivzizvajalca>
-   989
-  </sifraivzizvajalca>
-  <sifralokacije>
-   0
-  </sifralokacije>
-  <zzzsstevilka>
-   8668570
-  </zzzsstevilka>
-  <organizacijskastruktura>
-   <sifraivzosnovni>
-    989
-   </sifraivzosnovni>
-  </organizacijskastruktura>
-  <nazivinnaslov>
-   <nazivorganizacijskeenote>
-    MEDICINSKI CENTER MAJ D.O.O.
-   </nazivorganizacijskeenote>
-   <ulicaorganizacijskeenote>
-    ULICA ZORANA VELNARJA 2
-   </ulicaorganizacijskeenote>
-   <postaorganizacijskeenote>
-    9000 MURSKA SOBOTA
-   </postaorganizacijskeenote>
-  </nazivinnaslov>
-  <pravnistatus>
-   <pravnistatussifra>
-    2
-   </pravnistatussifra>
-   <pravnistatusopis>
-    GOSPODARSKA DRUŽBA / ZASEBNI ZAVOD
-   </pravnistatusopis>
-  </pravnistatus>
-  <tipizvajalca>
-   <tipizvajalcasifra>
-    1
-   </tipizvajalcasifra>
-   <tipizvajalcaopis>
-    OSNOVNO ZDRAVSTVO
-   </tipizvajalcaopis>
-  </tipizvajalca>
-  <obcina>
-   <obcinasifra>
-    80
-   </obcinasifra>
-   <obcinanaziv>
-    MURSKA SOBOTA
-   </obcinanaziv>
-  </obcina>
-  <veljaod>
-   2022-09-19
-  </veljaod>
-  <veljado>
-   2023-10-09
-  </veljado>
-  <vzd>
-   <sifravzd>
-    302
-   </sifravzd>
-   <opisvzd>
-    Splošna in družinska medicina
-   </opisvzd>
-   <veljaod>
-    2022-09-19
-   </veljaod>
-   <veljado>
-    2023-10-09
-   </veljado>
-  </vzd>
-  <vzd>
-   <sifravzd>
-    327
-   </sifravzd>
-   <opisvzd>
-    Pediatrija v splošni zunajBolDej
-   </opisvzd>
-   <veljaod>
-    2023-01-01
-   </veljaod>
-   <veljado>
-    2023-10-09
-   </veljado>
   </vzd>
  </ivzizvajalec>
  <ivzizvajalec>
@@ -230373,6 +230288,136 @@
    </opisvzd>
    <veljaod>
     2023-03-15
+   </veljaod>
+  </vzd>
+ </ivzizvajalec>
+ <ivzizvajalec>
+  <sifraivzizvajalca>
+   2665
+  </sifraivzizvajalca>
+  <sifralokacije>
+   0
+  </sifralokacije>
+  <zzzsstevilka>
+   3456728
+  </zzzsstevilka>
+  <organizacijskastruktura>
+   <sifraivzosnovni>
+    2665
+   </sifraivzosnovni>
+  </organizacijskastruktura>
+  <nazivinnaslov>
+   <nazivorganizacijskeenote>
+    ZASEBNA FIZIOTERAPIJA - STEBLE ROBERTO
+   </nazivorganizacijskeenote>
+   <ulicaorganizacijskeenote>
+    BUKOVLJE 12 A
+   </ulicaorganizacijskeenote>
+   <postaorganizacijskeenote>
+    3206 STRANICE
+   </postaorganizacijskeenote>
+  </nazivinnaslov>
+  <pravnistatus>
+   <pravnistatussifra>
+    3
+   </pravnistatussifra>
+   <pravnistatusopis>
+    ZASEBNI ZDRAVSTVENI DELAVEC
+   </pravnistatusopis>
+  </pravnistatus>
+  <tipizvajalca>
+   <tipizvajalcasifra>
+    1
+   </tipizvajalcasifra>
+   <tipizvajalcaopis>
+    OSNOVNO ZDRAVSTVO
+   </tipizvajalcaopis>
+  </tipizvajalca>
+  <obcina>
+   <obcinasifra>
+    144
+   </obcinasifra>
+   <obcinanaziv>
+    ZREČE
+   </obcinanaziv>
+  </obcina>
+  <veljaod>
+   2012-08-08
+  </veljaod>
+  <vzd>
+   <sifravzd>
+    507
+   </sifravzd>
+   <opisvzd>
+    Fizioterapija
+   </opisvzd>
+   <veljaod>
+    2012-08-08
+   </veljaod>
+  </vzd>
+ </ivzizvajalec>
+ <ivzizvajalec>
+  <sifraivzizvajalca>
+   2665
+  </sifraivzizvajalca>
+  <sifralokacije>
+   1
+  </sifralokacije>
+  <zzzsstevilka>
+   4980092
+  </zzzsstevilka>
+  <organizacijskastruktura>
+   <sifraivzosnovni>
+    2665
+   </sifraivzosnovni>
+  </organizacijskastruktura>
+  <nazivinnaslov>
+   <nazivorganizacijskeenote>
+    ZASEBNA FIZIOTERAPIJA - STEBLE ROBERTO
+   </nazivorganizacijskeenote>
+   <ulicaorganizacijskeenote>
+    ROMIHOVA ULICA 39
+   </ulicaorganizacijskeenote>
+   <postaorganizacijskeenote>
+    2310 SLOVENSKA BISTRICA
+   </postaorganizacijskeenote>
+  </nazivinnaslov>
+  <pravnistatus>
+   <pravnistatussifra>
+    3
+   </pravnistatussifra>
+   <pravnistatusopis>
+    ZASEBNI ZDRAVSTVENI DELAVEC
+   </pravnistatusopis>
+  </pravnistatus>
+  <tipizvajalca>
+   <tipizvajalcasifra>
+    1
+   </tipizvajalcasifra>
+   <tipizvajalcaopis>
+    OSNOVNO ZDRAVSTVO
+   </tipizvajalcaopis>
+  </tipizvajalca>
+  <obcina>
+   <obcinasifra>
+    113
+   </obcinasifra>
+   <obcinanaziv>
+    SLOVENSKA BISTRICA
+   </obcinanaziv>
+  </obcina>
+  <veljaod>
+   2012-08-08
+  </veljaod>
+  <vzd>
+   <sifravzd>
+    507
+   </sifravzd>
+   <opisvzd>
+    Fizioterapija
+   </opisvzd>
+   <veljaod>
+    2012-08-08
    </veljaod>
   </vzd>
  </ivzizvajalec>

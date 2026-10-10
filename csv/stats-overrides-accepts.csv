@@ -13,6 +13,7 @@ Ne sprejema novih pacientov (le od dr. Oserbanove).,n,1
 Ne sprejema novih pacientov (nadomeščanje).,n,2
 Ne sprejema novih pacientov (napolnjene dodatne kapacitete).,n,1
 Ne sprejema novih pacientov (ne dela več na primarnem nivoju).,n,1
+Ne sprejema novih pacientov (porodniška).,n,1
 Ne sprejema novih pacientov (prevzela ambulanto dr. Bratuše).,n,1
 Ne sprejema novih pacientov (prevzela ambulanto dr. Odar).,n,1
 Ne sprejema novih pacientov (prevzela polno ambulanto dr. Čeh Tadeje).,n,1
@@ -23,13 +24,14 @@ Ne sprejema novih pacientov (upokojena).,n,7
 Ne sprejema novih pacientov (v fazi upokojevanja).,n,4
 Ne sprejema novih pacientov (zdravnik medicine dela).,n,3
 Ne sprejema novih pacientov (zdravnik urgentne medicine).,n,3
-Ne sprejema novih pacientov.,n,503
+Ne sprejema novih pacientov.,n,505
 Samo pacienti  dr. Čampa.,n,1
 Samo preventiva šolskih otrok.,n,1
 Sprejema nove paciente,y,3
 Sprejema nove paciente.,n,1
-Sprejema nove paciente.,y,93
+Sprejema nove paciente.,y,92
 Sprejema samo družinske člane že opredeljenih pacientov.,n,2
+Sprejema samo paciente iz Bežigrada.,y,1
 Sprejema samo v DSO.,n,1
 Sprejema v čakalno vrsto.,n,2
 Trajno zaprto,n,1
