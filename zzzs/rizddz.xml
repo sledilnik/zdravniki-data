@@ -2,10 +2,10 @@
 <bpi xmlns="http://zzzs.si/b2b/bpi" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemalocation="http://zzzs.si/b2b/bpi bpi.xsd">
  <posiljka>
   <verzijaposiljke>
-   5025
+   5026
   </verzijaposiljke>
   <datumposiljke>
-   2026-10-10
+   2026-10-11
   </datumposiljke>
   <verzijasheme>
    1.0
@@ -341487,10 +341487,10 @@
     ZAVOD ZA PRESTAJANJE KAZNI ZAPORA LJUBLJANA
    </dodatninazivorganizacijskeenote>
    <ulicaorganizacijskeenote>
-    POVŠETOVA ULICA 5
+    LITIJSKA CESTA 217
    </ulicaorganizacijskeenote>
    <postaorganizacijskeenote>
-    1000 LJUBLJANA
+    1261 LJUBLJANA - DOBRUNJE
    </postaorganizacijskeenote>
   </nazivinnaslov>
   <pravnistatus>
@@ -345778,77 +345778,6 @@
    <veljaod>
     1998-07-01
    </veljaod>
-  </vzd>
- </ivzizvajalec>
- <ivzizvajalec>
-  <sifraivzizvajalca>
-   24162
-  </sifraivzizvajalca>
-  <sifralokacije>
-   0
-  </sifralokacije>
-  <zzzsstevilka>
-   3006988
-  </zzzsstevilka>
-  <organizacijskastruktura>
-   <sifraivzosnovni>
-    24162
-   </sifraivzosnovni>
-  </organizacijskastruktura>
-  <nazivinnaslov>
-   <nazivorganizacijskeenote>
-    AKD D.O.O.
-   </nazivorganizacijskeenote>
-   <ulicaorganizacijskeenote>
-    UKMARJEVA ULICA 4
-   </ulicaorganizacijskeenote>
-   <postaorganizacijskeenote>
-    1000 LJUBLJANA
-   </postaorganizacijskeenote>
-  </nazivinnaslov>
-  <pravnistatus>
-   <pravnistatussifra>
-    2
-   </pravnistatussifra>
-   <pravnistatusopis>
-    GOSPODARSKA DRUŽBA / ZASEBNI ZAVOD
-   </pravnistatusopis>
-  </pravnistatus>
-  <tipizvajalca>
-   <tipizvajalcasifra>
-    2
-   </tipizvajalcasifra>
-   <tipizvajalcaopis>
-    SPECIALISTIČNA AMBULANTA
-   </tipizvajalcaopis>
-  </tipizvajalca>
-  <obcina>
-   <obcinasifra>
-    61
-   </obcinasifra>
-   <obcinanaziv>
-    LJUBLJANA
-   </obcinanaziv>
-  </obcina>
-  <veljaod>
-   1998-07-01
-  </veljaod>
-  <veljado>
-   2023-10-10
-  </veljado>
-  <vzd>
-   <sifravzd>
-    203
-   </sifravzd>
-   <opisvzd>
-    Dermatovenerologija v spec. ZunajBolDej
-   </opisvzd>
-   <veljaod>
-    1998-07-01
-   </veljaod>
-   <veljado>
-    2023-10-10
-   </veljado>
   </vzd>
  </ivzizvajalec>
  <ivzizvajalec>
