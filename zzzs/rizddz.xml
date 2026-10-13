@@ -2,10 +2,10 @@
 <bpi xmlns="http://zzzs.si/b2b/bpi" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemalocation="http://zzzs.si/b2b/bpi bpi.xsd">
  <posiljka>
   <verzijaposiljke>
-   5027
+   5028
   </verzijaposiljke>
   <datumposiljke>
-   2026-10-12
+   2026-10-13
   </datumposiljke>
   <verzijasheme>
    1.0
@@ -56028,6 +56028,74 @@
  </ivzizvajalec>
  <ivzizvajalec>
   <sifraivzizvajalca>
+   466
+  </sifraivzizvajalca>
+  <sifralokacije>
+   3
+  </sifralokacije>
+  <zzzsstevilka>
+   10058885
+  </zzzsstevilka>
+  <organizacijskastruktura>
+   <sifraivzosnovni>
+    466
+   </sifraivzosnovni>
+  </organizacijskastruktura>
+  <nazivinnaslov>
+   <nazivorganizacijskeenote>
+    FIZIOTERAPIJA, NEJC STANEK S.P.
+   </nazivorganizacijskeenote>
+   <dodatninazivorganizacijskeenote>
+    LOKACIJA MOSTE
+   </dodatninazivorganizacijskeenote>
+   <ulicaorganizacijskeenote>
+    MOSTE 101
+   </ulicaorganizacijskeenote>
+   <postaorganizacijskeenote>
+    4274 ŽIROVNICA
+   </postaorganizacijskeenote>
+  </nazivinnaslov>
+  <pravnistatus>
+   <pravnistatussifra>
+    5
+   </pravnistatussifra>
+   <pravnistatusopis>
+    SAMOSTOJNI PODJETNIK
+   </pravnistatusopis>
+  </pravnistatus>
+  <tipizvajalca>
+   <tipizvajalcasifra>
+    1
+   </tipizvajalcasifra>
+   <tipizvajalcaopis>
+    OSNOVNO ZDRAVSTVO
+   </tipizvajalcaopis>
+  </tipizvajalca>
+  <obcina>
+   <obcinasifra>
+    192
+   </obcinasifra>
+   <obcinanaziv>
+    ŽIROVNICA
+   </obcinanaziv>
+  </obcina>
+  <veljaod>
+   2026-03-11
+  </veljaod>
+  <vzd>
+   <sifravzd>
+    507
+   </sifravzd>
+   <opisvzd>
+    Fizioterapija
+   </opisvzd>
+   <veljaod>
+    2026-03-11
+   </veljaod>
+  </vzd>
+ </ivzizvajalec>
+ <ivzizvajalec>
+  <sifraivzizvajalca>
    467
   </sifraivzizvajalca>
   <sifralokacije>
@@ -105805,6 +105873,74 @@
    </opisvzd>
    <veljaod>
     2020-04-03
+   </veljaod>
+  </vzd>
+ </ivzizvajalec>
+ <ivzizvajalec>
+  <sifraivzizvajalca>
+   1106
+  </sifraivzizvajalca>
+  <sifralokacije>
+   2
+  </sifralokacije>
+  <zzzsstevilka>
+   10056927
+  </zzzsstevilka>
+  <organizacijskastruktura>
+   <sifraivzosnovni>
+    1106
+   </sifraivzosnovni>
+  </organizacijskastruktura>
+  <nazivinnaslov>
+   <nazivorganizacijskeenote>
+    GINEKOLOGIJA IN PORODNIŠTVO, MATIJA URH S.P.
+   </nazivorganizacijskeenote>
+   <dodatninazivorganizacijskeenote>
+    LOKACIJA SAVSKA CESTA
+   </dodatninazivorganizacijskeenote>
+   <ulicaorganizacijskeenote>
+    SAVSKA CESTA 3
+   </ulicaorganizacijskeenote>
+   <postaorganizacijskeenote>
+    1000 LJUBLJANA
+   </postaorganizacijskeenote>
+  </nazivinnaslov>
+  <pravnistatus>
+   <pravnistatussifra>
+    6
+   </pravnistatussifra>
+   <pravnistatusopis>
+    SAMOSTOJNI PODJETNIK - BREZ AMBULANTE
+   </pravnistatusopis>
+  </pravnistatus>
+  <tipizvajalca>
+   <tipizvajalcasifra>
+    2
+   </tipizvajalcasifra>
+   <tipizvajalcaopis>
+    SPECIALISTIČNA AMBULANTA
+   </tipizvajalcaopis>
+  </tipizvajalca>
+  <obcina>
+   <obcinasifra>
+    61
+   </obcinasifra>
+   <obcinanaziv>
+    LJUBLJANA
+   </obcinanaziv>
+  </obcina>
+  <veljaod>
+   2025-12-11
+  </veljaod>
+  <vzd>
+   <sifravzd>
+    206
+   </sifravzd>
+   <opisvzd>
+    Ginek. in porod. v spec. ZunajBolDej
+   </opisvzd>
+   <veljaod>
+    2025-12-11
    </veljaod>
   </vzd>
  </ivzizvajalec>
@@ -209250,6 +209386,74 @@
  </ivzizvajalec>
  <ivzizvajalec>
   <sifraivzizvajalca>
+   2383
+  </sifraivzizvajalca>
+  <sifralokacije>
+   2
+  </sifralokacije>
+  <zzzsstevilka>
+   10057706
+  </zzzsstevilka>
+  <organizacijskastruktura>
+   <sifraivzosnovni>
+    2383
+   </sifraivzosnovni>
+  </organizacijskastruktura>
+  <nazivinnaslov>
+   <nazivorganizacijskeenote>
+    ZOBOZDRAVSTVENA DEJAVNOST, MANCA PETERNELJ S.P.
+   </nazivorganizacijskeenote>
+   <dodatninazivorganizacijskeenote>
+    LOKACIJA KRANJSKA CESTA
+   </dodatninazivorganizacijskeenote>
+   <ulicaorganizacijskeenote>
+    KRANJSKA CESTA 27
+   </ulicaorganizacijskeenote>
+   <postaorganizacijskeenote>
+    4240 RADOVLJICA
+   </postaorganizacijskeenote>
+  </nazivinnaslov>
+  <pravnistatus>
+   <pravnistatussifra>
+    6
+   </pravnistatussifra>
+   <pravnistatusopis>
+    SAMOSTOJNI PODJETNIK - BREZ AMBULANTE
+   </pravnistatusopis>
+  </pravnistatus>
+  <tipizvajalca>
+   <tipizvajalcasifra>
+    1
+   </tipizvajalcasifra>
+   <tipizvajalcaopis>
+    OSNOVNO ZDRAVSTVO
+   </tipizvajalcaopis>
+  </tipizvajalca>
+  <obcina>
+   <obcinasifra>
+    102
+   </obcinasifra>
+   <obcinanaziv>
+    RADOVLJICA
+   </obcinanaziv>
+  </obcina>
+  <veljaod>
+   2026-03-20
+  </veljaod>
+  <vzd>
+   <sifravzd>
+    404
+   </sifravzd>
+   <opisvzd>
+    Splošno zobozdravstvo
+   </opisvzd>
+   <veljaod>
+    2026-03-20
+   </veljaod>
+  </vzd>
+ </ivzizvajalec>
+ <ivzizvajalec>
+  <sifraivzizvajalca>
    2384
   </sifraivzizvajalca>
   <sifralokacije>
@@ -224960,6 +225164,74 @@
  </ivzizvajalec>
  <ivzizvajalec>
   <sifraivzizvajalca>
+   2555
+  </sifraivzizvajalca>
+  <sifralokacije>
+   1
+  </sifralokacije>
+  <zzzsstevilka>
+   10056898
+  </zzzsstevilka>
+  <organizacijskastruktura>
+   <sifraivzosnovni>
+    2555
+   </sifraivzosnovni>
+  </organizacijskastruktura>
+  <nazivinnaslov>
+   <nazivorganizacijskeenote>
+    ZOBOZDRAVSTVENA DEJAVNOST, TANJA KOREN GORJANC S.P.
+   </nazivorganizacijskeenote>
+   <dodatninazivorganizacijskeenote>
+    LOKACIJA TRATA 7
+   </dodatninazivorganizacijskeenote>
+   <ulicaorganizacijskeenote>
+    TRATA 7
+   </ulicaorganizacijskeenote>
+   <postaorganizacijskeenote>
+    4224 GORENJA VAS
+   </postaorganizacijskeenote>
+  </nazivinnaslov>
+  <pravnistatus>
+   <pravnistatussifra>
+    5
+   </pravnistatussifra>
+   <pravnistatusopis>
+    SAMOSTOJNI PODJETNIK
+   </pravnistatusopis>
+  </pravnistatus>
+  <tipizvajalca>
+   <tipizvajalcasifra>
+    1
+   </tipizvajalcasifra>
+   <tipizvajalcaopis>
+    OSNOVNO ZDRAVSTVO
+   </tipizvajalcaopis>
+  </tipizvajalca>
+  <obcina>
+   <obcinasifra>
+    27
+   </obcinasifra>
+   <obcinanaziv>
+    GORENJA VAS-POLJANE
+   </obcinanaziv>
+  </obcina>
+  <veljaod>
+   2026-04-10
+  </veljaod>
+  <vzd>
+   <sifravzd>
+    404
+   </sifravzd>
+   <opisvzd>
+    Splošno zobozdravstvo
+   </opisvzd>
+   <veljaod>
+    2026-04-10
+   </veljaod>
+  </vzd>
+ </ivzizvajalec>
+ <ivzizvajalec>
+  <sifraivzizvajalca>
    2556
   </sifraivzizvajalca>
   <sifralokacije>
@@ -227921,6 +228193,142 @@
    </sifravzd>
    <opisvzd>
     Urejanje zdr.,iz.,kult., drugih soc.st.
+   </opisvzd>
+   <veljaod>
+    2026-07-09
+   </veljaod>
+  </vzd>
+ </ivzizvajalec>
+ <ivzizvajalec>
+  <sifraivzizvajalca>
+   2618
+  </sifraivzizvajalca>
+  <sifralokacije>
+   1
+  </sifralokacije>
+  <zzzsstevilka>
+   10057737
+  </zzzsstevilka>
+  <organizacijskastruktura>
+   <sifraivzosnovni>
+    2618
+   </sifraivzosnovni>
+  </organizacijskastruktura>
+  <nazivinnaslov>
+   <nazivorganizacijskeenote>
+    JAN BOGATAJ MD ZDRAVSTVENE STORITVE S.P
+   </nazivorganizacijskeenote>
+   <dodatninazivorganizacijskeenote>
+    LOKACIJA GRŠKA ULICA
+   </dodatninazivorganizacijskeenote>
+   <ulicaorganizacijskeenote>
+    GRŠKA ULICA 13
+   </ulicaorganizacijskeenote>
+   <postaorganizacijskeenote>
+    1000 LJUBLJANA
+   </postaorganizacijskeenote>
+  </nazivinnaslov>
+  <pravnistatus>
+   <pravnistatussifra>
+    6
+   </pravnistatussifra>
+   <pravnistatusopis>
+    SAMOSTOJNI PODJETNIK - BREZ AMBULANTE
+   </pravnistatusopis>
+  </pravnistatus>
+  <tipizvajalca>
+   <tipizvajalcasifra>
+    2
+   </tipizvajalcasifra>
+   <tipizvajalcaopis>
+    SPECIALISTIČNA AMBULANTA
+   </tipizvajalcaopis>
+  </tipizvajalca>
+  <obcina>
+   <obcinasifra>
+    61
+   </obcinasifra>
+   <obcinanaziv>
+    LJUBLJANA
+   </obcinanaziv>
+  </obcina>
+  <veljaod>
+   2026-07-09
+  </veljaod>
+  <vzd>
+   <sifravzd>
+    223
+   </sifravzd>
+   <opisvzd>
+    Otorinolaringologija v spec. ZunajBolDej
+   </opisvzd>
+   <veljaod>
+    2026-07-09
+   </veljaod>
+  </vzd>
+ </ivzizvajalec>
+ <ivzizvajalec>
+  <sifraivzizvajalca>
+   2618
+  </sifraivzizvajalca>
+  <sifralokacije>
+   2
+  </sifralokacije>
+  <zzzsstevilka>
+   10059664
+  </zzzsstevilka>
+  <organizacijskastruktura>
+   <sifraivzosnovni>
+    2618
+   </sifraivzosnovni>
+  </organizacijskastruktura>
+  <nazivinnaslov>
+   <nazivorganizacijskeenote>
+    JAN BOGATAJ MD ZDRAVSTVENE STORITVE S.P
+   </nazivorganizacijskeenote>
+   <dodatninazivorganizacijskeenote>
+    LOKACIJA CESTA TALCEV
+   </dodatninazivorganizacijskeenote>
+   <ulicaorganizacijskeenote>
+    CESTA TALCEV 10
+   </ulicaorganizacijskeenote>
+   <postaorganizacijskeenote>
+    1230 DOMŽALE
+   </postaorganizacijskeenote>
+  </nazivinnaslov>
+  <pravnistatus>
+   <pravnistatussifra>
+    6
+   </pravnistatussifra>
+   <pravnistatusopis>
+    SAMOSTOJNI PODJETNIK - BREZ AMBULANTE
+   </pravnistatusopis>
+  </pravnistatus>
+  <tipizvajalca>
+   <tipizvajalcasifra>
+    2
+   </tipizvajalcasifra>
+   <tipizvajalcaopis>
+    SPECIALISTIČNA AMBULANTA
+   </tipizvajalcaopis>
+  </tipizvajalca>
+  <obcina>
+   <obcinasifra>
+    23
+   </obcinasifra>
+   <obcinanaziv>
+    DOMŽALE
+   </obcinanaziv>
+  </obcina>
+  <veljaod>
+   2026-07-09
+  </veljaod>
+  <vzd>
+   <sifravzd>
+    223
+   </sifravzd>
+   <opisvzd>
+    Otorinolaringologija v spec. ZunajBolDej
    </opisvzd>
    <veljaod>
     2026-07-09
@@ -368300,6 +368708,9 @@
   <veljaod>
    1995-06-08
   </veljaod>
+  <veljado>
+   2026-08-31
+  </veljado>
   <vzd>
    <sifravzd>
     507
@@ -368310,6 +368721,9 @@
    <veljaod>
     1995-06-08
    </veljaod>
+   <veljado>
+    2026-08-31
+   </veljado>
   </vzd>
  </ivzizvajalec>
  <ivzizvajalec>
@@ -373407,6 +373821,9 @@
   <veljaod>
    2005-06-01
   </veljaod>
+  <veljado>
+   2026-09-30
+  </veljado>
   <vzd>
    <sifravzd>
     714
@@ -373417,6 +373834,9 @@
    <veljaod>
     2005-06-01
    </veljaod>
+   <veljado>
+    2026-09-30
+   </veljado>
   </vzd>
  </ivzizvajalec>
  <ivzizvajalec>
@@ -382295,6 +382715,9 @@
   <veljaod>
    2016-09-10
   </veljaod>
+  <veljado>
+   2026-09-30
+  </veljado>
   <vzd>
    <sifravzd>
     404
@@ -382305,6 +382728,9 @@
    <veljaod>
     2016-09-10
    </veljaod>
+   <veljado>
+    2026-09-30
+   </veljado>
   </vzd>
  </ivzizvajalec>
  <ivzizvajalec>
