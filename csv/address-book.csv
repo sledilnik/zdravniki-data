@@ -880,6 +880,7 @@ rizddzInstitutionContractorId,rizddzInstitutionId,rizddzLocationId,rizddzDoctorI
 2546,2622,0,14312,306007,gyn,,"dr. med., spec. ginekologije in porodništva",TRŠKA CESTA 76,PODČETRTEK,3254 PODČETRTEK,03818036086
 2546,2622,0,14903,404101,den,,dr. dent. med.,TRŠKA CESTA 76,PODČETRTEK,3254 PODČETRTEK,038183688
 2546,2622,0,14903,404103,den-y,,dr. dent. med.,TRŠKA CESTA 76,PODČETRTEK,3254 PODČETRTEK,038183688
+2546,2622,0,17073,306007,gyn,,"dr. med., spec. ginekologije in porodništva",TRŠKA CESTA 76,PODČETRTEK,3254 PODČETRTEK,03818036086
 2576,2576,1,13511,404101,den,,dr. dent. med.,ISTRSKA ULICA 17,KOZINA,6240 KOZINA,
 2641,2641,0,7359,302001,gp,,"dr. med., spec. splošne medicine",PREŠERNOVA ULICA 6,ŽALEC,3310 ŽALEC,(03) 713 43 21
 2641,2641,0,9694,302001,gp,,"dr. med., spec. družinska medicine",PREŠERNOVA ULICA 6,ŽALEC,3310 ŽALEC,(03) 713 43 23
@@ -2467,6 +2468,7 @@ rizddzInstitutionContractorId,rizddzInstitutionId,rizddzLocationId,rizddzDoctorI
 31229,31229,0,8028,327009,ped,,,PREŠERNOVA ULICA 6,ŽALEC,3310 ŽALEC,
 31229,31229,0,11641,327009,ped,,"dr. med., spec. pediatrije",PREŠERNOVA ULICA 6,ŽALEC,3310 ŽALEC,03 713 43 14
 31229,31229,0,12240,327009,ped,,"dr. med., spec. pediatrije",PREŠERNOVA ULICA 6,ŽALEC,3310 ŽALEC,
+31229,31229,0,12787,327009,ped,,"dr. med., spec. pediatrije",PREŠERNOVA ULICA 6,ŽALEC,3310 ŽALEC,
 31229,31229,0,12891,327009,ped,,"dr. med., spec. pediatrije",PREŠERNOVA ULICA 6,ŽALEC,3310 ŽALEC,
 31229,31229,1,8028,327009,ped,,"dr. med., spec. pediatrije",GRAŠČINSKA CESTA 11,PREBOLD,3312 PREBOLD,
 31229,31229,1,11739,327009,ped,,"dr. med., spec. pediatrije",GRAŠČINSKA CESTA 11,PREBOLD,3312 PREBOLD,
