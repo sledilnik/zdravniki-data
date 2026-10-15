@@ -2,10 +2,10 @@
 <bpi xmlns="http://zzzs.si/b2b/bpi" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemalocation="http://zzzs.si/b2b/bpi bpi.xsd">
  <posiljka>
   <verzijaposiljke>
-   5029
+   5030
   </verzijaposiljke>
   <datumposiljke>
-   2026-10-14
+   2026-10-15
   </datumposiljke>
   <verzijasheme>
    1.0
@@ -97335,6 +97335,9 @@
   <veljaod>
    2022-09-08
   </veljaod>
+  <veljado>
+   2026-05-31
+  </veljado>
   <vzd>
    <sifravzd>
     706
@@ -97345,6 +97348,9 @@
    <veljaod>
     2022-09-08
    </veljaod>
+   <veljado>
+    2026-05-31
+   </veljado>
   </vzd>
  </ivzizvajalec>
  <ivzizvajalec>
@@ -97403,6 +97409,9 @@
   <veljaod>
    2022-09-13
   </veljaod>
+  <veljado>
+   2026-05-31
+  </veljado>
   <vzd>
    <sifravzd>
     404
@@ -97413,6 +97422,9 @@
    <veljaod>
     2022-09-13
    </veljaod>
+   <veljado>
+    2026-05-31
+   </veljado>
   </vzd>
  </ivzizvajalec>
  <ivzizvajalec>
@@ -97471,6 +97483,9 @@
   <veljaod>
    2024-08-26
   </veljaod>
+  <veljado>
+   2026-05-31
+  </veljado>
   <vzd>
    <sifravzd>
     404
@@ -97481,6 +97496,9 @@
    <veljaod>
     2024-08-26
    </veljaod>
+   <veljado>
+    2026-05-31
+   </veljado>
   </vzd>
  </ivzizvajalec>
  <ivzizvajalec>
@@ -131976,6 +131994,9 @@
   <veljaod>
    2023-09-28
   </veljaod>
+  <veljado>
+   2026-05-31
+  </veljado>
   <vzd>
    <sifravzd>
     706
@@ -131986,6 +132007,9 @@
    <veljaod>
     2023-09-28
    </veljaod>
+   <veljado>
+    2026-05-31
+   </veljado>
   </vzd>
  </ivzizvajalec>
  <ivzizvajalec>
@@ -132044,6 +132068,9 @@
   <veljaod>
    1900-01-01
   </veljaod>
+  <veljado>
+   2026-05-31
+  </veljado>
   <vzd>
    <sifravzd>
     404
@@ -132054,6 +132081,9 @@
    <veljaod>
     2023-10-02
    </veljaod>
+   <veljado>
+    2026-05-31
+   </veljado>
   </vzd>
  </ivzizvajalec>
  <ivzizvajalec>
@@ -217859,6 +217889,71 @@
    </opisvzd>
    <veljaod>
     2026-01-01
+   </veljaod>
+  </vzd>
+ </ivzizvajalec>
+ <ivzizvajalec>
+  <sifraivzizvajalca>
+   2476
+  </sifraivzizvajalca>
+  <sifralokacije>
+   6
+  </sifralokacije>
+  <zzzsstevilka>
+   10085982
+  </zzzsstevilka>
+  <organizacijskastruktura>
+   <sifraivzosnovni>
+    2476
+   </sifraivzosnovni>
+  </organizacijskastruktura>
+  <nazivinnaslov>
+   <nazivorganizacijskeenote>
+    MEDICINSKI CENTER KATARINA, D.O.O., PE AMBULANTA ZDRAVJE
+   </nazivorganizacijskeenote>
+   <ulicaorganizacijskeenote>
+    POT K IZVIRU 6
+   </ulicaorganizacijskeenote>
+   <postaorganizacijskeenote>
+    1260 LJUBLJANA - POLJE
+   </postaorganizacijskeenote>
+  </nazivinnaslov>
+  <pravnistatus>
+   <pravnistatussifra>
+    2
+   </pravnistatussifra>
+   <pravnistatusopis>
+    GOSPODARSKA DRUŽBA / ZASEBNI ZAVOD
+   </pravnistatusopis>
+  </pravnistatus>
+  <tipizvajalca>
+   <tipizvajalcasifra>
+    2
+   </tipizvajalcasifra>
+   <tipizvajalcaopis>
+    SPECIALISTIČNA AMBULANTA
+   </tipizvajalcaopis>
+  </tipizvajalca>
+  <obcina>
+   <obcinasifra>
+    61
+   </obcinasifra>
+   <obcinanaziv>
+    LJUBLJANA
+   </obcinanaziv>
+  </obcina>
+  <veljaod>
+   2026-02-03
+  </veljaod>
+  <vzd>
+   <sifravzd>
+    222
+   </sifravzd>
+   <opisvzd>
+    Ortopedska kirurgija v spec. ZunajBolDej
+   </opisvzd>
+   <veljaod>
+    2026-02-03
    </veljaod>
   </vzd>
  </ivzizvajalec>
@@ -354858,7 +354953,7 @@
   </organizacijskastruktura>
   <nazivinnaslov>
    <nazivorganizacijskeenote>
-    MAJA DENT D.O.O.
+    GOLDEN WAVES D.O.O.
    </nazivorganizacijskeenote>
    <ulicaorganizacijskeenote>
     LITIJSKA CESTA 43
