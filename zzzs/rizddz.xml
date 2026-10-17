@@ -2,10 +2,10 @@
 <bpi xmlns="http://zzzs.si/b2b/bpi" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemalocation="http://zzzs.si/b2b/bpi bpi.xsd">
  <posiljka>
   <verzijaposiljke>
-   5031
+   5032
   </verzijaposiljke>
   <datumposiljke>
-   2026-10-16
+   2026-10-17
   </datumposiljke>
   <verzijasheme>
    1.0
@@ -68875,6 +68875,9 @@
   <veljaod>
    2019-05-23
   </veljaod>
+  <veljado>
+   2026-04-29
+  </veljado>
   <vzd>
    <sifravzd>
     706
@@ -68885,6 +68888,9 @@
    <veljaod>
     2019-05-23
    </veljaod>
+   <veljado>
+    2026-04-29
+   </veljado>
   </vzd>
  </ivzizvajalec>
  <ivzizvajalec>
@@ -68943,6 +68949,9 @@
   <veljaod>
    2019-05-23
   </veljaod>
+  <veljado>
+   2026-04-29
+  </veljado>
   <vzd>
    <sifravzd>
     404
@@ -68953,6 +68962,9 @@
    <veljaod>
     2019-05-23
    </veljaod>
+   <veljado>
+    2026-04-29
+   </veljado>
   </vzd>
  </ivzizvajalec>
  <ivzizvajalec>
@@ -141458,7 +141470,7 @@
     MILUJA D.O.O.
    </nazivorganizacijskeenote>
    <ulicaorganizacijskeenote>
-    TOMAŽIČEVA ULICA 10
+    TOMAŽIČEVA ULICA 4 A
    </ulicaorganizacijskeenote>
    <postaorganizacijskeenote>
     6310 IZOLA - ISOLA
@@ -154980,6 +154992,9 @@
   <veljaod>
    2024-02-21
   </veljaod>
+  <veljado>
+   2026-08-22
+  </veljado>
   <vzd>
    <sifravzd>
     706
@@ -154990,6 +155005,9 @@
    <veljaod>
     2024-02-21
    </veljaod>
+   <veljado>
+    2026-08-22
+   </veljado>
   </vzd>
  </ivzizvajalec>
  <ivzizvajalec>
@@ -155048,6 +155066,9 @@
   <veljaod>
    2024-03-16
   </veljaod>
+  <veljado>
+   2026-08-22
+  </veljado>
   <vzd>
    <sifravzd>
     218
@@ -155058,6 +155079,9 @@
    <veljaod>
     2024-03-16
    </veljaod>
+   <veljado>
+    2026-08-22
+   </veljado>
   </vzd>
  </ivzizvajalec>
  <ivzizvajalec>
@@ -177495,6 +177519,9 @@
   <veljaod>
    2025-02-05
   </veljaod>
+  <veljado>
+   2026-05-16
+  </veljado>
   <vzd>
    <sifravzd>
     544
@@ -177505,6 +177532,9 @@
    <veljaod>
     2025-02-05
    </veljaod>
+   <veljado>
+    2026-05-16
+   </veljado>
   </vzd>
  </ivzizvajalec>
  <ivzizvajalec>
@@ -304634,77 +304664,6 @@
  </ivzizvajalec>
  <ivzizvajalec>
   <sifraivzizvajalca>
-   17070
-  </sifraivzizvajalca>
-  <sifralokacije>
-   0
-  </sifralokacije>
-  <zzzsstevilka>
-   4110666
-  </zzzsstevilka>
-  <organizacijskastruktura>
-   <sifraivzosnovni>
-    17070
-   </sifraivzosnovni>
-  </organizacijskastruktura>
-  <nazivinnaslov>
-   <nazivorganizacijskeenote>
-    MOJCA KOŠAR - ZASEBNI ZOBOZDRAVNIK
-   </nazivorganizacijskeenote>
-   <ulicaorganizacijskeenote>
-    KOCLJEVA ULICA 9
-   </ulicaorganizacijskeenote>
-   <postaorganizacijskeenote>
-    9000 MURSKA SOBOTA
-   </postaorganizacijskeenote>
-  </nazivinnaslov>
-  <pravnistatus>
-   <pravnistatussifra>
-    3
-   </pravnistatussifra>
-   <pravnistatusopis>
-    ZASEBNI ZDRAVSTVENI DELAVEC
-   </pravnistatusopis>
-  </pravnistatus>
-  <tipizvajalca>
-   <tipizvajalcasifra>
-    1
-   </tipizvajalcasifra>
-   <tipizvajalcaopis>
-    OSNOVNO ZDRAVSTVO
-   </tipizvajalcaopis>
-  </tipizvajalca>
-  <obcina>
-   <obcinasifra>
-    80
-   </obcinasifra>
-   <obcinanaziv>
-    MURSKA SOBOTA
-   </obcinanaziv>
-  </obcina>
-  <veljaod>
-   2005-10-01
-  </veljaod>
-  <veljado>
-   2023-10-16
-  </veljado>
-  <vzd>
-   <sifravzd>
-    404
-   </sifravzd>
-   <opisvzd>
-    Splošno zobozdravstvo
-   </opisvzd>
-   <veljaod>
-    2005-10-01
-   </veljaod>
-   <veljado>
-    2023-10-16
-   </veljado>
-  </vzd>
- </ivzizvajalec>
- <ivzizvajalec>
-  <sifraivzizvajalca>
    17074
   </sifraivzizvajalca>
   <sifralokacije>
@@ -307744,77 +307703,6 @@
    </veljaod>
    <veljado>
     2024-12-30
-   </veljado>
-  </vzd>
- </ivzizvajalec>
- <ivzizvajalec>
-  <sifraivzizvajalca>
-   17157
-  </sifraivzizvajalca>
-  <sifralokacije>
-   0
-  </sifralokacije>
-  <zzzsstevilka>
-   3110378
-  </zzzsstevilka>
-  <organizacijskastruktura>
-   <sifraivzosnovni>
-    17157
-   </sifraivzosnovni>
-  </organizacijskastruktura>
-  <nazivinnaslov>
-   <nazivorganizacijskeenote>
-    ZOBNA AMBULANTA - GRABAR - KRAJNC MILENA
-   </nazivorganizacijskeenote>
-   <ulicaorganizacijskeenote>
-    CANKARJEVA ULICA 113
-   </ulicaorganizacijskeenote>
-   <postaorganizacijskeenote>
-    9000 MURSKA SOBOTA
-   </postaorganizacijskeenote>
-  </nazivinnaslov>
-  <pravnistatus>
-   <pravnistatussifra>
-    3
-   </pravnistatussifra>
-   <pravnistatusopis>
-    ZASEBNI ZDRAVSTVENI DELAVEC
-   </pravnistatusopis>
-  </pravnistatus>
-  <tipizvajalca>
-   <tipizvajalcasifra>
-    1
-   </tipizvajalcasifra>
-   <tipizvajalcaopis>
-    OSNOVNO ZDRAVSTVO
-   </tipizvajalcaopis>
-  </tipizvajalca>
-  <obcina>
-   <obcinasifra>
-    80
-   </obcinasifra>
-   <obcinanaziv>
-    MURSKA SOBOTA
-   </obcinanaziv>
-  </obcina>
-  <veljaod>
-   1997-11-01
-  </veljaod>
-  <veljado>
-   2023-10-16
-  </veljado>
-  <vzd>
-   <sifravzd>
-    404
-   </sifravzd>
-   <opisvzd>
-    Splošno zobozdravstvo
-   </opisvzd>
-   <veljaod>
-    1997-11-01
-   </veljaod>
-   <veljado>
-    2023-10-16
    </veljado>
   </vzd>
  </ivzizvajalec>
