@@ -2,10 +2,10 @@
 <bpi xmlns="http://zzzs.si/b2b/bpi" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemalocation="http://zzzs.si/b2b/bpi bpi.xsd">
  <posiljka>
   <verzijaposiljke>
-   5032
+   5033
   </verzijaposiljke>
   <datumposiljke>
-   2026-10-17
+   2026-10-18
   </datumposiljke>
   <verzijasheme>
    1.0
@@ -421127,77 +421127,6 @@
    <veljaod>
     2013-01-01
    </veljaod>
-  </vzd>
- </ivzizvajalec>
- <ivzizvajalec>
-  <sifraivzizvajalca>
-   31296
-  </sifraivzizvajalca>
-  <sifralokacije>
-   1
-  </sifralokacije>
-  <zzzsstevilka>
-   6035790
-  </zzzsstevilka>
-  <organizacijskastruktura>
-   <sifraivzosnovni>
-    31296
-   </sifraivzosnovni>
-  </organizacijskastruktura>
-  <nazivinnaslov>
-   <nazivorganizacijskeenote>
-    ZOBOZDRAVSTVO BENEDEK, D.O.O. LOKACIJA ZD LAŠKO
-   </nazivorganizacijskeenote>
-   <ulicaorganizacijskeenote>
-    KIDRIČEVA ULICA 5 B
-   </ulicaorganizacijskeenote>
-   <postaorganizacijskeenote>
-    3270 LAŠKO
-   </postaorganizacijskeenote>
-  </nazivinnaslov>
-  <pravnistatus>
-   <pravnistatussifra>
-    2
-   </pravnistatussifra>
-   <pravnistatusopis>
-    GOSPODARSKA DRUŽBA / ZASEBNI ZAVOD
-   </pravnistatusopis>
-  </pravnistatus>
-  <tipizvajalca>
-   <tipizvajalcasifra>
-    1
-   </tipizvajalcasifra>
-   <tipizvajalcaopis>
-    OSNOVNO ZDRAVSTVO
-   </tipizvajalcaopis>
-  </tipizvajalca>
-  <obcina>
-   <obcinasifra>
-    57
-   </obcinasifra>
-   <obcinanaziv>
-    LAŠKO
-   </obcinanaziv>
-  </obcina>
-  <veljaod>
-   2013-04-01
-  </veljaod>
-  <veljado>
-   2023-10-17
-  </veljado>
-  <vzd>
-   <sifravzd>
-    404
-   </sifravzd>
-   <opisvzd>
-    Splošno zobozdravstvo
-   </opisvzd>
-   <veljaod>
-    2013-04-01
-   </veljaod>
-   <veljado>
-    2023-10-17
-   </veljado>
   </vzd>
  </ivzizvajalec>
  <ivzizvajalec>
