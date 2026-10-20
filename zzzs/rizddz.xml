@@ -2,10 +2,10 @@
 <bpi xmlns="http://zzzs.si/b2b/bpi" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemalocation="http://zzzs.si/b2b/bpi bpi.xsd">
  <posiljka>
   <verzijaposiljke>
-   5034
+   5035
   </verzijaposiljke>
   <datumposiljke>
-   2026-10-19
+   2026-10-20
   </datumposiljke>
   <verzijasheme>
    1.0
@@ -183653,6 +183653,9 @@
   <veljaod>
    2019-12-18
   </veljaod>
+  <veljado>
+   2026-03-02
+  </veljado>
   <vzd>
    <sifravzd>
     706
@@ -183663,6 +183666,9 @@
    <veljaod>
     2019-12-18
    </veljaod>
+   <veljado>
+    2026-03-02
+   </veljado>
   </vzd>
  </ivzizvajalec>
  <ivzizvajalec>
@@ -183721,6 +183727,9 @@
   <veljaod>
    2019-12-18
   </veljaod>
+  <veljado>
+   2026-03-02
+  </veljado>
   <vzd>
    <sifravzd>
     507
@@ -183731,6 +183740,9 @@
    <veljaod>
     2019-12-18
    </veljaod>
+   <veljado>
+    2026-03-02
+   </veljado>
   </vzd>
  </ivzizvajalec>
  <ivzizvajalec>
@@ -231446,6 +231458,71 @@
    </opisvzd>
    <veljaod>
     2026-05-12
+   </veljaod>
+  </vzd>
+ </ivzizvajalec>
+ <ivzizvajalec>
+  <sifraivzizvajalca>
+   2669
+  </sifraivzizvajalca>
+  <sifralokacije>
+   0
+  </sifralokacije>
+  <zzzsstevilka>
+   10024927
+  </zzzsstevilka>
+  <organizacijskastruktura>
+   <sifraivzosnovni>
+    2669
+   </sifraivzosnovni>
+  </organizacijskastruktura>
+  <nazivinnaslov>
+   <nazivorganizacijskeenote>
+    LK DENTAL LAB D.O.O.
+   </nazivorganizacijskeenote>
+   <ulicaorganizacijskeenote>
+    LITIJSKA CESTA 43
+   </ulicaorganizacijskeenote>
+   <postaorganizacijskeenote>
+    1000 LJUBLJANA
+   </postaorganizacijskeenote>
+  </nazivinnaslov>
+  <pravnistatus>
+   <pravnistatussifra>
+    2
+   </pravnistatussifra>
+   <pravnistatusopis>
+    GOSPODARSKA DRUŽBA / ZASEBNI ZAVOD
+   </pravnistatusopis>
+  </pravnistatus>
+  <tipizvajalca>
+   <tipizvajalcasifra>
+    1
+   </tipizvajalcasifra>
+   <tipizvajalcaopis>
+    OSNOVNO ZDRAVSTVO
+   </tipizvajalcaopis>
+  </tipizvajalca>
+  <obcina>
+   <obcinasifra>
+    61
+   </obcinasifra>
+   <obcinanaziv>
+    LJUBLJANA
+   </obcinanaziv>
+  </obcina>
+  <veljaod>
+   2026-10-12
+  </veljaod>
+  <vzd>
+   <sifravzd>
+    714
+   </sifravzd>
+   <opisvzd>
+    Zobotehnika
+   </opisvzd>
+   <veljaod>
+    2026-10-12
    </veljaod>
   </vzd>
  </ivzizvajalec>
@@ -365887,6 +365964,9 @@
   <veljaod>
    1996-10-01
   </veljaod>
+  <veljado>
+   2026-01-31
+  </veljado>
   <vzd>
    <sifravzd>
     302
@@ -365897,6 +365977,9 @@
    <veljaod>
     1996-10-01
    </veljaod>
+   <veljado>
+    2026-01-31
+   </veljado>
   </vzd>
  </ivzizvajalec>
  <ivzizvajalec>
@@ -434368,6 +434451,9 @@
   <veljaod>
    2014-01-01
   </veljaod>
+  <veljado>
+   2024-04-24
+  </veljado>
   <vzd>
    <sifravzd>
     214
@@ -434378,6 +434464,9 @@
    <veljaod>
     2014-01-01
    </veljaod>
+   <veljado>
+    2024-04-24
+   </veljado>
   </vzd>
  </ivzizvajalec>
  <ivzizvajalec>
