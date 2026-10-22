@@ -2,10 +2,10 @@
 <bpi xmlns="http://zzzs.si/b2b/bpi" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemalocation="http://zzzs.si/b2b/bpi bpi.xsd">
  <posiljka>
   <verzijaposiljke>
-   5036
+   5037
   </verzijaposiljke>
   <datumposiljke>
-   2026-10-21
+   2026-10-22
   </datumposiljke>
   <verzijasheme>
    1.0
@@ -63586,6 +63586,139 @@
  </ivzizvajalec>
  <ivzizvajalec>
   <sifraivzizvajalca>
+   554
+  </sifraivzizvajalca>
+  <sifralokacije>
+   0
+  </sifralokacije>
+  <zzzsstevilka>
+   7920560
+  </zzzsstevilka>
+  <organizacijskastruktura>
+   <sifraivzosnovni>
+    554
+   </sifraivzosnovni>
+  </organizacijskastruktura>
+  <nazivinnaslov>
+   <nazivorganizacijskeenote>
+    SAŠA PANIČ S.P.
+   </nazivorganizacijskeenote>
+   <ulicaorganizacijskeenote>
+    BREZOVA ULICA 17 B
+   </ulicaorganizacijskeenote>
+   <postaorganizacijskeenote>
+    1230 DOMŽALE
+   </postaorganizacijskeenote>
+  </nazivinnaslov>
+  <pravnistatus>
+   <pravnistatussifra>
+    5
+   </pravnistatussifra>
+   <pravnistatusopis>
+    SAMOSTOJNI PODJETNIK
+   </pravnistatusopis>
+  </pravnistatus>
+  <tipizvajalca>
+   <tipizvajalcasifra>
+    1
+   </tipizvajalcasifra>
+   <tipizvajalcaopis>
+    OSNOVNO ZDRAVSTVO
+   </tipizvajalcaopis>
+  </tipizvajalca>
+  <obcina>
+   <obcinasifra>
+    23
+   </obcinasifra>
+   <obcinanaziv>
+    DOMŽALE
+   </obcinanaziv>
+  </obcina>
+  <veljaod>
+   2020-09-09
+  </veljaod>
+  <vzd>
+   <sifravzd>
+    706
+   </sifravzd>
+   <opisvzd>
+    Urejanje zdr.,iz.,kult., drugih soc.st.
+   </opisvzd>
+   <veljaod>
+    2020-09-09
+   </veljaod>
+  </vzd>
+ </ivzizvajalec>
+ <ivzizvajalec>
+  <sifraivzizvajalca>
+   554
+  </sifraivzizvajalca>
+  <sifralokacije>
+   1
+  </sifralokacije>
+  <zzzsstevilka>
+   10062628
+  </zzzsstevilka>
+  <organizacijskastruktura>
+   <sifraivzosnovni>
+    554
+   </sifraivzosnovni>
+  </organizacijskastruktura>
+  <nazivinnaslov>
+   <nazivorganizacijskeenote>
+    SAŠA PANIČ S.P.
+   </nazivorganizacijskeenote>
+   <dodatninazivorganizacijskeenote>
+    PODRUŽNICA LJUBLJANA
+   </dodatninazivorganizacijskeenote>
+   <ulicaorganizacijskeenote>
+    DUNAJSKA CESTA 154
+   </ulicaorganizacijskeenote>
+   <postaorganizacijskeenote>
+    1000 LJUBLJANA
+   </postaorganizacijskeenote>
+  </nazivinnaslov>
+  <pravnistatus>
+   <pravnistatussifra>
+    5
+   </pravnistatussifra>
+   <pravnistatusopis>
+    SAMOSTOJNI PODJETNIK
+   </pravnistatusopis>
+  </pravnistatus>
+  <tipizvajalca>
+   <tipizvajalcasifra>
+    1
+   </tipizvajalcasifra>
+   <tipizvajalcaopis>
+    OSNOVNO ZDRAVSTVO
+   </tipizvajalcaopis>
+  </tipizvajalca>
+  <obcina>
+   <obcinasifra>
+    61
+   </obcinasifra>
+   <obcinanaziv>
+    LJUBLJANA
+   </obcinanaziv>
+  </obcina>
+  <veljaod>
+   1900-01-01
+  </veljaod>
+  <vzd>
+   <sifravzd>
+    507
+   </sifravzd>
+   <opisvzd>
+    Fizioterapija
+   </opisvzd>
+   <veljaod>
+    2020-09-09
+   </veljaod>
+  </vzd>
+ </ivzizvajalec>
+ <ivzizvajalec>
+  <sifraivzizvajalca>
    555
   </sifraivzizvajalca>
   <sifralokacije>
@@ -66880,6 +67013,9 @@
   <veljaod>
    2019-02-21
   </veljaod>
+  <veljado>
+   2025-02-17
+  </veljado>
   <vzd>
    <sifravzd>
     706
@@ -66890,6 +67026,9 @@
    <veljaod>
     2019-02-21
    </veljaod>
+   <veljado>
+    2025-02-17
+   </veljado>
   </vzd>
  </ivzizvajalec>
  <ivzizvajalec>
@@ -66948,6 +67087,9 @@
   <veljaod>
    2019-02-21
   </veljaod>
+  <veljado>
+   2025-02-17
+  </veljado>
   <vzd>
    <sifravzd>
     404
@@ -66958,6 +67100,9 @@
    <veljaod>
     2019-02-21
    </veljaod>
+   <veljado>
+    2025-02-17
+   </veljado>
   </vzd>
  </ivzizvajalec>
  <ivzizvajalec>
@@ -71854,6 +71999,9 @@
   <veljaod>
    1900-01-01
   </veljaod>
+  <veljado>
+   2026-04-03
+  </veljado>
   <vzd>
    <sifravzd>
     507
@@ -71864,6 +72012,9 @@
    <veljaod>
     2019-10-22
    </veljaod>
+   <veljado>
+    2026-04-03
+   </veljado>
   </vzd>
  </ivzizvajalec>
  <ivzizvajalec>
@@ -134608,6 +134759,71 @@
    </opisvzd>
    <veljaod>
     2023-08-23
+   </veljaod>
+  </vzd>
+ </ivzizvajalec>
+ <ivzizvajalec>
+  <sifraivzizvajalca>
+   1431
+  </sifraivzizvajalca>
+  <sifralokacije>
+   0
+  </sifralokacije>
+  <zzzsstevilka>
+   8434162
+  </zzzsstevilka>
+  <organizacijskastruktura>
+   <sifraivzosnovni>
+    1431
+   </sifraivzosnovni>
+  </organizacijskastruktura>
+  <nazivinnaslov>
+   <nazivorganizacijskeenote>
+    MAJA GRMOVŠEK S.P.
+   </nazivorganizacijskeenote>
+   <ulicaorganizacijskeenote>
+    GUSTINČIČEVA ULICA 3 A
+   </ulicaorganizacijskeenote>
+   <postaorganizacijskeenote>
+    1211 LJUBLJANA - ŠMARTNO
+   </postaorganizacijskeenote>
+  </nazivinnaslov>
+  <pravnistatus>
+   <pravnistatussifra>
+    5
+   </pravnistatussifra>
+   <pravnistatusopis>
+    SAMOSTOJNI PODJETNIK
+   </pravnistatusopis>
+  </pravnistatus>
+  <tipizvajalca>
+   <tipizvajalcasifra>
+    1
+   </tipizvajalcasifra>
+   <tipizvajalcaopis>
+    OSNOVNO ZDRAVSTVO
+   </tipizvajalcaopis>
+  </tipizvajalca>
+  <obcina>
+   <obcinasifra>
+    61
+   </obcinasifra>
+   <obcinanaziv>
+    LJUBLJANA
+   </obcinanaziv>
+  </obcina>
+  <veljaod>
+   2023-05-17
+  </veljaod>
+  <vzd>
+   <sifravzd>
+    706
+   </sifravzd>
+   <opisvzd>
+    Urejanje zdr.,iz.,kult., drugih soc.st.
+   </opisvzd>
+   <veljaod>
+    2023-05-17
    </veljaod>
   </vzd>
  </ivzizvajalec>
@@ -199548,6 +199764,139 @@
  </ivzizvajalec>
  <ivzizvajalec>
   <sifraivzizvajalca>
+   2273
+  </sifraivzizvajalca>
+  <sifralokacije>
+   0
+  </sifralokacije>
+  <zzzsstevilka>
+   9571167
+  </zzzsstevilka>
+  <organizacijskastruktura>
+   <sifraivzosnovni>
+    2273
+   </sifraivzosnovni>
+  </organizacijskastruktura>
+  <nazivinnaslov>
+   <nazivorganizacijskeenote>
+    TJAŠA OVČAR S.P.
+   </nazivorganizacijskeenote>
+   <ulicaorganizacijskeenote>
+    LOKROVEC 55 A
+   </ulicaorganizacijskeenote>
+   <postaorganizacijskeenote>
+    3000 CELJE
+   </postaorganizacijskeenote>
+  </nazivinnaslov>
+  <pravnistatus>
+   <pravnistatussifra>
+    5
+   </pravnistatussifra>
+   <pravnistatusopis>
+    SAMOSTOJNI PODJETNIK
+   </pravnistatusopis>
+  </pravnistatus>
+  <tipizvajalca>
+   <tipizvajalcasifra>
+    1
+   </tipizvajalcasifra>
+   <tipizvajalcaopis>
+    OSNOVNO ZDRAVSTVO
+   </tipizvajalcaopis>
+  </tipizvajalca>
+  <obcina>
+   <obcinasifra>
+    11
+   </obcinasifra>
+   <obcinanaziv>
+    CELJE
+   </obcinanaziv>
+  </obcina>
+  <veljaod>
+   2025-06-04
+  </veljaod>
+  <vzd>
+   <sifravzd>
+    706
+   </sifravzd>
+   <opisvzd>
+    Urejanje zdr.,iz.,kult., drugih soc.st.
+   </opisvzd>
+   <veljaod>
+    2025-06-04
+   </veljaod>
+  </vzd>
+ </ivzizvajalec>
+ <ivzizvajalec>
+  <sifraivzizvajalca>
+   2273
+  </sifraivzizvajalca>
+  <sifralokacije>
+   1
+  </sifralokacije>
+  <zzzsstevilka>
+   10065564
+  </zzzsstevilka>
+  <organizacijskastruktura>
+   <sifraivzosnovni>
+    2273
+   </sifraivzosnovni>
+  </organizacijskastruktura>
+  <nazivinnaslov>
+   <nazivorganizacijskeenote>
+    TJAŠA OVČAR S.P.
+   </nazivorganizacijskeenote>
+   <dodatninazivorganizacijskeenote>
+    POSLOVNA ENOTA LAVA 7, TJAŠA OVČAR S.P.
+   </dodatninazivorganizacijskeenote>
+   <ulicaorganizacijskeenote>
+    LAVA 7
+   </ulicaorganizacijskeenote>
+   <postaorganizacijskeenote>
+    3000 CELJE
+   </postaorganizacijskeenote>
+  </nazivinnaslov>
+  <pravnistatus>
+   <pravnistatussifra>
+    5
+   </pravnistatussifra>
+   <pravnistatusopis>
+    SAMOSTOJNI PODJETNIK
+   </pravnistatusopis>
+  </pravnistatus>
+  <tipizvajalca>
+   <tipizvajalcasifra>
+    1
+   </tipizvajalcasifra>
+   <tipizvajalcaopis>
+    OSNOVNO ZDRAVSTVO
+   </tipizvajalcaopis>
+  </tipizvajalca>
+  <obcina>
+   <obcinasifra>
+    11
+   </obcinasifra>
+   <obcinanaziv>
+    CELJE
+   </obcinanaziv>
+  </obcina>
+  <veljaod>
+   2025-06-04
+  </veljaod>
+  <vzd>
+   <sifravzd>
+    404
+   </sifravzd>
+   <opisvzd>
+    Splošno zobozdravstvo
+   </opisvzd>
+   <veljaod>
+    2025-06-04
+   </veljaod>
+  </vzd>
+ </ivzizvajalec>
+ <ivzizvajalec>
+  <sifraivzizvajalca>
    2275
   </sifraivzizvajalca>
   <sifralokacije>
@@ -203460,7 +203809,7 @@
     ALEŠ PORČNIK S.P.
    </nazivorganizacijskeenote>
    <ulicaorganizacijskeenote>
-    MAJARONOVA ULICA 16
+    BAVDKOVA ULICA 20
    </ulicaorganizacijskeenote>
    <postaorganizacijskeenote>
     1000 LJUBLJANA
@@ -231783,6 +232132,71 @@
    </sifravzd>
    <opisvzd>
     Fizioterapija
+   </opisvzd>
+   <veljaod>
+    2026-10-01
+   </veljaod>
+  </vzd>
+ </ivzizvajalec>
+ <ivzizvajalec>
+  <sifraivzizvajalca>
+   2672
+  </sifraivzizvajalca>
+  <sifralokacije>
+   0
+  </sifralokacije>
+  <zzzsstevilka>
+   9616299
+  </zzzsstevilka>
+  <organizacijskastruktura>
+   <sifraivzosnovni>
+    2672
+   </sifraivzosnovni>
+  </organizacijskastruktura>
+  <nazivinnaslov>
+   <nazivorganizacijskeenote>
+    DERMATOLOGIJA IZA JONKO D.O.O.
+   </nazivorganizacijskeenote>
+   <ulicaorganizacijskeenote>
+    METLEČE 34 I
+   </ulicaorganizacijskeenote>
+   <postaorganizacijskeenote>
+    3325 ŠOŠTANJ
+   </postaorganizacijskeenote>
+  </nazivinnaslov>
+  <pravnistatus>
+   <pravnistatussifra>
+    2
+   </pravnistatussifra>
+   <pravnistatusopis>
+    GOSPODARSKA DRUŽBA / ZASEBNI ZAVOD
+   </pravnistatusopis>
+  </pravnistatus>
+  <tipizvajalca>
+   <tipizvajalcasifra>
+    2
+   </tipizvajalcasifra>
+   <tipizvajalcaopis>
+    SPECIALISTIČNA AMBULANTA
+   </tipizvajalcaopis>
+  </tipizvajalca>
+  <obcina>
+   <obcinasifra>
+    126
+   </obcinasifra>
+   <obcinanaziv>
+    ŠOŠTANJ
+   </obcinanaziv>
+  </obcina>
+  <veljaod>
+   2026-10-01
+  </veljaod>
+  <vzd>
+   <sifravzd>
+    706
+   </sifravzd>
+   <opisvzd>
+    Urejanje zdr.,iz.,kult., drugih soc.st.
    </opisvzd>
    <veljaod>
     2026-10-01
@@ -281578,6 +281992,17 @@
     1984-04-11
    </veljaod>
   </vzd>
+  <vzd>
+   <sifravzd>
+    224
+   </sifravzd>
+   <opisvzd>
+    Otr. in mlad. psih. v spec. ZunajBolDej
+   </opisvzd>
+   <veljaod>
+    2026-11-01
+   </veljaod>
+  </vzd>
  </ivzizvajalec>
  <ivzizvajalec>
   <sifraivzizvajalca>
@@ -311313,8 +311738,19 @@
    </obcinanaziv>
   </obcina>
   <veljaod>
-   2014-12-16
+   2015-04-20
   </veljaod>
+  <vzd>
+   <sifravzd>
+    228
+   </sifravzd>
+   <opisvzd>
+    Plast., rek., est.krg v spec.ZunajBolDej
+   </opisvzd>
+   <veljaod>
+    2015-04-20
+   </veljaod>
+  </vzd>
  </ivzizvajalec>
  <ivzizvajalec>
   <sifraivzizvajalca>
@@ -362153,6 +362589,9 @@
   <veljaod>
    1994-09-01
   </veljaod>
+  <veljado>
+   2026-10-01
+  </veljado>
   <vzd>
    <sifravzd>
     302
@@ -362163,6 +362602,9 @@
    <veljaod>
     1994-09-01
    </veljaod>
+   <veljado>
+    2026-10-01
+   </veljado>
   </vzd>
   <vzd>
    <sifravzd>
@@ -362174,6 +362616,9 @@
    <veljaod>
     2012-01-01
    </veljaod>
+   <veljado>
+    2026-10-01
+   </veljado>
   </vzd>
  </ivzizvajalec>
  <ivzizvajalec>
@@ -399285,6 +399730,9 @@
   <veljaod>
    1997-11-01
   </veljaod>
+  <veljado>
+   2026-03-08
+  </veljado>
   <vzd>
    <sifravzd>
     404
@@ -399295,6 +399743,9 @@
    <veljaod>
     1997-11-01
    </veljaod>
+   <veljado>
+    2026-03-08
+   </veljado>
   </vzd>
  </ivzizvajalec>
  <ivzizvajalec>
@@ -400996,6 +401447,9 @@
   <veljaod>
    2004-10-01
   </veljaod>
+  <veljado>
+   2026-01-18
+  </veljado>
   <vzd>
    <sifravzd>
     404
@@ -401006,6 +401460,9 @@
    <veljaod>
     2004-10-01
    </veljaod>
+   <veljado>
+    2026-01-18
+   </veljado>
   </vzd>
  </ivzizvajalec>
  <ivzizvajalec>
