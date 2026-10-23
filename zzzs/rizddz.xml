@@ -2,10 +2,10 @@
 <bpi xmlns="http://zzzs.si/b2b/bpi" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemalocation="http://zzzs.si/b2b/bpi bpi.xsd">
  <posiljka>
   <verzijaposiljke>
-   5037
+   5038
   </verzijaposiljke>
   <datumposiljke>
-   2026-10-22
+   2026-10-23
   </datumposiljke>
   <verzijasheme>
    1.0
@@ -203856,6 +203856,74 @@
  </ivzizvajalec>
  <ivzizvajalec>
   <sifraivzizvajalca>
+   2325
+  </sifraivzizvajalca>
+  <sifralokacije>
+   1
+  </sifralokacije>
+  <zzzsstevilka>
+   10091086
+  </zzzsstevilka>
+  <organizacijskastruktura>
+   <sifraivzosnovni>
+    2325
+   </sifraivzosnovni>
+  </organizacijskastruktura>
+  <nazivinnaslov>
+   <nazivorganizacijskeenote>
+    ALEŠ PORČNIK S.P.
+   </nazivorganizacijskeenote>
+   <dodatninazivorganizacijskeenote>
+    PODRUŽNICA ASANTIS
+   </dodatninazivorganizacijskeenote>
+   <ulicaorganizacijskeenote>
+    POLJANSKI NASIP 44
+   </ulicaorganizacijskeenote>
+   <postaorganizacijskeenote>
+    1000 LJUBLJANA
+   </postaorganizacijskeenote>
+  </nazivinnaslov>
+  <pravnistatus>
+   <pravnistatussifra>
+    5
+   </pravnistatussifra>
+   <pravnistatusopis>
+    SAMOSTOJNI PODJETNIK
+   </pravnistatusopis>
+  </pravnistatus>
+  <tipizvajalca>
+   <tipizvajalcasifra>
+    2
+   </tipizvajalcasifra>
+   <tipizvajalcaopis>
+    SPECIALISTIČNA AMBULANTA
+   </tipizvajalcaopis>
+  </tipizvajalca>
+  <obcina>
+   <obcinasifra>
+    61
+   </obcinasifra>
+   <obcinanaziv>
+    LJUBLJANA
+   </obcinanaziv>
+  </obcina>
+  <veljaod>
+   2025-05-10
+  </veljaod>
+  <vzd>
+   <sifravzd>
+    228
+   </sifravzd>
+   <opisvzd>
+    Plast., rek., est.krg v spec.ZunajBolDej
+   </opisvzd>
+   <veljaod>
+    2025-05-10
+   </veljaod>
+  </vzd>
+ </ivzizvajalec>
+ <ivzizvajalec>
+  <sifraivzizvajalca>
    2326
   </sifraivzizvajalca>
   <sifralokacije>
@@ -232200,6 +232268,139 @@
    </opisvzd>
    <veljaod>
     2026-10-01
+   </veljaod>
+  </vzd>
+ </ivzizvajalec>
+ <ivzizvajalec>
+  <sifraivzizvajalca>
+   2672
+  </sifraivzizvajalca>
+  <sifralokacije>
+   1
+  </sifralokacije>
+  <zzzsstevilka>
+   10062983
+  </zzzsstevilka>
+  <organizacijskastruktura>
+   <sifraivzosnovni>
+    2672
+   </sifraivzosnovni>
+  </organizacijskastruktura>
+  <nazivinnaslov>
+   <nazivorganizacijskeenote>
+    DERMATOLOGIJA IZA JONKO D.O.O.
+   </nazivorganizacijskeenote>
+   <dodatninazivorganizacijskeenote>
+    PE AMBULANTA
+   </dodatninazivorganizacijskeenote>
+   <ulicaorganizacijskeenote>
+    PREŠERNOVA CESTA 9 A
+   </ulicaorganizacijskeenote>
+   <postaorganizacijskeenote>
+    3320 VELENJE
+   </postaorganizacijskeenote>
+  </nazivinnaslov>
+  <pravnistatus>
+   <pravnistatussifra>
+    2
+   </pravnistatussifra>
+   <pravnistatusopis>
+    GOSPODARSKA DRUŽBA / ZASEBNI ZAVOD
+   </pravnistatusopis>
+  </pravnistatus>
+  <tipizvajalca>
+   <tipizvajalcasifra>
+    2
+   </tipizvajalcasifra>
+   <tipizvajalcaopis>
+    SPECIALISTIČNA AMBULANTA
+   </tipizvajalcaopis>
+  </tipizvajalca>
+  <obcina>
+   <obcinasifra>
+    133
+   </obcinasifra>
+   <obcinanaziv>
+    VELENJE
+   </obcinanaziv>
+  </obcina>
+  <veljaod>
+   2026-10-01
+  </veljaod>
+  <vzd>
+   <sifravzd>
+    203
+   </sifravzd>
+   <opisvzd>
+    Dermatovenerologija v spec. ZunajBolDej
+   </opisvzd>
+   <veljaod>
+    2026-10-01
+   </veljaod>
+  </vzd>
+ </ivzizvajalec>
+ <ivzizvajalec>
+  <sifraivzizvajalca>
+   2673
+  </sifraivzizvajalca>
+  <sifralokacije>
+   0
+  </sifralokacije>
+  <zzzsstevilka>
+   10019061
+  </zzzsstevilka>
+  <organizacijskastruktura>
+   <sifraivzosnovni>
+    2673
+   </sifraivzosnovni>
+  </organizacijskastruktura>
+  <nazivinnaslov>
+   <nazivorganizacijskeenote>
+    MOVEOAI MOJCA TRDAN S.P.
+   </nazivorganizacijskeenote>
+   <ulicaorganizacijskeenote>
+    PODRAGA 90
+   </ulicaorganizacijskeenote>
+   <postaorganizacijskeenote>
+    5272 PODNANOS
+   </postaorganizacijskeenote>
+  </nazivinnaslov>
+  <pravnistatus>
+   <pravnistatussifra>
+    5
+   </pravnistatussifra>
+   <pravnistatusopis>
+    SAMOSTOJNI PODJETNIK
+   </pravnistatusopis>
+  </pravnistatus>
+  <tipizvajalca>
+   <tipizvajalcasifra>
+    1
+   </tipizvajalcasifra>
+   <tipizvajalcaopis>
+    OSNOVNO ZDRAVSTVO
+   </tipizvajalcaopis>
+  </tipizvajalca>
+  <obcina>
+   <obcinasifra>
+    136
+   </obcinasifra>
+   <obcinanaziv>
+    VIPAVA
+   </obcinanaziv>
+  </obcina>
+  <veljaod>
+   2026-10-14
+  </veljaod>
+  <vzd>
+   <sifravzd>
+    506
+   </sifravzd>
+   <opisvzd>
+    Delovna terapija
+   </opisvzd>
+   <veljaod>
+    2026-10-14
    </veljaod>
   </vzd>
  </ivzizvajalec>
@@ -444316,7 +444517,7 @@
     TINA MODREJ ZADNIKAR, DR. MED.
    </nazivorganizacijskeenote>
    <ulicaorganizacijskeenote>
-    PRIJATELJEVA ULICA 2
+    KARLOVŠKA CESTA 10
    </ulicaorganizacijskeenote>
    <postaorganizacijskeenote>
     1000 LJUBLJANA

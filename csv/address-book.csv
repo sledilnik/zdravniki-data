@@ -217,8 +217,8 @@ rizddzInstitutionContractorId,rizddzInstitutionId,rizddzLocationId,rizddzDoctorI
 133,133,4,13082,404103,den-y,,dr. dent. med.,MOST NA SOČI 52,MOST NA SOČI,5216 MOST NA SOČI,05 620 33 44
 133,133,5,4824,302002,,,"dr. med., spec. družinska medicine",GREGORČIČEVA ULICA 32,TOLMIN,5220 TOLMIN,05 380 18 05
 133,133,8,8412,404103,den-y,,dr. dent. med.,DIJAŠKA ULICA 12B,TOLMIN,5220 TOLMIN,05 620 33 10
-134,134,0,10410,302001,gp,,"dr. med., spec.",ULICA VLADIMIRJA DOLNIČARJA 11,DOBROVA,1356 DOBROVA,
 134,134,0,10410,302001,gp,,"dr. med., spec. družinska medicine",ULICA VLADIMIRJA DOLNIČARJA 11,DOBROVA,1356 DOBROVA,040314410
+134,134,0,10410,302001,gp,,"dr. med., spec.",ULICA VLADIMIRJA DOLNIČARJA 11,DOBROVA,1356 DOBROVA,
 137,137,0,8378,306007,gyn,,"dr. med., spec. ginekologije in porodništva",ZASAVSKA CESTA 58 D,KRANJ,4000 KRANJ,05 905 16 00
 163,163,2,8312,306007,gyn,,"dr. med., spec. ginekologije in porodništva",DUNAJSKA CESTA 190,LJUBLJANA,1000 LJUBLJANA,014394910
 165,165,0,7904,327009,ped,,"dr. med., spec. pediatrije",VILHARJEV PODHOD 7,LJUBLJANA,1000 LJUBLJANA,
@@ -902,11 +902,10 @@ rizddzInstitutionContractorId,rizddzInstitutionId,rizddzLocationId,rizddzDoctorI
 2906,2906,0,8828,306007,gyn,,"dr. med., spec. ginekologije in porodništva",DOBRNA 50,DOBRNA,3204 DOBRNA,037808144
 2910,2910,1,6679,302002,,,"dr. med., spec. splošne medicine",ZDRAVILIŠKA CESTA 17,LAŠKO,3270 LAŠKO,(03)73 45 600
 2968,2968,0,4128,306007,gyn,,"dr. med., spec. ginekologije in porodništva",ULICA OF 8,RADEČE,1433 RADEČE,
-2968,2968,0,8896,404101,den,,dr. dent. med.,ULICA OF 8,RADEČE,1433 RADEČE,(03) 56 80 213
 2968,2968,0,11305,404103,den-y,,dr. dent. med.,ULICA OF 8,RADEČE,1433 RADEČE,(03) 56 80 215
 2968,2968,0,14270,404101,den,,dr. dent. med.,ULICA OF 8,RADEČE,1433 RADEČE,(03) 29 27 230
 2968,2968,0,14674,327009,ped,,"dr. med., spec. pediatrije",ULICA OF 8,RADEČE,1433 RADEČE,03 56 80 209
-2968,2968,0,14827,404101,den,,dr. dent. med.,ULICA OF 8,RADEČE,1433 RADEČE,064259631
+2968,2968,0,14827,404101,den,,dr. dent. med.,ULICA OF 8,RADEČE,1433 RADEČE,
 2968,2968,0,16028,302001,gp,,"dr. med., spec. družinska medicine",ULICA OF 8,RADEČE,1433 RADEČE,035680205
 2968,2968,0,18061,404101,den,,dr. dent. med.,ULICA OF 8,RADEČE,1433 RADEČE,(03) 29 27 230
 2968,2968,0,18081,302001,gp,,"dr. med., spec. družinska medicine",ULICA OF 8,RADEČE,1433 RADEČE,03 56 80 207
