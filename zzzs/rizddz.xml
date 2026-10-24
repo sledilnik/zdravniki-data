@@ -2,10 +2,10 @@
 <bpi xmlns="http://zzzs.si/b2b/bpi" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemalocation="http://zzzs.si/b2b/bpi bpi.xsd">
  <posiljka>
   <verzijaposiljke>
-   5038
+   5039
   </verzijaposiljke>
   <datumposiljke>
-   2026-10-23
+   2026-10-24
   </datumposiljke>
   <verzijasheme>
    1.0
@@ -34005,105 +34005,6 @@
    <veljaod>
     2017-02-09
    </veljaod>
-  </vzd>
- </ivzizvajalec>
- <ivzizvajalec>
-  <sifraivzizvajalca>
-   302
-  </sifraivzizvajalca>
-  <sifralokacije>
-   0
-  </sifralokacije>
-  <zzzsstevilka>
-   5229804
-  </zzzsstevilka>
-  <organizacijskastruktura>
-   <sifraivzosnovni>
-    302
-   </sifraivzosnovni>
-  </organizacijskastruktura>
-  <nazivinnaslov>
-   <nazivorganizacijskeenote>
-    ALFAESTETICA D.O.O.
-   </nazivorganizacijskeenote>
-   <ulicaorganizacijskeenote>
-    STEGNE 23 A
-   </ulicaorganizacijskeenote>
-   <postaorganizacijskeenote>
-    1000 LJUBLJANA
-   </postaorganizacijskeenote>
-  </nazivinnaslov>
-  <pravnistatus>
-   <pravnistatussifra>
-    2
-   </pravnistatussifra>
-   <pravnistatusopis>
-    GOSPODARSKA DRUŽBA / ZASEBNI ZAVOD
-   </pravnistatusopis>
-  </pravnistatus>
-  <tipizvajalca>
-   <tipizvajalcasifra>
-    2
-   </tipizvajalcasifra>
-   <tipizvajalcaopis>
-    SPECIALISTIČNA AMBULANTA
-   </tipizvajalcaopis>
-  </tipizvajalca>
-  <obcina>
-   <obcinasifra>
-    61
-   </obcinasifra>
-   <obcinanaziv>
-    LJUBLJANA
-   </obcinanaziv>
-  </obcina>
-  <veljaod>
-   2020-02-01
-  </veljaod>
-  <veljado>
-   2023-10-23
-  </veljado>
-  <vzd>
-   <sifravzd>
-    206
-   </sifravzd>
-   <opisvzd>
-    Ginek. in porod. v spec. ZunajBolDej
-   </opisvzd>
-   <veljaod>
-    2020-02-01
-   </veljaod>
-   <veljado>
-    2023-10-23
-   </veljado>
-  </vzd>
-  <vzd>
-   <sifravzd>
-    228
-   </sifravzd>
-   <opisvzd>
-    Plast., rek., est.krg v spec.ZunajBolDej
-   </opisvzd>
-   <veljaod>
-    2020-02-01
-   </veljaod>
-   <veljado>
-    2023-10-23
-   </veljado>
-  </vzd>
-  <vzd>
-   <sifravzd>
-    231
-   </sifravzd>
-   <opisvzd>
-    Radiologija v spec. ZunajBolDej
-   </opisvzd>
-   <veljaod>
-    2020-04-18
-   </veljaod>
-   <veljado>
-    2023-10-23
-   </veljado>
   </vzd>
  </ivzizvajalec>
  <ivzizvajalec>
@@ -215055,6 +214956,9 @@
   <veljaod>
    2025-10-24
   </veljaod>
+  <veljado>
+   2026-04-04
+  </veljado>
   <vzd>
    <sifravzd>
     706
@@ -215065,6 +214969,9 @@
    <veljaod>
     2025-10-24
    </veljaod>
+   <veljado>
+    2026-04-04
+   </veljado>
   </vzd>
  </ivzizvajalec>
  <ivzizvajalec>
@@ -215123,6 +215030,9 @@
   <veljaod>
    2025-11-11
   </veljaod>
+  <veljado>
+   2026-04-04
+  </veljado>
   <vzd>
    <sifravzd>
     231
@@ -215133,6 +215043,9 @@
    <veljaod>
     2025-11-11
    </veljaod>
+   <veljado>
+    2026-04-04
+   </veljado>
   </vzd>
  </ivzizvajalec>
  <ivzizvajalec>
@@ -215191,6 +215104,9 @@
   <veljaod>
    2025-11-11
   </veljaod>
+  <veljado>
+   2026-04-04
+  </veljado>
   <vzd>
    <sifravzd>
     231
@@ -215201,6 +215117,9 @@
    <veljaod>
     2025-11-11
    </veljaod>
+   <veljado>
+    2026-04-04
+   </veljado>
   </vzd>
  </ivzizvajalec>
  <ivzizvajalec>
@@ -215259,6 +215178,9 @@
   <veljaod>
    2025-11-25
   </veljaod>
+  <veljado>
+   2026-04-04
+  </veljado>
   <vzd>
    <sifravzd>
     231
@@ -215269,6 +215191,9 @@
    <veljaod>
     2025-11-25
    </veljaod>
+   <veljado>
+    2026-04-04
+   </veljado>
   </vzd>
  </ivzizvajalec>
  <ivzizvajalec>
@@ -227509,6 +227434,71 @@
  </ivzizvajalec>
  <ivzizvajalec>
   <sifraivzizvajalca>
+   2582
+  </sifraivzizvajalca>
+  <sifralokacije>
+   0
+  </sifralokacije>
+  <zzzsstevilka>
+   9317140
+  </zzzsstevilka>
+  <organizacijskastruktura>
+   <sifraivzosnovni>
+    2582
+   </sifraivzosnovni>
+  </organizacijskastruktura>
+  <nazivinnaslov>
+   <nazivorganizacijskeenote>
+    TADEJ ROZMAN S.P.
+   </nazivorganizacijskeenote>
+   <ulicaorganizacijskeenote>
+    SAVELJSKA CESTA 78
+   </ulicaorganizacijskeenote>
+   <postaorganizacijskeenote>
+    1000 LJUBLJANA
+   </postaorganizacijskeenote>
+  </nazivinnaslov>
+  <pravnistatus>
+   <pravnistatussifra>
+    5
+   </pravnistatussifra>
+   <pravnistatusopis>
+    SAMOSTOJNI PODJETNIK
+   </pravnistatusopis>
+  </pravnistatus>
+  <tipizvajalca>
+   <tipizvajalcasifra>
+    1
+   </tipizvajalcasifra>
+   <tipizvajalcaopis>
+    OSNOVNO ZDRAVSTVO
+   </tipizvajalcaopis>
+  </tipizvajalca>
+  <obcina>
+   <obcinasifra>
+    61
+   </obcinasifra>
+   <obcinanaziv>
+    LJUBLJANA
+   </obcinanaziv>
+  </obcina>
+  <veljaod>
+   2026-05-14
+  </veljaod>
+  <vzd>
+   <sifravzd>
+    544
+   </sifravzd>
+   <opisvzd>
+    Zdravstvena nega v drugih dejavnostih
+   </opisvzd>
+   <veljaod>
+    2026-05-14
+   </veljaod>
+  </vzd>
+ </ivzizvajalec>
+ <ivzizvajalec>
+  <sifraivzizvajalca>
    2583
   </sifraivzizvajalca>
   <sifralokacije>
@@ -232401,6 +232391,204 @@
    </opisvzd>
    <veljaod>
     2026-10-14
+   </veljaod>
+  </vzd>
+ </ivzizvajalec>
+ <ivzizvajalec>
+  <sifraivzizvajalca>
+   2674
+  </sifraivzizvajalca>
+  <sifralokacije>
+   0
+  </sifralokacije>
+  <zzzsstevilka>
+   9251219
+  </zzzsstevilka>
+  <organizacijskastruktura>
+   <sifraivzosnovni>
+    2674
+   </sifraivzosnovni>
+  </organizacijskastruktura>
+  <nazivinnaslov>
+   <nazivorganizacijskeenote>
+    KEMAL JAZAVAC, S.P
+   </nazivorganizacijskeenote>
+   <ulicaorganizacijskeenote>
+    KAJUHOVA ULICA 44
+   </ulicaorganizacijskeenote>
+   <postaorganizacijskeenote>
+    1000 LJUBLJANA
+   </postaorganizacijskeenote>
+  </nazivinnaslov>
+  <pravnistatus>
+   <pravnistatussifra>
+    6
+   </pravnistatussifra>
+   <pravnistatusopis>
+    SAMOSTOJNI PODJETNIK - BREZ AMBULANTE
+   </pravnistatusopis>
+  </pravnistatus>
+  <tipizvajalca>
+   <tipizvajalcasifra>
+    1
+   </tipizvajalcasifra>
+   <tipizvajalcaopis>
+    OSNOVNO ZDRAVSTVO
+   </tipizvajalcaopis>
+  </tipizvajalca>
+  <obcina>
+   <obcinasifra>
+    61
+   </obcinasifra>
+   <obcinanaziv>
+    LJUBLJANA
+   </obcinanaziv>
+  </obcina>
+  <veljaod>
+   2026-10-16
+  </veljaod>
+  <vzd>
+   <sifravzd>
+    706
+   </sifravzd>
+   <opisvzd>
+    Urejanje zdr.,iz.,kult., drugih soc.st.
+   </opisvzd>
+   <veljaod>
+    2026-10-16
+   </veljaod>
+  </vzd>
+ </ivzizvajalec>
+ <ivzizvajalec>
+  <sifraivzizvajalca>
+   2675
+  </sifraivzizvajalca>
+  <sifralokacije>
+   0
+  </sifralokacije>
+  <zzzsstevilka>
+   9889903
+  </zzzsstevilka>
+  <organizacijskastruktura>
+   <sifraivzosnovni>
+    2675
+   </sifraivzosnovni>
+  </organizacijskastruktura>
+  <nazivinnaslov>
+   <nazivorganizacijskeenote>
+    REHA MEDICAL, D.O.O.
+   </nazivorganizacijskeenote>
+   <ulicaorganizacijskeenote>
+    ŠMATEVŽ 43
+   </ulicaorganizacijskeenote>
+   <postaorganizacijskeenote>
+    3303 GOMILSKO
+   </postaorganizacijskeenote>
+  </nazivinnaslov>
+  <pravnistatus>
+   <pravnistatussifra>
+    2
+   </pravnistatussifra>
+   <pravnistatusopis>
+    GOSPODARSKA DRUŽBA / ZASEBNI ZAVOD
+   </pravnistatusopis>
+  </pravnistatus>
+  <tipizvajalca>
+   <tipizvajalcasifra>
+    1
+   </tipizvajalcasifra>
+   <tipizvajalcaopis>
+    OSNOVNO ZDRAVSTVO
+   </tipizvajalcaopis>
+  </tipizvajalca>
+  <obcina>
+   <obcinasifra>
+    151
+   </obcinasifra>
+   <obcinanaziv>
+    BRASLOVČE
+   </obcinanaziv>
+  </obcina>
+  <veljaod>
+   2026-10-13
+  </veljaod>
+  <vzd>
+   <sifravzd>
+    706
+   </sifravzd>
+   <opisvzd>
+    Urejanje zdr.,iz.,kult., drugih soc.st.
+   </opisvzd>
+   <veljaod>
+    2026-10-13
+   </veljaod>
+  </vzd>
+ </ivzizvajalec>
+ <ivzizvajalec>
+  <sifraivzizvajalca>
+   2675
+  </sifraivzizvajalca>
+  <sifralokacije>
+   1
+  </sifralokacije>
+  <zzzsstevilka>
+   10092229
+  </zzzsstevilka>
+  <organizacijskastruktura>
+   <sifraivzosnovni>
+    2675
+   </sifraivzosnovni>
+  </organizacijskastruktura>
+  <nazivinnaslov>
+   <nazivorganizacijskeenote>
+    REHA MEDICAL, D.O.O.
+   </nazivorganizacijskeenote>
+   <dodatninazivorganizacijskeenote>
+    PE BRASLOVČE
+   </dodatninazivorganizacijskeenote>
+   <ulicaorganizacijskeenote>
+    SPODNJE GORČE 1 C
+   </ulicaorganizacijskeenote>
+   <postaorganizacijskeenote>
+    3314 BRASLOVČE
+   </postaorganizacijskeenote>
+  </nazivinnaslov>
+  <pravnistatus>
+   <pravnistatussifra>
+    2
+   </pravnistatussifra>
+   <pravnistatusopis>
+    GOSPODARSKA DRUŽBA / ZASEBNI ZAVOD
+   </pravnistatusopis>
+  </pravnistatus>
+  <tipizvajalca>
+   <tipizvajalcasifra>
+    1
+   </tipizvajalcasifra>
+   <tipizvajalcaopis>
+    OSNOVNO ZDRAVSTVO
+   </tipizvajalcaopis>
+  </tipizvajalca>
+  <obcina>
+   <obcinasifra>
+    151
+   </obcinasifra>
+   <obcinanaziv>
+    BRASLOVČE
+   </obcinanaziv>
+  </obcina>
+  <veljaod>
+   2026-10-13
+  </veljaod>
+  <vzd>
+   <sifravzd>
+    507
+   </sifravzd>
+   <opisvzd>
+    Fizioterapija
+   </opisvzd>
+   <veljaod>
+    2026-10-13
    </veljaod>
   </vzd>
  </ivzizvajalec>
@@ -314191,6 +314379,9 @@
   <veljaod>
    1995-10-01
   </veljaod>
+  <veljado>
+   2026-07-31
+  </veljado>
   <vzd>
    <sifravzd>
     404
@@ -314201,6 +314392,9 @@
    <veljaod>
     1995-10-01
    </veljaod>
+   <veljado>
+    2026-07-31
+   </veljado>
   </vzd>
  </ivzizvajalec>
  <ivzizvajalec>
@@ -395223,6 +395417,9 @@
   <veljaod>
    2011-03-01
   </veljaod>
+  <veljado>
+   2026-10-13
+  </veljado>
   <vzd>
    <sifravzd>
     706
@@ -395233,6 +395430,9 @@
    <veljaod>
     2011-03-01
    </veljaod>
+   <veljado>
+    2026-10-13
+   </veljado>
   </vzd>
   <vzd>
    <sifravzd>
@@ -395244,6 +395444,9 @@
    <veljaod>
     2012-05-21
    </veljaod>
+   <veljado>
+    2026-10-13
+   </veljado>
   </vzd>
  </ivzizvajalec>
  <ivzizvajalec>
@@ -395302,6 +395505,9 @@
   <veljaod>
    2011-03-01
   </veljaod>
+  <veljado>
+   2026-10-13
+  </veljado>
   <vzd>
    <sifravzd>
     714
@@ -395312,6 +395518,9 @@
    <veljaod>
     2011-03-01
    </veljaod>
+   <veljado>
+    2026-10-13
+   </veljado>
   </vzd>
  </ivzizvajalec>
  <ivzizvajalec>
@@ -409772,6 +409981,9 @@
   <veljaod>
    1995-10-01
   </veljaod>
+  <veljado>
+   2026-06-01
+  </veljado>
   <vzd>
    <sifravzd>
     714
@@ -409782,6 +409994,9 @@
    <veljaod>
     1995-10-01
    </veljaod>
+   <veljado>
+    2026-06-01
+   </veljado>
   </vzd>
  </ivzizvajalec>
  <ivzizvajalec>
