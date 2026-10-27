@@ -2,10 +2,10 @@
 <bpi xmlns="http://zzzs.si/b2b/bpi" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemalocation="http://zzzs.si/b2b/bpi bpi.xsd">
  <posiljka>
   <verzijaposiljke>
-   5041
+   5042
   </verzijaposiljke>
   <datumposiljke>
-   2026-10-26
+   2026-10-27
   </datumposiljke>
   <verzijasheme>
    1.0
@@ -231051,6 +231051,71 @@
  </ivzizvajalec>
  <ivzizvajalec>
   <sifraivzizvajalca>
+   2655
+  </sifraivzizvajalca>
+  <sifralokacije>
+   0
+  </sifralokacije>
+  <zzzsstevilka>
+   9996149
+  </zzzsstevilka>
+  <organizacijskastruktura>
+   <sifraivzosnovni>
+    2655
+   </sifraivzosnovni>
+  </organizacijskastruktura>
+  <nazivinnaslov>
+   <nazivorganizacijskeenote>
+    MATJAŽ MARUŠIČ, S.P.
+   </nazivorganizacijskeenote>
+   <ulicaorganizacijskeenote>
+    JEZDARSKA ULICA 2
+   </ulicaorganizacijskeenote>
+   <postaorganizacijskeenote>
+    2000 MARIBOR
+   </postaorganizacijskeenote>
+  </nazivinnaslov>
+  <pravnistatus>
+   <pravnistatussifra>
+    5
+   </pravnistatussifra>
+   <pravnistatusopis>
+    SAMOSTOJNI PODJETNIK
+   </pravnistatusopis>
+  </pravnistatus>
+  <tipizvajalca>
+   <tipizvajalcasifra>
+    1
+   </tipizvajalcasifra>
+   <tipizvajalcaopis>
+    OSNOVNO ZDRAVSTVO
+   </tipizvajalcaopis>
+  </tipizvajalca>
+  <obcina>
+   <obcinasifra>
+    70
+   </obcinasifra>
+   <obcinanaziv>
+    MARIBOR
+   </obcinanaziv>
+  </obcina>
+  <veljaod>
+   2026-08-26
+  </veljaod>
+  <vzd>
+   <sifravzd>
+    404
+   </sifravzd>
+   <opisvzd>
+    Splošno zobozdravstvo
+   </opisvzd>
+   <veljaod>
+    2026-08-26
+   </veljaod>
+  </vzd>
+ </ivzizvajalec>
+ <ivzizvajalec>
+  <sifraivzizvajalca>
    2657
   </sifraivzizvajalca>
   <sifralokacije>
@@ -302381,6 +302446,9 @@
   <veljaod>
    2009-01-01
   </veljaod>
+  <veljado>
+   2026-08-24
+  </veljado>
   <vzd>
    <sifravzd>
     404
@@ -302391,6 +302459,9 @@
    <veljaod>
     2009-01-01
    </veljaod>
+   <veljado>
+    2026-08-24
+   </veljado>
   </vzd>
  </ivzizvajalec>
  <ivzizvajalec>
