@@ -2,10 +2,10 @@
 <bpi xmlns="http://zzzs.si/b2b/bpi" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemalocation="http://zzzs.si/b2b/bpi bpi.xsd">
  <posiljka>
   <verzijaposiljke>
-   5042
+   5043
   </verzijaposiljke>
   <datumposiljke>
-   2026-10-27
+   2026-10-28
   </datumposiljke>
   <verzijasheme>
    1.0
@@ -54903,151 +54903,6 @@
    <veljaod>
     2021-08-24
    </veljaod>
-  </vzd>
- </ivzizvajalec>
- <ivzizvajalec>
-  <sifraivzizvajalca>
-   450
-  </sifraivzizvajalca>
-  <sifralokacije>
-   0
-  </sifralokacije>
-  <zzzsstevilka>
-   8457022
-  </zzzsstevilka>
-  <organizacijskastruktura>
-   <sifraivzosnovni>
-    450
-   </sifraivzosnovni>
-  </organizacijskastruktura>
-  <nazivinnaslov>
-   <nazivorganizacijskeenote>
-    DENTAMAX, DUŠAN NEMANIČ S.P.
-   </nazivorganizacijskeenote>
-   <ulicaorganizacijskeenote>
-    JARŠKA CESTA 14
-   </ulicaorganizacijskeenote>
-   <postaorganizacijskeenote>
-    1000 LJUBLJANA
-   </postaorganizacijskeenote>
-  </nazivinnaslov>
-  <pravnistatus>
-   <pravnistatussifra>
-    5
-   </pravnistatussifra>
-   <pravnistatusopis>
-    SAMOSTOJNI PODJETNIK
-   </pravnistatusopis>
-  </pravnistatus>
-  <tipizvajalca>
-   <tipizvajalcasifra>
-    1
-   </tipizvajalcasifra>
-   <tipizvajalcaopis>
-    OSNOVNO ZDRAVSTVO
-   </tipizvajalcaopis>
-  </tipizvajalca>
-  <obcina>
-   <obcinasifra>
-    61
-   </obcinasifra>
-   <obcinanaziv>
-    LJUBLJANA
-   </obcinanaziv>
-  </obcina>
-  <veljaod>
-   2022-02-14
-  </veljaod>
-  <veljado>
-   2023-10-27
-  </veljado>
-  <vzd>
-   <sifravzd>
-    706
-   </sifravzd>
-   <opisvzd>
-    Urejanje zdr.,iz.,kult., drugih soc.st.
-   </opisvzd>
-   <veljaod>
-    2022-02-14
-   </veljaod>
-   <veljado>
-    2023-10-27
-   </veljado>
-  </vzd>
- </ivzizvajalec>
- <ivzizvajalec>
-  <sifraivzizvajalca>
-   450
-  </sifraivzizvajalca>
-  <sifralokacije>
-   1
-  </sifralokacije>
-  <zzzsstevilka>
-   8681955
-  </zzzsstevilka>
-  <organizacijskastruktura>
-   <sifraivzosnovni>
-    450
-   </sifraivzosnovni>
-  </organizacijskastruktura>
-  <nazivinnaslov>
-   <nazivorganizacijskeenote>
-    DENTAMAX, ZOBOZDRAVSTVO, DUŠAN NEMANIČ S.P.
-   </nazivorganizacijskeenote>
-   <dodatninazivorganizacijskeenote>
-    LOKACIJA BLATNICA TRZIN
-   </dodatninazivorganizacijskeenote>
-   <ulicaorganizacijskeenote>
-    BLATNICA 12
-   </ulicaorganizacijskeenote>
-   <postaorganizacijskeenote>
-    1236 TRZIN
-   </postaorganizacijskeenote>
-  </nazivinnaslov>
-  <pravnistatus>
-   <pravnistatussifra>
-    5
-   </pravnistatussifra>
-   <pravnistatusopis>
-    SAMOSTOJNI PODJETNIK
-   </pravnistatusopis>
-  </pravnistatus>
-  <tipizvajalca>
-   <tipizvajalcasifra>
-    1
-   </tipizvajalcasifra>
-   <tipizvajalcaopis>
-    OSNOVNO ZDRAVSTVO
-   </tipizvajalcaopis>
-  </tipizvajalca>
-  <obcina>
-   <obcinasifra>
-    186
-   </obcinasifra>
-   <obcinanaziv>
-    TRZIN
-   </obcinanaziv>
-  </obcina>
-  <veljaod>
-   2022-02-14
-  </veljaod>
-  <veljado>
-   2023-10-27
-  </veljado>
-  <vzd>
-   <sifravzd>
-    404
-   </sifravzd>
-   <opisvzd>
-    Splošno zobozdravstvo
-   </opisvzd>
-   <veljaod>
-    2022-02-14
-   </veljaod>
-   <veljado>
-    2023-10-27
-   </veljado>
   </vzd>
  </ivzizvajalec>
  <ivzizvajalec>
@@ -232654,6 +232509,139 @@
    </opisvzd>
    <veljaod>
     2026-10-13
+   </veljaod>
+  </vzd>
+ </ivzizvajalec>
+ <ivzizvajalec>
+  <sifraivzizvajalca>
+   2676
+  </sifraivzizvajalca>
+  <sifralokacije>
+   0
+  </sifralokacije>
+  <zzzsstevilka>
+   8057358
+  </zzzsstevilka>
+  <organizacijskastruktura>
+   <sifraivzosnovni>
+    2676
+   </sifraivzosnovni>
+  </organizacijskastruktura>
+  <nazivinnaslov>
+   <nazivorganizacijskeenote>
+    FIZIOTERAPIJA ENO D.O.O.
+   </nazivorganizacijskeenote>
+   <ulicaorganizacijskeenote>
+    BABNA GORA 41
+   </ulicaorganizacijskeenote>
+   <postaorganizacijskeenote>
+    1355 POLHOV GRADEC
+   </postaorganizacijskeenote>
+  </nazivinnaslov>
+  <pravnistatus>
+   <pravnistatussifra>
+    2
+   </pravnistatussifra>
+   <pravnistatusopis>
+    GOSPODARSKA DRUŽBA / ZASEBNI ZAVOD
+   </pravnistatusopis>
+  </pravnistatus>
+  <tipizvajalca>
+   <tipizvajalcasifra>
+    1
+   </tipizvajalcasifra>
+   <tipizvajalcaopis>
+    OSNOVNO ZDRAVSTVO
+   </tipizvajalcaopis>
+  </tipizvajalca>
+  <obcina>
+   <obcinasifra>
+    21
+   </obcinasifra>
+   <obcinanaziv>
+    DOBROVA-POLHOV GRADEC
+   </obcinanaziv>
+  </obcina>
+  <veljaod>
+   2026-10-12
+  </veljaod>
+  <vzd>
+   <sifravzd>
+    706
+   </sifravzd>
+   <opisvzd>
+    Urejanje zdr.,iz.,kult., drugih soc.st.
+   </opisvzd>
+   <veljaod>
+    2026-10-12
+   </veljaod>
+  </vzd>
+ </ivzizvajalec>
+ <ivzizvajalec>
+  <sifraivzizvajalca>
+   2676
+  </sifraivzizvajalca>
+  <sifralokacije>
+   1
+  </sifralokacije>
+  <zzzsstevilka>
+   8269164
+  </zzzsstevilka>
+  <organizacijskastruktura>
+   <sifraivzosnovni>
+    2676
+   </sifraivzosnovni>
+  </organizacijskastruktura>
+  <nazivinnaslov>
+   <nazivorganizacijskeenote>
+    FIZIOTERAPIJA ENO D.O.O.
+   </nazivorganizacijskeenote>
+   <dodatninazivorganizacijskeenote>
+    PE LJUBLJANA
+   </dodatninazivorganizacijskeenote>
+   <ulicaorganizacijskeenote>
+    REGENTOVA CESTA 70
+   </ulicaorganizacijskeenote>
+   <postaorganizacijskeenote>
+    1210 LJUBLJANA - ŠENTVID
+   </postaorganizacijskeenote>
+  </nazivinnaslov>
+  <pravnistatus>
+   <pravnistatussifra>
+    2
+   </pravnistatussifra>
+   <pravnistatusopis>
+    GOSPODARSKA DRUŽBA / ZASEBNI ZAVOD
+   </pravnistatusopis>
+  </pravnistatus>
+  <tipizvajalca>
+   <tipizvajalcasifra>
+    1
+   </tipizvajalcasifra>
+   <tipizvajalcaopis>
+    OSNOVNO ZDRAVSTVO
+   </tipizvajalcaopis>
+  </tipizvajalca>
+  <obcina>
+   <obcinasifra>
+    61
+   </obcinasifra>
+   <obcinanaziv>
+    LJUBLJANA
+   </obcinanaziv>
+  </obcina>
+  <veljaod>
+   2026-10-12
+  </veljaod>
+  <vzd>
+   <sifravzd>
+    507
+   </sifravzd>
+   <opisvzd>
+    Fizioterapija
+   </opisvzd>
+   <veljaod>
+    2026-10-12
    </veljaod>
   </vzd>
  </ivzizvajalec>
