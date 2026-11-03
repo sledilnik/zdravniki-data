@@ -93,7 +93,7 @@ def convert_to_csv(zzzsid_map):
         else:
             sheet="Podatki"
             skipr=9
-        df = pd.read_excel(io=filename, sheet_name=sheet, skiprows=skipr).dropna()
+        df = pd.read_excel(io=filename, sheet_name=sheet, skiprows=skipr).dropna(how='all')
 
         if group == "v-dodatnih-ambulantah":
             print("Converting v dodatnih ambulantah")
@@ -109,8 +109,7 @@ def convert_to_csv(zzzsid_map):
                 df['accepts'] = 'DA'
                 
             else:
-                print(f"Unsupported v-dodatnih-ambulantah source columns! count={len(df.columns)}: {df.columns}")
-                raise
+                raise ValueError(f"Unsupported v-dodatnih-ambulantah source columns! count={len(df.columns)}: {df.columns}")
 
         elif group == "za-boljšo-dostopnost":
             print("Converting za boljšo dostopnost")
@@ -130,11 +129,17 @@ def convert_to_csv(zzzsid_map):
 
         else:
             print("Converting doctors list")
-            if len(df.columns) == 12 or len(df.columns) == 13 or len(df.columns) == 14 or len(df.columns) == 16:
+            if len(df.columns) in (12, 13, 14, 15, 16):
                 print("...version after 2023-02-10")
 
                 if len(df.columns) == 14 or len(df.columns) == 13:
                     print("...version after 2024-05-10: ignore new 'Specializant' column")
+                    df.drop(columns=['Specializant'], inplace=True)
+
+                if len(df.columns) == 15:
+                    print("...version after 2026-06-22: ignore 3 new columns for now")
+                    df.drop(columns=['Zdravnik mora  glede na št. opredeljenih oseb (stolpec M) sprejeti novorojenčke in dojenčke (otroci do enega leta)'], inplace=True)
+                    df.drop(columns=['Število opredeljenih oseb  preračunano na 1 tim zaposlitve'], inplace=True)
                     df.drop(columns=['Specializant'], inplace=True)
 
                 if len(df.columns) == 16:
@@ -156,10 +161,10 @@ def convert_to_csv(zzzsid_map):
                 # TODO: insert dummy new ID columns if needed.
 
             else:
-                print(f"Unsupported za opredeljene source columns! count={len(df.columns)}: {df.columns}")
-                raise
+                raise ValueError(f"Unsupported za opredeljene source columns! count={len(df.columns)}: {df.columns}")
 
 
+        df = df.dropna(subset=[c for c in df.columns if c != 'availability'])
         df['doctor'] = df['doctor'].str.strip().replace(r'\s+', ' ', regex=True)
         df['type'] = df['type'].str.strip().map(type_map)
         df['accepts'] = df['accepts'].str.strip().map(accepts_map)
