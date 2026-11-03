@@ -346,16 +346,18 @@ def extract_historical_data(zzzsid_map):
     if new_rows:
         historical_source = pd.concat([historical_source, *new_rows], ignore_index=True)
 
-    processed_files_df.drop_duplicates(inplace=True)
-    processed_files_df.sort_values(by=['source_file'], inplace=True)
-    processed_files_df.to_csv(processed_files_manifest, index=False)
-
     if not historical_source.empty:
         historical_source = historical_source[source_cols]
         historical_source.sort_values(by=['date', 'type', 'region', 'municipality', 'source_file'], inplace=True)
         historical_source.to_csv(source_file, index=False)
     else:
         pd.DataFrame(columns=source_cols).to_csv(source_file, index=False)
+
+    processed_files_df.drop_duplicates(inplace=True)
+    processed_files_df.sort_values(by=['source_file'], inplace=True)
+    processed_files_df.to_csv(processed_files_manifest, index=False)
+
+    if historical_source.empty:
         return
 
     historical_source['doctor_count'] = pd.to_numeric(historical_source['doctor_count'], errors='coerce').fillna(0)
