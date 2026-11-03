@@ -273,7 +273,7 @@ postZZZS,addressZZZS,lat,lon,street,streetAlt,housenumber,housenumberAppendix,ci
 1290 GROSUPLJE,MALA RAČNA 30,45.89549,14.69595,Mala Račna,,30,,Mala Račna,,Račna,Grosuplje,1290,Grosuplje,Osrednjeslovenska
 1290 GROSUPLJE,OB GROSUPELJŠČICI 28,45.96309,14.66212,Ob Grosupeljščici,,28,,Grosuplje,,Grosuplje,Grosuplje,1290,Grosuplje,Osrednjeslovenska
 1290 GROSUPLJE,POD GOZDOM CESTA I 14,45.95943,14.65315,Pod gozdom cesta I,,14,,Grosuplje,,Grosuplje,Grosuplje,1290,Grosuplje,Osrednjeslovenska
-1291 ŠKOFLJICA,KOČEVSKA CESTA 25,45.98069,14.57676,Kočevska cesta,,25,,Škofljica,,Zalog-Klanec,Škofljica,1291,Škofljica,Osrednjeslovenska
+1291 ŠKOFLJICA,KOČEVSKA CESTA 25,45.98069,14.57676,Kočevska cesta,,25,,Škofljica,,Zalog - Klanec,Škofljica,1291,Škofljica,Osrednjeslovenska
 1292 IG,BANIJA 4,45.95897,14.52720,Banija,,4,,Ig,,,Ig,1292,Ig,Osrednjeslovenska
 1292 IG,DRAGA 1,45.94726,14.54796,Draga,,1,,Draga,,,Ig,1292,Ig,Osrednjeslovenska
 1292 IG,PODGOZD 60,45.93073,14.53700,Podgozd,,60,,Podgozd,,,Ig,1292,Ig,Osrednjeslovenska
@@ -301,7 +301,7 @@ postZZZS,addressZZZS,lat,lon,street,streetAlt,housenumber,housenumberAppendix,ci
 1315 VELIKE LAŠČE,JAVORŠKOVA ULICA 9,45.83502,14.63767,Javorškova ulica,,9,,Velike Lašče,,,Velike Lašče,1315,Velike Lašče,Osrednjeslovenska
 1315 VELIKE LAŠČE,ŠOLSKA ULICA 11,45.83285,14.63442,Šolska ulica,,11,,Velike Lašče,,,Velike Lašče,1315,Velike Lašče,Osrednjeslovenska
 1317 SODRAŽICA,CESTA NOTRANJSKEGA ODREDA 16,45.76343,14.63376,Cesta Notranjskega odreda,,16,,Sodražica,,,Sodražica,1317,Sodražica,Jugovzhodna Slovenija
-1317 SODRAŽICA,CESTA NOTRANJSKEGA ODREDA 16A,,,,,,,,,,,,,
+1317 SODRAŽICA,CESTA NOTRANJSKEGA ODREDA 16A,45.76362,14.63395,Cesta Notranjskega odreda,,16,a,Sodražica,,,Sodražica,1317,Sodražica,Jugovzhodna Slovenija
 1318 LOŠKI POTOK,HRIB-LOŠKI POTOK 102,45.70030,14.59115,Hrib-Loški Potok,,102,,Hrib-Loški Potok,,Loški potok,Loški Potok,1318,Loški Potok,Jugovzhodna Slovenija
 1330 KOČEVJE,LJUBLJANSKA CESTA 19,45.64149,14.85688,Ljubljanska cesta,,19,,Kočevje,,Kočevje-mesto,Kočevje,1330,Kočevje,Jugovzhodna Slovenija
 1330 KOČEVJE,ROŠKA CESTA 16,45.63880,14.86553,Roška cesta,,16,,Kočevje,,Kočevje-mesto,Kočevje,1330,Kočevje,Jugovzhodna Slovenija
@@ -406,7 +406,7 @@ postZZZS,addressZZZS,lat,lon,street,streetAlt,housenumber,housenumberAppendix,ci
 2000 MARIBOR,GOSPOSVETSKA CESTA 41,46.56126,15.63472,Gosposvetska cesta,,41,,Maribor,,Koroška vrata,Maribor,2000,Maribor,Podravska
 2000 MARIBOR,HRENOVA ULICA 6,46.55432,15.62367,Hrenova ulica,,6,,Maribor,,Studenci,Maribor,2000,Maribor,Podravska
 2000 MARIBOR,ISTRSKA ULICA 60,46.54753,15.67320,Istrska ulica,,60,,Maribor,,Pobrežje,Maribor,2000,Maribor,Podravska
-2000 MARIBOR,JEZDARSKA ULICA 11,,,,,,,,,,,,,
+2000 MARIBOR,JEZDARSKA ULICA 11,46.55106,15.64308,Jezdarska ulica,,11,,Maribor,,Magdalena,Maribor,2000,Maribor,Podravska
 2000 MARIBOR,JEZDARSKA ULICA 2,46.55118,15.64129,Jezdarska ulica,,2,,Maribor,,Magdalena,Maribor,2000,Maribor,Podravska
 2000 MARIBOR,JEZDARSKA ULICA 7,46.55122,15.64209,Jezdarska ulica,,7,,Maribor,,Magdalena,Maribor,2000,Maribor,Podravska
 2000 MARIBOR,KALOHOVA ULICA 18,46.55507,15.61747,Kalohova ulica,,18,,Maribor,,Studenci,Maribor,2000,Maribor,Podravska
@@ -519,7 +519,7 @@ postZZZS,addressZZZS,lat,lon,street,streetAlt,housenumber,housenumberAppendix,ci
 2212 ŠENTILJ V SLOV. GORICAH,POD HRIBOM 14,46.67994,15.65514,Pod hribom,,14,,Šentilj v Slov. goricah,,Šentilj,Šentilj,2212,Šentilj v Slov. goricah,Podravska
 2212 ŠENTILJ V SLOVENSKIH GORI,SLOVENSKA ULICA 1,46.68118,15.64974,Slovenska ulica,,1,,Šentilj v Slov. goricah,,Šentilj,Šentilj,2212,Šentilj v Slov. goricah,Podravska
 2214 SLADKI VRH,SLADKI VRH 5,46.69756,15.73680,Sladki Vrh,,5,,Sladki Vrh,,Sladki Vrh,Šentilj,2214,Sladki Vrh,Podravska
-2214 SLADKI VRH,SLADKI VRH 6 B,,,,,,,,,,,,,
+2214 SLADKI VRH,SLADKI VRH 6 B,46.69745,15.73744,Sladki Vrh,,6,b,Sladki Vrh,,Sladki Vrh,Šentilj,2214,Sladki Vrh,Podravska
 2214 SLADKI VRH,SLADKI VRH 8,46.69743,15.73969,Sladki Vrh,,8,,Sladki Vrh,,Sladki Vrh,Šentilj,2214,Sladki Vrh,Podravska
 2221 JARENINA,VUKOVSKI DOL 34,46.62351,15.72083,Vukovski Dol,,34,,Vukovski Dol,,Jarenina,Pesnica,2221,Jarenina,Podravska
 2222 JAKOBSKI DOL,JAKOBSKI DOL,,,,,,,,,,,,,
@@ -799,7 +799,7 @@ postZZZS,addressZZZS,lat,lon,street,streetAlt,housenumber,housenumberAppendix,ci
 3260 KOZJE,KOZJE 150,46.07369,15.56080,Kozje,,150,,Kozje,,Kozje,Kozje,3260,Kozje,Savinjska
 3261 LESIČNO,GUBNO 10,46.11737,15.51784,Gubno,,10,,Gubno,,Lesično,Kozje,3261,Lesično,Savinjska
 3270 LAŠKO,KIDRIČEVA ULICA 5,46.15397,15.23683,Kidričeva ulica,,5,,Laško,,Laško,Laško,3270,Laško,Savinjska
-3270 LAŠKO,KIDRIČEVA ULICA 5 B,46.15450,15.23730,Kidričeva ulica,,5,b,Laško,,Laško,Laško,3270,Laško,Savinjska
+3270 LAŠKO,KIDRIČEVA ULICA 5 B,46.15436,15.23730,Kidričeva ulica,,5,b,Laško,,Laško,Laško,3270,Laško,Savinjska
 3270 LAŠKO,MESTNA ULICA 7,46.15460,15.23636,Mestna ulica,,7,,Laško,,Laško,Laško,3270,Laško,Savinjska
 3270 LAŠKO,POŽENELOVA ULICA 22,46.16482,15.23049,Poženelova ulica,,22,,Laško,,Laško,Laško,3270,Laško,Savinjska
 3270 LAŠKO,VALENTINIČEVA CESTA 22,46.15597,15.24091,Valentiničeva cesta,,22,,Laško,,Laško,Laško,3270,Laško,Savinjska
@@ -864,7 +864,7 @@ postZZZS,addressZZZS,lat,lon,street,streetAlt,housenumber,housenumberAppendix,ci
 4000 KRANJ,BLEIWEISOVA CESTA 16,46.24823,14.35500,Bleiweisova cesta,,16,,Kranj,,Vodovodni stolp,Kranj,4000,Kranj,Gorenjska
 4000 KRANJ,BLEIWEISOVA CESTA 6,46.24613,14.35528,Bleiweisova cesta,,6,,Kranj,,Vodovodni stolp,Kranj,4000,Kranj,Gorenjska
 4000 KRANJ,BRITOF 466,46.26430,14.39496,Britof,,466,,Britof,,Britof,Kranj,4000,Kranj,Gorenjska
-4000 KRANJ,CESTA 1. MAJA 59,46.23449,14.36147,Cesta 1. maja,,59,,Kranj,,Planina,Kranj,4000,Kranj,Gorenjska
+4000 KRANJ,CESTA 1. MAJA 59,46.23449,14.36147,Cesta 1. maja,,59,,Kranj,,Planina - Huje,Kranj,4000,Kranj,Gorenjska
 4000 KRANJ,GLAVNI TRG 21,46.23936,14.35532,Glavni trg,,21,,Kranj,,Center,Kranj,4000,Kranj,Gorenjska
 4000 KRANJ,GOLNIŠKA CESTA 105,46.27324,14.35145,Golniška cesta,,105,,Mlaka pri Kranju,,Kokrica,Kranj,4000,Kranj,Gorenjska
 4000 KRANJ,GOSPOSVETSKA ULICA 10,46.24890,14.35325,Gosposvetska ulica,,10,,Kranj,,Zlato polje,Kranj,4000,Kranj,Gorenjska
@@ -887,7 +887,7 @@ postZZZS,addressZZZS,lat,lon,street,streetAlt,housenumber,housenumberAppendix,ci
 4000 KRANJ,STORŽIŠKA ULICA 4,46.21864,14.37676,Storžiška ulica,,4,,Kranj,,Orehek - Drulovka,Kranj,4000,Kranj,Gorenjska
 4000 KRANJ,TEKSTILNA ULICA 17,46.24628,14.36588,Tekstilna ulica,,17,,Kranj,,Primskovo,Kranj,4000,Kranj,Gorenjska
 4000 KRANJ,VALJAVČEVA ULICA 27,46.25053,14.35693,Valjavčeva ulica,,27,,Kranj,,Vodovodni stolp,Kranj,4000,Kranj,Gorenjska
-4000 KRANJ,VREČKOVA ULICA 3,46.23503,14.36105,Vrečkova ulica,,3,,Kranj,,Planina,Kranj,4000,Kranj,Gorenjska
+4000 KRANJ,VREČKOVA ULICA 3,46.23503,14.36105,Vrečkova ulica,,3,,Kranj,,Planina - Huje,Kranj,4000,Kranj,Gorenjska
 4000 KRANJ,ZASAVSKA CESTA 58 D,46.21782,14.36865,Zasavska cesta,,58,d,Kranj,,Orehek - Drulovka,Kranj,4000,Kranj,Gorenjska
 4201 ZGORNJA BESNICA,VIDEMCE 10,46.26114,14.29641,Videmce,,10,,Zgornja Besnica,,Besnica,Kranj,4201,Zgornja Besnica,Gorenjska
 4202 NAKLO,GLAVNA CESTA 18,46.27271,14.31461,Glavna cesta,,18,,Naklo,,,Naklo,4202,Naklo,Gorenjska
@@ -1229,7 +1229,7 @@ postZZZS,addressZZZS,lat,lon,street,streetAlt,housenumber,housenumberAppendix,ci
 8250 BREŽICE,ULICA STANKA ŠKALERJA 4,45.90642,15.60124,Ulica Stanka Škalerja,,4,,Brežice,,Zakot-Bukošek-Trnje,Brežice,8250,Brežice,Posavska
 8250 BREŽICE,ČERNELČEVA CESTA 15,45.90849,15.59354,Černelčeva cesta,,15,,Brežice,,Brežice,Brežice,8250,Brežice,Posavska
 8250 BREŽICE,ČERNELČEVA CESTA 8,45.90811,15.59415,Černelčeva cesta,,8,,Brežice,,Brežice,Brežice,8250,Brežice,Posavska
-8253 ARTIČE,ARTIČE 39,45.95159,15.58509,Artiče,,39,,Artiče,,Artiče,Brežice,8253,Artiče,Posavska
+8253 ARTIČE,ARTIČE 39,45.95138,15.58539,Artiče,,39,,Artiče,,Artiče,Brežice,8253,Artiče,Posavska
 8257 DOBOVA,KAPELSKA CESTA 25,45.90152,15.66152,Kapelska cesta,,25,,Dobova,,Dobova,Brežice,8257,Dobova,Posavska
 8259 BIZELJSKO,BIZELJSKA CESTA 104,46.02057,15.69163,Bizeljska cesta,,104,,Bizeljsko,,Bizeljsko,Brežice,8259,Bizeljsko,Posavska
 8259 BIZELJSKO,BIZELJSKA CESTA 49,46.01324,15.69249,Bizeljska cesta,,49,,Bizeljsko,,Bizeljsko,Brežice,8259,Bizeljsko,Posavska
@@ -1237,25 +1237,25 @@ postZZZS,addressZZZS,lat,lon,street,streetAlt,housenumber,housenumberAppendix,ci
 8263 CERKLJE OB KRKI,BORŠT 19,45.88523,15.54740,Boršt,,19,,Boršt,,Cerklje ob Krki,Brežice,8263,Cerklje ob Krki,Posavska
 8263 CERKLJE OB KRKI,CERKLJE OB KRKI 3,45.88456,15.52276,Cerklje ob Krki,,3,,Cerklje ob Krki,,Cerklje ob Krki,Brežice,8263,Cerklje ob Krki,Posavska
 8263 CERKLJE OB KRKI,ŽUPEČA VAS 9,45.88535,15.52834,Župeča vas,,9,,Župeča vas,,Cerklje ob Krki,Brežice,8263,Cerklje ob Krki,Posavska
-8270 KRŠKO,CANKARJEVA ULICA 3 A,45.95739,15.49688,Cankarjeva ulica,,3,a,Krško,,Krško,Krško,8270,Krško,Posavska
-8270 KRŠKO,CESTA 4. JULIJA 34,45.95916,15.49160,Cesta 4. julija,,34,,Krško,,Krško,Krško,8270,Krško,Posavska
-8270 KRŠKO,CESTA 4. JULIJA 46,45.95749,15.49369,Cesta 4. julija,,46,,Krško,,Krško,Krško,8270,Krško,Posavska
-8270 KRŠKO,CESTA 4. JULIJA 84 A,45.95414,15.49891,Cesta 4. julija,,84,a,Krško,,Krško,Krško,8270,Krško,Posavska
-8270 KRŠKO,CESTA KRŠKIH ŽRTEV 112,45.95115,15.48664,Cesta krških žrtev,,112,,Krško,,Krško,Krško,8270,Krško,Posavska
-8270 KRŠKO,CESTA KRŠKIH ŽRTEV 132 C,45.94307,15.48349,Cesta krških žrtev,,132,c,Krško,,Krško,Krško,8270,Krško,Posavska
-8270 KRŠKO,CESTA KRŠKIH ŽRTEV 132C,45.94307,15.48349,Cesta krških žrtev,,132,c,Krško,,Krško,Krško,8270,Krško,Posavska
-8270 KRŠKO,CESTA KRŠKIH ŽRTEV 43,45.96424,15.48640,Cesta krških žrtev,,43,,Krško,,Krško,Krško,8270,Krško,Posavska
-8270 KRŠKO,KIDRIČEVA ULICA 12,45.95842,15.50265,Kidričeva ulica,,12,,Krško,,Krško,Krško,8270,Krško,Posavska
-8270 KRŠKO,KOLODVORSKA ULICA 7 A,45.95662,15.49438,Kolodvorska ulica,,7,a,Krško,,Krško,Krško,8270,Krško,Posavska
-8270 KRŠKO,KOVINARSKA ULICA 13,45.94392,15.48464,Kovinarska ulica,,13,,Krško,,Krško,Krško,8270,Krško,Posavska
-8270 KRŠKO,POT NA POLŠCO 21,45.96386,15.49039,Pot na Polšco,,21,,Krško,,Krško,Krško,8270,Krško,Posavska
+8270 KRŠKO,CANKARJEVA ULICA 3 A,45.95739,15.49688,Cankarjeva ulica,,3,a,Krško,,Mestna četrt Krško,Krško,8270,Krško,Posavska
+8270 KRŠKO,CESTA 4. JULIJA 34,45.95916,15.49160,Cesta 4. julija,,34,,Krško,,Mestna četrt Krško,Krško,8270,Krško,Posavska
+8270 KRŠKO,CESTA 4. JULIJA 46,45.95749,15.49369,Cesta 4. julija,,46,,Krško,,Mestna četrt Krško,Krško,8270,Krško,Posavska
+8270 KRŠKO,CESTA 4. JULIJA 84 A,45.95414,15.49891,Cesta 4. julija,,84,a,Krško,,Mestna četrt Krško,Krško,8270,Krško,Posavska
+8270 KRŠKO,CESTA KRŠKIH ŽRTEV 112,45.95115,15.48664,Cesta krških žrtev,,112,,Krško,,Mestna četrt Krško,Krško,8270,Krško,Posavska
+8270 KRŠKO,CESTA KRŠKIH ŽRTEV 132 C,45.94307,15.48349,Cesta krških žrtev,,132,c,Krško,,Mestna četrt Krško,Krško,8270,Krško,Posavska
+8270 KRŠKO,CESTA KRŠKIH ŽRTEV 132C,45.94307,15.48349,Cesta krških žrtev,,132,c,Krško,,Mestna četrt Krško,Krško,8270,Krško,Posavska
+8270 KRŠKO,CESTA KRŠKIH ŽRTEV 43,45.96424,15.48640,Cesta krških žrtev,,43,,Krško,,Mestna četrt Krško,Krško,8270,Krško,Posavska
+8270 KRŠKO,KIDRIČEVA ULICA 12,45.95842,15.50265,Kidričeva ulica,,12,,Krško,,Mestna četrt Krško,Krško,8270,Krško,Posavska
+8270 KRŠKO,KOLODVORSKA ULICA 7 A,45.95662,15.49438,Kolodvorska ulica,,7,a,Krško,,Mestna četrt Krško,Krško,8270,Krško,Posavska
+8270 KRŠKO,KOVINARSKA ULICA 13,45.94392,15.48464,Kovinarska ulica,,13,,Krško,,Mestna četrt Krško,Krško,8270,Krško,Posavska
+8270 KRŠKO,POT NA POLŠCO 21,45.96386,15.49039,Pot na Polšco,,21,,Krško,,Mestna četrt Krško,Krško,8270,Krško,Posavska
 8270 KRŠKO,RAVNI 16,45.94639,15.41490,Ravni,,16,,Ravni,,Veliki Trn,Krško,8270,Krško,Posavska
-8270 KRŠKO,SREMIČ 15,45.97672,15.48952,Sremič,,15,,Sremič,,Krško,Krško,8270,Krško,Posavska
-8270 KRŠKO,ULICA ILIJE GREGORIČA 18 A,45.95890,15.50201,Ulica Ilije Gregoriča,,18,a,Krško,,Krško,Krško,8270,Krško,Posavska
-8270 KRŠKO,VRBINA 12,45.93799,15.51713,Vrbina,,12,,Vrbina,,Krško,Krško,8270,Krško,Posavska
-8270 KRŠKO,ŠOLSKA ULICA 1,45.95989,15.49411,Šolska ulica,,1,,Krško,,Krško,Krško,8270,Krško,Posavska
+8270 KRŠKO,SREMIČ 15,45.97672,15.48952,Sremič,,15,,Sremič,,Mestna četrt Krško,Krško,8270,Krško,Posavska
+8270 KRŠKO,ULICA ILIJE GREGORIČA 18 A,45.95890,15.50201,Ulica Ilije Gregoriča,,18,a,Krško,,Mestna četrt Krško,Krško,8270,Krško,Posavska
+8270 KRŠKO,VRBINA 12,45.93799,15.51713,Vrbina,,12,,Vrbina,,Mestna četrt Krško,Krško,8270,Krško,Posavska
+8270 KRŠKO,ŠOLSKA ULICA 1,45.95989,15.49411,Šolska ulica,,1,,Krško,,Mestna četrt Krško,Krško,8270,Krško,Posavska
 8272 ZDOLE,PLETERJE 24,45.97319,15.53447,Pleterje,,24,,Pleterje,,Zdole,Krško,8272,Zdole,Posavska
-8273 LESKOVEC PRI KRŠKEM,ULICA STANETA ŽAGARJA 4,45.94179,15.47753,Ulica Staneta Žagarja,,4,,Leskovec pri Krškem,,Leskovec pri Krškem,Krško,8273,Leskovec pri Krškem,Posavska
+8273 LESKOVEC PRI KRŠKEM,ULICA STANETA ŽAGARJA 4,45.94179,15.47753,Ulica Staneta Žagarja,,4,,Leskovec pri Krškem,,Mestna četrt Leskovec pri Krškem,Krško,8273,Leskovec pri Krškem,Posavska
 8274 RAKA,RAKA 36,45.92932,15.38078,Raka,,36,,Raka,,Raka,Krško,8274,Raka,Posavska
 8275 ŠKOCJAN,ŠKOCJAN 67,45.90725,15.28993,Škocjan,,67,,Škocjan,,,Škocjan,8275,Škocjan,Jugovzhodna Slovenija
 8280 BRESTANICA,LIKARJEVA ULICA 12,46.00108,15.48032,Likarjeva ulica,,12,,Brestanica,,Brestanica,Krško,8280,Brestanica,Posavska
@@ -1287,7 +1287,7 @@ postZZZS,addressZZZS,lat,lon,street,streetAlt,housenumber,housenumberAppendix,ci
 8340 ČRNOMELJ,ZADRUŽNA CESTA 33,45.57914,15.19513,Zadružna cesta,,33,,Črnomelj,,KS Črnomelj,Črnomelj,8340,Črnomelj,Jugovzhodna Slovenija
 8344 VINICA,VINICA 39 A,45.46053,15.25291,Vinica,,39,a,Vinica,,KS Vinica,Črnomelj,8344,Vinica,Jugovzhodna Slovenija
 8350 DOLENJSKE TOPLICE,KELTSKA ULICA 9,45.75288,15.05415,Keltska ulica,,9,,Dolenjske Toplice,,,Dolenjske Toplice,8350,Dolenjske Toplice,Jugovzhodna Slovenija
-8350 DOLENJSKE TOPLICE,PIONIRSKA CESTA 35,45.75721,15.05350,Pionirska cesta,,35,,Dolenjske Toplice,,,Dolenjske Toplice,8350,Dolenjske Toplice,Jugovzhodna Slovenija
+8350 DOLENJSKE TOPLICE,PIONIRSKA CESTA 35,45.75720,15.05350,Pionirska cesta,,35,,Dolenjske Toplice,,,Dolenjske Toplice,8350,Dolenjske Toplice,Jugovzhodna Slovenija
 8350 DOLENJSKE TOPLICE,ULICA MAKSA HENIGMANA 57,45.75493,15.06221,Ulica Maksa Henigmana,,57,,Dolenjske Toplice,,,Dolenjske Toplice,8350,Dolenjske Toplice,Jugovzhodna Slovenija
 8351 STRAŽA PRI NOVEM MESTU,HRUŠEVEC 55,45.78935,15.09697,Hruševec,,55,,Straža,,,Straža,8351,Straža pri Novem mestu,Jugovzhodna Slovenija
 8351 STRAŽA PRI NOVEM MESTU,ULICA TALCEV 17,45.78181,15.07112,Ulica talcev,,17,,Straža,,,Straža,8351,Straža pri Novem mestu,Jugovzhodna Slovenija
