@@ -100,6 +100,10 @@ Struktura datoteke [doctors.csv](csv/doctors.csv):
 
 Popravki preko ReportErr se uvozijo iz [overrides.csv](csv/overrides.csv).
 
+### Časovne vrste
+
+Datoteka [free-capitation-timeseries.csv](csv/free-capitation-timeseries.csv) vsebuje dnevno časovno vrsto z agregirano oceno prostih glavarinskih količnikov po tipu zdravnika in občini.
+
  
 ### Šifranti
 
