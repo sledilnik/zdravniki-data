@@ -323,7 +323,6 @@ postZZZS,addressZZZS,lat,lon,street,streetAlt,housenumber,housenumberAppendix,ci
 1353 BOROVNICA,MEJAČEVA ULICA 3,45.91998,14.36563,Mejačeva ulica,,3,,Borovnica,,,Borovnica,1353,Borovnica,Osrednjeslovenska
 1354 HORJUL,SLOVENSKA CESTA 17,46.02461,14.29536,Slovenska cesta,,17,,Horjul,,,Horjul,1354,Horjul,Osrednjeslovenska
 1354 HORJUL,ŠENTJOŠT NAD HORJULOM 49 A,46.03859,14.22049,Šentjošt nad Horjulom,,49,a,Šentjošt nad Horjulom,,Šentjošt,Dobrova-Polhov Gradec,1354,Horjul,Osrednjeslovenska
-1355 POLHOV GRADEC,BRIŠE PRI POLHOVEM GRADCU 1,46.05864,14.30332,Briše pri Polhovem Gradcu,,1,,Briše pri Polhovem Gradcu,,Polhov Gradec,Dobrova-Polhov Gradec,1355,Polhov Gradec,Osrednjeslovenska
 1355 POLHOV GRADEC,PODREBER 12 C,46.06336,14.32001,Podreber,,12,c,Podreber,,Polhov Gradec,Dobrova-Polhov Gradec,1355,Polhov Gradec,Osrednjeslovenska
 1355 POLHOV GRADEC,POLHOV GRADEC 13,46.06521,14.31457,Polhov Gradec,,13,,Polhov Gradec,,Polhov Gradec,Dobrova-Polhov Gradec,1355,Polhov Gradec,Osrednjeslovenska
 1355 POLHOV GRADEC,PRAPROČE 3,46.05929,14.29500,Praproče,,3,,Praproče,,Polhov Gradec,Dobrova-Polhov Gradec,1355,Polhov Gradec,Osrednjeslovenska
@@ -609,6 +608,7 @@ postZZZS,addressZZZS,lat,lon,street,streetAlt,housenumber,housenumberAppendix,ci
 2312 OREHOVA VAS,POLANSKA CESTA 7,46.47807,15.64895,Polanska cesta,,7,,Slivnica pri Mariboru,,Slivnica,Hoče-Slivnica,2312,Orehova vas,Podravska
 2312 OREHOVA VAS,VILENSKA CESTA 76,46.46908,15.64692,Vilenska cesta,,76,,Radizel,,Slivnica,Hoče-Slivnica,2312,Orehova vas,Podravska
 2313 FRAM,CAFOVA ULICA 1,46.45644,15.62696,Cafova ulica,,1,,Fram,,Fram,Rače-Fram,2313,Fram,Podravska
+2313 FRAM,OB MAGISTRALNI CESTI 2,46.44830,15.63698,Ob magistralni cesti,,2,,Morje,,Fram,Rače-Fram,2313,Fram,Podravska
 2314 ZGORNJA POLSKAVA,MLADINSKA ULICA 12,46.42702,15.61079,Mladinska ulica,,12,,Zgornja Polskava,,Zgornja Polskava,Slovenska Bistrica,2314,Zgornja Polskava,Podravska
 2315 ŠMARTNO NA POHORJU,ŠMARTNO NA POHORJU 22,46.44529,15.53805,Šmartno na Pohorju,,22,,Šmartno na Pohorju,,Šmartno na Pohorju,Slovenska Bistrica,2315,Šmartno na Pohorju,Podravska
 2317 OPLOTNICA,ULICA POHORSKEGA BATALJONA 1,46.38726,15.44601,Ulica Pohorskega bataljona,,1,,Oplotnica,,,Oplotnica,2317,Oplotnica,Podravska
