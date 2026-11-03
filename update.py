@@ -195,10 +195,14 @@ def append_overrides():
         merged_rows = []
         merged_indexes = []
 
+        overrides = overrides.copy()
         if list(overrides.index.names) != index_columns:
             # Normalize names to keep grouping stable if source CSV/index metadata changes.
-            overrides = overrides.copy()
             overrides.index = overrides.index.set_names(index_columns)
+
+        if overrides.empty:
+            # Preserve columns so downstream joins always provide the override fields.
+            return overrides
 
         for group_key, group in overrides.groupby(level=index_columns, sort=False):
             # Undated rows are treated as the oldest overrides.
