@@ -238,7 +238,12 @@ def parse_zzzs_file(filename: str, group: str, zzzsid_map):
         df.drop(columns=['unitCode', 'institutionID', 'doctorID', 'typeID', 'specialization'], inplace=True)
     elif len(df.columns) in {12, 13, 14, 16}:
         df = df.iloc[:, :12]
-        df.columns = ['unit', 'institutionID', 'name', 'address', 'city', 'doctorID', 'doctor', 'typeID', 'type', 'accepts', 'availability', 'load']
+        metric_columns = (
+            ['availability', 'load', 'accepts']
+            if str(df.columns[9]).strip().startswith('Obseg zaposlitve')
+            else ['accepts', 'availability', 'load']
+        )
+        df.columns = ['unit', 'institutionID', 'name', 'address', 'city', 'doctorID', 'doctor', 'typeID', 'type', *metric_columns]
         df.drop(columns=['institutionID', 'doctorID', 'typeID'], inplace=True)
     elif len(df.columns) == 9:
         df.columns = ['unit', 'name', 'address', 'city', 'doctor', 'type', 'availability', 'load', 'accepts']
