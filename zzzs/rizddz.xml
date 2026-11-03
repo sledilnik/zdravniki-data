@@ -2,10 +2,10 @@
 <bpi xmlns="http://zzzs.si/b2b/bpi" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemalocation="http://zzzs.si/b2b/bpi bpi.xsd">
  <posiljka>
   <verzijaposiljke>
-   5043
+   5048
   </verzijaposiljke>
   <datumposiljke>
-   2026-10-28
+   2026-11-03
   </datumposiljke>
   <verzijasheme>
    1.0
@@ -27484,10 +27484,10 @@
     KALLISTE D.O.O.
    </nazivorganizacijskeenote>
    <ulicaorganizacijskeenote>
-    PERNETOVA ULICA 1
+    SLAMNIKARSKA CESTA 3 B
    </ulicaorganizacijskeenote>
    <postaorganizacijskeenote>
-    1236 TRZIN
+    1230 DOMŽALE
    </postaorganizacijskeenote>
   </nazivinnaslov>
   <pravnistatus>
@@ -27508,10 +27508,10 @@
   </tipizvajalca>
   <obcina>
    <obcinasifra>
-    186
+    23
    </obcinasifra>
    <obcinanaziv>
-    TRZIN
+    DOMŽALE
    </obcinanaziv>
   </obcina>
   <veljaod>
@@ -54225,6 +54225,142 @@
  </ivzizvajalec>
  <ivzizvajalec>
   <sifraivzizvajalca>
+   437
+  </sifraivzizvajalca>
+  <sifralokacije>
+   10
+  </sifralokacije>
+  <zzzsstevilka>
+   10058655
+  </zzzsstevilka>
+  <organizacijskastruktura>
+   <sifraivzosnovni>
+    437
+   </sifraivzosnovni>
+  </organizacijskastruktura>
+  <nazivinnaslov>
+   <nazivorganizacijskeenote>
+    MEDICINA MATALN D.O.O.
+   </nazivorganizacijskeenote>
+   <dodatninazivorganizacijskeenote>
+    PE MEDICINA DELA MURSKA SOBOTA
+   </dodatninazivorganizacijskeenote>
+   <ulicaorganizacijskeenote>
+    SLOMŠKOVA ULICA 44
+   </ulicaorganizacijskeenote>
+   <postaorganizacijskeenote>
+    9000 MURSKA SOBOTA
+   </postaorganizacijskeenote>
+  </nazivinnaslov>
+  <pravnistatus>
+   <pravnistatussifra>
+    2
+   </pravnistatussifra>
+   <pravnistatusopis>
+    GOSPODARSKA DRUŽBA / ZASEBNI ZAVOD
+   </pravnistatusopis>
+  </pravnistatus>
+  <tipizvajalca>
+   <tipizvajalcasifra>
+    1
+   </tipizvajalcasifra>
+   <tipizvajalcaopis>
+    OSNOVNO ZDRAVSTVO
+   </tipizvajalcaopis>
+  </tipizvajalca>
+  <obcina>
+   <obcinasifra>
+    80
+   </obcinasifra>
+   <obcinanaziv>
+    MURSKA SOBOTA
+   </obcinanaziv>
+  </obcina>
+  <veljaod>
+   2026-10-27
+  </veljaod>
+  <vzd>
+   <sifravzd>
+    301
+   </sifravzd>
+   <opisvzd>
+    Medicina dela, prometa in športa
+   </opisvzd>
+   <veljaod>
+    2026-10-27
+   </veljaod>
+  </vzd>
+ </ivzizvajalec>
+ <ivzizvajalec>
+  <sifraivzizvajalca>
+   437
+  </sifraivzizvajalca>
+  <sifralokacije>
+   11
+  </sifralokacije>
+  <zzzsstevilka>
+   10062220
+  </zzzsstevilka>
+  <organizacijskastruktura>
+   <sifraivzosnovni>
+    437
+   </sifraivzosnovni>
+  </organizacijskastruktura>
+  <nazivinnaslov>
+   <nazivorganizacijskeenote>
+    MEDICINA MATALN D.O.O.
+   </nazivorganizacijskeenote>
+   <dodatninazivorganizacijskeenote>
+    PE MEDICINA DELA GROSUPLJE
+   </dodatninazivorganizacijskeenote>
+   <ulicaorganizacijskeenote>
+    PEROVO 19 B
+   </ulicaorganizacijskeenote>
+   <postaorganizacijskeenote>
+    1290 GROSUPLJE
+   </postaorganizacijskeenote>
+  </nazivinnaslov>
+  <pravnistatus>
+   <pravnistatussifra>
+    2
+   </pravnistatussifra>
+   <pravnistatusopis>
+    GOSPODARSKA DRUŽBA / ZASEBNI ZAVOD
+   </pravnistatusopis>
+  </pravnistatus>
+  <tipizvajalca>
+   <tipizvajalcasifra>
+    1
+   </tipizvajalcasifra>
+   <tipizvajalcaopis>
+    OSNOVNO ZDRAVSTVO
+   </tipizvajalcaopis>
+  </tipizvajalca>
+  <obcina>
+   <obcinasifra>
+    32
+   </obcinasifra>
+   <obcinanaziv>
+    GROSUPLJE
+   </obcinanaziv>
+  </obcina>
+  <veljaod>
+   2026-10-27
+  </veljaod>
+  <vzd>
+   <sifravzd>
+    301
+   </sifravzd>
+   <opisvzd>
+    Medicina dela, prometa in športa
+   </opisvzd>
+   <veljaod>
+    2026-10-27
+   </veljaod>
+  </vzd>
+ </ivzizvajalec>
+ <ivzizvajalec>
+  <sifraivzizvajalca>
    438
   </sifraivzizvajalca>
   <sifralokacije>
@@ -56577,6 +56713,9 @@
   <veljaod>
    2021-07-21
   </veljaod>
+  <veljado>
+   2026-06-08
+  </veljado>
   <vzd>
    <sifravzd>
     507
@@ -56587,6 +56726,9 @@
    <veljaod>
     2021-07-21
    </veljaod>
+   <veljado>
+    2026-06-08
+   </veljado>
   </vzd>
  </ivzizvajalec>
  <ivzizvajalec>
@@ -56645,6 +56787,9 @@
   <veljaod>
    2022-08-24
   </veljaod>
+  <veljado>
+   2026-06-08
+  </veljado>
   <vzd>
    <sifravzd>
     507
@@ -56655,6 +56800,9 @@
    <veljaod>
     2022-08-24
    </veljaod>
+   <veljado>
+    2026-06-08
+   </veljado>
   </vzd>
  </ivzizvajalec>
  <ivzizvajalec>
@@ -79955,6 +80103,74 @@
    </opisvzd>
    <veljaod>
     2024-03-29
+   </veljaod>
+  </vzd>
+ </ivzizvajalec>
+ <ivzizvajalec>
+  <sifraivzizvajalca>
+   783
+  </sifraivzizvajalca>
+  <sifralokacije>
+   2
+  </sifralokacije>
+  <zzzsstevilka>
+   10071905
+  </zzzsstevilka>
+  <organizacijskastruktura>
+   <sifraivzosnovni>
+    783
+   </sifraivzosnovni>
+  </organizacijskastruktura>
+  <nazivinnaslov>
+   <nazivorganizacijskeenote>
+    ALEŠ KRALJ S.P.
+   </nazivorganizacijskeenote>
+   <dodatninazivorganizacijskeenote>
+    PE ZOBOTEHNIČNI LABORATORIJ ZD CELJE
+   </dodatninazivorganizacijskeenote>
+   <ulicaorganizacijskeenote>
+    GREGORČIČEVA ULICA 5
+   </ulicaorganizacijskeenote>
+   <postaorganizacijskeenote>
+    3000 CELJE
+   </postaorganizacijskeenote>
+  </nazivinnaslov>
+  <pravnistatus>
+   <pravnistatussifra>
+    5
+   </pravnistatussifra>
+   <pravnistatusopis>
+    SAMOSTOJNI PODJETNIK
+   </pravnistatusopis>
+  </pravnistatus>
+  <tipizvajalca>
+   <tipizvajalcasifra>
+    1
+   </tipizvajalcasifra>
+   <tipizvajalcaopis>
+    OSNOVNO ZDRAVSTVO
+   </tipizvajalcaopis>
+  </tipizvajalca>
+  <obcina>
+   <obcinasifra>
+    11
+   </obcinasifra>
+   <obcinanaziv>
+    CELJE
+   </obcinanaziv>
+  </obcina>
+  <veljaod>
+   2026-11-01
+  </veljaod>
+  <vzd>
+   <sifravzd>
+    714
+   </sifravzd>
+   <opisvzd>
+    Zobotehnika
+   </opisvzd>
+   <veljaod>
+    2026-11-01
    </veljaod>
   </vzd>
  </ivzizvajalec>
@@ -111856,7 +112072,7 @@
   </organizacijskastruktura>
   <nazivinnaslov>
    <nazivorganizacijskeenote>
-    ACTINIA MEDICO D.O.O.
+    CENTER VITALIZACIJE D.O.O.
    </nazivorganizacijskeenote>
    <ulicaorganizacijskeenote>
     MAŠERA-SPASIĆEVA ULICA 8
@@ -136491,6 +136707,9 @@
   <veljaod>
    2023-08-07
   </veljaod>
+  <veljado>
+   2026-05-31
+  </veljado>
   <vzd>
    <sifravzd>
     706
@@ -136501,6 +136720,9 @@
    <veljaod>
     2023-08-07
    </veljaod>
+   <veljado>
+    2026-05-31
+   </veljado>
   </vzd>
  </ivzizvajalec>
  <ivzizvajalec>
@@ -136559,6 +136781,9 @@
   <veljaod>
    1900-01-01
   </veljaod>
+  <veljado>
+   2026-05-31
+  </veljado>
   <vzd>
    <sifravzd>
     302
@@ -136569,6 +136794,9 @@
    <veljaod>
     2023-08-07
    </veljaod>
+   <veljado>
+    2026-05-31
+   </veljado>
   </vzd>
  </ivzizvajalec>
  <ivzizvajalec>
@@ -138934,6 +139162,9 @@
   <veljaod>
    2023-07-31
   </veljaod>
+  <veljado>
+   2026-04-30
+  </veljado>
   <vzd>
    <sifravzd>
     507
@@ -138944,6 +139175,9 @@
    <veljaod>
     2023-07-31
    </veljaod>
+   <veljado>
+    2026-04-30
+   </veljado>
   </vzd>
  </ivzizvajalec>
  <ivzizvajalec>
@@ -139002,6 +139236,9 @@
   <veljaod>
    2025-03-11
   </veljaod>
+  <veljado>
+   2026-04-30
+  </veljado>
   <vzd>
    <sifravzd>
     507
@@ -139012,6 +139249,9 @@
    <veljaod>
     2025-03-11
    </veljaod>
+   <veljado>
+    2026-04-30
+   </veljado>
   </vzd>
  </ivzizvajalec>
  <ivzizvajalec>
@@ -156781,6 +157021,9 @@
   <veljaod>
    2024-04-09
   </veljaod>
+  <veljado>
+   2026-02-05
+  </veljado>
   <vzd>
    <sifravzd>
     706
@@ -156791,6 +157034,9 @@
    <veljaod>
     2024-04-09
    </veljaod>
+   <veljado>
+    2026-02-05
+   </veljado>
   </vzd>
  </ivzizvajalec>
  <ivzizvajalec>
@@ -156849,6 +157095,9 @@
   <veljaod>
    2024-04-09
   </veljaod>
+  <veljado>
+   2026-02-05
+  </veljado>
   <vzd>
    <sifravzd>
     231
@@ -156859,6 +157108,9 @@
    <veljaod>
     2024-04-09
    </veljaod>
+   <veljado>
+    2026-02-05
+   </veljado>
   </vzd>
  </ivzizvajalec>
  <ivzizvajalec>
@@ -158974,6 +159226,9 @@
   <veljaod>
    2024-06-24
   </veljaod>
+  <veljado>
+   2026-06-14
+  </veljado>
   <vzd>
    <sifravzd>
     706
@@ -158984,6 +159239,9 @@
    <veljaod>
     2024-06-24
    </veljaod>
+   <veljado>
+    2026-06-14
+   </veljado>
   </vzd>
  </ivzizvajalec>
  <ivzizvajalec>
@@ -159042,6 +159300,9 @@
   <veljaod>
    2024-07-12
   </veljaod>
+  <veljado>
+   2026-06-14
+  </veljado>
   <vzd>
    <sifravzd>
     234
@@ -159052,6 +159313,9 @@
    <veljaod>
     2024-07-12
    </veljaod>
+   <veljado>
+    2026-06-14
+   </veljado>
   </vzd>
  </ivzizvajalec>
  <ivzizvajalec>
@@ -205108,6 +205372,9 @@
   <veljaod>
    2025-05-19
   </veljaod>
+  <veljado>
+   2026-05-31
+  </veljado>
   <vzd>
    <sifravzd>
     706
@@ -205118,6 +205385,9 @@
    <veljaod>
     2025-05-19
    </veljaod>
+   <veljado>
+    2026-05-31
+   </veljado>
   </vzd>
  </ivzizvajalec>
  <ivzizvajalec>
@@ -205176,6 +205446,9 @@
   <veljaod>
    2025-06-04
   </veljaod>
+  <veljado>
+   2026-05-31
+  </veljado>
   <vzd>
    <sifravzd>
     202
@@ -205186,6 +205459,9 @@
    <veljaod>
     2025-06-04
    </veljaod>
+   <veljado>
+    2026-05-31
+   </veljado>
   </vzd>
  </ivzizvajalec>
  <ivzizvajalec>
@@ -206574,6 +206850,9 @@
   <veljaod>
    2025-05-24
   </veljaod>
+  <veljado>
+   2026-06-24
+  </veljado>
   <vzd>
    <sifravzd>
     706
@@ -206584,6 +206863,9 @@
    <veljaod>
     2025-05-24
    </veljaod>
+   <veljado>
+    2026-06-24
+   </veljado>
   </vzd>
  </ivzizvajalec>
  <ivzizvajalec>
@@ -206642,6 +206924,9 @@
   <veljaod>
    2025-05-24
   </veljaod>
+  <veljado>
+   2026-06-24
+  </veljado>
   <vzd>
    <sifravzd>
     206
@@ -206652,6 +206937,9 @@
    <veljaod>
     2025-05-24
    </veljaod>
+   <veljado>
+    2026-06-24
+   </veljado>
   </vzd>
   <vzd>
    <sifravzd>
@@ -206663,6 +206951,9 @@
    <veljaod>
     2025-05-24
    </veljaod>
+   <veljado>
+    2026-06-24
+   </veljado>
   </vzd>
  </ivzizvajalec>
  <ivzizvajalec>
@@ -206721,6 +207012,9 @@
   <veljaod>
    2025-05-16
   </veljaod>
+  <veljado>
+   2026-06-24
+  </veljado>
   <vzd>
    <sifravzd>
     206
@@ -206731,6 +207025,9 @@
    <veljaod>
     2025-05-16
    </veljaod>
+   <veljado>
+    2026-06-24
+   </veljado>
   </vzd>
   <vzd>
    <sifravzd>
@@ -206742,6 +207039,9 @@
    <veljaod>
     2025-05-16
    </veljaod>
+   <veljado>
+    2026-06-24
+   </veljado>
   </vzd>
  </ivzizvajalec>
  <ivzizvajalec>
@@ -229475,6 +229775,71 @@
  </ivzizvajalec>
  <ivzizvajalec>
   <sifraivzizvajalca>
+   2633
+  </sifraivzizvajalca>
+  <sifralokacije>
+   0
+  </sifralokacije>
+  <zzzsstevilka>
+   9873585
+  </zzzsstevilka>
+  <organizacijskastruktura>
+   <sifraivzosnovni>
+    2633
+   </sifraivzosnovni>
+  </organizacijskastruktura>
+  <nazivinnaslov>
+   <nazivorganizacijskeenote>
+    FIZIOTERAPIJA SOTEUM D.O.O.
+   </nazivorganizacijskeenote>
+   <ulicaorganizacijskeenote>
+    TRČOVA 74
+   </ulicaorganizacijskeenote>
+   <postaorganizacijskeenote>
+    2229 MALEČNIK
+   </postaorganizacijskeenote>
+  </nazivinnaslov>
+  <pravnistatus>
+   <pravnistatussifra>
+    2
+   </pravnistatussifra>
+   <pravnistatusopis>
+    GOSPODARSKA DRUŽBA / ZASEBNI ZAVOD
+   </pravnistatusopis>
+  </pravnistatus>
+  <tipizvajalca>
+   <tipizvajalcasifra>
+    1
+   </tipizvajalcasifra>
+   <tipizvajalcaopis>
+    OSNOVNO ZDRAVSTVO
+   </tipizvajalcaopis>
+  </tipizvajalca>
+  <obcina>
+   <obcinasifra>
+    70
+   </obcinasifra>
+   <obcinanaziv>
+    MARIBOR
+   </obcinanaziv>
+  </obcina>
+  <veljaod>
+   2026-07-17
+  </veljaod>
+  <vzd>
+   <sifravzd>
+    706
+   </sifravzd>
+   <opisvzd>
+    Urejanje zdr.,iz.,kult., drugih soc.st.
+   </opisvzd>
+   <veljaod>
+    2026-07-17
+   </veljaod>
+  </vzd>
+ </ivzizvajalec>
+ <ivzizvajalec>
+  <sifraivzizvajalca>
    2634
   </sifraivzizvajalca>
   <sifralokacije>
@@ -232642,6 +233007,201 @@
    </opisvzd>
    <veljaod>
     2026-10-12
+   </veljaod>
+  </vzd>
+ </ivzizvajalec>
+ <ivzizvajalec>
+  <sifraivzizvajalca>
+   2685
+  </sifraivzizvajalca>
+  <sifralokacije>
+   0
+  </sifralokacije>
+  <zzzsstevilka>
+   9949109
+  </zzzsstevilka>
+  <organizacijskastruktura>
+   <sifraivzosnovni>
+    2685
+   </sifraivzosnovni>
+  </organizacijskastruktura>
+  <nazivinnaslov>
+   <nazivorganizacijskeenote>
+    DENTRA D.O.O.
+   </nazivorganizacijskeenote>
+   <ulicaorganizacijskeenote>
+    LJUBLJANSKA CESTA 40
+   </ulicaorganizacijskeenote>
+   <postaorganizacijskeenote>
+    2310 SLOVENSKA BISTRICA
+   </postaorganizacijskeenote>
+  </nazivinnaslov>
+  <pravnistatus>
+   <pravnistatussifra>
+    2
+   </pravnistatussifra>
+   <pravnistatusopis>
+    GOSPODARSKA DRUŽBA / ZASEBNI ZAVOD
+   </pravnistatusopis>
+  </pravnistatus>
+  <tipizvajalca>
+   <tipizvajalcasifra>
+    1
+   </tipizvajalcasifra>
+   <tipizvajalcaopis>
+    OSNOVNO ZDRAVSTVO
+   </tipizvajalcaopis>
+  </tipizvajalca>
+  <obcina>
+   <obcinasifra>
+    113
+   </obcinasifra>
+   <obcinanaziv>
+    SLOVENSKA BISTRICA
+   </obcinanaziv>
+  </obcina>
+  <veljaod>
+   2026-10-12
+  </veljaod>
+  <vzd>
+   <sifravzd>
+    714
+   </sifravzd>
+   <opisvzd>
+    Zobotehnika
+   </opisvzd>
+   <veljaod>
+    2026-10-12
+   </veljaod>
+  </vzd>
+ </ivzizvajalec>
+ <ivzizvajalec>
+  <sifraivzizvajalca>
+   2688
+  </sifraivzizvajalca>
+  <sifralokacije>
+   0
+  </sifralokacije>
+  <zzzsstevilka>
+   10088088
+  </zzzsstevilka>
+  <organizacijskastruktura>
+   <sifraivzosnovni>
+    2688
+   </sifraivzosnovni>
+  </organizacijskastruktura>
+  <nazivinnaslov>
+   <nazivorganizacijskeenote>
+    LEA MAŠIĆ - USTNA HIGIENIČARKA
+   </nazivorganizacijskeenote>
+   <ulicaorganizacijskeenote>
+    KRAŠKA CESTA 2 P
+   </ulicaorganizacijskeenote>
+   <postaorganizacijskeenote>
+    6215 DIVAČA
+   </postaorganizacijskeenote>
+  </nazivinnaslov>
+  <pravnistatus>
+   <pravnistatussifra>
+    3
+   </pravnistatussifra>
+   <pravnistatusopis>
+    ZASEBNI ZDRAVSTVENI DELAVEC
+   </pravnistatusopis>
+  </pravnistatus>
+  <tipizvajalca>
+   <tipizvajalcasifra>
+    1
+   </tipizvajalcasifra>
+   <tipizvajalcaopis>
+    OSNOVNO ZDRAVSTVO
+   </tipizvajalcaopis>
+  </tipizvajalca>
+  <obcina>
+   <obcinasifra>
+    19
+   </obcinasifra>
+   <obcinanaziv>
+    DIVAČA
+   </obcinanaziv>
+  </obcina>
+  <veljaod>
+   2026-10-15
+  </veljaod>
+  <vzd>
+   <sifravzd>
+    706
+   </sifravzd>
+   <opisvzd>
+    Urejanje zdr.,iz.,kult., drugih soc.st.
+   </opisvzd>
+   <veljaod>
+    2026-10-15
+   </veljaod>
+  </vzd>
+ </ivzizvajalec>
+ <ivzizvajalec>
+  <sifraivzizvajalca>
+   2691
+  </sifraivzizvajalca>
+  <sifralokacije>
+   0
+  </sifralokacije>
+  <zzzsstevilka>
+   9940158
+  </zzzsstevilka>
+  <organizacijskastruktura>
+   <sifraivzosnovni>
+    2691
+   </sifraivzosnovni>
+  </organizacijskastruktura>
+  <nazivinnaslov>
+   <nazivorganizacijskeenote>
+    MEDICINA MATALN MB D.O.O.
+   </nazivorganizacijskeenote>
+   <ulicaorganizacijskeenote>
+    MEZNARIČEVA ULICA 7
+   </ulicaorganizacijskeenote>
+   <postaorganizacijskeenote>
+    2000 MARIBOR
+   </postaorganizacijskeenote>
+  </nazivinnaslov>
+  <pravnistatus>
+   <pravnistatussifra>
+    2
+   </pravnistatussifra>
+   <pravnistatusopis>
+    GOSPODARSKA DRUŽBA / ZASEBNI ZAVOD
+   </pravnistatusopis>
+  </pravnistatus>
+  <tipizvajalca>
+   <tipizvajalcasifra>
+    1
+   </tipizvajalcasifra>
+   <tipizvajalcaopis>
+    OSNOVNO ZDRAVSTVO
+   </tipizvajalcaopis>
+  </tipizvajalca>
+  <obcina>
+   <obcinasifra>
+    70
+   </obcinasifra>
+   <obcinanaziv>
+    MARIBOR
+   </obcinanaziv>
+  </obcina>
+  <veljaod>
+   2026-10-27
+  </veljaod>
+  <vzd>
+   <sifravzd>
+    301
+   </sifravzd>
+   <opisvzd>
+    Medicina dela, prometa in športa
+   </opisvzd>
+   <veljaod>
+    2026-10-27
    </veljaod>
   </vzd>
  </ivzizvajalec>
@@ -293546,6 +294106,9 @@
   <veljaod>
    1993-09-01
   </veljaod>
+  <veljado>
+   2026-01-27
+  </veljado>
   <vzd>
    <sifravzd>
     404
@@ -293556,6 +294119,9 @@
    <veljaod>
     1993-09-01
    </veljaod>
+   <veljado>
+    2026-01-27
+   </veljado>
   </vzd>
  </ivzizvajalec>
  <ivzizvajalec>
@@ -342321,10 +342887,10 @@
     MADENS D.O.O.
    </nazivorganizacijskeenote>
    <ulicaorganizacijskeenote>
-    ŽELEZNIKOVA ULICA 4
+    OB MAGISTRALNI CESTI 2
    </ulicaorganizacijskeenote>
    <postaorganizacijskeenote>
-    2000 MARIBOR
+    2313 FRAM
    </postaorganizacijskeenote>
   </nazivinnaslov>
   <pravnistatus>
@@ -342345,10 +342911,10 @@
   </tipizvajalca>
   <obcina>
    <obcinasifra>
-    70
+    98
    </obcinasifra>
    <obcinanaziv>
-    MARIBOR
+    RAČE-FRAM
    </obcinanaziv>
   </obcina>
   <veljaod>
@@ -371940,77 +372506,6 @@
  </ivzizvajalec>
  <ivzizvajalec>
   <sifraivzizvajalca>
-   25167
-  </sifraivzizvajalca>
-  <sifralokacije>
-   0
-  </sifralokacije>
-  <zzzsstevilka>
-   3055905
-  </zzzsstevilka>
-  <organizacijskastruktura>
-   <sifraivzosnovni>
-    25167
-   </sifraivzosnovni>
-  </organizacijskastruktura>
-  <nazivinnaslov>
-   <nazivorganizacijskeenote>
-    PAHOR BOJANA - FIZIOTERAPEVTKA
-   </nazivorganizacijskeenote>
-   <ulicaorganizacijskeenote>
-    BEBLERJEVA ULICA 12
-   </ulicaorganizacijskeenote>
-   <postaorganizacijskeenote>
-    6000 KOPER - CAPODISTRIA
-   </postaorganizacijskeenote>
-  </nazivinnaslov>
-  <pravnistatus>
-   <pravnistatussifra>
-    3
-   </pravnistatussifra>
-   <pravnistatusopis>
-    ZASEBNI ZDRAVSTVENI DELAVEC
-   </pravnistatusopis>
-  </pravnistatus>
-  <tipizvajalca>
-   <tipizvajalcasifra>
-    1
-   </tipizvajalcasifra>
-   <tipizvajalcaopis>
-    OSNOVNO ZDRAVSTVO
-   </tipizvajalcaopis>
-  </tipizvajalca>
-  <obcina>
-   <obcinasifra>
-    50
-   </obcinasifra>
-   <obcinanaziv>
-    KOPER
-   </obcinanaziv>
-  </obcina>
-  <veljaod>
-   1997-11-01
-  </veljaod>
-  <veljado>
-   2023-10-31
-  </veljado>
-  <vzd>
-   <sifravzd>
-    507
-   </sifravzd>
-   <opisvzd>
-    Fizioterapija
-   </opisvzd>
-   <veljaod>
-    1997-11-01
-   </veljaod>
-   <veljado>
-    2023-10-31
-   </veljado>
-  </vzd>
- </ivzizvajalec>
- <ivzizvajalec>
-  <sifraivzizvajalca>
    25169
   </sifraivzizvajalca>
   <sifralokacije>
@@ -386443,6 +386938,9 @@
   <veljaod>
    1997-01-01
   </veljaod>
+  <veljado>
+   2026-03-17
+  </veljado>
   <vzd>
    <sifravzd>
     404
@@ -386453,6 +386951,9 @@
    <veljaod>
     1997-01-01
    </veljaod>
+   <veljado>
+    2026-03-17
+   </veljado>
   </vzd>
  </ivzizvajalec>
  <ivzizvajalec>
@@ -394798,6 +395299,9 @@
   <veljaod>
    2008-10-01
   </veljaod>
+  <veljado>
+   2026-07-31
+  </veljado>
   <vzd>
    <sifravzd>
     404
@@ -394808,6 +395312,9 @@
    <veljaod>
     2008-10-01
    </veljaod>
+   <veljado>
+    2026-07-31
+   </veljado>
   </vzd>
  </ivzizvajalec>
  <ivzizvajalec>
@@ -435342,6 +435849,9 @@
   <veljaod>
    2014-01-01
   </veljaod>
+  <veljado>
+   2023-12-31
+  </veljado>
   <vzd>
    <sifravzd>
     246
@@ -435352,6 +435862,9 @@
    <veljaod>
     2014-01-01
    </veljaod>
+   <veljado>
+    2023-12-31
+   </veljado>
   </vzd>
   <vzd>
    <sifravzd>
@@ -435363,6 +435876,9 @@
    <veljaod>
     2014-01-01
    </veljaod>
+   <veljado>
+    2023-12-31
+   </veljado>
   </vzd>
   <vzd>
    <sifravzd>
@@ -435374,6 +435890,9 @@
    <veljaod>
     2014-01-01
    </veljaod>
+   <veljado>
+    2023-12-31
+   </veljado>
   </vzd>
  </ivzizvajalec>
  <ivzizvajalec>
@@ -435717,6 +436236,9 @@
   <veljaod>
    2014-01-01
   </veljaod>
+  <veljado>
+   2024-12-31
+  </veljado>
   <vzd>
    <sifravzd>
     246
@@ -435727,6 +436249,9 @@
    <veljaod>
     2014-01-01
    </veljaod>
+   <veljado>
+    2024-12-31
+   </veljado>
   </vzd>
   <vzd>
    <sifravzd>
@@ -435738,6 +436263,9 @@
    <veljaod>
     2014-01-01
    </veljaod>
+   <veljado>
+    2024-12-31
+   </veljado>
   </vzd>
  </ivzizvajalec>
  <ivzizvajalec>
