@@ -206,7 +206,7 @@ def append_overrides():
 
         for group_key, group in overrides.groupby(level=index_columns, sort=False):
             # Undated rows are treated as the oldest overrides.
-            ordered_group = group.sort_values(by='date_override', na_position='first')
+            ordered_group = group.sort_values(by='date_override', na_position='first', kind='mergesort')
             merged_row = ordered_group.iloc[0].copy()
             merged_indexes.append(group_key)
 
