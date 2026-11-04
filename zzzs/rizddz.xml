@@ -2,10 +2,10 @@
 <bpi xmlns="http://zzzs.si/b2b/bpi" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemalocation="http://zzzs.si/b2b/bpi bpi.xsd">
  <posiljka>
   <verzijaposiljke>
-   5048
+   5049
   </verzijaposiljke>
   <datumposiljke>
-   2026-11-03
+   2026-11-04
   </datumposiljke>
   <verzijasheme>
    1.0
@@ -80094,6 +80094,9 @@
   <veljaod>
    2024-03-29
   </veljaod>
+  <veljado>
+   2026-10-31
+  </veljado>
   <vzd>
    <sifravzd>
     714
@@ -80104,6 +80107,9 @@
    <veljaod>
     2024-03-29
    </veljaod>
+   <veljado>
+    2026-10-31
+   </veljado>
   </vzd>
  </ivzizvajalec>
  <ivzizvajalec>
@@ -130473,6 +130479,9 @@
   <veljaod>
    2023-10-23
   </veljaod>
+  <veljado>
+   2026-05-31
+  </veljado>
   <vzd>
    <sifravzd>
     404
@@ -130483,6 +130492,9 @@
    <veljaod>
     2023-10-23
    </veljaod>
+   <veljado>
+    2026-05-31
+   </veljado>
   </vzd>
  </ivzizvajalec>
  <ivzizvajalec>
@@ -233202,6 +233214,201 @@
    </opisvzd>
    <veljaod>
     2026-10-27
+   </veljaod>
+  </vzd>
+ </ivzizvajalec>
+ <ivzizvajalec>
+  <sifraivzizvajalca>
+   2692
+  </sifraivzizvajalca>
+  <sifralokacije>
+   0
+  </sifralokacije>
+  <zzzsstevilka>
+   9764357
+  </zzzsstevilka>
+  <organizacijskastruktura>
+   <sifraivzosnovni>
+    2692
+   </sifraivzosnovni>
+  </organizacijskastruktura>
+  <nazivinnaslov>
+   <nazivorganizacijskeenote>
+    GYN.CO D.O.O.
+   </nazivorganizacijskeenote>
+   <ulicaorganizacijskeenote>
+    FRANCETOVA CESTA 4
+   </ulicaorganizacijskeenote>
+   <postaorganizacijskeenote>
+    2380 SLOVENJ GRADEC
+   </postaorganizacijskeenote>
+  </nazivinnaslov>
+  <pravnistatus>
+   <pravnistatussifra>
+    2
+   </pravnistatussifra>
+   <pravnistatusopis>
+    GOSPODARSKA DRUŽBA / ZASEBNI ZAVOD
+   </pravnistatusopis>
+  </pravnistatus>
+  <tipizvajalca>
+   <tipizvajalcasifra>
+    2
+   </tipizvajalcasifra>
+   <tipizvajalcaopis>
+    SPECIALISTIČNA AMBULANTA
+   </tipizvajalcaopis>
+  </tipizvajalca>
+  <obcina>
+   <obcinasifra>
+    112
+   </obcinasifra>
+   <obcinanaziv>
+    SLOVENJ GRADEC
+   </obcinanaziv>
+  </obcina>
+  <veljaod>
+   2026-07-15
+  </veljaod>
+  <vzd>
+   <sifravzd>
+    206
+   </sifravzd>
+   <opisvzd>
+    Ginek. in porod. v spec. ZunajBolDej
+   </opisvzd>
+   <veljaod>
+    2026-07-15
+   </veljaod>
+  </vzd>
+ </ivzizvajalec>
+ <ivzizvajalec>
+  <sifraivzizvajalca>
+   2693
+  </sifraivzizvajalca>
+  <sifralokacije>
+   0
+  </sifralokacije>
+  <zzzsstevilka>
+   9315715
+  </zzzsstevilka>
+  <organizacijskastruktura>
+   <sifraivzosnovni>
+    2693
+   </sifraivzosnovni>
+  </organizacijskastruktura>
+  <nazivinnaslov>
+   <nazivorganizacijskeenote>
+    MN&amp;N D.O.O.
+   </nazivorganizacijskeenote>
+   <ulicaorganizacijskeenote>
+    POT K IZVIRU 6
+   </ulicaorganizacijskeenote>
+   <postaorganizacijskeenote>
+    1260 LJUBLJANA - POLJE
+   </postaorganizacijskeenote>
+  </nazivinnaslov>
+  <pravnistatus>
+   <pravnistatussifra>
+    2
+   </pravnistatussifra>
+   <pravnistatusopis>
+    GOSPODARSKA DRUŽBA / ZASEBNI ZAVOD
+   </pravnistatusopis>
+  </pravnistatus>
+  <tipizvajalca>
+   <tipizvajalcasifra>
+    1
+   </tipizvajalcasifra>
+   <tipizvajalcaopis>
+    OSNOVNO ZDRAVSTVO
+   </tipizvajalcaopis>
+  </tipizvajalca>
+  <obcina>
+   <obcinasifra>
+    61
+   </obcinasifra>
+   <obcinanaziv>
+    LJUBLJANA
+   </obcinanaziv>
+  </obcina>
+  <veljaod>
+   2026-10-27
+  </veljaod>
+  <vzd>
+   <sifravzd>
+    404
+   </sifravzd>
+   <opisvzd>
+    Splošno zobozdravstvo
+   </opisvzd>
+   <veljaod>
+    2026-10-27
+   </veljaod>
+  </vzd>
+ </ivzizvajalec>
+ <ivzizvajalec>
+  <sifraivzizvajalca>
+   2694
+  </sifraivzizvajalca>
+  <sifralokacije>
+   0
+  </sifralokacije>
+  <zzzsstevilka>
+   8838652
+  </zzzsstevilka>
+  <organizacijskastruktura>
+   <sifraivzosnovni>
+    2694
+   </sifraivzosnovni>
+  </organizacijskastruktura>
+  <nazivinnaslov>
+   <nazivorganizacijskeenote>
+    PSUKHE D.O.O.
+   </nazivorganizacijskeenote>
+   <ulicaorganizacijskeenote>
+    ULICA ŠTEFANA KOVAČA 10
+   </ulicaorganizacijskeenote>
+   <postaorganizacijskeenote>
+    9000 MURSKA SOBOTA
+   </postaorganizacijskeenote>
+  </nazivinnaslov>
+  <pravnistatus>
+   <pravnistatussifra>
+    2
+   </pravnistatussifra>
+   <pravnistatusopis>
+    GOSPODARSKA DRUŽBA / ZASEBNI ZAVOD
+   </pravnistatusopis>
+  </pravnistatus>
+  <tipizvajalca>
+   <tipizvajalcasifra>
+    2
+   </tipizvajalcasifra>
+   <tipizvajalcaopis>
+    SPECIALISTIČNA AMBULANTA
+   </tipizvajalcaopis>
+  </tipizvajalca>
+  <obcina>
+   <obcinasifra>
+    80
+   </obcinasifra>
+   <obcinanaziv>
+    MURSKA SOBOTA
+   </obcinanaziv>
+  </obcina>
+  <veljaod>
+   2026-10-28
+  </veljaod>
+  <vzd>
+   <sifravzd>
+    255
+   </sifravzd>
+   <opisvzd>
+    Klinična psihologija v spec. ZunajBolDej
+   </opisvzd>
+   <veljaod>
+    2026-10-28
    </veljaod>
   </vzd>
  </ivzizvajalec>
