@@ -1,39 +1,96 @@
 doctor,type,id_inst,accepts,availability,load
-Arbeiter Hančič Mojca,den-y,,y,1.0,61.28
-Bauman Jasmina,den-y,,n,1.0,122.38
-Bedene Zvezdana,den-y,,n,1.0,121.99
-Bobnar Mojca,den-y,,n,1.2,132.5
+Ajdnik Sabina,den,,y,1.0,78.19
+Belšak Sok Andreja,den,,n,0.7,125.67
+Belšak Sok Andreja,den-y,,n,0.3,133.79
+Božič Metka,,,n,1.0,2381.16
 Bradač Ana,den-y,,y,0.5,156.7
-Dajović Nataša,den-y,,y,1.0,80.16
-Dobravec Majda,den-y,,n,1.0,118.37
-Drev Mojca,den-y,,n,1.2,114.46
+Cvek Nina,gp,,n,1.0,1433.65
+Drev Lovro,den,,n,1.0,115.6
+Dukić Jasminka,gp,,n,1.0,1504.41
+Ebenšpanger Dejan,den,,n,1.0,169.51
+Ekart Tomaž,den,,n,1.0,114.56
 Eršte Božena,den,,y,0.58,77.92
-Fabjan Aleksandra,den-y,,y,1.0,103.57
-Gašperič Adela,den-y,,y,1.2,106.2
-Gladek Štefka,den-y,,y,1.0,91.6
-Gorenc Mojca,den-y,,y,1.0,67.48
-Gradišar Katja,den-y,,n,0.94,133.48
-Grandošek Ksenija,den-y,,y,1.0,76.18
-Herlec Šturm Tina,den-y,,n,1.0,113.11
-Hleb Verbič Katja,den-y,,n,0.2,449.74
-Ivančič Alenka,den-y,,n,1.0,124.56
-Ješe Mateja,den-y,,n,1.0,114.99
-Jošt Jula,den-y,,y,1.0,75.59
-Knez Blaž,den-y,,n,1.0,143.26
-Kocmut Škof Nataša,den-y,,n,1.0,136.98
-Kovačič Maja,den-y,,n,0.75,111.98
-Lah Marjan,den-y,,n,1.0,112.67
-Ljubojević Zorica,den-y,,y,1.0,109.11
-Maček Ingrid Katarina,den-y,,n,1.0,122.73
-Pisk Juta Simona,den-y,,y,1.0,100.39
-Pokeržnik Peter,den-y,,n,1.0,130.34
+Faganel Bavcon Erika,gp,,n,1.0,1803.47
+Filipič Irena,den,,n,0.5,150.45
+Fodor Gustav,ped,,y,0.75,1096.88
+Golčer Jožef,den,,n,0.2,138.37
+Grabar Krajnc Milena,den,,n,1.0,168.93
+Gregorič Kovačič Mojca,den,,n,0.7,177.43
+Gregorič Kovačič Mojca,den-y,,n,0.3,162.77
+Hasaj Matej,den,,n,0.75,120.15
+Horvat Alenka,ped,,n,0.75,2559.56
+Horvat Marko,den,,n,1.0,122.66
+Hussein Jasna,den-y,,n,0.92,133.7
+Kardoš Horvat Nina,gp,,n,0.6,1954.43
+Kerec Medeja,den,,n,1.0,118.77
+Kolarić Davorin,gp,,n,1.0,1580.19
+Komel Jakob,gp,,n,1.0,2252.59
+Komes Ivana,den,,y,1.0,98.07
+Kordić Antonio,den,,n,0.88,118.7
+Kornakov Kiril,den,,y,1.0,95.76
+Kovačič Miroslav,den,,n,0.6,196.55
+Kovačič Miroslav,den-y,,n,0.4,122.55
+Košar Mojca,den,,y,1.0,99.42
+Kralj Tomaž,den,,n,1.0,113.32
+Kramberger Vladimir,den,,y,1.0,105.2
+Kulčar Rihard,den,,y,1.0,97.43
+Köveš Dean,gp,,n,1.0,2285.1
+Lang Leon,,,y,1.2,1790.24
+Lazarević Vedran,den,,y,1.0,64.83
+Lazarević Željko,den,,n,0.75,186.39
+Lazarević Željko,den-y,,y,0.25,105.56
+Letnik Breda,den,,n,1.0,117.12
+Male Rene,den,,y,1.0,109.8
+Marič Veit Bojana,gp,,n,0.8,1750.55
+Markon Kaučič Sara,gp,,y,1.0,170.27
+Misleta Ternar Mira,ped,,n,0.75,1867.12
+Mlinar Nevenka,gp,,n,1.0,2077.42
+Norčič Berce Andreja,den,,n,1.0,128.05
+Ocepek Andrej,den,,n,0.7,190.41
+Ocepek Andrej,den-y,,y,0.3,101.18
+Omerzel Topalovič Andreja,den,,y,0.6,103.17
+Ostaševski Pozne Maša,den,,n,0.92,127.47
+Pavlin Klemenc Maja,gp,,n,1.0,2144.66
+Pavlović Darja,den,,y,0.5,68.74
+Pereza Ivan,den,,n,0.39,382.28
+Petrović Foltin Mirjana,den,,y,1.0,101.52
+Petrovič Mirjana,den,,n,0.9,110.85
+Petrovič Mirjana,den-y,,y,0.1,60.32
+Pirher Rebernik Barbara,den,,n,1.0,118.93
+Pirher Saša,den,,n,1.0,123.11
+Potočnik Petek Jerneja,den,,n,0.4,122.5
+Prešern Darja,den,,n,0.35,290.48
+Prešern Darja,den-y,,y,0.57,105.53
+Puhan Bojan,den,,n,1.0,143.39
+Radak Suzana,den-y,,y,1.0,61.36
+Radić Marina,den,,y,0.9,86.52
+Radić Terezija,den,,n,0.1,189.99
 Raduha Samanta,den-y,,y,0.5,97.83
-Rihtar Tanja,den-y,,y,1.0,106.7
+Ribič Zoran,den,,n,1.0,170.6
+Richter Marko,den,,y,0.9,50.59
+Richter Marko,den-y,,y,0.1,28.08
+Rihtaršič Irena,gp,,n,1.0,1553.09
 Rodošek Bojana,den-y,,y,1.0,107.25
-Rozman Vitorovič Nataša,den-y,,y,1.0,105.68
-Vizjak David,den-y,,n,1.2,111.16
-Vujović Vladimir,den-y,,n,1.0,123.63
-Zajc Asja,den-y,,n,0.2,114.6
-Zaplotnik Kralj Ksenija,den-y,,y,1.0,106.75
-Zupančič Mojca,den-y,,n,1.0,118.97
-Škrbinc Dina,den-y,,n,1.2,130.59
+Rojko Jasmina,den,,y,1.0,61.84
+Serafimov Angel,den,,y,1.0,59.37
+Sitar Klara,den,,y,0.8,82.19
+Sok Nejc,den,,n,0.7,127.26
+Soršak Karin,den-y,,y,1.0,54.17
+Trajanovski Zoran,den,,y,1.0,94.74
+Treiber Pleh Estera,den,,y,1.0,87.93
+Trojnar Budak Irena,gp,,n,1.0,1719.99
+Vidovič Alenka,den,,n,0.85,146.6
+Vočanec Bojana,den,,y,1.0,188.2
+Vukan Jože,den,,n,0.9,133.76
+Vukan Jože,den-y,,n,0.1,193.21
+Vurcer Mohorko Branka,den,,n,0.1,114.25
+Vurcer Nuša,den,,n,0.9,164.44
+Zorko Tjaša,gp,,n,0.2,4920.3
+Čopi Simona,gyn,,n,1.0,105.62
+Šepić Nenad,gyn,,y,1.0,75.14
+Šitum Rečnik Urška,den,,y,1.0,115.25
+Škorić Mojca,den,,y,1.0,76.47
+Šterman Tina,gp,,n,0.5,1490.36
+Šučur Verica,den,,n,1.0,120.98
+Žižek Čebulj Albina,den,,n,0.8,172.19
+Žižek Čebulj Albina,den-y,,n,0.2,119.57
