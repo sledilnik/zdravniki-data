@@ -2,10 +2,10 @@
 <bpi xmlns="http://zzzs.si/b2b/bpi" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemalocation="http://zzzs.si/b2b/bpi bpi.xsd">
  <posiljka>
   <verzijaposiljke>
-   5055
+   5056
   </verzijaposiljke>
   <datumposiljke>
-   2026-11-10
+   2026-11-11
   </datumposiljke>
   <verzijasheme>
    1.0
@@ -146521,6 +146521,9 @@
   <veljaod>
    2024-07-01
   </veljaod>
+  <veljado>
+   2026-05-31
+  </veljado>
   <vzd>
    <sifravzd>
     706
@@ -146531,6 +146534,9 @@
    <veljaod>
     2024-07-01
    </veljaod>
+   <veljado>
+    2026-05-31
+   </veljado>
   </vzd>
  </ivzizvajalec>
  <ivzizvajalec>
@@ -146589,6 +146595,9 @@
   <veljaod>
    2024-07-01
   </veljaod>
+  <veljado>
+   2026-05-31
+  </veljado>
   <vzd>
    <sifravzd>
     209
@@ -146599,6 +146608,9 @@
    <veljaod>
     2024-07-01
    </veljaod>
+   <veljado>
+    2026-05-31
+   </veljado>
   </vzd>
  </ivzizvajalec>
  <ivzizvajalec>
@@ -233468,6 +233480,71 @@
    </opisvzd>
    <veljaod>
     2026-10-23
+   </veljaod>
+  </vzd>
+ </ivzizvajalec>
+ <ivzizvajalec>
+  <sifraivzizvajalca>
+   2698
+  </sifraivzizvajalca>
+  <sifralokacije>
+   0
+  </sifralokacije>
+  <zzzsstevilka>
+   9006788
+  </zzzsstevilka>
+  <organizacijskastruktura>
+   <sifraivzosnovni>
+    2698
+   </sifraivzosnovni>
+  </organizacijskastruktura>
+  <nazivinnaslov>
+   <nazivorganizacijskeenote>
+    ŠPELA GORENC JAZBEC S.P.
+   </nazivorganizacijskeenote>
+   <ulicaorganizacijskeenote>
+    ZASAVSKA CESTA 58 K
+   </ulicaorganizacijskeenote>
+   <postaorganizacijskeenote>
+    4000 KRANJ
+   </postaorganizacijskeenote>
+  </nazivinnaslov>
+  <pravnistatus>
+   <pravnistatussifra>
+    5
+   </pravnistatussifra>
+   <pravnistatusopis>
+    SAMOSTOJNI PODJETNIK
+   </pravnistatusopis>
+  </pravnistatus>
+  <tipizvajalca>
+   <tipizvajalcasifra>
+    1
+   </tipizvajalcasifra>
+   <tipizvajalcaopis>
+    OSNOVNO ZDRAVSTVO
+   </tipizvajalcaopis>
+  </tipizvajalca>
+  <obcina>
+   <obcinasifra>
+    52
+   </obcinasifra>
+   <obcinanaziv>
+    KRANJ
+   </obcinanaziv>
+  </obcina>
+  <veljaod>
+   2026-11-06
+  </veljaod>
+  <vzd>
+   <sifravzd>
+    507
+   </sifravzd>
+   <opisvzd>
+    Fizioterapija
+   </opisvzd>
+   <veljaod>
+    2026-11-06
    </veljaod>
   </vzd>
  </ivzizvajalec>
@@ -415420,7 +415497,7 @@
     ZASEBNA ZOBNA AMBULANTA - ANJA TROBEC, DR.DENT.MED.
    </nazivorganizacijskeenote>
    <ulicaorganizacijskeenote>
-    CESTA LEONA DOBROTINŠKA 5
+    MESTNI TRG 4
    </ulicaorganizacijskeenote>
    <postaorganizacijskeenote>
     3230 ŠENTJUR
@@ -472403,6 +472480,99 @@
  </ivzizvajalec>
  <ivzizvajalec>
   <sifraivzizvajalca>
+   5150
+  </sifraivzizvajalca>
+  <sifralokacije>
+   24
+  </sifralokacije>
+  <zzzsstevilka>
+   10108937
+  </zzzsstevilka>
+  <organizacijskastruktura>
+   <sifraivznadrejeni>
+    5011
+   </sifraivznadrejeni>
+   <sifraivzosnovni>
+    5150
+   </sifraivzosnovni>
+  </organizacijskastruktura>
+  <nazivinnaslov>
+   <nazivorganizacijskeenote>
+    ZDRAVSTVENI DOM LJUBLJANA - CENTER
+   </nazivorganizacijskeenote>
+   <dodatninazivorganizacijskeenote>
+    LOKACIJA ZAPORI DOBRUNJE
+   </dodatninazivorganizacijskeenote>
+   <ulicaorganizacijskeenote>
+    LITIJSKA CESTA 217
+   </ulicaorganizacijskeenote>
+   <postaorganizacijskeenote>
+    1261 LJUBLJANA - DOBRUNJE
+   </postaorganizacijskeenote>
+  </nazivinnaslov>
+  <pravnistatus>
+   <pravnistatussifra>
+    1
+   </pravnistatussifra>
+   <pravnistatusopis>
+    JAVNI ZAVOD
+   </pravnistatusopis>
+  </pravnistatus>
+  <tipizvajalca>
+   <tipizvajalcasifra>
+    1
+   </tipizvajalcasifra>
+   <tipizvajalcaopis>
+    OSNOVNO ZDRAVSTVO
+   </tipizvajalcaopis>
+  </tipizvajalca>
+  <obcina>
+   <obcinasifra>
+    61
+   </obcinasifra>
+   <obcinanaziv>
+    LJUBLJANA
+   </obcinanaziv>
+  </obcina>
+  <veljaod>
+   2026-10-11
+  </veljaod>
+  <vzd>
+   <sifravzd>
+    302
+   </sifravzd>
+   <opisvzd>
+    Splošna in družinska medicina
+   </opisvzd>
+   <veljaod>
+    2026-10-11
+   </veljaod>
+  </vzd>
+  <vzd>
+   <sifravzd>
+    230
+   </sifravzd>
+   <opisvzd>
+    Psihiatrija v spec. ZunajBolDej
+   </opisvzd>
+   <veljaod>
+    2026-10-11
+   </veljaod>
+  </vzd>
+  <vzd>
+   <sifravzd>
+    404
+   </sifravzd>
+   <opisvzd>
+    Splošno zobozdravstvo
+   </opisvzd>
+   <veljaod>
+    2026-10-11
+   </veljaod>
+  </vzd>
+ </ivzizvajalec>
+ <ivzizvajalec>
+  <sifraivzizvajalca>
    5300
   </sifraivzizvajalca>
   <sifralokacije>
@@ -487393,6 +487563,17 @@
    </opisvzd>
    <veljaod>
     2025-01-01
+   </veljaod>
+  </vzd>
+  <vzd>
+   <sifravzd>
+    256
+   </sifravzd>
+   <opisvzd>
+    Klinična prehrana v spec. ZunajBolDej
+   </opisvzd>
+   <veljaod>
+    2026-10-01
    </veljaod>
   </vzd>
  </ivzizvajalec>
