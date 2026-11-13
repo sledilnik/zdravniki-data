@@ -2,10 +2,10 @@
 <bpi xmlns="http://zzzs.si/b2b/bpi" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemalocation="http://zzzs.si/b2b/bpi bpi.xsd">
  <posiljka>
   <verzijaposiljke>
-   5057
+   5058
   </verzijaposiljke>
   <datumposiljke>
-   2026-11-12
+   2026-11-13
   </datumposiljke>
   <verzijasheme>
    1.0
@@ -54489,6 +54489,210 @@
    </opisvzd>
    <veljaod>
     2021-10-01
+   </veljaod>
+  </vzd>
+ </ivzizvajalec>
+ <ivzizvajalec>
+  <sifraivzizvajalca>
+   438
+  </sifraivzizvajalca>
+  <sifralokacije>
+   2
+  </sifralokacije>
+  <zzzsstevilka>
+   10082392
+  </zzzsstevilka>
+  <organizacijskastruktura>
+   <sifraivzosnovni>
+    438
+   </sifraivzosnovni>
+  </organizacijskastruktura>
+  <nazivinnaslov>
+   <nazivorganizacijskeenote>
+    ZDRAVSTVENA DEJAVNOST IN SVETOVANJE, MARJETKA MLINAR S. P.
+   </nazivorganizacijskeenote>
+   <dodatninazivorganizacijskeenote>
+    LOKACIJA ŠENTJUR
+   </dodatninazivorganizacijskeenote>
+   <ulicaorganizacijskeenote>
+    CESTA LEONA DOBROTINŠKA 6
+   </ulicaorganizacijskeenote>
+   <postaorganizacijskeenote>
+    3230 ŠENTJUR
+   </postaorganizacijskeenote>
+  </nazivinnaslov>
+  <pravnistatus>
+   <pravnistatussifra>
+    6
+   </pravnistatussifra>
+   <pravnistatusopis>
+    SAMOSTOJNI PODJETNIK - BREZ AMBULANTE
+   </pravnistatusopis>
+  </pravnistatus>
+  <tipizvajalca>
+   <tipizvajalcasifra>
+    1
+   </tipizvajalcasifra>
+   <tipizvajalcaopis>
+    OSNOVNO ZDRAVSTVO
+   </tipizvajalcaopis>
+  </tipizvajalca>
+  <obcina>
+   <obcinasifra>
+    120
+   </obcinasifra>
+   <obcinanaziv>
+    ŠENTJUR
+   </obcinanaziv>
+  </obcina>
+  <veljaod>
+   2026-03-11
+  </veljaod>
+  <vzd>
+   <sifravzd>
+    302
+   </sifravzd>
+   <opisvzd>
+    Splošna in družinska medicina
+   </opisvzd>
+   <veljaod>
+    2026-03-11
+   </veljaod>
+  </vzd>
+ </ivzizvajalec>
+ <ivzizvajalec>
+  <sifraivzizvajalca>
+   438
+  </sifraivzizvajalca>
+  <sifralokacije>
+   3
+  </sifralokacije>
+  <zzzsstevilka>
+   10082421
+  </zzzsstevilka>
+  <organizacijskastruktura>
+   <sifraivzosnovni>
+    438
+   </sifraivzosnovni>
+  </organizacijskastruktura>
+  <nazivinnaslov>
+   <nazivorganizacijskeenote>
+    ZDRAVSTVENA DEJAVNOST IN SVETOVANJE, MARJETKA MLINAR S. P.
+   </nazivorganizacijskeenote>
+   <dodatninazivorganizacijskeenote>
+    LOKACIJA JURČIČEVA ULICA
+   </dodatninazivorganizacijskeenote>
+   <ulicaorganizacijskeenote>
+    JURČIČEVA ULICA 6
+   </ulicaorganizacijskeenote>
+   <postaorganizacijskeenote>
+    3000 CELJE
+   </postaorganizacijskeenote>
+  </nazivinnaslov>
+  <pravnistatus>
+   <pravnistatussifra>
+    6
+   </pravnistatussifra>
+   <pravnistatusopis>
+    SAMOSTOJNI PODJETNIK - BREZ AMBULANTE
+   </pravnistatusopis>
+  </pravnistatus>
+  <tipizvajalca>
+   <tipizvajalcasifra>
+    1
+   </tipizvajalcasifra>
+   <tipizvajalcaopis>
+    OSNOVNO ZDRAVSTVO
+   </tipizvajalcaopis>
+  </tipizvajalca>
+  <obcina>
+   <obcinasifra>
+    11
+   </obcinasifra>
+   <obcinanaziv>
+    CELJE
+   </obcinanaziv>
+  </obcina>
+  <veljaod>
+   2026-10-02
+  </veljaod>
+  <vzd>
+   <sifravzd>
+    302
+   </sifravzd>
+   <opisvzd>
+    Splošna in družinska medicina
+   </opisvzd>
+   <veljaod>
+    2026-10-02
+   </veljaod>
+  </vzd>
+ </ivzizvajalec>
+ <ivzizvajalec>
+  <sifraivzizvajalca>
+   438
+  </sifraivzizvajalca>
+  <sifralokacije>
+   4
+  </sifralokacije>
+  <zzzsstevilka>
+   10110286
+  </zzzsstevilka>
+  <organizacijskastruktura>
+   <sifraivzosnovni>
+    438
+   </sifraivzosnovni>
+  </organizacijskastruktura>
+  <nazivinnaslov>
+   <nazivorganizacijskeenote>
+    ZDRAVSTVENA DEJAVNOST IN SVETOVANJE, MARJETKA MLINAR S. P.
+   </nazivorganizacijskeenote>
+   <dodatninazivorganizacijskeenote>
+    LOKACIJA PLEČNIKOVA ULICA
+   </dodatninazivorganizacijskeenote>
+   <ulicaorganizacijskeenote>
+    PLEČNIKOVA ULICA 29
+   </ulicaorganizacijskeenote>
+   <postaorganizacijskeenote>
+    3000 CELJE
+   </postaorganizacijskeenote>
+  </nazivinnaslov>
+  <pravnistatus>
+   <pravnistatussifra>
+    6
+   </pravnistatussifra>
+   <pravnistatusopis>
+    SAMOSTOJNI PODJETNIK - BREZ AMBULANTE
+   </pravnistatusopis>
+  </pravnistatus>
+  <tipizvajalca>
+   <tipizvajalcasifra>
+    1
+   </tipizvajalcasifra>
+   <tipizvajalcaopis>
+    OSNOVNO ZDRAVSTVO
+   </tipizvajalcaopis>
+  </tipizvajalca>
+  <obcina>
+   <obcinasifra>
+    11
+   </obcinasifra>
+   <obcinanaziv>
+    CELJE
+   </obcinanaziv>
+  </obcina>
+  <veljaod>
+   2026-10-02
+  </veljaod>
+  <vzd>
+   <sifravzd>
+    302
+   </sifravzd>
+   <opisvzd>
+    Splošna in družinska medicina
+   </opisvzd>
+   <veljaod>
+    2026-10-02
    </veljaod>
   </vzd>
  </ivzizvajalec>
@@ -167183,6 +167387,9 @@
   <veljaod>
    2024-11-01
   </veljaod>
+  <veljado>
+   2026-09-05
+  </veljado>
   <vzd>
    <sifravzd>
     706
@@ -167193,6 +167400,9 @@
    <veljaod>
     2024-11-01
    </veljaod>
+   <veljado>
+    2026-09-05
+   </veljado>
   </vzd>
  </ivzizvajalec>
  <ivzizvajalec>
@@ -167251,6 +167461,9 @@
   <veljaod>
    2024-11-01
   </veljaod>
+  <veljado>
+   2026-09-05
+  </veljado>
   <vzd>
    <sifravzd>
     227
@@ -167261,6 +167474,9 @@
    <veljaod>
     2024-11-01
    </veljaod>
+   <veljado>
+    2026-09-05
+   </veljado>
   </vzd>
  </ivzizvajalec>
  <ivzizvajalec>
@@ -498836,6 +499052,77 @@
    </opisvzd>
    <veljaod>
     2023-07-14
+   </veljaod>
+  </vzd>
+ </ivzizvajalec>
+ <ivzizvajalec>
+  <sifraivzizvajalca>
+   2699
+  </sifraivzizvajalca>
+  <sifralokacije>
+   0
+  </sifralokacije>
+  <zzzsstevilka>
+   10109412
+  </zzzsstevilka>
+  <organizacijskastruktura>
+   <sifraivznadrejeni>
+    10961
+   </sifraivznadrejeni>
+   <sifraivzosnovni>
+    2699
+   </sifraivzosnovni>
+  </organizacijskastruktura>
+  <nazivinnaslov>
+   <nazivorganizacijskeenote>
+    LEKARNA LJUBLJANA
+   </nazivorganizacijskeenote>
+   <dodatninazivorganizacijskeenote>
+    LEKARNA POLJE IV
+   </dodatninazivorganizacijskeenote>
+   <ulicaorganizacijskeenote>
+    POLJE 383
+   </ulicaorganizacijskeenote>
+   <postaorganizacijskeenote>
+    1260 LJUBLJANA - POLJE
+   </postaorganizacijskeenote>
+  </nazivinnaslov>
+  <pravnistatus>
+   <pravnistatussifra>
+    1
+   </pravnistatussifra>
+   <pravnistatusopis>
+    JAVNI ZAVOD
+   </pravnistatusopis>
+  </pravnistatus>
+  <tipizvajalca>
+   <tipizvajalcasifra>
+    5
+   </tipizvajalcasifra>
+   <tipizvajalcaopis>
+    LEKARNA
+   </tipizvajalcaopis>
+  </tipizvajalca>
+  <obcina>
+   <obcinasifra>
+    61
+   </obcinasifra>
+   <obcinanaziv>
+    LJUBLJANA
+   </obcinanaziv>
+  </obcina>
+  <veljaod>
+   2026-11-11
+  </veljaod>
+  <vzd>
+   <sifravzd>
+    743
+   </sifravzd>
+   <opisvzd>
+    Lekarniška dejavnost
+   </opisvzd>
+   <veljaod>
+    2026-11-11
    </veljaod>
   </vzd>
  </ivzizvajalec>
