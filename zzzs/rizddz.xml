@@ -2,10 +2,10 @@
 <bpi xmlns="http://zzzs.si/b2b/bpi" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemalocation="http://zzzs.si/b2b/bpi bpi.xsd">
  <posiljka>
   <verzijaposiljke>
-   5060
+   5061
   </verzijaposiljke>
   <datumposiljke>
-   2026-11-15
+   2026-11-16
   </datumposiljke>
   <verzijasheme>
    1.0
@@ -352691,91 +352691,6 @@
    <veljaod>
     1999-09-15
    </veljaod>
-  </vzd>
- </ivzizvajalec>
- <ivzizvajalec>
-  <sifraivzizvajalca>
-   24225
-  </sifraivzizvajalca>
-  <sifralokacije>
-   0
-  </sifralokacije>
-  <zzzsstevilka>
-   3055893
-  </zzzsstevilka>
-  <organizacijskastruktura>
-   <sifraivzosnovni>
-    24225
-   </sifraivzosnovni>
-  </organizacijskastruktura>
-  <nazivinnaslov>
-   <nazivorganizacijskeenote>
-    ZOBAR, D.O.O., TRBOVLJE
-   </nazivorganizacijskeenote>
-   <ulicaorganizacijskeenote>
-    DOM IN VRT 14
-   </ulicaorganizacijskeenote>
-   <postaorganizacijskeenote>
-    1420 TRBOVLJE
-   </postaorganizacijskeenote>
-  </nazivinnaslov>
-  <pravnistatus>
-   <pravnistatussifra>
-    2
-   </pravnistatussifra>
-   <pravnistatusopis>
-    GOSPODARSKA DRUŽBA / ZASEBNI ZAVOD
-   </pravnistatusopis>
-  </pravnistatus>
-  <tipizvajalca>
-   <tipizvajalcasifra>
-    1
-   </tipizvajalcasifra>
-   <tipizvajalcaopis>
-    OSNOVNO ZDRAVSTVO
-   </tipizvajalcaopis>
-  </tipizvajalca>
-  <obcina>
-   <obcinasifra>
-    129
-   </obcinasifra>
-   <obcinanaziv>
-    TRBOVLJE
-   </obcinanaziv>
-  </obcina>
-  <veljaod>
-   2000-01-01
-  </veljaod>
-  <veljado>
-   2023-11-15
-  </veljado>
-  <vzd>
-   <sifravzd>
-    404
-   </sifravzd>
-   <opisvzd>
-    Splošno zobozdravstvo
-   </opisvzd>
-   <veljaod>
-    2000-01-01
-   </veljaod>
-   <veljado>
-    2023-11-15
-   </veljado>
-  </vzd>
-  <vzd>
-   <sifravzd>
-    714
-   </sifravzd>
-   <opisvzd>
-    Zobotehnika
-   </opisvzd>
-   <veljaod>
-    2000-01-01
-   </veljaod>
-   <veljado>
-    2023-11-15
-   </veljado>
   </vzd>
  </ivzizvajalec>
  <ivzizvajalec>
