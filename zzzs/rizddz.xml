@@ -2,10 +2,10 @@
 <bpi xmlns="http://zzzs.si/b2b/bpi" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemalocation="http://zzzs.si/b2b/bpi bpi.xsd">
  <posiljka>
   <verzijaposiljke>
-   5061
+   5062
   </verzijaposiljke>
   <datumposiljke>
-   2026-11-16
+   2026-11-17
   </datumposiljke>
   <verzijasheme>
    1.0
@@ -39899,6 +39899,17 @@
    </sifravzd>
    <opisvzd>
     Splošna in družinska medicina
+   </opisvzd>
+   <veljaod>
+    1984-01-01
+   </veljaod>
+  </vzd>
+  <vzd>
+   <sifravzd>
+    306
+   </sifravzd>
+   <opisvzd>
+    Ginekologija v splošni zunajBolDej
    </opisvzd>
    <veljaod>
     1984-01-01
@@ -131532,6 +131543,9 @@
    <veljaod>
     2023-09-15
    </veljaod>
+   <veljado>
+    2026-03-31
+   </veljado>
   </vzd>
  </ivzizvajalec>
  <ivzizvajalec>
@@ -131600,6 +131614,9 @@
    <veljaod>
     2023-09-18
    </veljaod>
+   <veljado>
+    2026-03-31
+   </veljado>
   </vzd>
  </ivzizvajalec>
  <ivzizvajalec>
@@ -230556,6 +230573,74 @@
  </ivzizvajalec>
  <ivzizvajalec>
   <sifraivzizvajalca>
+   2635
+  </sifraivzizvajalca>
+  <sifralokacije>
+   1
+  </sifralokacije>
+  <zzzsstevilka>
+   10112179
+  </zzzsstevilka>
+  <organizacijskastruktura>
+   <sifraivzosnovni>
+    2635
+   </sifraivzosnovni>
+  </organizacijskastruktura>
+  <nazivinnaslov>
+   <nazivorganizacijskeenote>
+    SREDNJA ŠOLA IZOLA - SCUOLA MEDIA ISOLA
+   </nazivorganizacijskeenote>
+   <dodatninazivorganizacijskeenote>
+    ZDRAVSTVENA NEGA
+   </dodatninazivorganizacijskeenote>
+   <ulicaorganizacijskeenote>
+    POLJE 41
+   </ulicaorganizacijskeenote>
+   <postaorganizacijskeenote>
+    6310 IZOLA - ISOLA
+   </postaorganizacijskeenote>
+  </nazivinnaslov>
+  <pravnistatus>
+   <pravnistatussifra>
+    1
+   </pravnistatussifra>
+   <pravnistatusopis>
+    JAVNI ZAVOD
+   </pravnistatusopis>
+  </pravnistatus>
+  <tipizvajalca>
+   <tipizvajalcasifra>
+    11
+   </tipizvajalcasifra>
+   <tipizvajalcaopis>
+    IZOBRAŽEVALNA USTANOVA
+   </tipizvajalcaopis>
+  </tipizvajalca>
+  <obcina>
+   <obcinasifra>
+    40
+   </obcinasifra>
+   <obcinanaziv>
+    IZOLA
+   </obcinanaziv>
+  </obcina>
+  <veljaod>
+   2013-01-02
+  </veljaod>
+  <vzd>
+   <sifravzd>
+    711
+   </sifravzd>
+   <opisvzd>
+    Srednješolsko poklic.in strok.izobr.
+   </opisvzd>
+   <veljaod>
+    2013-01-02
+   </veljaod>
+  </vzd>
+ </ivzizvajalec>
+ <ivzizvajalec>
+  <sifraivzizvajalca>
    2638
   </sifraivzizvajalca>
   <sifralokacije>
@@ -233856,6 +233941,142 @@
    </sifravzd>
    <opisvzd>
     Urejanje zdr.,iz.,kult., drugih soc.st.
+   </opisvzd>
+   <veljaod>
+    2026-10-15
+   </veljaod>
+  </vzd>
+ </ivzizvajalec>
+ <ivzizvajalec>
+  <sifraivzizvajalca>
+   2688
+  </sifraivzizvajalca>
+  <sifralokacije>
+   1
+  </sifralokacije>
+  <zzzsstevilka>
+   10084132
+  </zzzsstevilka>
+  <organizacijskastruktura>
+   <sifraivzosnovni>
+    2688
+   </sifraivzosnovni>
+  </organizacijskastruktura>
+  <nazivinnaslov>
+   <nazivorganizacijskeenote>
+    LEA MAŠIĆ - USTNA HIGIENIČARKA
+   </nazivorganizacijskeenote>
+   <dodatninazivorganizacijskeenote>
+    LOKACIJA PARTIZANSKA CESTA SEŽANA
+   </dodatninazivorganizacijskeenote>
+   <ulicaorganizacijskeenote>
+    PARTIZANSKA CESTA 63
+   </ulicaorganizacijskeenote>
+   <postaorganizacijskeenote>
+    6210 SEŽANA
+   </postaorganizacijskeenote>
+  </nazivinnaslov>
+  <pravnistatus>
+   <pravnistatussifra>
+    3
+   </pravnistatussifra>
+   <pravnistatusopis>
+    ZASEBNI ZDRAVSTVENI DELAVEC
+   </pravnistatusopis>
+  </pravnistatus>
+  <tipizvajalca>
+   <tipizvajalcasifra>
+    1
+   </tipizvajalcasifra>
+   <tipizvajalcaopis>
+    OSNOVNO ZDRAVSTVO
+   </tipizvajalcaopis>
+  </tipizvajalca>
+  <obcina>
+   <obcinasifra>
+    111
+   </obcinasifra>
+   <obcinanaziv>
+    SEŽANA
+   </obcinanaziv>
+  </obcina>
+  <veljaod>
+   2026-10-15
+  </veljaod>
+  <vzd>
+   <sifravzd>
+    550
+   </sifravzd>
+   <opisvzd>
+    Ustna higiena
+   </opisvzd>
+   <veljaod>
+    2026-10-15
+   </veljaod>
+  </vzd>
+ </ivzizvajalec>
+ <ivzizvajalec>
+  <sifraivzizvajalca>
+   2688
+  </sifraivzizvajalca>
+  <sifralokacije>
+   2
+  </sifralokacije>
+  <zzzsstevilka>
+   10086363
+  </zzzsstevilka>
+  <organizacijskastruktura>
+   <sifraivzosnovni>
+    2688
+   </sifraivzosnovni>
+  </organizacijskastruktura>
+  <nazivinnaslov>
+   <nazivorganizacijskeenote>
+    LEA MAŠIĆ - USTNA HIGIENIČARKA
+   </nazivorganizacijskeenote>
+   <dodatninazivorganizacijskeenote>
+    LOKACIJA BOROVA ULICA HRPELJE
+   </dodatninazivorganizacijskeenote>
+   <ulicaorganizacijskeenote>
+    BOROVA ULICA 2 HRPELJE
+   </ulicaorganizacijskeenote>
+   <postaorganizacijskeenote>
+    6240 KOZINA
+   </postaorganizacijskeenote>
+  </nazivinnaslov>
+  <pravnistatus>
+   <pravnistatussifra>
+    3
+   </pravnistatussifra>
+   <pravnistatusopis>
+    ZASEBNI ZDRAVSTVENI DELAVEC
+   </pravnistatusopis>
+  </pravnistatus>
+  <tipizvajalca>
+   <tipizvajalcasifra>
+    1
+   </tipizvajalcasifra>
+   <tipizvajalcaopis>
+    OSNOVNO ZDRAVSTVO
+   </tipizvajalcaopis>
+  </tipizvajalca>
+  <obcina>
+   <obcinasifra>
+    35
+   </obcinasifra>
+   <obcinanaziv>
+    HRPELJE-KOZINA
+   </obcinanaziv>
+  </obcina>
+  <veljaod>
+   2026-10-15
+  </veljaod>
+  <vzd>
+   <sifravzd>
+    550
+   </sifravzd>
+   <opisvzd>
+    Ustna higiena
    </opisvzd>
    <veljaod>
     2026-10-15
@@ -375048,7 +375269,7 @@
    0
   </sifralokacije>
   <zzzsstevilka>
-   3197957
+   492377
   </zzzsstevilka>
   <organizacijskastruktura>
    <sifraivzosnovni>
@@ -375059,9 +375280,6 @@
    <nazivorganizacijskeenote>
     DOM DVA TOPOLA, D.O.O.
    </nazivorganizacijskeenote>
-   <dodatninazivorganizacijskeenote>
-    ENOTA REHABILITACIJA
-   </dodatninazivorganizacijskeenote>
    <ulicaorganizacijskeenote>
     LEVSTIKOVA ULICA 1
    </ulicaorganizacijskeenote>
