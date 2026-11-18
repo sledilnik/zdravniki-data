@@ -2,10 +2,10 @@
 <bpi xmlns="http://zzzs.si/b2b/bpi" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemalocation="http://zzzs.si/b2b/bpi bpi.xsd">
  <posiljka>
   <verzijaposiljke>
-   5062
+   5063
   </verzijaposiljke>
   <datumposiljke>
-   2026-11-17
+   2026-11-18
   </datumposiljke>
   <verzijasheme>
    1.0
@@ -21170,6 +21170,74 @@
    </opisvzd>
    <veljaod>
     2025-09-03
+   </veljaod>
+  </vzd>
+ </ivzizvajalec>
+ <ivzizvajalec>
+  <sifraivzizvajalca>
+   171
+  </sifraivzizvajalca>
+  <sifralokacije>
+   5
+  </sifralokacije>
+  <zzzsstevilka>
+   10068955
+  </zzzsstevilka>
+  <organizacijskastruktura>
+   <sifraivzosnovni>
+    171
+   </sifraivzosnovni>
+  </organizacijskastruktura>
+  <nazivinnaslov>
+   <nazivorganizacijskeenote>
+    KA GROUP D.O.O.
+   </nazivorganizacijskeenote>
+   <dodatninazivorganizacijskeenote>
+    PE DSO VIHARNIK - KRANJSKA GORA
+   </dodatninazivorganizacijskeenote>
+   <ulicaorganizacijskeenote>
+    ČIČARE 14
+   </ulicaorganizacijskeenote>
+   <postaorganizacijskeenote>
+    4280 KRANJSKA GORA
+   </postaorganizacijskeenote>
+  </nazivinnaslov>
+  <pravnistatus>
+   <pravnistatussifra>
+    2
+   </pravnistatussifra>
+   <pravnistatusopis>
+    GOSPODARSKA DRUŽBA / ZASEBNI ZAVOD
+   </pravnistatusopis>
+  </pravnistatus>
+  <tipizvajalca>
+   <tipizvajalcasifra>
+    1
+   </tipizvajalcasifra>
+   <tipizvajalcaopis>
+    OSNOVNO ZDRAVSTVO
+   </tipizvajalcaopis>
+  </tipizvajalca>
+  <obcina>
+   <obcinasifra>
+    53
+   </obcinasifra>
+   <obcinanaziv>
+    KRANJSKA GORA
+   </obcinanaziv>
+  </obcina>
+  <veljaod>
+   2026-10-23
+  </veljaod>
+  <vzd>
+   <sifravzd>
+    302
+   </sifravzd>
+   <opisvzd>
+    Splošna in družinska medicina
+   </opisvzd>
+   <veljaod>
+    2026-10-23
    </veljaod>
   </vzd>
  </ivzizvajalec>
@@ -72898,6 +72966,9 @@
   <veljaod>
    2019-11-11
   </veljaod>
+  <veljado>
+   2026-08-07
+  </veljado>
   <vzd>
    <sifravzd>
     706
@@ -72908,6 +72979,9 @@
    <veljaod>
     2019-11-11
    </veljaod>
+   <veljado>
+    2026-08-07
+   </veljado>
   </vzd>
  </ivzizvajalec>
  <ivzizvajalec>
@@ -72966,6 +73040,9 @@
   <veljaod>
    1900-01-01
   </veljaod>
+  <veljado>
+   2026-08-07
+  </veljado>
   <vzd>
    <sifravzd>
     239
@@ -72976,6 +73053,9 @@
    <veljaod>
     2019-11-11
    </veljaod>
+   <veljado>
+    2026-08-07
+   </veljado>
   </vzd>
  </ivzizvajalec>
  <ivzizvajalec>
@@ -101994,6 +102074,9 @@
   <veljaod>
    2012-11-28
   </veljaod>
+  <veljado>
+   2026-01-31
+  </veljado>
   <vzd>
    <sifravzd>
     706
@@ -102004,6 +102087,9 @@
    <veljaod>
     2012-11-28
    </veljaod>
+   <veljado>
+    2026-01-31
+   </veljado>
   </vzd>
  </ivzizvajalec>
  <ivzizvajalec>
@@ -102062,6 +102148,9 @@
   <veljaod>
    1900-01-01
   </veljaod>
+  <veljado>
+   2026-01-31
+  </veljado>
   <vzd>
    <sifravzd>
     302
@@ -102072,6 +102161,9 @@
    <veljaod>
     2012-12-04
    </veljaod>
+   <veljado>
+    2026-01-31
+   </veljado>
   </vzd>
  </ivzizvajalec>
  <ivzizvajalec>
@@ -102130,6 +102222,9 @@
   <veljaod>
    1900-01-01
   </veljaod>
+  <veljado>
+   2026-01-31
+  </veljado>
   <vzd>
    <sifravzd>
     302
@@ -102140,6 +102235,9 @@
    <veljaod>
     2012-12-04
    </veljaod>
+   <veljado>
+    2026-01-31
+   </veljado>
   </vzd>
  </ivzizvajalec>
  <ivzizvajalec>
@@ -104052,6 +104150,74 @@
    <veljado>
     2026-09-30
    </veljado>
+  </vzd>
+ </ivzizvajalec>
+ <ivzizvajalec>
+  <sifraivzizvajalca>
+   1069
+  </sifraivzizvajalca>
+  <sifralokacije>
+   6
+  </sifralokacije>
+  <zzzsstevilka>
+   10085246
+  </zzzsstevilka>
+  <organizacijskastruktura>
+   <sifraivzosnovni>
+    1069
+   </sifraivzosnovni>
+  </organizacijskastruktura>
+  <nazivinnaslov>
+   <nazivorganizacijskeenote>
+    RADIOLOŠKA DIAGNOSTIKA IN SVETOVANJE, NINA TUŠEK RANT S.P.
+   </nazivorganizacijskeenote>
+   <dodatninazivorganizacijskeenote>
+    LOKACIJA RACOVNIK
+   </dodatninazivorganizacijskeenote>
+   <ulicaorganizacijskeenote>
+    RACOVNIK 29
+   </ulicaorganizacijskeenote>
+   <postaorganizacijskeenote>
+    4228 ŽELEZNIKI
+   </postaorganizacijskeenote>
+  </nazivinnaslov>
+  <pravnistatus>
+   <pravnistatussifra>
+    6
+   </pravnistatussifra>
+   <pravnistatusopis>
+    SAMOSTOJNI PODJETNIK - BREZ AMBULANTE
+   </pravnistatusopis>
+  </pravnistatus>
+  <tipizvajalca>
+   <tipizvajalcasifra>
+    2
+   </tipizvajalcasifra>
+   <tipizvajalcaopis>
+    SPECIALISTIČNA AMBULANTA
+   </tipizvajalcaopis>
+  </tipizvajalca>
+  <obcina>
+   <obcinasifra>
+    146
+   </obcinasifra>
+   <obcinanaziv>
+    ŽELEZNIKI
+   </obcinanaziv>
+  </obcina>
+  <veljaod>
+   2026-10-13
+  </veljaod>
+  <vzd>
+   <sifravzd>
+    231
+   </sifravzd>
+   <opisvzd>
+    Radiologija v spec. ZunajBolDej
+   </opisvzd>
+   <veljaod>
+    2026-10-13
+   </veljaod>
   </vzd>
  </ivzizvajalec>
  <ivzizvajalec>
@@ -161830,6 +161996,9 @@
   <veljaod>
    2024-08-31
   </veljaod>
+  <veljado>
+   2026-06-12
+  </veljado>
   <vzd>
    <sifravzd>
     706
@@ -161840,6 +162009,9 @@
    <veljaod>
     2024-08-31
    </veljaod>
+   <veljado>
+    2026-06-12
+   </veljado>
   </vzd>
  </ivzizvajalec>
  <ivzizvajalec>
@@ -161898,6 +162070,9 @@
   <veljaod>
    2024-08-31
   </veljaod>
+  <veljado>
+   2026-06-12
+  </veljado>
   <vzd>
    <sifravzd>
     302
@@ -161908,6 +162083,9 @@
    <veljaod>
     2024-08-31
    </veljaod>
+   <veljado>
+    2026-06-12
+   </veljado>
   </vzd>
  </ivzizvajalec>
  <ivzizvajalec>
@@ -162643,6 +162821,9 @@
   <veljaod>
    2024-09-03
   </veljaod>
+  <veljado>
+   2026-04-30
+  </veljado>
   <vzd>
    <sifravzd>
     706
@@ -162653,6 +162834,9 @@
    <veljaod>
     2024-09-03
    </veljaod>
+   <veljado>
+    2026-04-30
+   </veljado>
   </vzd>
  </ivzizvajalec>
  <ivzizvajalec>
@@ -162711,6 +162895,9 @@
   <veljaod>
    2024-09-03
   </veljaod>
+  <veljado>
+   2026-04-30
+  </veljado>
   <vzd>
    <sifravzd>
     404
@@ -162721,6 +162908,9 @@
    <veljaod>
     2024-09-03
    </veljaod>
+   <veljado>
+    2026-04-30
+   </veljado>
   </vzd>
  </ivzizvajalec>
  <ivzizvajalec>
@@ -175431,6 +175621,74 @@
    </opisvzd>
    <veljaod>
     2025-11-25
+   </veljaod>
+  </vzd>
+ </ivzizvajalec>
+ <ivzizvajalec>
+  <sifraivzizvajalca>
+   1896
+  </sifraivzizvajalca>
+  <sifralokacije>
+   4
+  </sifralokacije>
+  <zzzsstevilka>
+   10085277
+  </zzzsstevilka>
+  <organizacijskastruktura>
+   <sifraivzosnovni>
+    1896
+   </sifraivzosnovni>
+  </organizacijskastruktura>
+  <nazivinnaslov>
+   <nazivorganizacijskeenote>
+    ESTANEZ, BOLNIŠNIČNO IN IZVENBOLNIŠNIČNO ZDRAVLJENJE, EVA SA
+   </nazivorganizacijskeenote>
+   <dodatninazivorganizacijskeenote>
+    LOKACIJA MEJNA ULICA
+   </dodatninazivorganizacijskeenote>
+   <ulicaorganizacijskeenote>
+    MEJNA ULICA 6
+   </ulicaorganizacijskeenote>
+   <postaorganizacijskeenote>
+    2000 MARIBOR
+   </postaorganizacijskeenote>
+  </nazivinnaslov>
+  <pravnistatus>
+   <pravnistatussifra>
+    6
+   </pravnistatussifra>
+   <pravnistatusopis>
+    SAMOSTOJNI PODJETNIK - BREZ AMBULANTE
+   </pravnistatusopis>
+  </pravnistatus>
+  <tipizvajalca>
+   <tipizvajalcasifra>
+    2
+   </tipizvajalcasifra>
+   <tipizvajalcaopis>
+    SPECIALISTIČNA AMBULANTA
+   </tipizvajalcaopis>
+  </tipizvajalca>
+  <obcina>
+   <obcinasifra>
+    70
+   </obcinasifra>
+   <obcinanaziv>
+    MARIBOR
+   </obcinanaziv>
+  </obcina>
+  <veljaod>
+   2026-06-15
+  </veljaod>
+  <vzd>
+   <sifravzd>
+    202
+   </sifravzd>
+   <opisvzd>
+    Anest.rea.per.int.med. v spec.ZunajBDej
+   </opisvzd>
+   <veljaod>
+    2026-06-15
    </veljaod>
   </vzd>
  </ivzizvajalec>
@@ -198101,6 +198359,9 @@
   <veljaod>
    2025-05-20
   </veljaod>
+  <veljado>
+   2026-04-03
+  </veljado>
   <vzd>
    <sifravzd>
     706
@@ -198111,6 +198372,9 @@
    <veljaod>
     2025-05-20
    </veljaod>
+   <veljado>
+    2026-04-03
+   </veljado>
   </vzd>
  </ivzizvajalec>
  <ivzizvajalec>
@@ -198169,6 +198433,9 @@
   <veljaod>
    2025-05-20
   </veljaod>
+  <veljado>
+   2026-04-03
+  </veljado>
   <vzd>
    <sifravzd>
     202
@@ -198179,6 +198446,9 @@
    <veljaod>
     2025-05-20
    </veljaod>
+   <veljado>
+    2026-04-03
+   </veljado>
   </vzd>
  </ivzizvajalec>
  <ivzizvajalec>
@@ -198237,6 +198507,9 @@
   <veljaod>
    2025-10-03
   </veljaod>
+  <veljado>
+   2026-04-03
+  </veljado>
   <vzd>
    <sifravzd>
     202
@@ -198247,6 +198520,9 @@
    <veljaod>
     2025-10-03
    </veljaod>
+   <veljado>
+    2026-04-03
+   </veljado>
   </vzd>
  </ivzizvajalec>
  <ivzizvajalec>
@@ -213013,6 +213289,9 @@
   <veljaod>
    2025-10-03
   </veljaod>
+  <veljado>
+   2026-04-04
+  </veljado>
   <vzd>
    <sifravzd>
     706
@@ -213023,6 +213302,9 @@
    <veljaod>
     2025-10-03
    </veljaod>
+   <veljado>
+    2026-04-04
+   </veljado>
   </vzd>
  </ivzizvajalec>
  <ivzizvajalec>
@@ -213081,6 +213363,9 @@
   <veljaod>
    2025-10-03
   </veljaod>
+  <veljado>
+   2026-04-04
+  </veljado>
   <vzd>
    <sifravzd>
     205
@@ -213091,6 +213376,9 @@
    <veljaod>
     2025-10-03
    </veljaod>
+   <veljado>
+    2026-04-04
+   </veljado>
   </vzd>
  </ivzizvajalec>
  <ivzizvajalec>
@@ -213149,6 +213437,9 @@
   <veljaod>
    2025-10-03
   </veljaod>
+  <veljado>
+   2026-04-04
+  </veljado>
   <vzd>
    <sifravzd>
     205
@@ -213159,6 +213450,9 @@
    <veljaod>
     2025-10-03
    </veljaod>
+   <veljado>
+    2026-04-04
+   </veljado>
   </vzd>
  </ivzizvajalec>
  <ivzizvajalec>
@@ -358614,6 +358908,9 @@
   <veljaod>
    2004-10-01
   </veljaod>
+  <veljado>
+   2026-09-16
+  </veljado>
   <vzd>
    <sifravzd>
     404
@@ -358624,6 +358921,9 @@
    <veljaod>
     2004-10-01
    </veljaod>
+   <veljado>
+    2026-09-16
+   </veljado>
   </vzd>
   <vzd>
    <sifravzd>
@@ -358635,6 +358935,9 @@
    <veljaod>
     2004-10-01
    </veljaod>
+   <veljado>
+    2026-09-16
+   </veljado>
   </vzd>
  </ivzizvajalec>
  <ivzizvajalec>
@@ -405949,66 +406252,6 @@
    29200
   </sifraivzizvajalca>
   <sifralokacije>
-   1
-  </sifralokacije>
-  <zzzsstevilka>
-   4245582
-  </zzzsstevilka>
-  <organizacijskastruktura>
-   <sifraivzosnovni>
-    29200
-   </sifraivzosnovni>
-  </organizacijskastruktura>
-  <nazivinnaslov>
-   <nazivorganizacijskeenote>
-    SPE VIVIMUS D.O.O.
-   </nazivorganizacijskeenote>
-   <dodatninazivorganizacijskeenote>
-    LOKACIJA NA CKž 4
-   </dodatninazivorganizacijskeenote>
-   <ulicaorganizacijskeenote>
-    CESTA KRšKIH žRTEV 4
-   </ulicaorganizacijskeenote>
-   <postaorganizacijskeenote>
-    8270 KRŠKO
-   </postaorganizacijskeenote>
-  </nazivinnaslov>
-  <pravnistatus>
-   <pravnistatussifra>
-    2
-   </pravnistatussifra>
-   <pravnistatusopis>
-    GOSPODARSKA DRUŽBA / ZASEBNI ZAVOD
-   </pravnistatusopis>
-  </pravnistatus>
-  <tipizvajalca>
-   <tipizvajalcasifra>
-    2
-   </tipizvajalcasifra>
-   <tipizvajalcaopis>
-    SPECIALISTIČNA AMBULANTA
-   </tipizvajalcaopis>
-  </tipizvajalca>
-  <obcina>
-   <obcinasifra>
-    54
-   </obcinasifra>
-   <obcinanaziv>
-    KRŠKO
-   </obcinanaziv>
-  </obcina>
-  <veljaod>
-   2006-12-01
-  </veljaod>
-  <veljado>
-   2023-11-17
-  </veljado>
- </ivzizvajalec>
- <ivzizvajalec>
-  <sifraivzizvajalca>
-   29200
-  </sifraivzizvajalca>
-  <sifralokacije>
    2
   </sifralokacije>
   <zzzsstevilka>
@@ -446066,151 +446309,6 @@
    <veljaod>
     2012-01-01
    </veljaod>
-  </vzd>
- </ivzizvajalec>
- <ivzizvajalec>
-  <sifraivzizvajalca>
-   55113
-  </sifraivzizvajalca>
-  <sifralokacije>
-   0
-  </sifralokacije>
-  <zzzsstevilka>
-   3569776
-  </zzzsstevilka>
-  <organizacijskastruktura>
-   <sifraivzosnovni>
-    55113
-   </sifraivzosnovni>
-  </organizacijskastruktura>
-  <nazivinnaslov>
-   <nazivorganizacijskeenote>
-    OPTIK LAH D.O.O.
-   </nazivorganizacijskeenote>
-   <ulicaorganizacijskeenote>
-    VIPOTNIKOVA ULICA 1
-   </ulicaorganizacijskeenote>
-   <postaorganizacijskeenote>
-    1211 LJUBLJANA - ŠMARTNO
-   </postaorganizacijskeenote>
-  </nazivinnaslov>
-  <pravnistatus>
-   <pravnistatussifra>
-    2
-   </pravnistatussifra>
-   <pravnistatusopis>
-    GOSPODARSKA DRUŽBA / ZASEBNI ZAVOD
-   </pravnistatusopis>
-  </pravnistatus>
-  <tipizvajalca>
-   <tipizvajalcasifra>
-    2
-   </tipizvajalcasifra>
-   <tipizvajalcaopis>
-    SPECIALISTIČNA AMBULANTA
-   </tipizvajalcaopis>
-  </tipizvajalca>
-  <obcina>
-   <obcinasifra>
-    61
-   </obcinasifra>
-   <obcinanaziv>
-    LJUBLJANA
-   </obcinanaziv>
-  </obcina>
-  <veljaod>
-   2010-01-01
-  </veljaod>
-  <veljado>
-   2023-11-17
-  </veljado>
-  <vzd>
-   <sifravzd>
-    220
-   </sifravzd>
-   <opisvzd>
-    Oftalmologija v spec. ZunajBolDej
-   </opisvzd>
-   <veljaod>
-    2010-01-01
-   </veljaod>
-   <veljado>
-    2023-11-17
-   </veljado>
-  </vzd>
- </ivzizvajalec>
- <ivzizvajalec>
-  <sifraivzizvajalca>
-   55113
-  </sifraivzizvajalca>
-  <sifralokacije>
-   1
-  </sifralokacije>
-  <zzzsstevilka>
-   2970652
-  </zzzsstevilka>
-  <organizacijskastruktura>
-   <sifraivzosnovni>
-    55113
-   </sifraivzosnovni>
-  </organizacijskastruktura>
-  <nazivinnaslov>
-   <nazivorganizacijskeenote>
-    LAH KATKA S.P.
-   </nazivorganizacijskeenote>
-   <dodatninazivorganizacijskeenote>
-    OPTIK LAH
-   </dodatninazivorganizacijskeenote>
-   <ulicaorganizacijskeenote>
-    PREŠERNOVA ULICA 4
-   </ulicaorganizacijskeenote>
-   <postaorganizacijskeenote>
-    5220 TOLMIN
-   </postaorganizacijskeenote>
-  </nazivinnaslov>
-  <pravnistatus>
-   <pravnistatussifra>
-    2
-   </pravnistatussifra>
-   <pravnistatusopis>
-    GOSPODARSKA DRUŽBA / ZASEBNI ZAVOD
-   </pravnistatusopis>
-  </pravnistatus>
-  <tipizvajalca>
-   <tipizvajalcasifra>
-    2
-   </tipizvajalcasifra>
-   <tipizvajalcaopis>
-    SPECIALISTIČNA AMBULANTA
-   </tipizvajalcaopis>
-  </tipizvajalca>
-  <obcina>
-   <obcinasifra>
-    128
-   </obcinasifra>
-   <obcinanaziv>
-    TOLMIN
-   </obcinanaziv>
-  </obcina>
-  <veljaod>
-   2010-01-01
-  </veljaod>
-  <veljado>
-   2023-11-17
-  </veljado>
-  <vzd>
-   <sifravzd>
-    220
-   </sifravzd>
-   <opisvzd>
-    Oftalmologija v spec. ZunajBolDej
-   </opisvzd>
-   <veljaod>
-    2010-01-01
-   </veljaod>
-   <veljado>
-    2023-11-17
-   </veljado>
   </vzd>
  </ivzizvajalec>
  <ivzizvajalec>
