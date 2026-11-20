@@ -2,10 +2,10 @@
 <bpi xmlns="http://zzzs.si/b2b/bpi" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemalocation="http://zzzs.si/b2b/bpi bpi.xsd">
  <posiljka>
   <verzijaposiljke>
-   5064
+   5065
   </verzijaposiljke>
   <datumposiljke>
-   2026-11-19
+   2026-11-20
   </datumposiljke>
   <verzijasheme>
    1.0
@@ -65713,6 +65713,71 @@
  </ivzizvajalec>
  <ivzizvajalec>
   <sifraivzizvajalca>
+   576
+  </sifraivzizvajalca>
+  <sifralokacije>
+   0
+  </sifralokacije>
+  <zzzsstevilka>
+   5859716
+  </zzzsstevilka>
+  <organizacijskastruktura>
+   <sifraivzosnovni>
+    576
+   </sifraivzosnovni>
+  </organizacijskastruktura>
+  <nazivinnaslov>
+   <nazivorganizacijskeenote>
+    VIDVANA D.O.O.
+   </nazivorganizacijskeenote>
+   <ulicaorganizacijskeenote>
+    SLOVENSKA CESTA 54
+   </ulicaorganizacijskeenote>
+   <postaorganizacijskeenote>
+    1000 LJUBLJANA
+   </postaorganizacijskeenote>
+  </nazivinnaslov>
+  <pravnistatus>
+   <pravnistatussifra>
+    2
+   </pravnistatussifra>
+   <pravnistatusopis>
+    GOSPODARSKA DRUŽBA / ZASEBNI ZAVOD
+   </pravnistatusopis>
+  </pravnistatus>
+  <tipizvajalca>
+   <tipizvajalcasifra>
+    1
+   </tipizvajalcasifra>
+   <tipizvajalcaopis>
+    OSNOVNO ZDRAVSTVO
+   </tipizvajalcaopis>
+  </tipizvajalca>
+  <obcina>
+   <obcinasifra>
+    61
+   </obcinasifra>
+   <obcinanaziv>
+    LJUBLJANA
+   </obcinanaziv>
+  </obcina>
+  <veljaod>
+   1900-01-01
+  </veljaod>
+  <vzd>
+   <sifravzd>
+    404
+   </sifravzd>
+   <opisvzd>
+    Splošno zobozdravstvo
+   </opisvzd>
+   <veljaod>
+    2022-02-09
+   </veljaod>
+  </vzd>
+ </ivzizvajalec>
+ <ivzizvajalec>
+  <sifraivzizvajalca>
    577
   </sifraivzizvajalca>
   <sifralokacije>
@@ -75095,7 +75160,7 @@
   </organizacijskastruktura>
   <nazivinnaslov>
    <nazivorganizacijskeenote>
-    GDENTAL D.O.O.
+    DBV-SISTEMORG D.O.O.
    </nazivorganizacijskeenote>
    <ulicaorganizacijskeenote>
     CVETKOVA ULICA 10
@@ -96483,6 +96548,74 @@
    </opisvzd>
    <veljaod>
     2022-10-01
+   </veljaod>
+  </vzd>
+ </ivzizvajalec>
+ <ivzizvajalec>
+  <sifraivzizvajalca>
+   980
+  </sifraivzizvajalca>
+  <sifralokacije>
+   2
+  </sifralokacije>
+  <zzzsstevilka>
+   10092169
+  </zzzsstevilka>
+  <organizacijskastruktura>
+   <sifraivzosnovni>
+    980
+   </sifraivzosnovni>
+  </organizacijskastruktura>
+  <nazivinnaslov>
+   <nazivorganizacijskeenote>
+    ZGODBE NASMEHOV D.O.O.
+   </nazivorganizacijskeenote>
+   <dodatninazivorganizacijskeenote>
+    PE KLINIKA
+   </dodatninazivorganizacijskeenote>
+   <ulicaorganizacijskeenote>
+    LJUBLJANSKA CESTA 1 A
+   </ulicaorganizacijskeenote>
+   <postaorganizacijskeenote>
+    1241 KAMNIK
+   </postaorganizacijskeenote>
+  </nazivinnaslov>
+  <pravnistatus>
+   <pravnistatussifra>
+    2
+   </pravnistatussifra>
+   <pravnistatusopis>
+    GOSPODARSKA DRUŽBA / ZASEBNI ZAVOD
+   </pravnistatusopis>
+  </pravnistatus>
+  <tipizvajalca>
+   <tipizvajalcasifra>
+    1
+   </tipizvajalcasifra>
+   <tipizvajalcaopis>
+    OSNOVNO ZDRAVSTVO
+   </tipizvajalcaopis>
+  </tipizvajalca>
+  <obcina>
+   <obcinasifra>
+    43
+   </obcinasifra>
+   <obcinanaziv>
+    KAMNIK
+   </obcinanaziv>
+  </obcina>
+  <veljaod>
+   2026-07-06
+  </veljaod>
+  <vzd>
+   <sifravzd>
+    404
+   </sifravzd>
+   <opisvzd>
+    Splošno zobozdravstvo
+   </opisvzd>
+   <veljaod>
+    2026-07-06
    </veljaod>
   </vzd>
  </ivzizvajalec>
@@ -182536,7 +182669,7 @@
     PE OPTIKA ŽIRI
    </dodatninazivorganizacijskeenote>
    <ulicaorganizacijskeenote>
-    TRG SVOBODE 9
+    LOŠKA CESTA 8
    </ulicaorganizacijskeenote>
    <postaorganizacijskeenote>
     4226 ŽIRI
@@ -229861,6 +229994,550 @@
    </opisvzd>
    <veljaod>
     2026-07-10
+   </veljaod>
+  </vzd>
+ </ivzizvajalec>
+ <ivzizvajalec>
+  <sifraivzizvajalca>
+   2612
+  </sifraivzizvajalca>
+  <sifralokacije>
+   1
+  </sifralokacije>
+  <zzzsstevilka>
+   10113049
+  </zzzsstevilka>
+  <organizacijskastruktura>
+   <sifraivzosnovni>
+    2612
+   </sifraivzosnovni>
+  </organizacijskastruktura>
+  <nazivinnaslov>
+   <nazivorganizacijskeenote>
+    SPECIALISTIČNO SVETOVANJE, DIAGNOSTIKA IN ZDRAVLJENJE, DAVID
+   </nazivorganizacijskeenote>
+   <dodatninazivorganizacijskeenote>
+    LOKACIJA POT K IZVIRU
+   </dodatninazivorganizacijskeenote>
+   <ulicaorganizacijskeenote>
+    POT K IZVIRU 6
+   </ulicaorganizacijskeenote>
+   <postaorganizacijskeenote>
+    1260 LJUBLJANA - POLJE
+   </postaorganizacijskeenote>
+  </nazivinnaslov>
+  <pravnistatus>
+   <pravnistatussifra>
+    6
+   </pravnistatussifra>
+   <pravnistatusopis>
+    SAMOSTOJNI PODJETNIK - BREZ AMBULANTE
+   </pravnistatusopis>
+  </pravnistatus>
+  <tipizvajalca>
+   <tipizvajalcasifra>
+    2
+   </tipizvajalcasifra>
+   <tipizvajalcaopis>
+    SPECIALISTIČNA AMBULANTA
+   </tipizvajalcaopis>
+  </tipizvajalca>
+  <obcina>
+   <obcinasifra>
+    61
+   </obcinasifra>
+   <obcinanaziv>
+    LJUBLJANA
+   </obcinanaziv>
+  </obcina>
+  <veljaod>
+   2026-07-17
+  </veljaod>
+  <vzd>
+   <sifravzd>
+    222
+   </sifravzd>
+   <opisvzd>
+    Ortopedska kirurgija v spec. ZunajBolDej
+   </opisvzd>
+   <veljaod>
+    2026-07-17
+   </veljaod>
+  </vzd>
+ </ivzizvajalec>
+ <ivzizvajalec>
+  <sifraivzizvajalca>
+   2612
+  </sifraivzizvajalca>
+  <sifralokacije>
+   2
+  </sifralokacije>
+  <zzzsstevilka>
+   10089004
+  </zzzsstevilka>
+  <organizacijskastruktura>
+   <sifraivzosnovni>
+    2612
+   </sifraivzosnovni>
+  </organizacijskastruktura>
+  <nazivinnaslov>
+   <nazivorganizacijskeenote>
+    SPECIALISTIČNO SVETOVANJE, DIAGNOSTIKA IN ZDRAVLJENJE, DAVID
+   </nazivorganizacijskeenote>
+   <dodatninazivorganizacijskeenote>
+    LOKACIJA VOŠNJAKOVA
+   </dodatninazivorganizacijskeenote>
+   <ulicaorganizacijskeenote>
+    VOŠNJAKOVA ULICA 1
+   </ulicaorganizacijskeenote>
+   <postaorganizacijskeenote>
+    1000 LJUBLJANA
+   </postaorganizacijskeenote>
+  </nazivinnaslov>
+  <pravnistatus>
+   <pravnistatussifra>
+    6
+   </pravnistatussifra>
+   <pravnistatusopis>
+    SAMOSTOJNI PODJETNIK - BREZ AMBULANTE
+   </pravnistatusopis>
+  </pravnistatus>
+  <tipizvajalca>
+   <tipizvajalcasifra>
+    2
+   </tipizvajalcasifra>
+   <tipizvajalcaopis>
+    SPECIALISTIČNA AMBULANTA
+   </tipizvajalcaopis>
+  </tipizvajalca>
+  <obcina>
+   <obcinasifra>
+    61
+   </obcinasifra>
+   <obcinanaziv>
+    LJUBLJANA
+   </obcinanaziv>
+  </obcina>
+  <veljaod>
+   2026-07-17
+  </veljaod>
+  <vzd>
+   <sifravzd>
+    222
+   </sifravzd>
+   <opisvzd>
+    Ortopedska kirurgija v spec. ZunajBolDej
+   </opisvzd>
+   <veljaod>
+    2026-07-17
+   </veljaod>
+  </vzd>
+ </ivzizvajalec>
+ <ivzizvajalec>
+  <sifraivzizvajalca>
+   2612
+  </sifraivzizvajalca>
+  <sifralokacije>
+   3
+  </sifralokacije>
+  <zzzsstevilka>
+   10114780
+  </zzzsstevilka>
+  <organizacijskastruktura>
+   <sifraivzosnovni>
+    2612
+   </sifraivzosnovni>
+  </organizacijskastruktura>
+  <nazivinnaslov>
+   <nazivorganizacijskeenote>
+    SPECIALISTIČNO SVETOVANJE, DIAGNOSTIKA IN ZDRAVLJENJE, DAVID
+   </nazivorganizacijskeenote>
+   <dodatninazivorganizacijskeenote>
+    LOKACIJA ZDRAVILIŠKI TRG
+   </dodatninazivorganizacijskeenote>
+   <ulicaorganizacijskeenote>
+    ZDRAVILIŠKI TRG 7
+   </ulicaorganizacijskeenote>
+   <postaorganizacijskeenote>
+    8350 DOLENJSKE TOPLICE
+   </postaorganizacijskeenote>
+  </nazivinnaslov>
+  <pravnistatus>
+   <pravnistatussifra>
+    6
+   </pravnistatussifra>
+   <pravnistatusopis>
+    SAMOSTOJNI PODJETNIK - BREZ AMBULANTE
+   </pravnistatusopis>
+  </pravnistatus>
+  <tipizvajalca>
+   <tipizvajalcasifra>
+    2
+   </tipizvajalcasifra>
+   <tipizvajalcaopis>
+    SPECIALISTIČNA AMBULANTA
+   </tipizvajalcaopis>
+  </tipizvajalca>
+  <obcina>
+   <obcinasifra>
+    157
+   </obcinasifra>
+   <obcinanaziv>
+    DOLENJSKE TOPLICE
+   </obcinanaziv>
+  </obcina>
+  <veljaod>
+   2026-07-17
+  </veljaod>
+  <vzd>
+   <sifravzd>
+    222
+   </sifravzd>
+   <opisvzd>
+    Ortopedska kirurgija v spec. ZunajBolDej
+   </opisvzd>
+   <veljaod>
+    2026-07-17
+   </veljaod>
+  </vzd>
+ </ivzizvajalec>
+ <ivzizvajalec>
+  <sifraivzizvajalca>
+   2612
+  </sifraivzizvajalca>
+  <sifralokacije>
+   4
+  </sifralokacije>
+  <zzzsstevilka>
+   10089035
+  </zzzsstevilka>
+  <organizacijskastruktura>
+   <sifraivzosnovni>
+    2612
+   </sifraivzosnovni>
+  </organizacijskastruktura>
+  <nazivinnaslov>
+   <nazivorganizacijskeenote>
+    SPECIALISTIČNO SVETOVANJE, DIAGNOSTIKA IN ZDRAVLJENJE, DAVID
+   </nazivorganizacijskeenote>
+   <dodatninazivorganizacijskeenote>
+    LOKACIJA ŠMARJEŠKE TOPLICE
+   </dodatninazivorganizacijskeenote>
+   <ulicaorganizacijskeenote>
+    ŠMARJEŠKE TOPLICE 100
+   </ulicaorganizacijskeenote>
+   <postaorganizacijskeenote>
+    8220 ŠMARJEŠKE TOPLICE
+   </postaorganizacijskeenote>
+  </nazivinnaslov>
+  <pravnistatus>
+   <pravnistatussifra>
+    6
+   </pravnistatussifra>
+   <pravnistatusopis>
+    SAMOSTOJNI PODJETNIK - BREZ AMBULANTE
+   </pravnistatusopis>
+  </pravnistatus>
+  <tipizvajalca>
+   <tipizvajalcasifra>
+    2
+   </tipizvajalcasifra>
+   <tipizvajalcaopis>
+    SPECIALISTIČNA AMBULANTA
+   </tipizvajalcaopis>
+  </tipizvajalca>
+  <obcina>
+   <obcinasifra>
+    206
+   </obcinasifra>
+   <obcinanaziv>
+    ŠMARJEŠKE TOPLICE
+   </obcinanaziv>
+  </obcina>
+  <veljaod>
+   2026-07-17
+  </veljaod>
+  <vzd>
+   <sifravzd>
+    222
+   </sifravzd>
+   <opisvzd>
+    Ortopedska kirurgija v spec. ZunajBolDej
+   </opisvzd>
+   <veljaod>
+    2026-07-17
+   </veljaod>
+  </vzd>
+ </ivzizvajalec>
+ <ivzizvajalec>
+  <sifraivzizvajalca>
+   2612
+  </sifraivzizvajalca>
+  <sifralokacije>
+   5
+  </sifralokacije>
+  <zzzsstevilka>
+   10115710
+  </zzzsstevilka>
+  <organizacijskastruktura>
+   <sifraivzosnovni>
+    2612
+   </sifraivzosnovni>
+  </organizacijskastruktura>
+  <nazivinnaslov>
+   <nazivorganizacijskeenote>
+    SPECIALISTIČNO SVETOVANJE, DIAGNOSTIKA IN ZDRAVLJENJE, DAVID
+   </nazivorganizacijskeenote>
+   <dodatninazivorganizacijskeenote>
+    LOKACIJA STRUNJAN
+   </dodatninazivorganizacijskeenote>
+   <ulicaorganizacijskeenote>
+    STRUNJAN 148
+   </ulicaorganizacijskeenote>
+   <postaorganizacijskeenote>
+    6320 PORTOROŽ - PORTOROSE
+   </postaorganizacijskeenote>
+  </nazivinnaslov>
+  <pravnistatus>
+   <pravnistatussifra>
+    6
+   </pravnistatussifra>
+   <pravnistatusopis>
+    SAMOSTOJNI PODJETNIK - BREZ AMBULANTE
+   </pravnistatusopis>
+  </pravnistatus>
+  <tipizvajalca>
+   <tipizvajalcasifra>
+    2
+   </tipizvajalcasifra>
+   <tipizvajalcaopis>
+    SPECIALISTIČNA AMBULANTA
+   </tipizvajalcaopis>
+  </tipizvajalca>
+  <obcina>
+   <obcinasifra>
+    90
+   </obcinasifra>
+   <obcinanaziv>
+    PIRAN
+   </obcinanaziv>
+  </obcina>
+  <veljaod>
+   2026-07-17
+  </veljaod>
+  <vzd>
+   <sifravzd>
+    222
+   </sifravzd>
+   <opisvzd>
+    Ortopedska kirurgija v spec. ZunajBolDej
+   </opisvzd>
+   <veljaod>
+    2026-07-17
+   </veljaod>
+  </vzd>
+ </ivzizvajalec>
+ <ivzizvajalec>
+  <sifraivzizvajalca>
+   2612
+  </sifraivzizvajalca>
+  <sifralokacije>
+   6
+  </sifralokacije>
+  <zzzsstevilka>
+   10090050
+  </zzzsstevilka>
+  <organizacijskastruktura>
+   <sifraivzosnovni>
+    2612
+   </sifraivzosnovni>
+  </organizacijskastruktura>
+  <nazivinnaslov>
+   <nazivorganizacijskeenote>
+    SPECIALISTIČNO SVETOVANJE, DIAGNOSTIKA IN ZDRAVLJENJE, DAVID
+   </nazivorganizacijskeenote>
+   <dodatninazivorganizacijskeenote>
+    LOKACIJA BOHORIČEVA
+   </dodatninazivorganizacijskeenote>
+   <ulicaorganizacijskeenote>
+    BOHORIČEVA ULICA 5
+   </ulicaorganizacijskeenote>
+   <postaorganizacijskeenote>
+    1000 LJUBLJANA
+   </postaorganizacijskeenote>
+  </nazivinnaslov>
+  <pravnistatus>
+   <pravnistatussifra>
+    6
+   </pravnistatussifra>
+   <pravnistatusopis>
+    SAMOSTOJNI PODJETNIK - BREZ AMBULANTE
+   </pravnistatusopis>
+  </pravnistatus>
+  <tipizvajalca>
+   <tipizvajalcasifra>
+    2
+   </tipizvajalcasifra>
+   <tipizvajalcaopis>
+    SPECIALISTIČNA AMBULANTA
+   </tipizvajalcaopis>
+  </tipizvajalca>
+  <obcina>
+   <obcinasifra>
+    61
+   </obcinasifra>
+   <obcinanaziv>
+    LJUBLJANA
+   </obcinanaziv>
+  </obcina>
+  <veljaod>
+   2026-07-17
+  </veljaod>
+  <vzd>
+   <sifravzd>
+    222
+   </sifravzd>
+   <opisvzd>
+    Ortopedska kirurgija v spec. ZunajBolDej
+   </opisvzd>
+   <veljaod>
+    2026-07-17
+   </veljaod>
+  </vzd>
+ </ivzizvajalec>
+ <ivzizvajalec>
+  <sifraivzizvajalca>
+   2612
+  </sifraivzizvajalca>
+  <sifralokacije>
+   7
+  </sifralokacije>
+  <zzzsstevilka>
+   10115741
+  </zzzsstevilka>
+  <organizacijskastruktura>
+   <sifraivzosnovni>
+    2612
+   </sifraivzosnovni>
+  </organizacijskastruktura>
+  <nazivinnaslov>
+   <nazivorganizacijskeenote>
+    SPECIALISTIČNO SVETOVANJE, DIAGNOSTIKA IN ZDRAVLJENJE, DAVID
+   </nazivorganizacijskeenote>
+   <dodatninazivorganizacijskeenote>
+    LOKACIJA VILHARJEV PODHOD
+   </dodatninazivorganizacijskeenote>
+   <ulicaorganizacijskeenote>
+    VILHARJEV PODHOD 1
+   </ulicaorganizacijskeenote>
+   <postaorganizacijskeenote>
+    1000 LJUBLJANA
+   </postaorganizacijskeenote>
+  </nazivinnaslov>
+  <pravnistatus>
+   <pravnistatussifra>
+    6
+   </pravnistatussifra>
+   <pravnistatusopis>
+    SAMOSTOJNI PODJETNIK - BREZ AMBULANTE
+   </pravnistatusopis>
+  </pravnistatus>
+  <tipizvajalca>
+   <tipizvajalcasifra>
+    2
+   </tipizvajalcasifra>
+   <tipizvajalcaopis>
+    SPECIALISTIČNA AMBULANTA
+   </tipizvajalcaopis>
+  </tipizvajalca>
+  <obcina>
+   <obcinasifra>
+    61
+   </obcinasifra>
+   <obcinanaziv>
+    LJUBLJANA
+   </obcinanaziv>
+  </obcina>
+  <veljaod>
+   2026-07-17
+  </veljaod>
+  <vzd>
+   <sifravzd>
+    222
+   </sifravzd>
+   <opisvzd>
+    Ortopedska kirurgija v spec. ZunajBolDej
+   </opisvzd>
+   <veljaod>
+    2026-07-17
+   </veljaod>
+  </vzd>
+ </ivzizvajalec>
+ <ivzizvajalec>
+  <sifraivzizvajalca>
+   2612
+  </sifraivzizvajalca>
+  <sifralokacije>
+   8
+  </sifralokacije>
+  <zzzsstevilka>
+   10115772
+  </zzzsstevilka>
+  <organizacijskastruktura>
+   <sifraivzosnovni>
+    2612
+   </sifraivzosnovni>
+  </organizacijskastruktura>
+  <nazivinnaslov>
+   <nazivorganizacijskeenote>
+    SPECIALISTIČNO SVETOVANJE, DIAGNOSTIKA IN ZDRAVLJENJE, DAVID
+   </nazivorganizacijskeenote>
+   <dodatninazivorganizacijskeenote>
+    LOKACIJA ŠTRUKLJEVA
+   </dodatninazivorganizacijskeenote>
+   <ulicaorganizacijskeenote>
+    ŠTRUKLJEVA CESTA 46
+   </ulicaorganizacijskeenote>
+   <postaorganizacijskeenote>
+    1000 LJUBLJANA
+   </postaorganizacijskeenote>
+  </nazivinnaslov>
+  <pravnistatus>
+   <pravnistatussifra>
+    6
+   </pravnistatussifra>
+   <pravnistatusopis>
+    SAMOSTOJNI PODJETNIK - BREZ AMBULANTE
+   </pravnistatusopis>
+  </pravnistatus>
+  <tipizvajalca>
+   <tipizvajalcasifra>
+    2
+   </tipizvajalcasifra>
+   <tipizvajalcaopis>
+    SPECIALISTIČNA AMBULANTA
+   </tipizvajalcaopis>
+  </tipizvajalca>
+  <obcina>
+   <obcinasifra>
+    61
+   </obcinasifra>
+   <obcinanaziv>
+    LJUBLJANA
+   </obcinanaziv>
+  </obcina>
+  <veljaod>
+   2026-07-17
+  </veljaod>
+  <vzd>
+   <sifravzd>
+    222
+   </sifravzd>
+   <opisvzd>
+    Ortopedska kirurgija v spec. ZunajBolDej
+   </opisvzd>
+   <veljaod>
+    2026-07-17
    </veljaod>
   </vzd>
  </ivzizvajalec>
@@ -492200,6 +492877,28 @@
    </sifravzd>
    <opisvzd>
     Medicinska biokemija
+   </opisvzd>
+   <veljaod>
+    2026-09-01
+   </veljaod>
+  </vzd>
+  <vzd>
+   <sifravzd>
+    226
+   </sifravzd>
+   <opisvzd>
+    Patologija v spec. ZunajBolDej
+   </opisvzd>
+   <veljaod>
+    2026-09-01
+   </veljaod>
+  </vzd>
+  <vzd>
+   <sifravzd>
+    511
+   </sifravzd>
+   <opisvzd>
+    Presejalni programi
    </opisvzd>
    <veljaod>
     2026-09-01
