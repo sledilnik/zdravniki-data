@@ -2,10 +2,10 @@
 <bpi xmlns="http://zzzs.si/b2b/bpi" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemalocation="http://zzzs.si/b2b/bpi bpi.xsd">
  <posiljka>
   <verzijaposiljke>
-   5066
+   5067
   </verzijaposiljke>
   <datumposiljke>
-   2026-11-21
+   2026-11-22
   </datumposiljke>
   <verzijasheme>
    1.0
@@ -385975,7 +385975,7 @@
   </organizacijskastruktura>
   <nazivinnaslov>
    <nazivorganizacijskeenote>
-    E DENT ANKARAN
+    E DENT ANKARAN - V LIKVIDACIJI
    </nazivorganizacijskeenote>
    <ulicaorganizacijskeenote>
     IVANČIČEVA CESTA 3
