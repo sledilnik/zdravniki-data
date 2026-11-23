@@ -2,10 +2,10 @@
 <bpi xmlns="http://zzzs.si/b2b/bpi" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemalocation="http://zzzs.si/b2b/bpi bpi.xsd">
  <posiljka>
   <verzijaposiljke>
-   5067
+   5068
   </verzijaposiljke>
   <datumposiljke>
-   2026-11-22
+   2026-11-23
   </datumposiljke>
   <verzijasheme>
    1.0
@@ -373547,77 +373547,6 @@
    </veljaod>
    <veljado>
     2025-05-31
-   </veljado>
-  </vzd>
- </ivzizvajalec>
- <ivzizvajalec>
-  <sifraivzizvajalca>
-   25101
-  </sifraivzizvajalca>
-  <sifralokacije>
-   0
-  </sifralokacije>
-  <zzzsstevilka>
-   2940195
-  </zzzsstevilka>
-  <organizacijskastruktura>
-   <sifraivzosnovni>
-    25101
-   </sifraivzosnovni>
-  </organizacijskastruktura>
-  <nazivinnaslov>
-   <nazivorganizacijskeenote>
-    FIZIOTERAPEVT - SLUGA ŽARKA
-   </nazivorganizacijskeenote>
-   <ulicaorganizacijskeenote>
-    ULICA IVANA VADNALA 15
-   </ulicaorganizacijskeenote>
-   <postaorganizacijskeenote>
-    6258 PRESTRANEK
-   </postaorganizacijskeenote>
-  </nazivinnaslov>
-  <pravnistatus>
-   <pravnistatussifra>
-    3
-   </pravnistatussifra>
-   <pravnistatusopis>
-    ZASEBNI ZDRAVSTVENI DELAVEC
-   </pravnistatusopis>
-  </pravnistatus>
-  <tipizvajalca>
-   <tipizvajalcasifra>
-    1
-   </tipizvajalcasifra>
-   <tipizvajalcaopis>
-    OSNOVNO ZDRAVSTVO
-   </tipizvajalcaopis>
-  </tipizvajalca>
-  <obcina>
-   <obcinasifra>
-    94
-   </obcinasifra>
-   <obcinanaziv>
-    POSTOJNA
-   </obcinanaziv>
-  </obcina>
-  <veljaod>
-   1995-10-01
-  </veljaod>
-  <veljado>
-   2023-11-22
-  </veljado>
-  <vzd>
-   <sifravzd>
-    507
-   </sifravzd>
-   <opisvzd>
-    Fizioterapija
-   </opisvzd>
-   <veljaod>
-    1995-10-01
-   </veljaod>
-   <veljado>
-    2023-11-22
    </veljado>
   </vzd>
  </ivzizvajalec>
