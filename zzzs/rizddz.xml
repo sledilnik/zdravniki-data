@@ -2,10 +2,10 @@
 <bpi xmlns="http://zzzs.si/b2b/bpi" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemalocation="http://zzzs.si/b2b/bpi bpi.xsd">
  <posiljka>
   <verzijaposiljke>
-   5068
+   5069
   </verzijaposiljke>
   <datumposiljke>
-   2026-11-23
+   2026-11-24
   </datumposiljke>
   <verzijasheme>
    1.0
@@ -56523,6 +56523,9 @@
   <veljaod>
    2021-08-25
   </veljaod>
+  <veljado>
+   2026-06-19
+  </veljado>
   <vzd>
    <sifravzd>
     706
@@ -56533,6 +56536,9 @@
    <veljaod>
     2021-08-25
    </veljaod>
+   <veljado>
+    2026-06-19
+   </veljado>
   </vzd>
  </ivzizvajalec>
  <ivzizvajalec>
@@ -56591,6 +56597,9 @@
   <veljaod>
    2021-09-15
   </veljaod>
+  <veljado>
+   2026-06-19
+  </veljado>
   <vzd>
    <sifravzd>
     220
@@ -56601,6 +56610,9 @@
    <veljaod>
     2021-09-15
    </veljaod>
+   <veljado>
+    2026-06-19
+   </veljado>
   </vzd>
  </ivzizvajalec>
  <ivzizvajalec>
@@ -56659,6 +56671,9 @@
   <veljaod>
    2022-04-01
   </veljaod>
+  <veljado>
+   2026-06-19
+  </veljado>
   <vzd>
    <sifravzd>
     220
@@ -56669,6 +56684,9 @@
    <veljaod>
     2022-04-01
    </veljaod>
+   <veljado>
+    2026-06-19
+   </veljado>
   </vzd>
  </ivzizvajalec>
  <ivzizvajalec>
@@ -56727,6 +56745,9 @@
   <veljaod>
    2023-10-18
   </veljaod>
+  <veljado>
+   2026-06-19
+  </veljado>
   <vzd>
    <sifravzd>
     220
@@ -56737,6 +56758,9 @@
    <veljaod>
     2023-10-18
    </veljaod>
+   <veljado>
+    2026-06-19
+   </veljado>
   </vzd>
  </ivzizvajalec>
  <ivzizvajalec>
@@ -56795,6 +56819,9 @@
   <veljaod>
    2025-02-10
   </veljaod>
+  <veljado>
+   2026-06-19
+  </veljado>
   <vzd>
    <sifravzd>
     220
@@ -56805,6 +56832,9 @@
    <veljaod>
     2025-02-10
    </veljaod>
+   <veljado>
+    2026-06-19
+   </veljado>
   </vzd>
  </ivzizvajalec>
  <ivzizvajalec>
@@ -235506,6 +235536,82 @@
    </opisvzd>
    <veljaod>
     2026-11-06
+   </veljaod>
+  </vzd>
+ </ivzizvajalec>
+ <ivzizvajalec>
+  <sifraivzizvajalca>
+   2700
+  </sifraivzizvajalca>
+  <sifralokacije>
+   0
+  </sifralokacije>
+  <zzzsstevilka>
+   9778770
+  </zzzsstevilka>
+  <organizacijskastruktura>
+   <sifraivzosnovni>
+    2700
+   </sifraivzosnovni>
+  </organizacijskastruktura>
+  <nazivinnaslov>
+   <nazivorganizacijskeenote>
+    MEDICINSKI CENTER FORUM D.O.O.
+   </nazivorganizacijskeenote>
+   <ulicaorganizacijskeenote>
+    CANKARJEVA ULICA 6 B
+   </ulicaorganizacijskeenote>
+   <postaorganizacijskeenote>
+    2000 MARIBOR
+   </postaorganizacijskeenote>
+  </nazivinnaslov>
+  <pravnistatus>
+   <pravnistatussifra>
+    2
+   </pravnistatussifra>
+   <pravnistatusopis>
+    GOSPODARSKA DRUŽBA / ZASEBNI ZAVOD
+   </pravnistatusopis>
+  </pravnistatus>
+  <tipizvajalca>
+   <tipizvajalcasifra>
+    2
+   </tipizvajalcasifra>
+   <tipizvajalcaopis>
+    SPECIALISTIČNA AMBULANTA
+   </tipizvajalcaopis>
+  </tipizvajalca>
+  <obcina>
+   <obcinasifra>
+    70
+   </obcinasifra>
+   <obcinanaziv>
+    MARIBOR
+   </obcinanaziv>
+  </obcina>
+  <veljaod>
+   2026-12-01
+  </veljaod>
+  <vzd>
+   <sifravzd>
+    203
+   </sifravzd>
+   <opisvzd>
+    Dermatovenerologija v spec. ZunajBolDej
+   </opisvzd>
+   <veljaod>
+    2026-12-01
+   </veljaod>
+  </vzd>
+  <vzd>
+   <sifravzd>
+    228
+   </sifravzd>
+   <opisvzd>
+    Plast., rek., est.krg v spec.ZunajBolDej
+   </opisvzd>
+   <veljaod>
+    2026-12-01
    </veljaod>
   </vzd>
  </ivzizvajalec>
