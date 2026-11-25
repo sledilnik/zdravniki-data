@@ -2,10 +2,10 @@
 <bpi xmlns="http://zzzs.si/b2b/bpi" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemalocation="http://zzzs.si/b2b/bpi bpi.xsd">
  <posiljka>
   <verzijaposiljke>
-   5069
+   5070
   </verzijaposiljke>
   <datumposiljke>
-   2026-11-24
+   2026-11-25
   </datumposiljke>
   <verzijasheme>
    1.0
@@ -167152,6 +167152,9 @@
   <veljaod>
    2024-10-24
   </veljaod>
+  <veljado>
+   2026-05-31
+  </veljado>
   <vzd>
    <sifravzd>
     706
@@ -167162,6 +167165,9 @@
    <veljaod>
     2024-10-24
    </veljaod>
+   <veljado>
+    2026-05-31
+   </veljado>
   </vzd>
  </ivzizvajalec>
  <ivzizvajalec>
@@ -167220,6 +167226,9 @@
   <veljaod>
    2024-10-26
   </veljaod>
+  <veljado>
+   2026-05-31
+  </veljado>
   <vzd>
    <sifravzd>
     549
@@ -167230,6 +167239,9 @@
    <veljaod>
     2024-10-26
    </veljaod>
+   <veljado>
+    2026-05-31
+   </veljado>
   </vzd>
   <vzd>
    <sifravzd>
@@ -167241,6 +167253,9 @@
    <veljaod>
     2024-10-26
    </veljaod>
+   <veljado>
+    2026-05-31
+   </veljado>
   </vzd>
  </ivzizvajalec>
  <ivzizvajalec>
@@ -178590,6 +178605,71 @@
    </opisvzd>
    <veljaod>
     2025-02-27
+   </veljaod>
+  </vzd>
+ </ivzizvajalec>
+ <ivzizvajalec>
+  <sifraivzizvajalca>
+   1940
+  </sifraivzizvajalca>
+  <sifralokacije>
+   0
+  </sifralokacije>
+  <zzzsstevilka>
+   7781539
+  </zzzsstevilka>
+  <organizacijskastruktura>
+   <sifraivzosnovni>
+    1940
+   </sifraivzosnovni>
+  </organizacijskastruktura>
+  <nazivinnaslov>
+   <nazivorganizacijskeenote>
+    FIZIOPOINT KAMNIK, GREGOR POLJANŠEK, S.P.
+   </nazivorganizacijskeenote>
+   <ulicaorganizacijskeenote>
+    CANKARJEVA CESTA 15
+   </ulicaorganizacijskeenote>
+   <postaorganizacijskeenote>
+    1241 KAMNIK
+   </postaorganizacijskeenote>
+  </nazivinnaslov>
+  <pravnistatus>
+   <pravnistatussifra>
+    5
+   </pravnistatussifra>
+   <pravnistatusopis>
+    SAMOSTOJNI PODJETNIK
+   </pravnistatusopis>
+  </pravnistatus>
+  <tipizvajalca>
+   <tipizvajalcasifra>
+    1
+   </tipizvajalcasifra>
+   <tipizvajalcaopis>
+    OSNOVNO ZDRAVSTVO
+   </tipizvajalcaopis>
+  </tipizvajalca>
+  <obcina>
+   <obcinasifra>
+    43
+   </obcinasifra>
+   <obcinanaziv>
+    KAMNIK
+   </obcinanaziv>
+  </obcina>
+  <veljaod>
+   2025-01-28
+  </veljaod>
+  <vzd>
+   <sifravzd>
+    507
+   </sifravzd>
+   <opisvzd>
+    Fizioterapija
+   </opisvzd>
+   <veljaod>
+    2025-01-28
    </veljaod>
   </vzd>
  </ivzizvajalec>
@@ -212890,10 +212970,10 @@
     LUKA PRODNIK, S.P.
    </nazivorganizacijskeenote>
    <ulicaorganizacijskeenote>
-    CESTA NA BRDO 57
+    GODIČ 79 F
    </ulicaorganizacijskeenote>
    <postaorganizacijskeenote>
-    1000 LJUBLJANA
+    1242 STAHOVICA
    </postaorganizacijskeenote>
   </nazivinnaslov>
   <pravnistatus>
@@ -212914,10 +212994,10 @@
   </tipizvajalca>
   <obcina>
    <obcinasifra>
-    61
+    43
    </obcinasifra>
    <obcinanaziv>
-    LJUBLJANA
+    KAMNIK
    </obcinanaziv>
   </obcina>
   <veljaod>
@@ -226992,6 +227072,71 @@
  </ivzizvajalec>
  <ivzizvajalec>
   <sifraivzizvajalca>
+   2553
+  </sifraivzizvajalca>
+  <sifralokacije>
+   0
+  </sifralokacije>
+  <zzzsstevilka>
+   7583400
+  </zzzsstevilka>
+  <organizacijskastruktura>
+   <sifraivzosnovni>
+    2553
+   </sifraivzosnovni>
+  </organizacijskastruktura>
+  <nazivinnaslov>
+   <nazivorganizacijskeenote>
+    RTG D.O.O.
+   </nazivorganizacijskeenote>
+   <ulicaorganizacijskeenote>
+    VILHARJEV PODHOD 13
+   </ulicaorganizacijskeenote>
+   <postaorganizacijskeenote>
+    1000 LJUBLJANA
+   </postaorganizacijskeenote>
+  </nazivinnaslov>
+  <pravnistatus>
+   <pravnistatussifra>
+    2
+   </pravnistatussifra>
+   <pravnistatusopis>
+    GOSPODARSKA DRUŽBA / ZASEBNI ZAVOD
+   </pravnistatusopis>
+  </pravnistatus>
+  <tipizvajalca>
+   <tipizvajalcasifra>
+    1
+   </tipizvajalcasifra>
+   <tipizvajalcaopis>
+    OSNOVNO ZDRAVSTVO
+   </tipizvajalcaopis>
+  </tipizvajalca>
+  <obcina>
+   <obcinasifra>
+    61
+   </obcinasifra>
+   <obcinanaziv>
+    LJUBLJANA
+   </obcinanaziv>
+  </obcina>
+  <veljaod>
+   2026-04-10
+  </veljaod>
+  <vzd>
+   <sifravzd>
+    603
+   </sifravzd>
+   <opisvzd>
+    Zobni rentgen
+   </opisvzd>
+   <veljaod>
+    2026-04-10
+   </veljaod>
+  </vzd>
+ </ivzizvajalec>
+ <ivzizvajalec>
+  <sifraivzizvajalca>
    2554
   </sifraivzizvajalca>
   <sifralokacije>
@@ -235612,6 +235757,71 @@
    </opisvzd>
    <veljaod>
     2026-12-01
+   </veljaod>
+  </vzd>
+ </ivzizvajalec>
+ <ivzizvajalec>
+  <sifraivzizvajalca>
+   2701
+  </sifraivzizvajalca>
+  <sifralokacije>
+   0
+  </sifralokacije>
+  <zzzsstevilka>
+   9394113
+  </zzzsstevilka>
+  <organizacijskastruktura>
+   <sifraivzosnovni>
+    2701
+   </sifraivzosnovni>
+  </organizacijskastruktura>
+  <nazivinnaslov>
+   <nazivorganizacijskeenote>
+    TERAPEVTSKI CENTER COL D.O.O.
+   </nazivorganizacijskeenote>
+   <ulicaorganizacijskeenote>
+    COL 100
+   </ulicaorganizacijskeenote>
+   <postaorganizacijskeenote>
+    5273 COL
+   </postaorganizacijskeenote>
+  </nazivinnaslov>
+  <pravnistatus>
+   <pravnistatussifra>
+    2
+   </pravnistatussifra>
+   <pravnistatusopis>
+    GOSPODARSKA DRUŽBA / ZASEBNI ZAVOD
+   </pravnistatusopis>
+  </pravnistatus>
+  <tipizvajalca>
+   <tipizvajalcasifra>
+    1
+   </tipizvajalcasifra>
+   <tipizvajalcaopis>
+    OSNOVNO ZDRAVSTVO
+   </tipizvajalcaopis>
+  </tipizvajalca>
+  <obcina>
+   <obcinasifra>
+    1
+   </obcinasifra>
+   <obcinanaziv>
+    AJDOVŠČINA
+   </obcinanaziv>
+  </obcina>
+  <veljaod>
+   2026-11-23
+  </veljaod>
+  <vzd>
+   <sifravzd>
+    507
+   </sifravzd>
+   <opisvzd>
+    Fizioterapija
+   </opisvzd>
+   <veljaod>
+    2026-11-23
    </veljaod>
   </vzd>
  </ivzizvajalec>
@@ -315871,6 +316081,9 @@
   <veljaod>
    2013-01-01
   </veljaod>
+  <veljado>
+   2026-09-23
+  </veljado>
   <vzd>
    <sifravzd>
     230
@@ -315881,6 +316094,9 @@
    <veljaod>
     2013-01-01
    </veljaod>
+   <veljado>
+    2026-09-23
+   </veljado>
   </vzd>
  </ivzizvajalec>
  <ivzizvajalec>
