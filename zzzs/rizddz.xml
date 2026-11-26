@@ -2,10 +2,10 @@
 <bpi xmlns="http://zzzs.si/b2b/bpi" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemalocation="http://zzzs.si/b2b/bpi bpi.xsd">
  <posiljka>
   <verzijaposiljke>
-   5070
+   5071
   </verzijaposiljke>
   <datumposiljke>
-   2026-11-25
+   2026-11-26
   </datumposiljke>
   <verzijasheme>
    1.0
@@ -121390,10 +121390,10 @@
   </organizacijskastruktura>
   <nazivinnaslov>
    <nazivorganizacijskeenote>
-    MNLTH D.O.O.
+    LAM KLINIKA D.O.O.
    </nazivorganizacijskeenote>
    <dodatninazivorganizacijskeenote>
-    PE LAM KLINIKA LJUBLJANA
+    MNLTH D.O.O., PE LAM KLINIKA LJUBLJANA
    </dodatninazivorganizacijskeenote>
    <ulicaorganizacijskeenote>
     KRANJČEVA ULICA 30
@@ -127510,6 +127510,9 @@
   <veljaod>
    2023-12-28
   </veljaod>
+  <veljado>
+   2026-05-21
+  </veljado>
   <vzd>
    <sifravzd>
     706
@@ -127520,6 +127523,9 @@
    <veljaod>
     2023-12-28
    </veljaod>
+   <veljado>
+    2026-05-21
+   </veljado>
   </vzd>
  </ivzizvajalec>
  <ivzizvajalec>
@@ -127578,6 +127584,9 @@
   <veljaod>
    2024-01-04
   </veljaod>
+  <veljado>
+   2026-05-21
+  </veljado>
   <vzd>
    <sifravzd>
     211
@@ -127588,6 +127597,9 @@
    <veljaod>
     2024-01-04
    </veljaod>
+   <veljado>
+    2026-05-21
+   </veljado>
   </vzd>
  </ivzizvajalec>
  <ivzizvajalec>
@@ -149406,6 +149418,9 @@
   <veljaod>
    2024-09-12
   </veljaod>
+  <veljado>
+   2026-05-28
+  </veljado>
   <vzd>
    <sifravzd>
     706
@@ -149416,6 +149431,9 @@
    <veljaod>
     2024-09-12
    </veljaod>
+   <veljado>
+    2026-05-28
+   </veljado>
   </vzd>
  </ivzizvajalec>
  <ivzizvajalec>
@@ -149471,6 +149489,9 @@
   <veljaod>
    2024-09-12
   </veljaod>
+  <veljado>
+   2026-05-28
+  </veljado>
   <vzd>
    <sifravzd>
     544
@@ -149481,6 +149502,9 @@
    <veljaod>
     2024-09-12
    </veljaod>
+   <veljado>
+    2026-05-28
+   </veljado>
   </vzd>
  </ivzizvajalec>
  <ivzizvajalec>
@@ -178670,6 +178694,74 @@
    </opisvzd>
    <veljaod>
     2025-01-28
+   </veljaod>
+  </vzd>
+ </ivzizvajalec>
+ <ivzizvajalec>
+  <sifraivzizvajalca>
+   1940
+  </sifraivzizvajalca>
+  <sifralokacije>
+   2
+  </sifralokacije>
+  <zzzsstevilka>
+   10089217
+  </zzzsstevilka>
+  <organizacijskastruktura>
+   <sifraivzosnovni>
+    1940
+   </sifraivzosnovni>
+  </organizacijskastruktura>
+  <nazivinnaslov>
+   <nazivorganizacijskeenote>
+    FIZIOPOINT KAMNIK, GREGOR POLJANŠEK, S.P.
+   </nazivorganizacijskeenote>
+   <dodatninazivorganizacijskeenote>
+    PE FIZIOPOINT KAMNIK, GREGOR POLJANŠEK, S.P.
+   </dodatninazivorganizacijskeenote>
+   <ulicaorganizacijskeenote>
+    STELETOVA CESTA 23 A
+   </ulicaorganizacijskeenote>
+   <postaorganizacijskeenote>
+    1241 KAMNIK
+   </postaorganizacijskeenote>
+  </nazivinnaslov>
+  <pravnistatus>
+   <pravnistatussifra>
+    5
+   </pravnistatussifra>
+   <pravnistatusopis>
+    SAMOSTOJNI PODJETNIK
+   </pravnistatusopis>
+  </pravnistatus>
+  <tipizvajalca>
+   <tipizvajalcasifra>
+    1
+   </tipizvajalcasifra>
+   <tipizvajalcaopis>
+    OSNOVNO ZDRAVSTVO
+   </tipizvajalcaopis>
+  </tipizvajalca>
+  <obcina>
+   <obcinasifra>
+    43
+   </obcinasifra>
+   <obcinanaziv>
+    KAMNIK
+   </obcinanaziv>
+  </obcina>
+  <veljaod>
+   2026-05-04
+  </veljaod>
+  <vzd>
+   <sifravzd>
+    507
+   </sifravzd>
+   <opisvzd>
+    Fizioterapija
+   </opisvzd>
+   <veljaod>
+    2026-05-04
    </veljaod>
   </vzd>
  </ivzizvajalec>
@@ -270748,6 +270840,28 @@
    </opisvzd>
    <veljaod>
     1992-01-13
+   </veljaod>
+  </vzd>
+  <vzd>
+   <sifravzd>
+    124
+   </sifravzd>
+   <opisvzd>
+    Otroška in mlad. psihiatrija v BolDej
+   </opisvzd>
+   <veljaod>
+    2026-12-01
+   </veljaod>
+  </vzd>
+  <vzd>
+   <sifravzd>
+    224
+   </sifravzd>
+   <opisvzd>
+    Otr. in mlad. psih. v spec. ZunajBolDej
+   </opisvzd>
+   <veljaod>
+    2026-12-01
    </veljaod>
   </vzd>
  </ivzizvajalec>
