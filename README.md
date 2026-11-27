@@ -100,6 +100,15 @@ Struktura datoteke [doctors.csv](csv/doctors.csv):
 
 Popravki preko ReportErr se uvozijo iz [overrides.csv](csv/overrides.csv).
 
+### Zgodovinski izračuni (ZZZS Excel arhiv)
+
+Iz vseh arhivskih datotek v `zzzs/YYYY/MM/*_{zdravniki,zobozdravniki,ginekologi,za-boljšo-dostopnost,za-neopredeljene,v-dodatnih-ambulantah}.xlsx`
+se izračunajo časovne vrste metrik po tipu zdravnika:
+
+* [stats-historical-by-type-region.csv](csv/stats-historical-by-type-region.csv)
+* [stats-historical-by-type-municipality.csv](csv/stats-historical-by-type-municipality.csv)
+* [stats-historical-by-type-region-municipality.csv](csv/stats-historical-by-type-region-municipality.csv)
+
  
 ### Šifranti
 
