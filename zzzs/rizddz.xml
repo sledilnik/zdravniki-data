@@ -2,10 +2,10 @@
 <bpi xmlns="http://zzzs.si/b2b/bpi" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemalocation="http://zzzs.si/b2b/bpi bpi.xsd">
  <posiljka>
   <verzijaposiljke>
-   5071
+   5072
   </verzijaposiljke>
   <datumposiljke>
-   2026-11-26
+   2026-11-27
   </datumposiljke>
   <verzijasheme>
    1.0
@@ -121278,7 +121278,7 @@
   </organizacijskastruktura>
   <nazivinnaslov>
    <nazivorganizacijskeenote>
-    MNLTH D.O.O.
+    LAM KLINIKA D.O.O.
    </nazivorganizacijskeenote>
    <dodatninazivorganizacijskeenote>
     PE LAM KLINIKA KRANJ
@@ -235914,6 +235914,82 @@
    </opisvzd>
    <veljaod>
     2026-11-23
+   </veljaod>
+  </vzd>
+ </ivzizvajalec>
+ <ivzizvajalec>
+  <sifraivzizvajalca>
+   2702
+  </sifraivzizvajalca>
+  <sifralokacije>
+   0
+  </sifralokacije>
+  <zzzsstevilka>
+   7622374
+  </zzzsstevilka>
+  <organizacijskastruktura>
+   <sifraivzosnovni>
+    2702
+   </sifraivzosnovni>
+  </organizacijskastruktura>
+  <nazivinnaslov>
+   <nazivorganizacijskeenote>
+    HEMA INTERNA, FROSINA KRSTANOSKA S.P.
+   </nazivorganizacijskeenote>
+   <ulicaorganizacijskeenote>
+    ŠMARTNO PRI SL GRADCU 73 D
+   </ulicaorganizacijskeenote>
+   <postaorganizacijskeenote>
+    2383 ŠMARTNO PRI SLOVENJ GRADC
+   </postaorganizacijskeenote>
+  </nazivinnaslov>
+  <pravnistatus>
+   <pravnistatussifra>
+    5
+   </pravnistatussifra>
+   <pravnistatusopis>
+    SAMOSTOJNI PODJETNIK
+   </pravnistatusopis>
+  </pravnistatus>
+  <tipizvajalca>
+   <tipizvajalcasifra>
+    2
+   </tipizvajalcasifra>
+   <tipizvajalcaopis>
+    SPECIALISTIČNA AMBULANTA
+   </tipizvajalcaopis>
+  </tipizvajalca>
+  <obcina>
+   <obcinasifra>
+    112
+   </obcinasifra>
+   <obcinanaziv>
+    SLOVENJ GRADEC
+   </obcinanaziv>
+  </obcina>
+  <veljaod>
+   2026-12-14
+  </veljaod>
+  <vzd>
+   <sifravzd>
+    209
+   </sifravzd>
+   <opisvzd>
+    Interna medicina v spec. ZunajBolDej
+   </opisvzd>
+   <veljaod>
+    2026-12-14
+   </veljaod>
+  </vzd>
+  <vzd>
+   <sifravzd>
+    207
+   </sifravzd>
+   <opisvzd>
+    Hematologija v spec. ZunajBolDej
+   </opisvzd>
+   <veljaod>
+    2026-12-14
    </veljaod>
   </vzd>
  </ivzizvajalec>
