@@ -2,10 +2,10 @@
 <bpi xmlns="http://zzzs.si/b2b/bpi" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemalocation="http://zzzs.si/b2b/bpi bpi.xsd">
  <posiljka>
   <verzijaposiljke>
-   5072
+   5073
   </verzijaposiljke>
   <datumposiljke>
-   2026-11-27
+   2026-11-28
   </datumposiljke>
   <verzijasheme>
    1.0
@@ -221252,10 +221252,10 @@
   </nazivinnaslov>
   <pravnistatus>
    <pravnistatussifra>
-    6
+    3
    </pravnistatussifra>
    <pravnistatusopis>
-    SAMOSTOJNI PODJETNIK - BREZ AMBULANTE
+    ZASEBNI ZDRAVSTVENI DELAVEC
    </pravnistatusopis>
   </pravnistatus>
   <tipizvajalca>
@@ -235990,6 +235990,71 @@
    </opisvzd>
    <veljaod>
     2026-12-14
+   </veljaod>
+  </vzd>
+ </ivzizvajalec>
+ <ivzizvajalec>
+  <sifraivzizvajalca>
+   2703
+  </sifraivzizvajalca>
+  <sifralokacije>
+   0
+  </sifralokacije>
+  <zzzsstevilka>
+   508778
+  </zzzsstevilka>
+  <organizacijskastruktura>
+   <sifraivzosnovni>
+    2703
+   </sifraivzosnovni>
+  </organizacijskastruktura>
+  <nazivinnaslov>
+   <nazivorganizacijskeenote>
+    INN D.O.O.
+   </nazivorganizacijskeenote>
+   <ulicaorganizacijskeenote>
+    LAVA 7
+   </ulicaorganizacijskeenote>
+   <postaorganizacijskeenote>
+    3000 CELJE
+   </postaorganizacijskeenote>
+  </nazivinnaslov>
+  <pravnistatus>
+   <pravnistatussifra>
+    2
+   </pravnistatussifra>
+   <pravnistatusopis>
+    GOSPODARSKA DRUŽBA / ZASEBNI ZAVOD
+   </pravnistatusopis>
+  </pravnistatus>
+  <tipizvajalca>
+   <tipizvajalcasifra>
+    20
+   </tipizvajalcasifra>
+   <tipizvajalcaopis>
+    OSTALI, KI OPRAVLJAJO ZDR. DEJ.
+   </tipizvajalcaopis>
+  </tipizvajalca>
+  <obcina>
+   <obcinasifra>
+    11
+   </obcinasifra>
+   <obcinanaziv>
+    CELJE
+   </obcinanaziv>
+  </obcina>
+  <veljaod>
+   2026-10-21
+  </veljaod>
+  <vzd>
+   <sifravzd>
+    544
+   </sifravzd>
+   <opisvzd>
+    Zdravstvena nega v drugih dejavnostih
+   </opisvzd>
+   <veljaod>
+    2026-10-21
    </veljaod>
   </vzd>
  </ivzizvajalec>
@@ -453517,77 +453582,6 @@
    <veljaod>
     2013-01-01
    </veljaod>
-  </vzd>
- </ivzizvajalec>
- <ivzizvajalec>
-  <sifraivzizvajalca>
-   55185
-  </sifraivzizvajalca>
-  <sifralokacije>
-   0
-  </sifralokacije>
-  <zzzsstevilka>
-   5342837
-  </zzzsstevilka>
-  <organizacijskastruktura>
-   <sifraivzosnovni>
-    55185
-   </sifraivzosnovni>
-  </organizacijskastruktura>
-  <nazivinnaslov>
-   <nazivorganizacijskeenote>
-    TANILAB D.O.O.
-   </nazivorganizacijskeenote>
-   <ulicaorganizacijskeenote>
-    BREZJE PRI GROSUPLJEM 85
-   </ulicaorganizacijskeenote>
-   <postaorganizacijskeenote>
-    1290 GROSUPLJE
-   </postaorganizacijskeenote>
-  </nazivinnaslov>
-  <pravnistatus>
-   <pravnistatussifra>
-    2
-   </pravnistatussifra>
-   <pravnistatusopis>
-    GOSPODARSKA DRUŽBA / ZASEBNI ZAVOD
-   </pravnistatusopis>
-  </pravnistatus>
-  <tipizvajalca>
-   <tipizvajalcasifra>
-    1
-   </tipizvajalcasifra>
-   <tipizvajalcaopis>
-    OSNOVNO ZDRAVSTVO
-   </tipizvajalcaopis>
-  </tipizvajalca>
-  <obcina>
-   <obcinasifra>
-    32
-   </obcinasifra>
-   <obcinanaziv>
-    GROSUPLJE
-   </obcinanaziv>
-  </obcina>
-  <veljaod>
-   2012-01-01
-  </veljaod>
-  <veljado>
-   2023-11-27
-  </veljado>
-  <vzd>
-   <sifravzd>
-    714
-   </sifravzd>
-   <opisvzd>
-    Zobotehnika
-   </opisvzd>
-   <veljaod>
-    2012-01-01
-   </veljaod>
-   <veljado>
-    2023-11-27
-   </veljado>
   </vzd>
  </ivzizvajalec>
  <ivzizvajalec>
